@@ -1,0 +1,3156 @@
+﻿Continent,Region/Country,Product,Variable,Year,Unit,Quantity
+Asia,Afghanistan,Wine,Production,2009,1000 hl,0
+Asia,Afghanistan,Wine,Production,2010,1000 hl,0
+Asia,Afghanistan,Wine,Production,2011,1000 hl,0
+Asia,Afghanistan,Wine,Production,2012,1000 hl,0
+Asia,Afghanistan,Wine,Production,2013,1000 hl,0
+Asia,Afghanistan,Wine,Production,2014,1000 hl,0
+Asia,Afghanistan,Wine,Production,2015,1000 hl,0
+Asia,Afghanistan,Wine,Production,2016,1000 hl,0
+Asia,Afghanistan,Wine,Production,2017,1000 hl,0
+Asia,Afghanistan,Wine,Production,2018,1000 hl,0
+Asia,Afghanistan,Wine,Production,2019,1000 hl,0
+Asia,Afghanistan,Wine,Production,2020,1000 hl,0
+Asia,Afghanistan,Wine,Production,2021,1000 hl,0
+Asia,Afghanistan,Wine,Production,2022,1000 hl,0
+Asia,Afghanistan,Wine,Production,2023,1000 hl,0
+Europe,Albania,Wine,Production,2009,1000 hl,  175
+Europe,Albania,Wine,Production,2010,1000 hl,  181
+Europe,Albania,Wine,Production,2011,1000 hl,  180
+Europe,Albania,Wine,Production,2012,1000 hl,  190
+Europe,Albania,Wine,Production,2013,1000 hl,  180
+Europe,Albania,Wine,Production,2014,1000 hl,  175
+Europe,Albania,Wine,Production,2015,1000 hl,  164
+Europe,Albania,Wine,Production,2016,1000 hl,  178
+Europe,Albania,Wine,Production,2017,1000 hl,  169
+Europe,Albania,Wine,Production,2018,1000 hl,  153
+Europe,Albania,Wine,Production,2019,1000 hl,  187
+Europe,Albania,Wine,Production,2020,1000 hl,  192
+Europe,Albania,Wine,Production,2021,1000 hl,  295
+Europe,Albania,Wine,Production,2022,1000 hl,  228
+Europe,Albania,Wine,Production,2023,1000 hl,  211
+Africa,Algeria,Wine,Production,2009,1000 hl,  588
+Africa,Algeria,Wine,Production,2010,1000 hl,  475
+Africa,Algeria,Wine,Production,2011,1000 hl,  480
+Africa,Algeria,Wine,Production,2012,1000 hl,  492
+Africa,Algeria,Wine,Production,2013,1000 hl,  498
+Africa,Algeria,Wine,Production,2014,1000 hl,  126
+Africa,Algeria,Wine,Production,2015,1000 hl,  96
+Africa,Algeria,Wine,Production,2016,1000 hl,  66
+Africa,Algeria,Wine,Production,2017,1000 hl,  227
+Africa,Algeria,Wine,Production,2018,1000 hl,  193
+Africa,Algeria,Wine,Production,2019,1000 hl,  162
+Africa,Algeria,Wine,Production,2020,1000 hl,  194
+Africa,Algeria,Wine,Production,2021,1000 hl,  183
+Africa,Algeria,Wine,Production,2022,1000 hl,  180
+Africa,Algeria,Wine,Production,2023,1000 hl,  182
+Oceania,American Samoa,Wine,Production,2009,1000 hl,0
+Oceania,American Samoa,Wine,Production,2010,1000 hl,0
+Oceania,American Samoa,Wine,Production,2011,1000 hl,0
+Oceania,American Samoa,Wine,Production,2012,1000 hl,0
+Oceania,American Samoa,Wine,Production,2013,1000 hl,0
+Oceania,American Samoa,Wine,Production,2014,1000 hl,0
+Oceania,American Samoa,Wine,Production,2015,1000 hl,0
+Oceania,American Samoa,Wine,Production,2016,1000 hl,0
+Oceania,American Samoa,Wine,Production,2017,1000 hl,0
+Oceania,American Samoa,Wine,Production,2018,1000 hl,0
+Oceania,American Samoa,Wine,Production,2019,1000 hl,0
+Oceania,American Samoa,Wine,Production,2020,1000 hl,0
+Oceania,American Samoa,Wine,Production,2021,1000 hl,0
+Oceania,American Samoa,Wine,Production,2022,1000 hl,0
+Europe,Andorra,Wine,Production,2009,1000 hl,0
+Europe,Andorra,Wine,Production,2010,1000 hl,0
+Europe,Andorra,Wine,Production,2011,1000 hl,0
+Europe,Andorra,Wine,Production,2012,1000 hl,0
+Europe,Andorra,Wine,Production,2013,1000 hl,0
+Europe,Andorra,Wine,Production,2014,1000 hl,0
+Europe,Andorra,Wine,Production,2015,1000 hl,0
+Europe,Andorra,Wine,Production,2016,1000 hl,0
+Europe,Andorra,Wine,Production,2017,1000 hl,0
+Europe,Andorra,Wine,Production,2018,1000 hl,0
+Europe,Andorra,Wine,Production,2019,1000 hl,0
+Europe,Andorra,Wine,Production,2020,1000 hl,0
+Europe,Andorra,Wine,Production,2021,1000 hl,0
+Europe,Andorra,Wine,Production,2022,1000 hl,0
+Africa,Angola,Wine,Production,2009,1000 hl,0
+Africa,Angola,Wine,Production,2010,1000 hl,0
+Africa,Angola,Wine,Production,2011,1000 hl,0
+Africa,Angola,Wine,Production,2012,1000 hl,0
+Africa,Angola,Wine,Production,2013,1000 hl,0
+Africa,Angola,Wine,Production,2014,1000 hl,0
+Africa,Angola,Wine,Production,2015,1000 hl,0
+Africa,Angola,Wine,Production,2016,1000 hl,0
+Africa,Angola,Wine,Production,2017,1000 hl,0
+Africa,Angola,Wine,Production,2018,1000 hl,0
+Africa,Angola,Wine,Production,2019,1000 hl,0
+Africa,Angola,Wine,Production,2020,1000 hl,0
+Africa,Angola,Wine,Production,2021,1000 hl,0
+Africa,Angola,Wine,Production,2022,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2009,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2010,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2011,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2012,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2013,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2014,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2015,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2016,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2017,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2018,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2019,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2020,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2021,1000 hl,0
+America,Antigua and Barbuda,Wine,Production,2022,1000 hl,0
+America,Argentina,Wine,Production,2009,1000 hl, 12 135
+America,Argentina,Wine,Production,2010,1000 hl, 16 250
+America,Argentina,Wine,Production,2011,1000 hl, 15 473
+America,Argentina,Wine,Production,2012,1000 hl, 11 778
+America,Argentina,Wine,Production,2013,1000 hl, 14 984
+America,Argentina,Wine,Production,2014,1000 hl, 15 197
+America,Argentina,Wine,Production,2015,1000 hl, 13 362
+America,Argentina,Wine,Production,2016,1000 hl, 9 447
+America,Argentina,Wine,Production,2017,1000 hl, 11 821
+America,Argentina,Wine,Production,2018,1000 hl, 14 522
+America,Argentina,Wine,Production,2019,1000 hl, 13 019
+America,Argentina,Wine,Production,2020,1000 hl, 10 796
+America,Argentina,Wine,Production,2021,1000 hl, 12 482
+America,Argentina,Wine,Production,2022,1000 hl, 11 451
+America,Argentina,Wine,Production,2023,1000 hl, 8 813
+Asia,Armenia,Wine,Production,2009,1000 hl,  47
+Asia,Armenia,Wine,Production,2010,1000 hl,  59
+Asia,Armenia,Wine,Production,2011,1000 hl,  62
+Asia,Armenia,Wine,Production,2012,1000 hl,  58
+Asia,Armenia,Wine,Production,2013,1000 hl,  64
+Asia,Armenia,Wine,Production,2014,1000 hl,  68
+Asia,Armenia,Wine,Production,2015,1000 hl,  66
+Asia,Armenia,Wine,Production,2016,1000 hl,  75
+Asia,Armenia,Wine,Production,2017,1000 hl,  97
+Asia,Armenia,Wine,Production,2018,1000 hl,  96
+Asia,Armenia,Wine,Production,2019,1000 hl,  123
+Asia,Armenia,Wine,Production,2020,1000 hl,  110
+Asia,Armenia,Wine,Production,2021,1000 hl,  137
+Asia,Armenia,Wine,Production,2022,1000 hl,  126
+Asia,Armenia,Wine,Production,2023,1000 hl,  141
+America,Aruba,Wine,Production,2009,1000 hl,0
+America,Aruba,Wine,Production,2010,1000 hl,0
+America,Aruba,Wine,Production,2011,1000 hl,0
+America,Aruba,Wine,Production,2012,1000 hl,0
+America,Aruba,Wine,Production,2013,1000 hl,0
+America,Aruba,Wine,Production,2014,1000 hl,0
+America,Aruba,Wine,Production,2015,1000 hl,0
+America,Aruba,Wine,Production,2016,1000 hl,0
+America,Aruba,Wine,Production,2017,1000 hl,0
+America,Aruba,Wine,Production,2018,1000 hl,0
+America,Aruba,Wine,Production,2019,1000 hl,0
+America,Aruba,Wine,Production,2020,1000 hl,0
+America,Aruba,Wine,Production,2021,1000 hl,0
+America,Aruba,Wine,Production,2022,1000 hl,0
+Oceania,Australia,Wine,Production,2009,1000 hl, 11 784
+Oceania,Australia,Wine,Production,2010,1000 hl, 11 420
+Oceania,Australia,Wine,Production,2011,1000 hl, 11 180
+Oceania,Australia,Wine,Production,2012,1000 hl, 12 259
+Oceania,Australia,Wine,Production,2013,1000 hl, 12 310
+Oceania,Australia,Wine,Production,2014,1000 hl, 11 863
+Oceania,Australia,Wine,Production,2015,1000 hl, 11 912
+Oceania,Australia,Wine,Production,2016,1000 hl, 13 100
+Oceania,Australia,Wine,Production,2017,1000 hl, 13 690
+Oceania,Australia,Wine,Production,2018,1000 hl, 12 740
+Oceania,Australia,Wine,Production,2019,1000 hl, 11 970
+Oceania,Australia,Wine,Production,2020,1000 hl, 10 900
+Oceania,Australia,Wine,Production,2021,1000 hl, 14 820
+Oceania,Australia,Wine,Production,2022,1000 hl, 13 070
+Oceania,Australia,Wine,Production,2023,1000 hl, 9 640
+Europe,Austria,Wine,Production,2009,1000 hl, 2 352
+Europe,Austria,Wine,Production,2010,1000 hl, 1 737
+Europe,Austria,Wine,Production,2011,1000 hl, 2 814
+Europe,Austria,Wine,Production,2012,1000 hl, 2 125
+Europe,Austria,Wine,Production,2013,1000 hl, 2 392
+Europe,Austria,Wine,Production,2014,1000 hl, 1 999
+Europe,Austria,Wine,Production,2015,1000 hl, 2 268
+Europe,Austria,Wine,Production,2016,1000 hl, 1 953
+Europe,Austria,Wine,Production,2017,1000 hl, 2 486
+Europe,Austria,Wine,Production,2018,1000 hl, 2 753
+Europe,Austria,Wine,Production,2019,1000 hl, 2 465
+Europe,Austria,Wine,Production,2020,1000 hl, 2 398
+Europe,Austria,Wine,Production,2021,1000 hl, 2 460
+Europe,Austria,Wine,Production,2022,1000 hl, 2 527
+Europe,Austria,Wine,Production,2023,1000 hl, 2 362
+Asia,Azerbaijan,Wine,Production,2009,1000 hl,  72
+Asia,Azerbaijan,Wine,Production,2010,1000 hl,  117
+Asia,Azerbaijan,Wine,Production,2011,1000 hl,  76
+Asia,Azerbaijan,Wine,Production,2012,1000 hl,  106
+Asia,Azerbaijan,Wine,Production,2013,1000 hl,  84
+Asia,Azerbaijan,Wine,Production,2014,1000 hl,  100
+Asia,Azerbaijan,Wine,Production,2015,1000 hl,  104
+Asia,Azerbaijan,Wine,Production,2016,1000 hl,  105
+Asia,Azerbaijan,Wine,Production,2017,1000 hl,  113
+Asia,Azerbaijan,Wine,Production,2018,1000 hl,  157
+Asia,Azerbaijan,Wine,Production,2019,1000 hl,  88
+Asia,Azerbaijan,Wine,Production,2020,1000 hl,  90
+Asia,Azerbaijan,Wine,Production,2021,1000 hl,  101
+Asia,Azerbaijan,Wine,Production,2022,1000 hl,  117
+Asia,Azerbaijan,Wine,Production,2023,1000 hl,  111
+America,Bahamas,Wine,Production,2009,1000 hl,0
+America,Bahamas,Wine,Production,2010,1000 hl,0
+America,Bahamas,Wine,Production,2011,1000 hl,0
+America,Bahamas,Wine,Production,2012,1000 hl,0
+America,Bahamas,Wine,Production,2013,1000 hl,0
+America,Bahamas,Wine,Production,2014,1000 hl,0
+America,Bahamas,Wine,Production,2015,1000 hl,0
+America,Bahamas,Wine,Production,2016,1000 hl,0
+America,Bahamas,Wine,Production,2017,1000 hl,0
+America,Bahamas,Wine,Production,2018,1000 hl,0
+America,Bahamas,Wine,Production,2019,1000 hl,0
+America,Bahamas,Wine,Production,2020,1000 hl,0
+America,Bahamas,Wine,Production,2021,1000 hl,0
+America,Bahamas,Wine,Production,2022,1000 hl,0
+Asia,Bahrain,Wine,Production,2009,1000 hl,0
+Asia,Bahrain,Wine,Production,2010,1000 hl,0
+Asia,Bahrain,Wine,Production,2011,1000 hl,0
+Asia,Bahrain,Wine,Production,2012,1000 hl,0
+Asia,Bahrain,Wine,Production,2013,1000 hl,0
+Asia,Bahrain,Wine,Production,2014,1000 hl,0
+Asia,Bahrain,Wine,Production,2015,1000 hl,0
+Asia,Bahrain,Wine,Production,2016,1000 hl,0
+Asia,Bahrain,Wine,Production,2017,1000 hl,0
+Asia,Bahrain,Wine,Production,2018,1000 hl,0
+Asia,Bahrain,Wine,Production,2019,1000 hl,0
+Asia,Bahrain,Wine,Production,2020,1000 hl,0
+Asia,Bahrain,Wine,Production,2021,1000 hl,0
+Asia,Bahrain,Wine,Production,2022,1000 hl,0
+Asia,Bangladesh,Wine,Production,2009,1000 hl,0
+Asia,Bangladesh,Wine,Production,2010,1000 hl,0
+Asia,Bangladesh,Wine,Production,2011,1000 hl,0
+Asia,Bangladesh,Wine,Production,2012,1000 hl,0
+Asia,Bangladesh,Wine,Production,2013,1000 hl,0
+Asia,Bangladesh,Wine,Production,2014,1000 hl,0
+Asia,Bangladesh,Wine,Production,2015,1000 hl,0
+Asia,Bangladesh,Wine,Production,2016,1000 hl,0
+Asia,Bangladesh,Wine,Production,2017,1000 hl,0
+Asia,Bangladesh,Wine,Production,2018,1000 hl,0
+Asia,Bangladesh,Wine,Production,2019,1000 hl,0
+Asia,Bangladesh,Wine,Production,2020,1000 hl,0
+Asia,Bangladesh,Wine,Production,2021,1000 hl,0
+Asia,Bangladesh,Wine,Production,2022,1000 hl,0
+America,Barbados,Wine,Production,2009,1000 hl,0
+America,Barbados,Wine,Production,2010,1000 hl,0
+America,Barbados,Wine,Production,2011,1000 hl,0
+America,Barbados,Wine,Production,2012,1000 hl,0
+America,Barbados,Wine,Production,2013,1000 hl,0
+America,Barbados,Wine,Production,2014,1000 hl,0
+America,Barbados,Wine,Production,2015,1000 hl,0
+America,Barbados,Wine,Production,2016,1000 hl,0
+America,Barbados,Wine,Production,2017,1000 hl,0
+America,Barbados,Wine,Production,2018,1000 hl,0
+America,Barbados,Wine,Production,2019,1000 hl,0
+America,Barbados,Wine,Production,2020,1000 hl,0
+America,Barbados,Wine,Production,2021,1000 hl,0
+America,Barbados,Wine,Production,2022,1000 hl,0
+Europe,Belarus,Wine,Production,2009,1000 hl,  210
+Europe,Belarus,Wine,Production,2010,1000 hl,  251
+Europe,Belarus,Wine,Production,2011,1000 hl,  268
+Europe,Belarus,Wine,Production,2012,1000 hl,  272
+Europe,Belarus,Wine,Production,2013,1000 hl,  282
+Europe,Belarus,Wine,Production,2014,1000 hl,  300
+Europe,Belarus,Wine,Production,2015,1000 hl,  287
+Europe,Belarus,Wine,Production,2016,1000 hl,  274
+Europe,Belarus,Wine,Production,2017,1000 hl,  310
+Europe,Belarus,Wine,Production,2018,1000 hl,  320
+Europe,Belarus,Wine,Production,2019,1000 hl,  340
+Europe,Belarus,Wine,Production,2020,1000 hl,  304
+Europe,Belarus,Wine,Production,2021,1000 hl,  264
+Europe,Belarus,Wine,Production,2022,1000 hl,  307
+Europe,Belarus,Wine,Production,2023,1000 hl,  307
+Europe,Belgium,Wine,Production,2009,1000 hl,  6
+Europe,Belgium,Wine,Production,2010,1000 hl,  5
+Europe,Belgium,Wine,Production,2011,1000 hl,  5
+Europe,Belgium,Wine,Production,2012,1000 hl,  3
+Europe,Belgium,Wine,Production,2013,1000 hl,  6
+Europe,Belgium,Wine,Production,2014,1000 hl,  7
+Europe,Belgium,Wine,Production,2015,1000 hl,  10
+Europe,Belgium,Wine,Production,2016,1000 hl,  8
+Europe,Belgium,Wine,Production,2017,1000 hl,  9
+Europe,Belgium,Wine,Production,2018,1000 hl,  20
+Europe,Belgium,Wine,Production,2019,1000 hl,  15
+Europe,Belgium,Wine,Production,2020,1000 hl,  18
+Europe,Belgium,Wine,Production,2021,1000 hl,  13
+Europe,Belgium,Wine,Production,2022,1000 hl,  30
+Europe,Belgium,Wine,Production,2023,1000 hl,  34
+Europe,Belgium and Luxemburg,Wine,Production,2009,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2010,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2011,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2012,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2013,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2014,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2015,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2016,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2017,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2018,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2019,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2020,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2021,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Production,2022,1000 hl,0
+America,Belize,Wine,Production,2009,1000 hl,0
+America,Belize,Wine,Production,2010,1000 hl,0
+America,Belize,Wine,Production,2011,1000 hl,0
+America,Belize,Wine,Production,2012,1000 hl,0
+America,Belize,Wine,Production,2013,1000 hl,0
+America,Belize,Wine,Production,2014,1000 hl,0
+America,Belize,Wine,Production,2015,1000 hl,0
+America,Belize,Wine,Production,2016,1000 hl,0
+America,Belize,Wine,Production,2017,1000 hl,0
+America,Belize,Wine,Production,2018,1000 hl,0
+America,Belize,Wine,Production,2019,1000 hl,0
+America,Belize,Wine,Production,2020,1000 hl,0
+America,Belize,Wine,Production,2021,1000 hl,0
+America,Belize,Wine,Production,2022,1000 hl,0
+Africa,Benin,Wine,Production,2009,1000 hl,0
+Africa,Benin,Wine,Production,2010,1000 hl,0
+Africa,Benin,Wine,Production,2011,1000 hl,0
+Africa,Benin,Wine,Production,2012,1000 hl,0
+Africa,Benin,Wine,Production,2013,1000 hl,0
+Africa,Benin,Wine,Production,2014,1000 hl,0
+Africa,Benin,Wine,Production,2015,1000 hl,0
+Africa,Benin,Wine,Production,2016,1000 hl,0
+Africa,Benin,Wine,Production,2017,1000 hl,0
+Africa,Benin,Wine,Production,2018,1000 hl,0
+Africa,Benin,Wine,Production,2019,1000 hl,0
+Africa,Benin,Wine,Production,2020,1000 hl,0
+Africa,Benin,Wine,Production,2021,1000 hl,0
+Africa,Benin,Wine,Production,2022,1000 hl,0
+America,Bermuda,Wine,Production,2009,1000 hl,0
+America,Bermuda,Wine,Production,2010,1000 hl,0
+America,Bermuda,Wine,Production,2011,1000 hl,0
+America,Bermuda,Wine,Production,2012,1000 hl,0
+America,Bermuda,Wine,Production,2013,1000 hl,0
+America,Bermuda,Wine,Production,2014,1000 hl,0
+America,Bermuda,Wine,Production,2015,1000 hl,0
+America,Bermuda,Wine,Production,2016,1000 hl,0
+America,Bermuda,Wine,Production,2017,1000 hl,0
+America,Bermuda,Wine,Production,2018,1000 hl,0
+America,Bermuda,Wine,Production,2019,1000 hl,0
+America,Bermuda,Wine,Production,2020,1000 hl,0
+America,Bermuda,Wine,Production,2021,1000 hl,0
+America,Bermuda,Wine,Production,2022,1000 hl,0
+Asia,Bhutan,Wine,Production,2009,1000 hl,0
+Asia,Bhutan,Wine,Production,2010,1000 hl,0
+Asia,Bhutan,Wine,Production,2011,1000 hl,0
+Asia,Bhutan,Wine,Production,2012,1000 hl,0
+Asia,Bhutan,Wine,Production,2013,1000 hl,0
+Asia,Bhutan,Wine,Production,2014,1000 hl,0
+Asia,Bhutan,Wine,Production,2015,1000 hl,0
+Asia,Bhutan,Wine,Production,2016,1000 hl,0
+Asia,Bhutan,Wine,Production,2017,1000 hl,0
+Asia,Bhutan,Wine,Production,2018,1000 hl,0
+Asia,Bhutan,Wine,Production,2019,1000 hl,0
+Asia,Bhutan,Wine,Production,2020,1000 hl,0
+Asia,Bhutan,Wine,Production,2021,1000 hl,0
+Asia,Bhutan,Wine,Production,2022,1000 hl,0
+America,Bolivia,Wine,Production,2009,1000 hl,  70
+America,Bolivia,Wine,Production,2010,1000 hl,  74
+America,Bolivia,Wine,Production,2011,1000 hl,  74
+America,Bolivia,Wine,Production,2012,1000 hl,  80
+America,Bolivia,Wine,Production,2013,1000 hl,  83
+America,Bolivia,Wine,Production,2014,1000 hl,  55
+America,Bolivia,Wine,Production,2015,1000 hl,  83
+America,Bolivia,Wine,Production,2016,1000 hl,  83
+America,Bolivia,Wine,Production,2017,1000 hl,  84
+America,Bolivia,Wine,Production,2018,1000 hl,  67
+America,Bolivia,Wine,Production,2019,1000 hl,  84
+America,Bolivia,Wine,Production,2020,1000 hl,  84
+America,Bolivia,Wine,Production,2021,1000 hl,  84
+America,Bolivia,Wine,Production,2022,1000 hl,  81
+America,Bolivia,Wine,Production,2023,1000 hl,  80
+Europe,Bosnia and Herzegovina,Wine,Production,2009,1000 hl,  37
+Europe,Bosnia and Herzegovina,Wine,Production,2010,1000 hl,  45
+Europe,Bosnia and Herzegovina,Wine,Production,2011,1000 hl,  34
+Europe,Bosnia and Herzegovina,Wine,Production,2012,1000 hl,  31
+Europe,Bosnia and Herzegovina,Wine,Production,2013,1000 hl,  42
+Europe,Bosnia and Herzegovina,Wine,Production,2014,1000 hl,  75
+Europe,Bosnia and Herzegovina,Wine,Production,2015,1000 hl,  54
+Europe,Bosnia and Herzegovina,Wine,Production,2016,1000 hl,  46
+Europe,Bosnia and Herzegovina,Wine,Production,2017,1000 hl,  55
+Europe,Bosnia and Herzegovina,Wine,Production,2018,1000 hl,  60
+Europe,Bosnia and Herzegovina,Wine,Production,2019,1000 hl,  60
+Europe,Bosnia and Herzegovina,Wine,Production,2020,1000 hl,  69
+Europe,Bosnia and Herzegovina,Wine,Production,2021,1000 hl,  69
+Europe,Bosnia and Herzegovina,Wine,Production,2022,1000 hl,  69
+Europe,Bosnia and Herzegovina,Wine,Production,2023,1000 hl,  66
+Africa,Botswana,Wine,Production,2009,1000 hl,0
+Africa,Botswana,Wine,Production,2010,1000 hl,0
+Africa,Botswana,Wine,Production,2011,1000 hl,0
+Africa,Botswana,Wine,Production,2012,1000 hl,0
+Africa,Botswana,Wine,Production,2013,1000 hl,0
+Africa,Botswana,Wine,Production,2014,1000 hl,0
+Africa,Botswana,Wine,Production,2015,1000 hl,0
+Africa,Botswana,Wine,Production,2016,1000 hl,0
+Africa,Botswana,Wine,Production,2017,1000 hl,0
+Africa,Botswana,Wine,Production,2018,1000 hl,0
+Africa,Botswana,Wine,Production,2019,1000 hl,0
+Africa,Botswana,Wine,Production,2020,1000 hl,0
+Africa,Botswana,Wine,Production,2021,1000 hl,0
+Africa,Botswana,Wine,Production,2022,1000 hl,0
+America,Brazil,Wine,Production,2009,1000 hl, 2 720
+America,Brazil,Wine,Production,2010,1000 hl, 2 459
+America,Brazil,Wine,Production,2011,1000 hl, 3 460
+America,Brazil,Wine,Production,2012,1000 hl, 2 967
+America,Brazil,Wine,Production,2013,1000 hl, 2 710
+America,Brazil,Wine,Production,2014,1000 hl, 2 810
+America,Brazil,Wine,Production,2015,1000 hl, 2 699
+America,Brazil,Wine,Production,2016,1000 hl, 1 257
+America,Brazil,Wine,Production,2017,1000 hl, 3 553
+America,Brazil,Wine,Production,2018,1000 hl, 3 084
+America,Brazil,Wine,Production,2019,1000 hl, 2 176
+America,Brazil,Wine,Production,2020,1000 hl, 2 257
+America,Brazil,Wine,Production,2021,1000 hl, 2 928
+America,Brazil,Wine,Production,2022,1000 hl, 3 200
+America,Brazil,Wine,Production,2023,1000 hl, 3 587
+Asia,Brunei Darussalam,Wine,Production,2009,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2010,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2011,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2012,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2013,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2014,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2015,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2016,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2017,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2018,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2019,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2020,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2021,1000 hl,0
+Asia,Brunei Darussalam,Wine,Production,2022,1000 hl,0
+Europe,Bulgaria,Wine,Production,2009,1000 hl, 1 246
+Europe,Bulgaria,Wine,Production,2010,1000 hl, 1 030
+Europe,Bulgaria,Wine,Production,2011,1000 hl, 1 098
+Europe,Bulgaria,Wine,Production,2012,1000 hl, 1 337
+Europe,Bulgaria,Wine,Production,2013,1000 hl, 1 755
+Europe,Bulgaria,Wine,Production,2014,1000 hl,  833
+Europe,Bulgaria,Wine,Production,2015,1000 hl, 1 367
+Europe,Bulgaria,Wine,Production,2016,1000 hl, 1 245
+Europe,Bulgaria,Wine,Production,2017,1000 hl, 1 157
+Europe,Bulgaria,Wine,Production,2018,1000 hl, 1 084
+Europe,Bulgaria,Wine,Production,2019,1000 hl,  918
+Europe,Bulgaria,Wine,Production,2020,1000 hl,  850
+Europe,Bulgaria,Wine,Production,2021,1000 hl,  893
+Europe,Bulgaria,Wine,Production,2022,1000 hl,  794
+Europe,Bulgaria,Wine,Production,2023,1000 hl,  711
+Africa,Burkina Faso,Wine,Production,2009,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2010,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2011,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2012,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2013,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2014,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2015,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2016,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2017,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2018,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2019,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2020,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2021,1000 hl,0
+Africa,Burkina Faso,Wine,Production,2022,1000 hl,0
+Africa,Burundi,Wine,Production,2009,1000 hl,0
+Africa,Burundi,Wine,Production,2010,1000 hl,0
+Africa,Burundi,Wine,Production,2011,1000 hl,0
+Africa,Burundi,Wine,Production,2012,1000 hl,0
+Africa,Burundi,Wine,Production,2013,1000 hl,0
+Africa,Burundi,Wine,Production,2014,1000 hl,0
+Africa,Burundi,Wine,Production,2015,1000 hl,0
+Africa,Burundi,Wine,Production,2016,1000 hl,0
+Africa,Burundi,Wine,Production,2017,1000 hl,0
+Africa,Burundi,Wine,Production,2018,1000 hl,0
+Africa,Burundi,Wine,Production,2019,1000 hl,0
+Africa,Burundi,Wine,Production,2020,1000 hl,0
+Africa,Burundi,Wine,Production,2021,1000 hl,0
+Africa,Burundi,Wine,Production,2022,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2009,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2010,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2011,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2012,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2013,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2014,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2015,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2016,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2017,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2018,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2019,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2020,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2021,1000 hl,0
+Africa,Cabo Verde,Wine,Production,2022,1000 hl,0
+Asia,Cambodia,Wine,Production,2009,1000 hl,0
+Asia,Cambodia,Wine,Production,2010,1000 hl,0
+Asia,Cambodia,Wine,Production,2011,1000 hl,0
+Asia,Cambodia,Wine,Production,2012,1000 hl,0
+Asia,Cambodia,Wine,Production,2013,1000 hl,0
+Asia,Cambodia,Wine,Production,2014,1000 hl,0
+Asia,Cambodia,Wine,Production,2015,1000 hl,0
+Asia,Cambodia,Wine,Production,2016,1000 hl,0
+Asia,Cambodia,Wine,Production,2017,1000 hl,0
+Asia,Cambodia,Wine,Production,2018,1000 hl,0
+Asia,Cambodia,Wine,Production,2019,1000 hl,0
+Asia,Cambodia,Wine,Production,2020,1000 hl,0
+Asia,Cambodia,Wine,Production,2021,1000 hl,0
+Asia,Cambodia,Wine,Production,2022,1000 hl,0
+Africa,Cameroon,Wine,Production,2009,1000 hl,0
+Africa,Cameroon,Wine,Production,2010,1000 hl,0
+Africa,Cameroon,Wine,Production,2011,1000 hl,0
+Africa,Cameroon,Wine,Production,2012,1000 hl,0
+Africa,Cameroon,Wine,Production,2013,1000 hl,0
+Africa,Cameroon,Wine,Production,2014,1000 hl,0
+Africa,Cameroon,Wine,Production,2015,1000 hl,0
+Africa,Cameroon,Wine,Production,2016,1000 hl,0
+Africa,Cameroon,Wine,Production,2017,1000 hl,0
+Africa,Cameroon,Wine,Production,2018,1000 hl,0
+Africa,Cameroon,Wine,Production,2019,1000 hl,0
+Africa,Cameroon,Wine,Production,2020,1000 hl,0
+Africa,Cameroon,Wine,Production,2021,1000 hl,0
+Africa,Cameroon,Wine,Production,2022,1000 hl,0
+America,Canada,Wine,Production,2009,1000 hl,  454
+America,Canada,Wine,Production,2010,1000 hl,  507
+America,Canada,Wine,Production,2011,1000 hl,  614
+America,Canada,Wine,Production,2012,1000 hl,  620
+America,Canada,Wine,Production,2013,1000 hl,  697
+America,Canada,Wine,Production,2014,1000 hl,  582
+America,Canada,Wine,Production,2015,1000 hl,  598
+America,Canada,Wine,Production,2016,1000 hl,  638
+America,Canada,Wine,Production,2017,1000 hl,  704
+America,Canada,Wine,Production,2018,1000 hl,  703
+America,Canada,Wine,Production,2019,1000 hl,  697
+America,Canada,Wine,Production,2020,1000 hl,  659
+America,Canada,Wine,Production,2021,1000 hl,  654
+America,Canada,Wine,Production,2022,1000 hl,  654
+America,Canada,Wine,Production,2023,1000 hl,  654
+America,Cayman Islands,Wine,Production,2009,1000 hl,0
+America,Cayman Islands,Wine,Production,2010,1000 hl,0
+America,Cayman Islands,Wine,Production,2011,1000 hl,0
+America,Cayman Islands,Wine,Production,2012,1000 hl,0
+America,Cayman Islands,Wine,Production,2013,1000 hl,0
+America,Cayman Islands,Wine,Production,2014,1000 hl,0
+America,Cayman Islands,Wine,Production,2015,1000 hl,0
+America,Cayman Islands,Wine,Production,2016,1000 hl,0
+America,Cayman Islands,Wine,Production,2017,1000 hl,0
+America,Cayman Islands,Wine,Production,2018,1000 hl,0
+America,Cayman Islands,Wine,Production,2019,1000 hl,0
+America,Cayman Islands,Wine,Production,2020,1000 hl,0
+America,Cayman Islands,Wine,Production,2021,1000 hl,0
+America,Cayman Islands,Wine,Production,2022,1000 hl,0
+Africa,Central African Republic,Wine,Production,2009,1000 hl,0
+Africa,Central African Republic,Wine,Production,2010,1000 hl,0
+Africa,Central African Republic,Wine,Production,2011,1000 hl,0
+Africa,Central African Republic,Wine,Production,2012,1000 hl,0
+Africa,Central African Republic,Wine,Production,2013,1000 hl,0
+Africa,Central African Republic,Wine,Production,2014,1000 hl,0
+Africa,Central African Republic,Wine,Production,2015,1000 hl,0
+Africa,Central African Republic,Wine,Production,2016,1000 hl,0
+Africa,Central African Republic,Wine,Production,2017,1000 hl,0
+Africa,Central African Republic,Wine,Production,2018,1000 hl,0
+Africa,Central African Republic,Wine,Production,2019,1000 hl,0
+Africa,Central African Republic,Wine,Production,2020,1000 hl,0
+Africa,Central African Republic,Wine,Production,2021,1000 hl,0
+Africa,Central African Republic,Wine,Production,2022,1000 hl,0
+Africa,Chad,Wine,Production,2009,1000 hl,0
+Africa,Chad,Wine,Production,2010,1000 hl,0
+Africa,Chad,Wine,Production,2011,1000 hl,0
+Africa,Chad,Wine,Production,2012,1000 hl,0
+Africa,Chad,Wine,Production,2013,1000 hl,0
+Africa,Chad,Wine,Production,2014,1000 hl,0
+Africa,Chad,Wine,Production,2015,1000 hl,0
+Africa,Chad,Wine,Production,2016,1000 hl,0
+Africa,Chad,Wine,Production,2017,1000 hl,0
+Africa,Chad,Wine,Production,2018,1000 hl,0
+Africa,Chad,Wine,Production,2019,1000 hl,0
+Africa,Chad,Wine,Production,2020,1000 hl,0
+Africa,Chad,Wine,Production,2021,1000 hl,0
+Africa,Chad,Wine,Production,2022,1000 hl,0
+America,Chile,Wine,Production,2009,1000 hl, 10 093
+America,Chile,Wine,Production,2010,1000 hl, 8 844
+America,Chile,Wine,Production,2011,1000 hl, 10 464
+America,Chile,Wine,Production,2012,1000 hl, 12 554
+America,Chile,Wine,Production,2013,1000 hl, 12 821
+America,Chile,Wine,Production,2014,1000 hl, 9 896
+America,Chile,Wine,Production,2015,1000 hl, 12 866
+America,Chile,Wine,Production,2016,1000 hl, 10 143
+America,Chile,Wine,Production,2017,1000 hl, 9 492
+America,Chile,Wine,Production,2018,1000 hl, 12 898
+America,Chile,Wine,Production,2019,1000 hl, 11 939
+America,Chile,Wine,Production,2020,1000 hl, 10 337
+America,Chile,Wine,Production,2021,1000 hl, 13 437
+America,Chile,Wine,Production,2022,1000 hl, 12 443
+America,Chile,Wine,Production,2023,1000 hl, 11 030
+Asia,"China, Hong Kong SAR",Wine,Production,2009,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2010,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2011,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2012,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2013,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2014,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2015,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2016,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2017,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2018,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2019,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2020,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2021,1000 hl,0
+Asia,"China, Hong Kong SAR",Wine,Production,2022,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2009,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2010,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2011,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2012,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2013,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2014,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2015,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2016,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2017,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2018,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2019,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2020,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2021,1000 hl,0
+Asia,"China, Macao SAR",Wine,Production,2022,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2009,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2010,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2011,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2012,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2013,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2014,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2015,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2016,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2017,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2018,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2019,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2020,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2021,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2022,1000 hl,0
+Asia,"China, Taiwan Province of",Wine,Production,2023,1000 hl,0
+America,Colombia,Wine,Production,2009,1000 hl,0
+America,Colombia,Wine,Production,2010,1000 hl,  82
+America,Colombia,Wine,Production,2011,1000 hl,  75
+America,Colombia,Wine,Production,2012,1000 hl,  119
+America,Colombia,Wine,Production,2013,1000 hl,  121
+America,Colombia,Wine,Production,2014,1000 hl,  120
+America,Colombia,Wine,Production,2015,1000 hl,  24
+America,Colombia,Wine,Production,2016,1000 hl,  21
+America,Colombia,Wine,Production,2017,1000 hl,  22
+America,Colombia,Wine,Production,2018,1000 hl,  24
+America,Colombia,Wine,Production,2019,1000 hl,  26
+America,Colombia,Wine,Production,2020,1000 hl,  21
+America,Colombia,Wine,Production,2021,1000 hl,  26
+America,Colombia,Wine,Production,2022,1000 hl,  28
+America,Colombia,Wine,Production,2023,1000 hl,  25
+Africa,Comoros,Wine,Production,2009,1000 hl,0
+Africa,Comoros,Wine,Production,2010,1000 hl,0
+Africa,Comoros,Wine,Production,2011,1000 hl,0
+Africa,Comoros,Wine,Production,2012,1000 hl,0
+Africa,Comoros,Wine,Production,2013,1000 hl,0
+Africa,Comoros,Wine,Production,2014,1000 hl,0
+Africa,Comoros,Wine,Production,2015,1000 hl,0
+Africa,Comoros,Wine,Production,2016,1000 hl,0
+Africa,Comoros,Wine,Production,2017,1000 hl,0
+Africa,Comoros,Wine,Production,2018,1000 hl,0
+Africa,Comoros,Wine,Production,2019,1000 hl,0
+Africa,Comoros,Wine,Production,2020,1000 hl,0
+Africa,Comoros,Wine,Production,2021,1000 hl,0
+Africa,Comoros,Wine,Production,2022,1000 hl,0
+Africa,Congo,Wine,Production,2009,1000 hl,0
+Africa,Congo,Wine,Production,2010,1000 hl,0
+Africa,Congo,Wine,Production,2011,1000 hl,0
+Africa,Congo,Wine,Production,2012,1000 hl,0
+Africa,Congo,Wine,Production,2013,1000 hl,0
+Africa,Congo,Wine,Production,2014,1000 hl,0
+Africa,Congo,Wine,Production,2015,1000 hl,0
+Africa,Congo,Wine,Production,2016,1000 hl,0
+Africa,Congo,Wine,Production,2017,1000 hl,0
+Africa,Congo,Wine,Production,2018,1000 hl,0
+Africa,Congo,Wine,Production,2019,1000 hl,0
+Africa,Congo,Wine,Production,2020,1000 hl,0
+Africa,Congo,Wine,Production,2021,1000 hl,0
+Africa,Congo,Wine,Production,2022,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2009,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2010,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2011,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2012,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2013,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2014,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2015,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2016,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2017,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2018,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2019,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2020,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2021,1000 hl,0
+Africa,Congo (the Democratic Republic of the),Wine,Production,2022,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2009,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2010,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2011,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2012,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2013,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2014,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2015,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2016,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2017,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2018,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2019,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2020,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2021,1000 hl,0
+Oceania,Cook Islands,Wine,Production,2022,1000 hl,0
+America,Costa Rica,Wine,Production,2009,1000 hl,0
+America,Costa Rica,Wine,Production,2010,1000 hl,0
+America,Costa Rica,Wine,Production,2011,1000 hl,0
+America,Costa Rica,Wine,Production,2012,1000 hl,0
+America,Costa Rica,Wine,Production,2013,1000 hl,0
+America,Costa Rica,Wine,Production,2014,1000 hl,0
+America,Costa Rica,Wine,Production,2015,1000 hl,0
+America,Costa Rica,Wine,Production,2016,1000 hl,0
+America,Costa Rica,Wine,Production,2017,1000 hl,0
+America,Costa Rica,Wine,Production,2018,1000 hl,0
+America,Costa Rica,Wine,Production,2019,1000 hl,0
+America,Costa Rica,Wine,Production,2020,1000 hl,0
+America,Costa Rica,Wine,Production,2021,1000 hl,0
+America,Costa Rica,Wine,Production,2022,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2009,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2010,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2011,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2012,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2013,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2014,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2015,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2016,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2017,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2018,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2019,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2020,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2021,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2022,1000 hl,0
+Africa,Côte d'Ivoire,Wine,Production,2023,1000 hl,0
+Europe,Croatia,Wine,Production,2009,1000 hl, 1 424
+Europe,Croatia,Wine,Production,2010,1000 hl, 1 433
+Europe,Croatia,Wine,Production,2011,1000 hl, 1 409
+Europe,Croatia,Wine,Production,2012,1000 hl, 1 293
+Europe,Croatia,Wine,Production,2013,1000 hl, 1 248
+Europe,Croatia,Wine,Production,2014,1000 hl,  842
+Europe,Croatia,Wine,Production,2015,1000 hl,  992
+Europe,Croatia,Wine,Production,2016,1000 hl,  760
+Europe,Croatia,Wine,Production,2017,1000 hl,  726
+Europe,Croatia,Wine,Production,2018,1000 hl,  952
+Europe,Croatia,Wine,Production,2019,1000 hl,  525
+Europe,Croatia,Wine,Production,2020,1000 hl,  660
+Europe,Croatia,Wine,Production,2021,1000 hl,  526
+Europe,Croatia,Wine,Production,2022,1000 hl,  561
+Europe,Croatia,Wine,Production,2023,1000 hl,  455
+America,Cuba,Wine,Production,2009,1000 hl,  104
+America,Cuba,Wine,Production,2010,1000 hl,  108
+America,Cuba,Wine,Production,2011,1000 hl,  114
+America,Cuba,Wine,Production,2012,1000 hl,  124
+America,Cuba,Wine,Production,2013,1000 hl,  116
+America,Cuba,Wine,Production,2014,1000 hl,  125
+America,Cuba,Wine,Production,2015,1000 hl,  115
+America,Cuba,Wine,Production,2016,1000 hl,  117
+America,Cuba,Wine,Production,2017,1000 hl,  120
+America,Cuba,Wine,Production,2018,1000 hl,  114
+America,Cuba,Wine,Production,2019,1000 hl,  106
+America,Cuba,Wine,Production,2020,1000 hl,  144
+America,Cuba,Wine,Production,2021,1000 hl,  131
+America,Cuba,Wine,Production,2022,1000 hl,  131
+America,Cuba,Wine,Production,2023,1000 hl,  125
+Europe,Cyprus,Wine,Production,2009,1000 hl,  145
+Europe,Cyprus,Wine,Production,2010,1000 hl,  114
+Europe,Cyprus,Wine,Production,2011,1000 hl,  85
+Europe,Cyprus,Wine,Production,2012,1000 hl,  112
+Europe,Cyprus,Wine,Production,2013,1000 hl,  94
+Europe,Cyprus,Wine,Production,2014,1000 hl,  86
+Europe,Cyprus,Wine,Production,2015,1000 hl,  91
+Europe,Cyprus,Wine,Production,2016,1000 hl,  69
+Europe,Cyprus,Wine,Production,2017,1000 hl,  99
+Europe,Cyprus,Wine,Production,2018,1000 hl,  109
+Europe,Cyprus,Wine,Production,2019,1000 hl,  100
+Europe,Cyprus,Wine,Production,2020,1000 hl,  89
+Europe,Cyprus,Wine,Production,2021,1000 hl,  68
+Europe,Cyprus,Wine,Production,2022,1000 hl,  108
+Europe,Cyprus,Wine,Production,2023,1000 hl,  50
+Europe,Czech Republic,Wine,Production,2009,1000 hl,  570
+Europe,Czech Republic,Wine,Production,2010,1000 hl,  564
+Europe,Czech Republic,Wine,Production,2011,1000 hl,  650
+Europe,Czech Republic,Wine,Production,2012,1000 hl,  470
+Europe,Czech Republic,Wine,Production,2013,1000 hl,  501
+Europe,Czech Republic,Wine,Production,2014,1000 hl,  536
+Europe,Czech Republic,Wine,Production,2015,1000 hl,  819
+Europe,Czech Republic,Wine,Production,2016,1000 hl,  631
+Europe,Czech Republic,Wine,Production,2017,1000 hl,  645
+Europe,Czech Republic,Wine,Production,2018,1000 hl,  691
+Europe,Czech Republic,Wine,Production,2019,1000 hl,  492
+Europe,Czech Republic,Wine,Production,2020,1000 hl,  603
+Europe,Czech Republic,Wine,Production,2021,1000 hl,  592
+Europe,Czech Republic,Wine,Production,2022,1000 hl,  586
+Europe,Czech Republic,Wine,Production,2023,1000 hl,  477
+Europe,Denmark,Wine,Production,2010,1000 hl,0
+Europe,Denmark,Wine,Production,2011,1000 hl,0
+Europe,Denmark,Wine,Production,2012,1000 hl,0
+Europe,Denmark,Wine,Production,2013,1000 hl,0
+Europe,Denmark,Wine,Production,2014,1000 hl,0
+Europe,Denmark,Wine,Production,2015,1000 hl,  11
+Europe,Denmark,Wine,Production,2016,1000 hl,  1
+Europe,Denmark,Wine,Production,2017,1000 hl,  1
+Europe,Denmark,Wine,Production,2018,1000 hl,  1
+Europe,Denmark,Wine,Production,2019,1000 hl,  1
+Europe,Denmark,Wine,Production,2020,1000 hl,  1
+Europe,Denmark,Wine,Production,2021,1000 hl,  1
+Europe,Denmark,Wine,Production,2022,1000 hl,  1
+Europe,Denmark,Wine,Production,2023,1000 hl,  1
+Africa,Djibouti,Wine,Production,2009,1000 hl,0
+Africa,Djibouti,Wine,Production,2010,1000 hl,0
+Africa,Djibouti,Wine,Production,2011,1000 hl,0
+Africa,Djibouti,Wine,Production,2012,1000 hl,0
+Africa,Djibouti,Wine,Production,2013,1000 hl,0
+Africa,Djibouti,Wine,Production,2014,1000 hl,0
+Africa,Djibouti,Wine,Production,2015,1000 hl,0
+Africa,Djibouti,Wine,Production,2016,1000 hl,0
+Africa,Djibouti,Wine,Production,2017,1000 hl,0
+Africa,Djibouti,Wine,Production,2018,1000 hl,0
+Africa,Djibouti,Wine,Production,2019,1000 hl,0
+Africa,Djibouti,Wine,Production,2020,1000 hl,0
+Africa,Djibouti,Wine,Production,2021,1000 hl,0
+Africa,Djibouti,Wine,Production,2022,1000 hl,0
+America,Dominica,Wine,Production,2009,1000 hl,0
+America,Dominica,Wine,Production,2010,1000 hl,0
+America,Dominica,Wine,Production,2011,1000 hl,0
+America,Dominica,Wine,Production,2012,1000 hl,0
+America,Dominica,Wine,Production,2013,1000 hl,0
+America,Dominica,Wine,Production,2014,1000 hl,0
+America,Dominica,Wine,Production,2015,1000 hl,0
+America,Dominica,Wine,Production,2016,1000 hl,0
+America,Dominica,Wine,Production,2017,1000 hl,0
+America,Dominica,Wine,Production,2018,1000 hl,0
+America,Dominica,Wine,Production,2019,1000 hl,0
+America,Dominica,Wine,Production,2020,1000 hl,0
+America,Dominica,Wine,Production,2021,1000 hl,0
+America,Dominica,Wine,Production,2022,1000 hl,0
+America,Dominican Republic,Wine,Production,2009,1000 hl,0
+America,Dominican Republic,Wine,Production,2010,1000 hl,0
+America,Dominican Republic,Wine,Production,2011,1000 hl,0
+America,Dominican Republic,Wine,Production,2012,1000 hl,0
+America,Dominican Republic,Wine,Production,2013,1000 hl,0
+America,Dominican Republic,Wine,Production,2014,1000 hl,0
+America,Dominican Republic,Wine,Production,2015,1000 hl,0
+America,Dominican Republic,Wine,Production,2016,1000 hl,0
+America,Dominican Republic,Wine,Production,2017,1000 hl,0
+America,Dominican Republic,Wine,Production,2018,1000 hl,0
+America,Dominican Republic,Wine,Production,2019,1000 hl,0
+America,Dominican Republic,Wine,Production,2020,1000 hl,0
+America,Dominican Republic,Wine,Production,2021,1000 hl,0
+America,Dominican Republic,Wine,Production,2022,1000 hl,0
+America,Ecuador,Wine,Production,2009,1000 hl,0
+America,Ecuador,Wine,Production,2010,1000 hl,0
+America,Ecuador,Wine,Production,2011,1000 hl,0
+America,Ecuador,Wine,Production,2012,1000 hl,0
+America,Ecuador,Wine,Production,2013,1000 hl,0
+America,Ecuador,Wine,Production,2014,1000 hl,0
+America,Ecuador,Wine,Production,2015,1000 hl,0
+America,Ecuador,Wine,Production,2016,1000 hl,0
+America,Ecuador,Wine,Production,2017,1000 hl,0
+America,Ecuador,Wine,Production,2018,1000 hl,0
+America,Ecuador,Wine,Production,2019,1000 hl,0
+America,Ecuador,Wine,Production,2020,1000 hl,0
+America,Ecuador,Wine,Production,2021,1000 hl,0
+America,Ecuador,Wine,Production,2022,1000 hl,0
+Africa,Egypt,Wine,Production,2009,1000 hl,  118
+Africa,Egypt,Wine,Production,2010,1000 hl,  44
+Africa,Egypt,Wine,Production,2011,1000 hl,  43
+Africa,Egypt,Wine,Production,2012,1000 hl,  45
+Africa,Egypt,Wine,Production,2013,1000 hl,  45
+Africa,Egypt,Wine,Production,2014,1000 hl,  50
+Africa,Egypt,Wine,Production,2015,1000 hl,  59
+Africa,Egypt,Wine,Production,2016,1000 hl,  58
+Africa,Egypt,Wine,Production,2017,1000 hl,  60
+Africa,Egypt,Wine,Production,2018,1000 hl,  57
+Africa,Egypt,Wine,Production,2019,1000 hl,  54
+Africa,Egypt,Wine,Production,2020,1000 hl,  53
+Africa,Egypt,Wine,Production,2021,1000 hl,  48
+Africa,Egypt,Wine,Production,2022,1000 hl,  52
+Africa,Egypt,Wine,Production,2023,1000 hl,  53
+America,El Salvador,Wine,Production,2009,1000 hl,0
+America,El Salvador,Wine,Production,2010,1000 hl,0
+America,El Salvador,Wine,Production,2011,1000 hl,0
+America,El Salvador,Wine,Production,2012,1000 hl,0
+America,El Salvador,Wine,Production,2013,1000 hl,0
+America,El Salvador,Wine,Production,2014,1000 hl,0
+America,El Salvador,Wine,Production,2015,1000 hl,0
+America,El Salvador,Wine,Production,2016,1000 hl,0
+America,El Salvador,Wine,Production,2017,1000 hl,0
+America,El Salvador,Wine,Production,2018,1000 hl,0
+America,El Salvador,Wine,Production,2019,1000 hl,0
+America,El Salvador,Wine,Production,2020,1000 hl,0
+America,El Salvador,Wine,Production,2021,1000 hl,0
+America,El Salvador,Wine,Production,2022,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2009,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2010,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2011,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2012,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2013,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2014,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2015,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2016,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2017,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2018,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2019,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2020,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2021,1000 hl,0
+Africa,Equatorial Guinea,Wine,Production,2022,1000 hl,0
+Africa,Eritrea,Wine,Production,2009,1000 hl,0
+Africa,Eritrea,Wine,Production,2010,1000 hl,0
+Africa,Eritrea,Wine,Production,2011,1000 hl,0
+Africa,Eritrea,Wine,Production,2012,1000 hl,0
+Africa,Eritrea,Wine,Production,2013,1000 hl,0
+Africa,Eritrea,Wine,Production,2014,1000 hl,0
+Africa,Eritrea,Wine,Production,2015,1000 hl,0
+Africa,Eritrea,Wine,Production,2016,1000 hl,0
+Africa,Eritrea,Wine,Production,2017,1000 hl,0
+Africa,Eritrea,Wine,Production,2018,1000 hl,0
+Africa,Eritrea,Wine,Production,2019,1000 hl,0
+Africa,Eritrea,Wine,Production,2020,1000 hl,0
+Africa,Eritrea,Wine,Production,2021,1000 hl,0
+Africa,Eritrea,Wine,Production,2022,1000 hl,0
+Europe,Estonia,Wine,Production,2009,1000 hl,  10
+Europe,Estonia,Wine,Production,2010,1000 hl,  28
+Europe,Estonia,Wine,Production,2011,1000 hl,  64
+Europe,Estonia,Wine,Production,2012,1000 hl,  96
+Europe,Estonia,Wine,Production,2013,1000 hl,  107
+Europe,Estonia,Wine,Production,2014,1000 hl,  111
+Europe,Estonia,Wine,Production,2015,1000 hl,  115
+Europe,Estonia,Wine,Production,2016,1000 hl,  110
+Europe,Estonia,Wine,Production,2017,1000 hl,  110
+Europe,Estonia,Wine,Production,2018,1000 hl,  110
+Europe,Estonia,Wine,Production,2019,1000 hl,  110
+Europe,Estonia,Wine,Production,2020,1000 hl,  110
+Europe,Estonia,Wine,Production,2021,1000 hl,  110
+Europe,Estonia,Wine,Production,2022,1000 hl,  110
+Europe,Estonia,Wine,Production,2023,1000 hl,  110
+Africa,Eswatini,Wine,Production,2009,1000 hl,0
+Africa,Eswatini,Wine,Production,2010,1000 hl,0
+Africa,Eswatini,Wine,Production,2011,1000 hl,0
+Africa,Eswatini,Wine,Production,2012,1000 hl,0
+Africa,Eswatini,Wine,Production,2013,1000 hl,0
+Africa,Eswatini,Wine,Production,2014,1000 hl,0
+Africa,Eswatini,Wine,Production,2015,1000 hl,0
+Africa,Eswatini,Wine,Production,2016,1000 hl,0
+Africa,Eswatini,Wine,Production,2017,1000 hl,0
+Africa,Eswatini,Wine,Production,2018,1000 hl,0
+Africa,Eswatini,Wine,Production,2019,1000 hl,0
+Africa,Eswatini,Wine,Production,2020,1000 hl,0
+Africa,Eswatini,Wine,Production,2021,1000 hl,0
+Africa,Eswatini,Wine,Production,2022,1000 hl,0
+Africa,Ethiopia,Wine,Production,2009,1000 hl,  16
+Africa,Ethiopia,Wine,Production,2010,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2011,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2012,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2013,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2014,1000 hl,  9
+Africa,Ethiopia,Wine,Production,2015,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2016,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2017,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2018,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2019,1000 hl,  8
+Africa,Ethiopia,Wine,Production,2020,1000 hl,  3
+Africa,Ethiopia,Wine,Production,2021,1000 hl,0
+Africa,Ethiopia,Wine,Production,2022,1000 hl,  5
+Africa,Ethiopia,Wine,Production,2023,1000 hl,  5
+Europe,Faroe Islands,Wine,Production,2009,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2010,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2011,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2012,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2013,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2014,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2015,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2016,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2017,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2018,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2019,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2020,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2021,1000 hl,0
+Europe,Faroe Islands,Wine,Production,2022,1000 hl,0
+Oceania,Fiji,Wine,Production,2009,1000 hl,0
+Oceania,Fiji,Wine,Production,2010,1000 hl,0
+Oceania,Fiji,Wine,Production,2011,1000 hl,0
+Oceania,Fiji,Wine,Production,2012,1000 hl,0
+Oceania,Fiji,Wine,Production,2013,1000 hl,0
+Oceania,Fiji,Wine,Production,2014,1000 hl,0
+Oceania,Fiji,Wine,Production,2015,1000 hl,0
+Oceania,Fiji,Wine,Production,2016,1000 hl,0
+Oceania,Fiji,Wine,Production,2017,1000 hl,0
+Oceania,Fiji,Wine,Production,2018,1000 hl,0
+Oceania,Fiji,Wine,Production,2019,1000 hl,0
+Oceania,Fiji,Wine,Production,2020,1000 hl,0
+Oceania,Fiji,Wine,Production,2021,1000 hl,0
+Oceania,Fiji,Wine,Production,2022,1000 hl,0
+Europe,Finland,Wine,Production,2009,1000 hl,0
+Europe,Finland,Wine,Production,2010,1000 hl,0
+Europe,Finland,Wine,Production,2011,1000 hl,0
+Europe,Finland,Wine,Production,2012,1000 hl,0
+Europe,Finland,Wine,Production,2013,1000 hl,0
+Europe,Finland,Wine,Production,2014,1000 hl,0
+Europe,Finland,Wine,Production,2015,1000 hl,0
+Europe,Finland,Wine,Production,2016,1000 hl,0
+Europe,Finland,Wine,Production,2017,1000 hl,0
+Europe,Finland,Wine,Production,2018,1000 hl,0
+Europe,Finland,Wine,Production,2019,1000 hl,0
+Europe,Finland,Wine,Production,2020,1000 hl,0
+Europe,Finland,Wine,Production,2021,1000 hl,0
+Europe,Finland,Wine,Production,2022,1000 hl,0
+Europe,France,Wine,Production,2009,1000 hl, 46 269
+Europe,France,Wine,Production,2010,1000 hl, 44 381
+Europe,France,Wine,Production,2011,1000 hl, 50 757
+Europe,France,Wine,Production,2012,1000 hl, 41 548
+Europe,France,Wine,Production,2013,1000 hl, 42 134
+Europe,France,Wine,Production,2014,1000 hl, 46 534
+Europe,France,Wine,Production,2015,1000 hl, 47 775
+Europe,France,Wine,Production,2016,1000 hl, 45 367
+Europe,France,Wine,Production,2017,1000 hl, 36 605
+Europe,France,Wine,Production,2018,1000 hl, 49 186
+Europe,France,Wine,Production,2019,1000 hl, 42 193
+Europe,France,Wine,Production,2020,1000 hl, 46 673
+Europe,France,Wine,Production,2021,1000 hl, 37 643
+Europe,France,Wine,Production,2022,1000 hl, 45 998
+Europe,France,Wine,Production,2023,1000 hl, 47 153
+America,French Guiana,Wine,Production,2009,1000 hl,0
+America,French Guiana,Wine,Production,2010,1000 hl,0
+America,French Guiana,Wine,Production,2011,1000 hl,0
+America,French Guiana,Wine,Production,2012,1000 hl,0
+America,French Guiana,Wine,Production,2013,1000 hl,0
+America,French Guiana,Wine,Production,2014,1000 hl,0
+America,French Guiana,Wine,Production,2015,1000 hl,0
+America,French Guiana,Wine,Production,2016,1000 hl,0
+America,French Guiana,Wine,Production,2017,1000 hl,0
+America,French Guiana,Wine,Production,2018,1000 hl,0
+America,French Guiana,Wine,Production,2019,1000 hl,0
+America,French Guiana,Wine,Production,2020,1000 hl,0
+America,French Guiana,Wine,Production,2021,1000 hl,0
+America,French Guiana,Wine,Production,2022,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2009,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2010,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2011,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2012,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2013,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2014,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2015,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2016,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2017,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2018,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2019,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2020,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2021,1000 hl,0
+Oceania,French Polynesia,Wine,Production,2022,1000 hl,0
+Africa,Gabon,Wine,Production,2009,1000 hl,0
+Africa,Gabon,Wine,Production,2010,1000 hl,0
+Africa,Gabon,Wine,Production,2011,1000 hl,0
+Africa,Gabon,Wine,Production,2012,1000 hl,0
+Africa,Gabon,Wine,Production,2013,1000 hl,0
+Africa,Gabon,Wine,Production,2014,1000 hl,0
+Africa,Gabon,Wine,Production,2015,1000 hl,0
+Africa,Gabon,Wine,Production,2016,1000 hl,0
+Africa,Gabon,Wine,Production,2017,1000 hl,0
+Africa,Gabon,Wine,Production,2018,1000 hl,0
+Africa,Gabon,Wine,Production,2019,1000 hl,0
+Africa,Gabon,Wine,Production,2020,1000 hl,0
+Africa,Gabon,Wine,Production,2021,1000 hl,0
+Africa,Gabon,Wine,Production,2022,1000 hl,0
+Africa,Gambia,Wine,Production,2009,1000 hl,0
+Africa,Gambia,Wine,Production,2010,1000 hl,0
+Africa,Gambia,Wine,Production,2011,1000 hl,0
+Africa,Gambia,Wine,Production,2012,1000 hl,0
+Africa,Gambia,Wine,Production,2013,1000 hl,0
+Africa,Gambia,Wine,Production,2014,1000 hl,0
+Africa,Gambia,Wine,Production,2015,1000 hl,0
+Africa,Gambia,Wine,Production,2016,1000 hl,0
+Africa,Gambia,Wine,Production,2017,1000 hl,0
+Africa,Gambia,Wine,Production,2018,1000 hl,0
+Africa,Gambia,Wine,Production,2019,1000 hl,0
+Africa,Gambia,Wine,Production,2020,1000 hl,0
+Africa,Gambia,Wine,Production,2021,1000 hl,0
+Africa,Gambia,Wine,Production,2022,1000 hl,0
+Asia,Georgia,Wine,Production,2009,1000 hl, 1 043
+Asia,Georgia,Wine,Production,2010,1000 hl, 1 034
+Asia,Georgia,Wine,Production,2011,1000 hl, 1 108
+Asia,Georgia,Wine,Production,2012,1000 hl,  830
+Asia,Georgia,Wine,Production,2013,1000 hl,  997
+Asia,Georgia,Wine,Production,2014,1000 hl,  920
+Asia,Georgia,Wine,Production,2015,1000 hl, 1 196
+Asia,Georgia,Wine,Production,2016,1000 hl,  884
+Asia,Georgia,Wine,Production,2017,1000 hl, 1 002
+Asia,Georgia,Wine,Production,2018,1000 hl, 1 890
+Asia,Georgia,Wine,Production,2019,1000 hl, 2 067
+Asia,Georgia,Wine,Production,2020,1000 hl, 2 124
+Asia,Georgia,Wine,Production,2021,1000 hl, 1 891
+Asia,Georgia,Wine,Production,2022,1000 hl, 1 922
+Asia,Georgia,Wine,Production,2023,1000 hl, 1 865
+Europe,Germany,Wine,Production,2009,1000 hl, 9 228
+Europe,Germany,Wine,Production,2010,1000 hl, 6 906
+Europe,Germany,Wine,Production,2011,1000 hl, 9 132
+Europe,Germany,Wine,Production,2012,1000 hl, 9 012
+Europe,Germany,Wine,Production,2013,1000 hl, 8 409
+Europe,Germany,Wine,Production,2014,1000 hl, 9 202
+Europe,Germany,Wine,Production,2015,1000 hl, 8 819
+Europe,Germany,Wine,Production,2016,1000 hl, 9 013
+Europe,Germany,Wine,Production,2017,1000 hl, 7 462
+Europe,Germany,Wine,Production,2018,1000 hl, 10 268
+Europe,Germany,Wine,Production,2019,1000 hl, 8 218
+Europe,Germany,Wine,Production,2020,1000 hl, 8 405
+Europe,Germany,Wine,Production,2021,1000 hl, 8 448
+Europe,Germany,Wine,Production,2022,1000 hl, 8 940
+Europe,Germany,Wine,Production,2023,1000 hl, 8 593
+Africa,Ghana,Wine,Production,2009,1000 hl,0
+Africa,Ghana,Wine,Production,2010,1000 hl,0
+Africa,Ghana,Wine,Production,2011,1000 hl,0
+Africa,Ghana,Wine,Production,2012,1000 hl,0
+Africa,Ghana,Wine,Production,2013,1000 hl,0
+Africa,Ghana,Wine,Production,2014,1000 hl,0
+Africa,Ghana,Wine,Production,2015,1000 hl,0
+Africa,Ghana,Wine,Production,2016,1000 hl,0
+Africa,Ghana,Wine,Production,2017,1000 hl,0
+Africa,Ghana,Wine,Production,2018,1000 hl,0
+Africa,Ghana,Wine,Production,2019,1000 hl,0
+Africa,Ghana,Wine,Production,2020,1000 hl,0
+Africa,Ghana,Wine,Production,2021,1000 hl,0
+Africa,Ghana,Wine,Production,2022,1000 hl,0
+Global,Global,Wine,Production,2009,1000 hl, 270 352
+Global,Global,Wine,Production,2010,1000 hl, 262 845
+Global,Global,Wine,Production,2011,1000 hl, 268 738
+Global,Global,Wine,Production,2012,1000 hl, 261 779
+Global,Global,Wine,Production,2013,1000 hl, 293 485
+Global,Global,Wine,Production,2014,1000 hl, 271 653
+Global,Global,Wine,Production,2015,1000 hl, 278 232
+Global,Global,Wine,Production,2016,1000 hl, 271 915
+Global,Global,Wine,Production,2017,1000 hl, 249 652
+Global,Global,Wine,Production,2018,1000 hl, 296 238
+Global,Global,Wine,Production,2019,1000 hl, 259 041
+Global,Global,Wine,Production,2020,1000 hl, 262 959
+Global,Global,Wine,Production,2021,1000 hl, 260 702
+Global,Global,Wine,Production,2022,1000 hl, 263 696
+Global,Global,Wine,Production,2023,1000 hl, 237 262
+Europe,Greece,Wine,Production,2009,1000 hl, 3 366
+Europe,Greece,Wine,Production,2010,1000 hl, 2 950
+Europe,Greece,Wine,Production,2011,1000 hl, 2 750
+Europe,Greece,Wine,Production,2012,1000 hl, 3 115
+Europe,Greece,Wine,Production,2013,1000 hl, 3 343
+Europe,Greece,Wine,Production,2014,1000 hl, 2 800
+Europe,Greece,Wine,Production,2015,1000 hl, 2 501
+Europe,Greece,Wine,Production,2016,1000 hl, 2 490
+Europe,Greece,Wine,Production,2017,1000 hl, 2 550
+Europe,Greece,Wine,Production,2018,1000 hl, 2 235
+Europe,Greece,Wine,Production,2019,1000 hl, 2 387
+Europe,Greece,Wine,Production,2020,1000 hl, 2 221
+Europe,Greece,Wine,Production,2021,1000 hl, 2 416
+Europe,Greece,Wine,Production,2022,1000 hl, 2 084
+Europe,Greece,Wine,Production,2023,1000 hl, 1 367
+America,Greenland,Wine,Production,2009,1000 hl,0
+America,Greenland,Wine,Production,2010,1000 hl,0
+America,Greenland,Wine,Production,2011,1000 hl,0
+America,Greenland,Wine,Production,2012,1000 hl,0
+America,Greenland,Wine,Production,2013,1000 hl,0
+America,Greenland,Wine,Production,2014,1000 hl,0
+America,Greenland,Wine,Production,2015,1000 hl,0
+America,Greenland,Wine,Production,2016,1000 hl,0
+America,Greenland,Wine,Production,2017,1000 hl,0
+America,Greenland,Wine,Production,2018,1000 hl,0
+America,Greenland,Wine,Production,2019,1000 hl,0
+America,Greenland,Wine,Production,2020,1000 hl,0
+America,Greenland,Wine,Production,2021,1000 hl,0
+America,Greenland,Wine,Production,2022,1000 hl,0
+America,Grenada,Wine,Production,2009,1000 hl,0
+America,Grenada,Wine,Production,2010,1000 hl,0
+America,Grenada,Wine,Production,2011,1000 hl,0
+America,Grenada,Wine,Production,2012,1000 hl,0
+America,Grenada,Wine,Production,2013,1000 hl,0
+America,Grenada,Wine,Production,2014,1000 hl,0
+America,Grenada,Wine,Production,2015,1000 hl,0
+America,Grenada,Wine,Production,2016,1000 hl,0
+America,Grenada,Wine,Production,2017,1000 hl,0
+America,Grenada,Wine,Production,2018,1000 hl,0
+America,Grenada,Wine,Production,2019,1000 hl,0
+America,Grenada,Wine,Production,2020,1000 hl,0
+America,Grenada,Wine,Production,2021,1000 hl,0
+America,Grenada,Wine,Production,2022,1000 hl,0
+America,Guadeloupe,Wine,Production,2009,1000 hl,0
+America,Guadeloupe,Wine,Production,2010,1000 hl,0
+America,Guadeloupe,Wine,Production,2011,1000 hl,0
+America,Guadeloupe,Wine,Production,2012,1000 hl,0
+America,Guadeloupe,Wine,Production,2013,1000 hl,0
+America,Guadeloupe,Wine,Production,2014,1000 hl,0
+America,Guadeloupe,Wine,Production,2015,1000 hl,0
+America,Guadeloupe,Wine,Production,2016,1000 hl,0
+America,Guadeloupe,Wine,Production,2017,1000 hl,0
+America,Guadeloupe,Wine,Production,2018,1000 hl,0
+America,Guadeloupe,Wine,Production,2019,1000 hl,0
+America,Guadeloupe,Wine,Production,2020,1000 hl,0
+America,Guadeloupe,Wine,Production,2021,1000 hl,0
+America,Guadeloupe,Wine,Production,2022,1000 hl,0
+Oceania,Guam,Wine,Production,2009,1000 hl,0
+Oceania,Guam,Wine,Production,2010,1000 hl,0
+Oceania,Guam,Wine,Production,2011,1000 hl,0
+Oceania,Guam,Wine,Production,2012,1000 hl,0
+Oceania,Guam,Wine,Production,2013,1000 hl,0
+Oceania,Guam,Wine,Production,2014,1000 hl,0
+Oceania,Guam,Wine,Production,2015,1000 hl,0
+Oceania,Guam,Wine,Production,2016,1000 hl,0
+Oceania,Guam,Wine,Production,2017,1000 hl,0
+Oceania,Guam,Wine,Production,2018,1000 hl,0
+Oceania,Guam,Wine,Production,2019,1000 hl,0
+Oceania,Guam,Wine,Production,2020,1000 hl,0
+Oceania,Guam,Wine,Production,2021,1000 hl,0
+Oceania,Guam,Wine,Production,2022,1000 hl,0
+Africa,Guinea,Wine,Production,2009,1000 hl,0
+Africa,Guinea,Wine,Production,2010,1000 hl,0
+Africa,Guinea,Wine,Production,2011,1000 hl,0
+Africa,Guinea,Wine,Production,2012,1000 hl,0
+Africa,Guinea,Wine,Production,2013,1000 hl,0
+Africa,Guinea,Wine,Production,2014,1000 hl,0
+Africa,Guinea,Wine,Production,2015,1000 hl,0
+Africa,Guinea,Wine,Production,2016,1000 hl,0
+Africa,Guinea,Wine,Production,2017,1000 hl,0
+Africa,Guinea,Wine,Production,2018,1000 hl,0
+Africa,Guinea,Wine,Production,2019,1000 hl,0
+Africa,Guinea,Wine,Production,2020,1000 hl,0
+Africa,Guinea,Wine,Production,2021,1000 hl,0
+Africa,Guinea,Wine,Production,2022,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2009,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2010,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2011,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2012,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2013,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2014,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2015,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2016,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2017,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2018,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2019,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2020,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2021,1000 hl,0
+Africa,Guinea-Bissau,Wine,Production,2022,1000 hl,0
+America,Guyana,Wine,Production,2009,1000 hl,0
+America,Guyana,Wine,Production,2010,1000 hl,0
+America,Guyana,Wine,Production,2011,1000 hl,0
+America,Guyana,Wine,Production,2012,1000 hl,0
+America,Guyana,Wine,Production,2013,1000 hl,0
+America,Guyana,Wine,Production,2014,1000 hl,0
+America,Guyana,Wine,Production,2015,1000 hl,0
+America,Guyana,Wine,Production,2016,1000 hl,0
+America,Guyana,Wine,Production,2017,1000 hl,0
+America,Guyana,Wine,Production,2018,1000 hl,0
+America,Guyana,Wine,Production,2019,1000 hl,0
+America,Guyana,Wine,Production,2020,1000 hl,0
+America,Guyana,Wine,Production,2021,1000 hl,0
+America,Guyana,Wine,Production,2022,1000 hl,0
+America,Haiti,Wine,Production,2009,1000 hl,0
+America,Haiti,Wine,Production,2010,1000 hl,0
+America,Haiti,Wine,Production,2011,1000 hl,0
+America,Haiti,Wine,Production,2012,1000 hl,0
+America,Haiti,Wine,Production,2013,1000 hl,0
+America,Haiti,Wine,Production,2014,1000 hl,0
+America,Haiti,Wine,Production,2015,1000 hl,0
+America,Haiti,Wine,Production,2016,1000 hl,0
+America,Haiti,Wine,Production,2017,1000 hl,0
+America,Haiti,Wine,Production,2018,1000 hl,0
+America,Haiti,Wine,Production,2019,1000 hl,0
+America,Haiti,Wine,Production,2020,1000 hl,0
+America,Haiti,Wine,Production,2021,1000 hl,0
+America,Haiti,Wine,Production,2022,1000 hl,0
+America,Honduras,Wine,Production,2009,1000 hl,0
+America,Honduras,Wine,Production,2010,1000 hl,0
+America,Honduras,Wine,Production,2011,1000 hl,0
+America,Honduras,Wine,Production,2012,1000 hl,0
+America,Honduras,Wine,Production,2013,1000 hl,0
+America,Honduras,Wine,Production,2014,1000 hl,0
+America,Honduras,Wine,Production,2015,1000 hl,0
+America,Honduras,Wine,Production,2016,1000 hl,0
+America,Honduras,Wine,Production,2017,1000 hl,0
+America,Honduras,Wine,Production,2018,1000 hl,0
+America,Honduras,Wine,Production,2019,1000 hl,0
+America,Honduras,Wine,Production,2020,1000 hl,0
+America,Honduras,Wine,Production,2021,1000 hl,0
+America,Honduras,Wine,Production,2022,1000 hl,0
+Europe,Hungary,Wine,Production,2009,1000 hl, 3 065
+Europe,Hungary,Wine,Production,2010,1000 hl, 1 646
+Europe,Hungary,Wine,Production,2011,1000 hl, 2 508
+Europe,Hungary,Wine,Production,2012,1000 hl, 1 765
+Europe,Hungary,Wine,Production,2013,1000 hl, 2 573
+Europe,Hungary,Wine,Production,2014,1000 hl, 2 427
+Europe,Hungary,Wine,Production,2015,1000 hl, 2 780
+Europe,Hungary,Wine,Production,2016,1000 hl, 2 821
+Europe,Hungary,Wine,Production,2017,1000 hl, 2 548
+Europe,Hungary,Wine,Production,2018,1000 hl, 3 645
+Europe,Hungary,Wine,Production,2019,1000 hl, 2 394
+Europe,Hungary,Wine,Production,2020,1000 hl, 2 586
+Europe,Hungary,Wine,Production,2021,1000 hl, 2 588
+Europe,Hungary,Wine,Production,2022,1000 hl, 2 484
+Europe,Hungary,Wine,Production,2023,1000 hl, 2 429
+Asia,India,Wine,Production,2009,1000 hl,  149
+Asia,India,Wine,Production,2010,1000 hl,  160
+Asia,India,Wine,Production,2011,1000 hl,  142
+Asia,India,Wine,Production,2012,1000 hl,  146
+Asia,India,Wine,Production,2013,1000 hl,  170
+Asia,India,Wine,Production,2014,1000 hl,  173
+Asia,India,Wine,Production,2015,1000 hl,  183
+Asia,India,Wine,Production,2016,1000 hl,  194
+Asia,India,Wine,Production,2017,1000 hl,  204
+Asia,India,Wine,Production,2018,1000 hl,  210
+Asia,India,Wine,Production,2019,1000 hl,  180
+Asia,India,Wine,Production,2020,1000 hl,  180
+Asia,India,Wine,Production,2021,1000 hl,  180
+Asia,India,Wine,Production,2022,1000 hl,  180
+Asia,India,Wine,Production,2023,1000 hl,  186
+Asia,Indonesia,Wine,Production,2009,1000 hl,0
+Asia,Indonesia,Wine,Production,2010,1000 hl,0
+Asia,Indonesia,Wine,Production,2011,1000 hl,0
+Asia,Indonesia,Wine,Production,2012,1000 hl,0
+Asia,Indonesia,Wine,Production,2013,1000 hl,0
+Asia,Indonesia,Wine,Production,2014,1000 hl,0
+Asia,Indonesia,Wine,Production,2015,1000 hl,0
+Asia,Indonesia,Wine,Production,2016,1000 hl,0
+Asia,Indonesia,Wine,Production,2017,1000 hl,0
+Asia,Indonesia,Wine,Production,2018,1000 hl,0
+Asia,Indonesia,Wine,Production,2019,1000 hl,0
+Asia,Indonesia,Wine,Production,2020,1000 hl,0
+Asia,Indonesia,Wine,Production,2021,1000 hl,0
+Asia,Indonesia,Wine,Production,2022,1000 hl,0
+Asia,Iran,Wine,Production,2009,1000 hl,0
+Asia,Iran,Wine,Production,2010,1000 hl,0
+Asia,Iran,Wine,Production,2011,1000 hl,0
+Asia,Iran,Wine,Production,2012,1000 hl,0
+Asia,Iran,Wine,Production,2013,1000 hl,0
+Asia,Iran,Wine,Production,2014,1000 hl,0
+Asia,Iran,Wine,Production,2015,1000 hl,0
+Asia,Iran,Wine,Production,2016,1000 hl,0
+Asia,Iran,Wine,Production,2017,1000 hl,0
+Asia,Iran,Wine,Production,2018,1000 hl,0
+Asia,Iran,Wine,Production,2019,1000 hl,0
+Asia,Iran,Wine,Production,2020,1000 hl,0
+Asia,Iran,Wine,Production,2021,1000 hl,0
+Asia,Iran,Wine,Production,2022,1000 hl,0
+Asia,Iran,Wine,Production,2023,1000 hl,0
+Asia,Iraq,Wine,Production,2009,1000 hl,0
+Asia,Iraq,Wine,Production,2010,1000 hl,0
+Asia,Iraq,Wine,Production,2011,1000 hl,0
+Asia,Iraq,Wine,Production,2012,1000 hl,0
+Asia,Iraq,Wine,Production,2013,1000 hl,0
+Asia,Iraq,Wine,Production,2014,1000 hl,0
+Asia,Iraq,Wine,Production,2015,1000 hl,0
+Asia,Iraq,Wine,Production,2016,1000 hl,0
+Asia,Iraq,Wine,Production,2017,1000 hl,0
+Asia,Iraq,Wine,Production,2018,1000 hl,0
+Asia,Iraq,Wine,Production,2019,1000 hl,0
+Asia,Iraq,Wine,Production,2020,1000 hl,0
+Asia,Iraq,Wine,Production,2021,1000 hl,0
+Asia,Iraq,Wine,Production,2022,1000 hl,0
+Asia,Iraq,Wine,Production,2023,1000 hl,0
+Europe,Ireland,Wine,Production,2009,1000 hl,0
+Europe,Ireland,Wine,Production,2010,1000 hl,0
+Europe,Ireland,Wine,Production,2011,1000 hl,0
+Europe,Ireland,Wine,Production,2012,1000 hl,0
+Europe,Ireland,Wine,Production,2013,1000 hl,0
+Europe,Ireland,Wine,Production,2014,1000 hl,0
+Europe,Ireland,Wine,Production,2015,1000 hl,0
+Europe,Ireland,Wine,Production,2016,1000 hl,0
+Europe,Ireland,Wine,Production,2017,1000 hl,0
+Europe,Ireland,Wine,Production,2018,1000 hl,0
+Europe,Ireland,Wine,Production,2019,1000 hl,0
+Europe,Ireland,Wine,Production,2020,1000 hl,0
+Europe,Ireland,Wine,Production,2021,1000 hl,0
+Europe,Ireland,Wine,Production,2022,1000 hl,0
+Europe,Ireland,Wine,Production,2023,1000 hl,0
+Asia,Israel,Wine,Production,2009,1000 hl,  230
+Asia,Israel,Wine,Production,2010,1000 hl,  245
+Asia,Israel,Wine,Production,2011,1000 hl,  259
+Asia,Israel,Wine,Production,2012,1000 hl,  280
+Asia,Israel,Wine,Production,2013,1000 hl,  300
+Asia,Israel,Wine,Production,2014,1000 hl,  320
+Asia,Israel,Wine,Production,2015,1000 hl,  341
+Asia,Israel,Wine,Production,2016,1000 hl,  361
+Asia,Israel,Wine,Production,2017,1000 hl,  381
+Asia,Israel,Wine,Production,2018,1000 hl,  402
+Asia,Israel,Wine,Production,2019,1000 hl,  422
+Asia,Israel,Wine,Production,2020,1000 hl,  496
+Asia,Israel,Wine,Production,2021,1000 hl,  385
+Asia,Israel,Wine,Production,2022,1000 hl,  430
+Asia,Israel,Wine,Production,2023,1000 hl,  427
+Europe,Italy,Wine,Production,2009,1000 hl, 47 314
+Europe,Italy,Wine,Production,2010,1000 hl, 48 525
+Europe,Italy,Wine,Production,2011,1000 hl, 42 772
+Europe,Italy,Wine,Production,2012,1000 hl, 45 616
+Europe,Italy,Wine,Production,2013,1000 hl, 54 029
+Europe,Italy,Wine,Production,2014,1000 hl, 44 229
+Europe,Italy,Wine,Production,2015,1000 hl, 49 996
+Europe,Italy,Wine,Production,2016,1000 hl, 50 920
+Europe,Italy,Wine,Production,2017,1000 hl, 42 500
+Europe,Italy,Wine,Production,2018,1000 hl, 54 783
+Europe,Italy,Wine,Production,2019,1000 hl, 47 533
+Europe,Italy,Wine,Production,2020,1000 hl, 49 066
+Europe,Italy,Wine,Production,2021,1000 hl, 50 232
+Europe,Italy,Wine,Production,2022,1000 hl, 49 843
+Europe,Italy,Wine,Production,2023,1000 hl, 38 290
+America,Jamaica,Wine,Production,2009,1000 hl,0
+America,Jamaica,Wine,Production,2010,1000 hl,0
+America,Jamaica,Wine,Production,2011,1000 hl,0
+America,Jamaica,Wine,Production,2012,1000 hl,0
+America,Jamaica,Wine,Production,2013,1000 hl,0
+America,Jamaica,Wine,Production,2014,1000 hl,0
+America,Jamaica,Wine,Production,2015,1000 hl,0
+America,Jamaica,Wine,Production,2016,1000 hl,0
+America,Jamaica,Wine,Production,2017,1000 hl,0
+America,Jamaica,Wine,Production,2018,1000 hl,0
+America,Jamaica,Wine,Production,2019,1000 hl,0
+America,Jamaica,Wine,Production,2020,1000 hl,0
+America,Jamaica,Wine,Production,2021,1000 hl,0
+America,Jamaica,Wine,Production,2022,1000 hl,0
+Asia,Japan,Wine,Production,2009,1000 hl,  730
+Asia,Japan,Wine,Production,2010,1000 hl,  750
+Asia,Japan,Wine,Production,2011,1000 hl,  790
+Asia,Japan,Wine,Production,2012,1000 hl,  800
+Asia,Japan,Wine,Production,2013,1000 hl,  800
+Asia,Japan,Wine,Production,2014,1000 hl,  850
+Asia,Japan,Wine,Production,2015,1000 hl,  759
+Asia,Japan,Wine,Production,2016,1000 hl,  806
+Asia,Japan,Wine,Production,2017,1000 hl,  786
+Asia,Japan,Wine,Production,2018,1000 hl,  798
+Asia,Japan,Wine,Production,2019,1000 hl,  861
+Asia,Japan,Wine,Production,2020,1000 hl,  805
+Asia,Japan,Wine,Production,2021,1000 hl,  495
+Asia,Japan,Wine,Production,2022,1000 hl,  749
+Asia,Japan,Wine,Production,2023,1000 hl,  742
+Asia,Jordan,Wine,Production,2009,1000 hl,0
+Asia,Jordan,Wine,Production,2010,1000 hl,0
+Asia,Jordan,Wine,Production,2011,1000 hl,0
+Asia,Jordan,Wine,Production,2012,1000 hl,0
+Asia,Jordan,Wine,Production,2013,1000 hl,0
+Asia,Jordan,Wine,Production,2014,1000 hl,0
+Asia,Jordan,Wine,Production,2015,1000 hl,0
+Asia,Jordan,Wine,Production,2016,1000 hl,0
+Asia,Jordan,Wine,Production,2017,1000 hl,0
+Asia,Jordan,Wine,Production,2018,1000 hl,0
+Asia,Jordan,Wine,Production,2019,1000 hl,0
+Asia,Jordan,Wine,Production,2020,1000 hl,0
+Asia,Jordan,Wine,Production,2021,1000 hl,0
+Asia,Jordan,Wine,Production,2022,1000 hl,0
+Asia,Jordan,Wine,Production,2023,1000 hl,0
+Asia,Kazakhstan,Wine,Production,2009,1000 hl,  172
+Asia,Kazakhstan,Wine,Production,2010,1000 hl,  172
+Asia,Kazakhstan,Wine,Production,2011,1000 hl,  158
+Asia,Kazakhstan,Wine,Production,2012,1000 hl,  155
+Asia,Kazakhstan,Wine,Production,2013,1000 hl,  209
+Asia,Kazakhstan,Wine,Production,2014,1000 hl,  220
+Asia,Kazakhstan,Wine,Production,2015,1000 hl,  242
+Asia,Kazakhstan,Wine,Production,2016,1000 hl,  299
+Asia,Kazakhstan,Wine,Production,2017,1000 hl,  327
+Asia,Kazakhstan,Wine,Production,2018,1000 hl,  501
+Asia,Kazakhstan,Wine,Production,2019,1000 hl,  445
+Asia,Kazakhstan,Wine,Production,2020,1000 hl,  438
+Asia,Kazakhstan,Wine,Production,2021,1000 hl,  233
+Asia,Kazakhstan,Wine,Production,2022,1000 hl,  389
+Asia,Kazakhstan,Wine,Production,2023,1000 hl,  401
+Africa,Kenya,Wine,Production,2009,1000 hl,0
+Africa,Kenya,Wine,Production,2010,1000 hl,0
+Africa,Kenya,Wine,Production,2011,1000 hl,0
+Africa,Kenya,Wine,Production,2012,1000 hl,0
+Africa,Kenya,Wine,Production,2013,1000 hl,0
+Africa,Kenya,Wine,Production,2014,1000 hl,0
+Africa,Kenya,Wine,Production,2015,1000 hl,0
+Africa,Kenya,Wine,Production,2016,1000 hl,0
+Africa,Kenya,Wine,Production,2017,1000 hl,0
+Africa,Kenya,Wine,Production,2018,1000 hl,0
+Africa,Kenya,Wine,Production,2019,1000 hl,0
+Africa,Kenya,Wine,Production,2020,1000 hl,0
+Africa,Kenya,Wine,Production,2021,1000 hl,0
+Africa,Kenya,Wine,Production,2022,1000 hl,0
+Oceania,Kiribati,Wine,Production,2009,1000 hl,0
+Oceania,Kiribati,Wine,Production,2010,1000 hl,0
+Oceania,Kiribati,Wine,Production,2011,1000 hl,0
+Oceania,Kiribati,Wine,Production,2012,1000 hl,0
+Oceania,Kiribati,Wine,Production,2013,1000 hl,0
+Oceania,Kiribati,Wine,Production,2014,1000 hl,0
+Oceania,Kiribati,Wine,Production,2015,1000 hl,0
+Oceania,Kiribati,Wine,Production,2016,1000 hl,0
+Oceania,Kiribati,Wine,Production,2017,1000 hl,0
+Oceania,Kiribati,Wine,Production,2018,1000 hl,0
+Oceania,Kiribati,Wine,Production,2019,1000 hl,0
+Oceania,Kiribati,Wine,Production,2020,1000 hl,0
+Oceania,Kiribati,Wine,Production,2021,1000 hl,0
+Oceania,Kiribati,Wine,Production,2022,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2009,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2010,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2011,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2012,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2013,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2014,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2015,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2016,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2017,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2018,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2019,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2020,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2021,1000 hl,0
+Asia,Korea (the Democratic People's Republic of),Wine,Production,2022,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2009,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2010,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2011,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2012,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2013,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2014,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2015,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2016,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2017,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2018,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2019,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2020,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2021,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2022,1000 hl,0
+Asia,Korea (the Republic of),Wine,Production,2023,1000 hl,0
+Asia,Kuwait,Wine,Production,2009,1000 hl,0
+Asia,Kuwait,Wine,Production,2010,1000 hl,0
+Asia,Kuwait,Wine,Production,2011,1000 hl,0
+Asia,Kuwait,Wine,Production,2012,1000 hl,0
+Asia,Kuwait,Wine,Production,2013,1000 hl,0
+Asia,Kuwait,Wine,Production,2014,1000 hl,0
+Asia,Kuwait,Wine,Production,2015,1000 hl,0
+Asia,Kuwait,Wine,Production,2016,1000 hl,0
+Asia,Kuwait,Wine,Production,2017,1000 hl,0
+Asia,Kuwait,Wine,Production,2018,1000 hl,0
+Asia,Kuwait,Wine,Production,2019,1000 hl,0
+Asia,Kuwait,Wine,Production,2020,1000 hl,0
+Asia,Kuwait,Wine,Production,2021,1000 hl,0
+Asia,Kuwait,Wine,Production,2022,1000 hl,0
+Asia,Kyrgyzstan,Wine,Production,2009,1000 hl,  14
+Asia,Kyrgyzstan,Wine,Production,2010,1000 hl,  16
+Asia,Kyrgyzstan,Wine,Production,2011,1000 hl,  14
+Asia,Kyrgyzstan,Wine,Production,2012,1000 hl,  13
+Asia,Kyrgyzstan,Wine,Production,2013,1000 hl,  18
+Asia,Kyrgyzstan,Wine,Production,2014,1000 hl,  17
+Asia,Kyrgyzstan,Wine,Production,2015,1000 hl,  26
+Asia,Kyrgyzstan,Wine,Production,2016,1000 hl,  24
+Asia,Kyrgyzstan,Wine,Production,2017,1000 hl,  28
+Asia,Kyrgyzstan,Wine,Production,2018,1000 hl,  56
+Asia,Kyrgyzstan,Wine,Production,2019,1000 hl,  38
+Asia,Kyrgyzstan,Wine,Production,2020,1000 hl,  20
+Asia,Kyrgyzstan,Wine,Production,2021,1000 hl,  23
+Asia,Kyrgyzstan,Wine,Production,2022,1000 hl,  33
+Asia,Kyrgyzstan,Wine,Production,2023,1000 hl,  34
+Asia,Lao People's Democratic Republic,Wine,Production,2009,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2010,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2011,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2012,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2013,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2014,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2015,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2016,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2017,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2018,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2019,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2020,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2021,1000 hl,0
+Asia,Lao People's Democratic Republic,Wine,Production,2022,1000 hl,0
+Europe,Latvia,Wine,Production,2009,1000 hl,  18
+Europe,Latvia,Wine,Production,2010,1000 hl,  25
+Europe,Latvia,Wine,Production,2011,1000 hl,  22
+Europe,Latvia,Wine,Production,2012,1000 hl,  22
+Europe,Latvia,Wine,Production,2013,1000 hl,  22
+Europe,Latvia,Wine,Production,2014,1000 hl,  24
+Europe,Latvia,Wine,Production,2015,1000 hl,  21
+Europe,Latvia,Wine,Production,2016,1000 hl,  25
+Europe,Latvia,Wine,Production,2017,1000 hl,  32
+Europe,Latvia,Wine,Production,2018,1000 hl,  27
+Europe,Latvia,Wine,Production,2019,1000 hl,  20
+Europe,Latvia,Wine,Production,2020,1000 hl,  20
+Europe,Latvia,Wine,Production,2021,1000 hl,  26
+Europe,Latvia,Wine,Production,2022,1000 hl,  25
+Europe,Latvia,Wine,Production,2023,1000 hl,  24
+Asia,Lebanon,Wine,Production,2009,1000 hl,  70
+Asia,Lebanon,Wine,Production,2010,1000 hl,  65
+Asia,Lebanon,Wine,Production,2011,1000 hl,  80
+Asia,Lebanon,Wine,Production,2012,1000 hl,  90
+Asia,Lebanon,Wine,Production,2013,1000 hl,  95
+Asia,Lebanon,Wine,Production,2014,1000 hl,  91
+Asia,Lebanon,Wine,Production,2015,1000 hl,  109
+Asia,Lebanon,Wine,Production,2016,1000 hl,  100
+Asia,Lebanon,Wine,Production,2017,1000 hl,  100
+Asia,Lebanon,Wine,Production,2018,1000 hl,  74
+Asia,Lebanon,Wine,Production,2019,1000 hl,  69
+Asia,Lebanon,Wine,Production,2020,1000 hl,  29
+Asia,Lebanon,Wine,Production,2021,1000 hl,  9
+Asia,Lebanon,Wine,Production,2022,1000 hl,  9
+Asia,Lebanon,Wine,Production,2023,1000 hl,  9
+Africa,Lesotho,Wine,Production,2009,1000 hl,0
+Africa,Lesotho,Wine,Production,2010,1000 hl,0
+Africa,Lesotho,Wine,Production,2011,1000 hl,0
+Africa,Lesotho,Wine,Production,2012,1000 hl,0
+Africa,Lesotho,Wine,Production,2013,1000 hl,0
+Africa,Lesotho,Wine,Production,2014,1000 hl,0
+Africa,Lesotho,Wine,Production,2015,1000 hl,0
+Africa,Lesotho,Wine,Production,2016,1000 hl,0
+Africa,Lesotho,Wine,Production,2017,1000 hl,0
+Africa,Lesotho,Wine,Production,2018,1000 hl,0
+Africa,Lesotho,Wine,Production,2019,1000 hl,0
+Africa,Lesotho,Wine,Production,2020,1000 hl,0
+Africa,Lesotho,Wine,Production,2021,1000 hl,0
+Africa,Lesotho,Wine,Production,2022,1000 hl,0
+Africa,Liberia,Wine,Production,2009,1000 hl,0
+Africa,Liberia,Wine,Production,2010,1000 hl,0
+Africa,Liberia,Wine,Production,2011,1000 hl,0
+Africa,Liberia,Wine,Production,2012,1000 hl,0
+Africa,Liberia,Wine,Production,2013,1000 hl,0
+Africa,Liberia,Wine,Production,2014,1000 hl,0
+Africa,Liberia,Wine,Production,2015,1000 hl,0
+Africa,Liberia,Wine,Production,2016,1000 hl,0
+Africa,Liberia,Wine,Production,2017,1000 hl,0
+Africa,Liberia,Wine,Production,2018,1000 hl,0
+Africa,Liberia,Wine,Production,2019,1000 hl,0
+Africa,Liberia,Wine,Production,2020,1000 hl,0
+Africa,Liberia,Wine,Production,2021,1000 hl,0
+Africa,Liberia,Wine,Production,2022,1000 hl,0
+Africa,Libya,Wine,Production,2009,1000 hl,0
+Africa,Libya,Wine,Production,2010,1000 hl,0
+Africa,Libya,Wine,Production,2011,1000 hl,0
+Africa,Libya,Wine,Production,2012,1000 hl,0
+Africa,Libya,Wine,Production,2013,1000 hl,0
+Africa,Libya,Wine,Production,2014,1000 hl,0
+Africa,Libya,Wine,Production,2015,1000 hl,0
+Africa,Libya,Wine,Production,2016,1000 hl,0
+Africa,Libya,Wine,Production,2017,1000 hl,0
+Africa,Libya,Wine,Production,2018,1000 hl,0
+Africa,Libya,Wine,Production,2019,1000 hl,0
+Africa,Libya,Wine,Production,2020,1000 hl,0
+Africa,Libya,Wine,Production,2021,1000 hl,0
+Africa,Libya,Wine,Production,2022,1000 hl,0
+Africa,Libya,Wine,Production,2023,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2009,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2010,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2011,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2012,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2013,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2014,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2015,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2016,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2017,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2018,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2019,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2020,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2021,1000 hl,0
+Europe,Liechtenstein,Wine,Production,2022,1000 hl,0
+Europe,Lithuania,Wine,Production,2009,1000 hl,  54
+Europe,Lithuania,Wine,Production,2010,1000 hl,  72
+Europe,Lithuania,Wine,Production,2011,1000 hl,  61
+Europe,Lithuania,Wine,Production,2012,1000 hl,  65
+Europe,Lithuania,Wine,Production,2013,1000 hl,  57
+Europe,Lithuania,Wine,Production,2014,1000 hl,  60
+Europe,Lithuania,Wine,Production,2015,1000 hl,  44
+Europe,Lithuania,Wine,Production,2016,1000 hl,  48
+Europe,Lithuania,Wine,Production,2017,1000 hl,  41
+Europe,Lithuania,Wine,Production,2018,1000 hl,  47
+Europe,Lithuania,Wine,Production,2019,1000 hl,  45
+Europe,Lithuania,Wine,Production,2020,1000 hl,  33
+Europe,Lithuania,Wine,Production,2021,1000 hl,  41
+Europe,Lithuania,Wine,Production,2022,1000 hl,  42
+Europe,Lithuania,Wine,Production,2023,1000 hl,  42
+Europe,Luxemburg,Wine,Production,2009,1000 hl,  135
+Europe,Luxemburg,Wine,Production,2010,1000 hl,  110
+Europe,Luxemburg,Wine,Production,2011,1000 hl,  132
+Europe,Luxemburg,Wine,Production,2012,1000 hl,  85
+Europe,Luxemburg,Wine,Production,2013,1000 hl,  101
+Europe,Luxemburg,Wine,Production,2014,1000 hl,  125
+Europe,Luxemburg,Wine,Production,2015,1000 hl,  111
+Europe,Luxemburg,Wine,Production,2016,1000 hl,  83
+Europe,Luxemburg,Wine,Production,2017,1000 hl,  81
+Europe,Luxemburg,Wine,Production,2018,1000 hl,  136
+Europe,Luxemburg,Wine,Production,2019,1000 hl,  76
+Europe,Luxemburg,Wine,Production,2020,1000 hl,  97
+Europe,Luxemburg,Wine,Production,2021,1000 hl,  100
+Europe,Luxemburg,Wine,Production,2022,1000 hl,  88
+Europe,Luxemburg,Wine,Production,2023,1000 hl,  81
+Africa,Madagascar,Wine,Production,2009,1000 hl,  83
+Africa,Madagascar,Wine,Production,2010,1000 hl,  83
+Africa,Madagascar,Wine,Production,2011,1000 hl,  82
+Africa,Madagascar,Wine,Production,2012,1000 hl,  84
+Africa,Madagascar,Wine,Production,2013,1000 hl,  84
+Africa,Madagascar,Wine,Production,2014,1000 hl,  75
+Africa,Madagascar,Wine,Production,2015,1000 hl,  77
+Africa,Madagascar,Wine,Production,2016,1000 hl,  78
+Africa,Madagascar,Wine,Production,2017,1000 hl,  78
+Africa,Madagascar,Wine,Production,2018,1000 hl,  78
+Africa,Madagascar,Wine,Production,2019,1000 hl,  78
+Africa,Madagascar,Wine,Production,2020,1000 hl,  78
+Africa,Madagascar,Wine,Production,2021,1000 hl,  78
+Africa,Madagascar,Wine,Production,2022,1000 hl,  78
+Africa,Madagascar,Wine,Production,2023,1000 hl,  78
+Africa,Malawi,Wine,Production,2009,1000 hl,0
+Africa,Malawi,Wine,Production,2010,1000 hl,0
+Africa,Malawi,Wine,Production,2011,1000 hl,0
+Africa,Malawi,Wine,Production,2012,1000 hl,0
+Africa,Malawi,Wine,Production,2013,1000 hl,0
+Africa,Malawi,Wine,Production,2014,1000 hl,0
+Africa,Malawi,Wine,Production,2015,1000 hl,0
+Africa,Malawi,Wine,Production,2016,1000 hl,0
+Africa,Malawi,Wine,Production,2017,1000 hl,0
+Africa,Malawi,Wine,Production,2018,1000 hl,0
+Africa,Malawi,Wine,Production,2019,1000 hl,0
+Africa,Malawi,Wine,Production,2020,1000 hl,0
+Africa,Malawi,Wine,Production,2021,1000 hl,0
+Africa,Malawi,Wine,Production,2022,1000 hl,0
+Asia,Malaysia,Wine,Production,2009,1000 hl,0
+Asia,Malaysia,Wine,Production,2010,1000 hl,0
+Asia,Malaysia,Wine,Production,2011,1000 hl,0
+Asia,Malaysia,Wine,Production,2012,1000 hl,0
+Asia,Malaysia,Wine,Production,2013,1000 hl,0
+Asia,Malaysia,Wine,Production,2014,1000 hl,0
+Asia,Malaysia,Wine,Production,2015,1000 hl,0
+Asia,Malaysia,Wine,Production,2016,1000 hl,0
+Asia,Malaysia,Wine,Production,2017,1000 hl,0
+Asia,Malaysia,Wine,Production,2018,1000 hl,0
+Asia,Malaysia,Wine,Production,2019,1000 hl,0
+Asia,Malaysia,Wine,Production,2020,1000 hl,0
+Asia,Malaysia,Wine,Production,2021,1000 hl,0
+Asia,Malaysia,Wine,Production,2022,1000 hl,0
+Asia,Maldives,Wine,Production,2009,1000 hl,0
+Asia,Maldives,Wine,Production,2010,1000 hl,0
+Asia,Maldives,Wine,Production,2011,1000 hl,0
+Asia,Maldives,Wine,Production,2012,1000 hl,0
+Asia,Maldives,Wine,Production,2013,1000 hl,0
+Asia,Maldives,Wine,Production,2014,1000 hl,0
+Asia,Maldives,Wine,Production,2015,1000 hl,0
+Asia,Maldives,Wine,Production,2016,1000 hl,0
+Asia,Maldives,Wine,Production,2017,1000 hl,0
+Asia,Maldives,Wine,Production,2018,1000 hl,0
+Asia,Maldives,Wine,Production,2019,1000 hl,0
+Asia,Maldives,Wine,Production,2020,1000 hl,0
+Asia,Maldives,Wine,Production,2021,1000 hl,0
+Asia,Maldives,Wine,Production,2022,1000 hl,0
+Africa,Mali,Wine,Production,2009,1000 hl,0
+Africa,Mali,Wine,Production,2010,1000 hl,0
+Africa,Mali,Wine,Production,2011,1000 hl,0
+Africa,Mali,Wine,Production,2012,1000 hl,0
+Africa,Mali,Wine,Production,2013,1000 hl,0
+Africa,Mali,Wine,Production,2014,1000 hl,0
+Africa,Mali,Wine,Production,2015,1000 hl,0
+Africa,Mali,Wine,Production,2016,1000 hl,0
+Africa,Mali,Wine,Production,2017,1000 hl,0
+Africa,Mali,Wine,Production,2018,1000 hl,0
+Africa,Mali,Wine,Production,2019,1000 hl,0
+Africa,Mali,Wine,Production,2020,1000 hl,0
+Africa,Mali,Wine,Production,2021,1000 hl,0
+Africa,Mali,Wine,Production,2022,1000 hl,0
+Europe,Malta,Wine,Production,2009,1000 hl,  37
+Europe,Malta,Wine,Production,2010,1000 hl,  15
+Europe,Malta,Wine,Production,2011,1000 hl,  15
+Europe,Malta,Wine,Production,2012,1000 hl,  22
+Europe,Malta,Wine,Production,2013,1000 hl,  21
+Europe,Malta,Wine,Production,2014,1000 hl,  21
+Europe,Malta,Wine,Production,2015,1000 hl,  20
+Europe,Malta,Wine,Production,2016,1000 hl,  15
+Europe,Malta,Wine,Production,2017,1000 hl,  15
+Europe,Malta,Wine,Production,2018,1000 hl,  17
+Europe,Malta,Wine,Production,2019,1000 hl,  13
+Europe,Malta,Wine,Production,2020,1000 hl,  12
+Europe,Malta,Wine,Production,2021,1000 hl,  11
+Europe,Malta,Wine,Production,2022,1000 hl,  13
+Europe,Malta,Wine,Production,2023,1000 hl,  13
+Oceania,Marshall Islands,Wine,Production,2009,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2010,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2011,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2012,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2013,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2014,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2015,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2016,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2017,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2018,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2019,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2020,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2021,1000 hl,0
+Oceania,Marshall Islands,Wine,Production,2022,1000 hl,0
+America,Martinique,Wine,Production,2009,1000 hl,0
+America,Martinique,Wine,Production,2010,1000 hl,0
+America,Martinique,Wine,Production,2011,1000 hl,0
+America,Martinique,Wine,Production,2012,1000 hl,0
+America,Martinique,Wine,Production,2013,1000 hl,0
+America,Martinique,Wine,Production,2014,1000 hl,0
+America,Martinique,Wine,Production,2015,1000 hl,0
+America,Martinique,Wine,Production,2016,1000 hl,0
+America,Martinique,Wine,Production,2017,1000 hl,0
+America,Martinique,Wine,Production,2018,1000 hl,0
+America,Martinique,Wine,Production,2019,1000 hl,0
+America,Martinique,Wine,Production,2020,1000 hl,0
+America,Martinique,Wine,Production,2021,1000 hl,0
+America,Martinique,Wine,Production,2022,1000 hl,0
+Africa,Mauritania,Wine,Production,2009,1000 hl,0
+Africa,Mauritania,Wine,Production,2010,1000 hl,0
+Africa,Mauritania,Wine,Production,2011,1000 hl,0
+Africa,Mauritania,Wine,Production,2012,1000 hl,0
+Africa,Mauritania,Wine,Production,2013,1000 hl,0
+Africa,Mauritania,Wine,Production,2014,1000 hl,0
+Africa,Mauritania,Wine,Production,2015,1000 hl,0
+Africa,Mauritania,Wine,Production,2016,1000 hl,0
+Africa,Mauritania,Wine,Production,2017,1000 hl,0
+Africa,Mauritania,Wine,Production,2018,1000 hl,0
+Africa,Mauritania,Wine,Production,2019,1000 hl,0
+Africa,Mauritania,Wine,Production,2020,1000 hl,0
+Africa,Mauritania,Wine,Production,2021,1000 hl,0
+Africa,Mauritania,Wine,Production,2022,1000 hl,0
+Africa,Mauritius,Wine,Production,2009,1000 hl,0
+Africa,Mauritius,Wine,Production,2010,1000 hl,0
+Africa,Mauritius,Wine,Production,2011,1000 hl,0
+Africa,Mauritius,Wine,Production,2012,1000 hl,0
+Africa,Mauritius,Wine,Production,2013,1000 hl,0
+Africa,Mauritius,Wine,Production,2014,1000 hl,0
+Africa,Mauritius,Wine,Production,2015,1000 hl,0
+Africa,Mauritius,Wine,Production,2016,1000 hl,0
+Africa,Mauritius,Wine,Production,2017,1000 hl,  39
+Africa,Mauritius,Wine,Production,2018,1000 hl,  35
+Africa,Mauritius,Wine,Production,2019,1000 hl,  41
+Africa,Mauritius,Wine,Production,2020,1000 hl,  32
+Africa,Mauritius,Wine,Production,2021,1000 hl,  32
+Africa,Mauritius,Wine,Production,2022,1000 hl,  32
+Africa,Mauritius,Wine,Production,2023,1000 hl,  34
+America,Mexico,Wine,Production,2009,1000 hl,  353
+America,Mexico,Wine,Production,2010,1000 hl,  346
+America,Mexico,Wine,Production,2011,1000 hl,  385
+America,Mexico,Wine,Production,2012,1000 hl,  394
+America,Mexico,Wine,Production,2013,1000 hl,  418
+America,Mexico,Wine,Production,2014,1000 hl,  397
+America,Mexico,Wine,Production,2015,1000 hl,  425
+America,Mexico,Wine,Production,2016,1000 hl,  404
+America,Mexico,Wine,Production,2017,1000 hl,  387
+America,Mexico,Wine,Production,2018,1000 hl,  406
+America,Mexico,Wine,Production,2019,1000 hl,  406
+America,Mexico,Wine,Production,2020,1000 hl,  398
+America,Mexico,Wine,Production,2021,1000 hl,  396
+America,Mexico,Wine,Production,2022,1000 hl,  404
+America,Mexico,Wine,Production,2023,1000 hl,  401
+Oceania,Micronesia,Wine,Production,2009,1000 hl,0
+Oceania,Micronesia,Wine,Production,2010,1000 hl,0
+Oceania,Micronesia,Wine,Production,2011,1000 hl,0
+Oceania,Micronesia,Wine,Production,2012,1000 hl,0
+Oceania,Micronesia,Wine,Production,2013,1000 hl,0
+Oceania,Micronesia,Wine,Production,2014,1000 hl,0
+Oceania,Micronesia,Wine,Production,2015,1000 hl,0
+Oceania,Micronesia,Wine,Production,2016,1000 hl,0
+Oceania,Micronesia,Wine,Production,2017,1000 hl,0
+Oceania,Micronesia,Wine,Production,2018,1000 hl,0
+Oceania,Micronesia,Wine,Production,2019,1000 hl,0
+Oceania,Micronesia,Wine,Production,2020,1000 hl,0
+Oceania,Micronesia,Wine,Production,2021,1000 hl,0
+Oceania,Micronesia,Wine,Production,2022,1000 hl,0
+Europe,Moldova,Wine,Production,2009,1000 hl, 1 590
+Europe,Moldova,Wine,Production,2010,1000 hl,  840
+Europe,Moldova,Wine,Production,2011,1000 hl, 1 520
+Europe,Moldova,Wine,Production,2012,1000 hl, 1 470
+Europe,Moldova,Wine,Production,2013,1000 hl, 2 570
+Europe,Moldova,Wine,Production,2014,1000 hl, 1 630
+Europe,Moldova,Wine,Production,2015,1000 hl, 1 560
+Europe,Moldova,Wine,Production,2016,1000 hl, 1 495
+Europe,Moldova,Wine,Production,2017,1000 hl, 1 801
+Europe,Moldova,Wine,Production,2018,1000 hl, 1 900
+Europe,Moldova,Wine,Production,2019,1000 hl, 1 460
+Europe,Moldova,Wine,Production,2020,1000 hl,  920
+Europe,Moldova,Wine,Production,2021,1000 hl, 1 430
+Europe,Moldova,Wine,Production,2022,1000 hl, 1 400
+Europe,Moldova,Wine,Production,2023,1000 hl, 1 778
+Europe,Monaco,Wine,Production,2009,1000 hl,0
+Europe,Monaco,Wine,Production,2010,1000 hl,0
+Europe,Monaco,Wine,Production,2011,1000 hl,0
+Europe,Monaco,Wine,Production,2012,1000 hl,0
+Europe,Monaco,Wine,Production,2013,1000 hl,0
+Europe,Monaco,Wine,Production,2014,1000 hl,0
+Europe,Monaco,Wine,Production,2015,1000 hl,0
+Europe,Monaco,Wine,Production,2016,1000 hl,0
+Europe,Monaco,Wine,Production,2017,1000 hl,0
+Europe,Monaco,Wine,Production,2018,1000 hl,0
+Europe,Monaco,Wine,Production,2019,1000 hl,0
+Europe,Monaco,Wine,Production,2020,1000 hl,0
+Europe,Monaco,Wine,Production,2021,1000 hl,0
+Europe,Monaco,Wine,Production,2022,1000 hl,0
+Asia,Mongolia,Wine,Production,2009,1000 hl,0
+Asia,Mongolia,Wine,Production,2010,1000 hl,0
+Asia,Mongolia,Wine,Production,2011,1000 hl,0
+Asia,Mongolia,Wine,Production,2012,1000 hl,0
+Asia,Mongolia,Wine,Production,2013,1000 hl,0
+Asia,Mongolia,Wine,Production,2014,1000 hl,0
+Asia,Mongolia,Wine,Production,2015,1000 hl,  1
+Asia,Mongolia,Wine,Production,2016,1000 hl,  1
+Asia,Mongolia,Wine,Production,2017,1000 hl,  1
+Asia,Mongolia,Wine,Production,2018,1000 hl,  1
+Asia,Mongolia,Wine,Production,2019,1000 hl,  3
+Asia,Mongolia,Wine,Production,2020,1000 hl,  3
+Asia,Mongolia,Wine,Production,2021,1000 hl,  4
+Asia,Mongolia,Wine,Production,2022,1000 hl,  4
+Asia,Mongolia,Wine,Production,2023,1000 hl,  3
+Europe,Montenegro,Wine,Production,2009,1000 hl,  171
+Europe,Montenegro,Wine,Production,2010,1000 hl,  180
+Europe,Montenegro,Wine,Production,2011,1000 hl,  118
+Europe,Montenegro,Wine,Production,2012,1000 hl,  174
+Europe,Montenegro,Wine,Production,2013,1000 hl,  160
+Europe,Montenegro,Wine,Production,2014,1000 hl,  97
+Europe,Montenegro,Wine,Production,2015,1000 hl,  113
+Europe,Montenegro,Wine,Production,2016,1000 hl,  101
+Europe,Montenegro,Wine,Production,2017,1000 hl,  110
+Europe,Montenegro,Wine,Production,2018,1000 hl,  88
+Europe,Montenegro,Wine,Production,2019,1000 hl,  102
+Europe,Montenegro,Wine,Production,2020,1000 hl,  70
+Europe,Montenegro,Wine,Production,2021,1000 hl,  70
+Europe,Montenegro,Wine,Production,2022,1000 hl,  88
+Europe,Montenegro,Wine,Production,2023,1000 hl,  84
+America,Montserrat,Wine,Production,2009,1000 hl,0
+America,Montserrat,Wine,Production,2010,1000 hl,0
+America,Montserrat,Wine,Production,2011,1000 hl,0
+America,Montserrat,Wine,Production,2012,1000 hl,0
+America,Montserrat,Wine,Production,2013,1000 hl,0
+America,Montserrat,Wine,Production,2014,1000 hl,0
+America,Montserrat,Wine,Production,2015,1000 hl,0
+America,Montserrat,Wine,Production,2016,1000 hl,0
+America,Montserrat,Wine,Production,2017,1000 hl,0
+America,Montserrat,Wine,Production,2018,1000 hl,0
+America,Montserrat,Wine,Production,2019,1000 hl,0
+America,Montserrat,Wine,Production,2020,1000 hl,0
+America,Montserrat,Wine,Production,2021,1000 hl,0
+America,Montserrat,Wine,Production,2022,1000 hl,0
+Africa,Morocco,Wine,Production,2009,1000 hl,  295
+Africa,Morocco,Wine,Production,2010,1000 hl,  337
+Africa,Morocco,Wine,Production,2011,1000 hl,  340
+Africa,Morocco,Wine,Production,2012,1000 hl,  345
+Africa,Morocco,Wine,Production,2013,1000 hl,  370
+Africa,Morocco,Wine,Production,2014,1000 hl,  327
+Africa,Morocco,Wine,Production,2015,1000 hl,  386
+Africa,Morocco,Wine,Production,2016,1000 hl,  325
+Africa,Morocco,Wine,Production,2017,1000 hl,  344
+Africa,Morocco,Wine,Production,2018,1000 hl,  408
+Africa,Morocco,Wine,Production,2019,1000 hl,  474
+Africa,Morocco,Wine,Production,2020,1000 hl,  409
+Africa,Morocco,Wine,Production,2021,1000 hl,  431
+Africa,Morocco,Wine,Production,2022,1000 hl,  413
+Africa,Morocco,Wine,Production,2023,1000 hl,  427
+Africa,Mozambique,Wine,Production,2009,1000 hl,0
+Africa,Mozambique,Wine,Production,2010,1000 hl,0
+Africa,Mozambique,Wine,Production,2011,1000 hl,0
+Africa,Mozambique,Wine,Production,2012,1000 hl,0
+Africa,Mozambique,Wine,Production,2013,1000 hl,0
+Africa,Mozambique,Wine,Production,2014,1000 hl,0
+Africa,Mozambique,Wine,Production,2015,1000 hl,0
+Africa,Mozambique,Wine,Production,2016,1000 hl,0
+Africa,Mozambique,Wine,Production,2017,1000 hl,0
+Africa,Mozambique,Wine,Production,2018,1000 hl,0
+Africa,Mozambique,Wine,Production,2019,1000 hl,0
+Africa,Mozambique,Wine,Production,2020,1000 hl,0
+Africa,Mozambique,Wine,Production,2021,1000 hl,0
+Africa,Mozambique,Wine,Production,2022,1000 hl,0
+Asia,Myanmar,Wine,Production,2009,1000 hl,0
+Asia,Myanmar,Wine,Production,2010,1000 hl,0
+Asia,Myanmar,Wine,Production,2011,1000 hl,0
+Asia,Myanmar,Wine,Production,2012,1000 hl,0
+Asia,Myanmar,Wine,Production,2013,1000 hl,0
+Asia,Myanmar,Wine,Production,2014,1000 hl,0
+Asia,Myanmar,Wine,Production,2015,1000 hl,0
+Asia,Myanmar,Wine,Production,2016,1000 hl,0
+Asia,Myanmar,Wine,Production,2017,1000 hl,0
+Asia,Myanmar,Wine,Production,2018,1000 hl,0
+Asia,Myanmar,Wine,Production,2019,1000 hl,0
+Asia,Myanmar,Wine,Production,2020,1000 hl,0
+Asia,Myanmar,Wine,Production,2021,1000 hl,0
+Asia,Myanmar,Wine,Production,2022,1000 hl,0
+Africa,Namibia,Wine,Production,2009,1000 hl,0
+Africa,Namibia,Wine,Production,2010,1000 hl,0
+Africa,Namibia,Wine,Production,2011,1000 hl,0
+Africa,Namibia,Wine,Production,2012,1000 hl,0
+Africa,Namibia,Wine,Production,2013,1000 hl,0
+Africa,Namibia,Wine,Production,2014,1000 hl,0
+Africa,Namibia,Wine,Production,2015,1000 hl,0
+Africa,Namibia,Wine,Production,2016,1000 hl,0
+Africa,Namibia,Wine,Production,2017,1000 hl,0
+Africa,Namibia,Wine,Production,2018,1000 hl,0
+Africa,Namibia,Wine,Production,2019,1000 hl,0
+Africa,Namibia,Wine,Production,2020,1000 hl,0
+Africa,Namibia,Wine,Production,2021,1000 hl,0
+Africa,Namibia,Wine,Production,2022,1000 hl,0
+Africa,Namibia,Wine,Production,2023,1000 hl,0
+Oceania,Nauru,Wine,Production,2009,1000 hl,0
+Oceania,Nauru,Wine,Production,2010,1000 hl,0
+Oceania,Nauru,Wine,Production,2011,1000 hl,0
+Oceania,Nauru,Wine,Production,2012,1000 hl,0
+Oceania,Nauru,Wine,Production,2013,1000 hl,0
+Oceania,Nauru,Wine,Production,2014,1000 hl,0
+Oceania,Nauru,Wine,Production,2015,1000 hl,0
+Oceania,Nauru,Wine,Production,2016,1000 hl,0
+Oceania,Nauru,Wine,Production,2017,1000 hl,0
+Oceania,Nauru,Wine,Production,2018,1000 hl,0
+Oceania,Nauru,Wine,Production,2019,1000 hl,0
+Oceania,Nauru,Wine,Production,2020,1000 hl,0
+Oceania,Nauru,Wine,Production,2021,1000 hl,0
+Oceania,Nauru,Wine,Production,2022,1000 hl,0
+Asia,Nepal,Wine,Production,2009,1000 hl,0
+Asia,Nepal,Wine,Production,2010,1000 hl,0
+Asia,Nepal,Wine,Production,2011,1000 hl,0
+Asia,Nepal,Wine,Production,2012,1000 hl,0
+Asia,Nepal,Wine,Production,2013,1000 hl,0
+Asia,Nepal,Wine,Production,2014,1000 hl,0
+Asia,Nepal,Wine,Production,2015,1000 hl,0
+Asia,Nepal,Wine,Production,2016,1000 hl,0
+Asia,Nepal,Wine,Production,2017,1000 hl,0
+Asia,Nepal,Wine,Production,2018,1000 hl,0
+Asia,Nepal,Wine,Production,2019,1000 hl,0
+Asia,Nepal,Wine,Production,2020,1000 hl,0
+Asia,Nepal,Wine,Production,2021,1000 hl,0
+Asia,Nepal,Wine,Production,2022,1000 hl,0
+Europe,Netherlands,Wine,Production,2010,1000 hl,  1
+Europe,Netherlands,Wine,Production,2011,1000 hl,  1
+Europe,Netherlands,Wine,Production,2012,1000 hl,  1
+Europe,Netherlands,Wine,Production,2013,1000 hl,  8
+Europe,Netherlands,Wine,Production,2014,1000 hl,  7
+Europe,Netherlands,Wine,Production,2015,1000 hl,  8
+Europe,Netherlands,Wine,Production,2016,1000 hl,  8
+Europe,Netherlands,Wine,Production,2017,1000 hl,  6
+Europe,Netherlands,Wine,Production,2018,1000 hl,  6
+Europe,Netherlands,Wine,Production,2019,1000 hl,  8
+Europe,Netherlands,Wine,Production,2020,1000 hl,  8
+Europe,Netherlands,Wine,Production,2021,1000 hl,  8
+Europe,Netherlands,Wine,Production,2022,1000 hl,  10
+Europe,Netherlands,Wine,Production,2023,1000 hl,  13
+America,Netherlands Antilles,Wine,Production,2009,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2010,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2011,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2012,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2013,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2014,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2015,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2016,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2017,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2018,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2019,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2020,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2021,1000 hl,0
+America,Netherlands Antilles,Wine,Production,2022,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2009,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2010,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2011,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2012,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2013,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2014,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2015,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2016,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2017,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2018,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2019,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2020,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2021,1000 hl,0
+Oceania,New Caledonia,Wine,Production,2022,1000 hl,0
+Oceania,New Zealand,Wine,Production,2009,1000 hl, 2 050
+Oceania,New Zealand,Wine,Production,2010,1000 hl, 1 900
+Oceania,New Zealand,Wine,Production,2011,1000 hl, 2 350
+Oceania,New Zealand,Wine,Production,2012,1000 hl, 1 940
+Oceania,New Zealand,Wine,Production,2013,1000 hl, 2 484
+Oceania,New Zealand,Wine,Production,2014,1000 hl, 3 204
+Oceania,New Zealand,Wine,Production,2015,1000 hl, 2 347
+Oceania,New Zealand,Wine,Production,2016,1000 hl, 3 139
+Oceania,New Zealand,Wine,Production,2017,1000 hl, 2 851
+Oceania,New Zealand,Wine,Production,2018,1000 hl, 3 017
+Oceania,New Zealand,Wine,Production,2019,1000 hl, 2 974
+Oceania,New Zealand,Wine,Production,2020,1000 hl, 3 290
+Oceania,New Zealand,Wine,Production,2021,1000 hl, 2 664
+Oceania,New Zealand,Wine,Production,2022,1000 hl, 3 830
+Oceania,New Zealand,Wine,Production,2023,1000 hl, 3 607
+America,Nicaragua,Wine,Production,2009,1000 hl,0
+America,Nicaragua,Wine,Production,2010,1000 hl,0
+America,Nicaragua,Wine,Production,2011,1000 hl,0
+America,Nicaragua,Wine,Production,2012,1000 hl,0
+America,Nicaragua,Wine,Production,2013,1000 hl,0
+America,Nicaragua,Wine,Production,2014,1000 hl,0
+America,Nicaragua,Wine,Production,2015,1000 hl,0
+America,Nicaragua,Wine,Production,2016,1000 hl,0
+America,Nicaragua,Wine,Production,2017,1000 hl,0
+America,Nicaragua,Wine,Production,2018,1000 hl,0
+America,Nicaragua,Wine,Production,2019,1000 hl,0
+America,Nicaragua,Wine,Production,2020,1000 hl,0
+America,Nicaragua,Wine,Production,2021,1000 hl,0
+America,Nicaragua,Wine,Production,2022,1000 hl,0
+Africa,Niger,Wine,Production,2009,1000 hl,0
+Africa,Niger,Wine,Production,2010,1000 hl,0
+Africa,Niger,Wine,Production,2011,1000 hl,0
+Africa,Niger,Wine,Production,2012,1000 hl,0
+Africa,Niger,Wine,Production,2013,1000 hl,0
+Africa,Niger,Wine,Production,2014,1000 hl,0
+Africa,Niger,Wine,Production,2015,1000 hl,0
+Africa,Niger,Wine,Production,2016,1000 hl,0
+Africa,Niger,Wine,Production,2017,1000 hl,0
+Africa,Niger,Wine,Production,2018,1000 hl,0
+Africa,Niger,Wine,Production,2019,1000 hl,0
+Africa,Niger,Wine,Production,2020,1000 hl,0
+Africa,Niger,Wine,Production,2021,1000 hl,0
+Africa,Niger,Wine,Production,2022,1000 hl,0
+Africa,Nigeria,Wine,Production,2009,1000 hl,0
+Africa,Nigeria,Wine,Production,2010,1000 hl,0
+Africa,Nigeria,Wine,Production,2011,1000 hl,0
+Africa,Nigeria,Wine,Production,2012,1000 hl,0
+Africa,Nigeria,Wine,Production,2013,1000 hl,0
+Africa,Nigeria,Wine,Production,2014,1000 hl,0
+Africa,Nigeria,Wine,Production,2015,1000 hl,0
+Africa,Nigeria,Wine,Production,2016,1000 hl,0
+Africa,Nigeria,Wine,Production,2017,1000 hl,0
+Africa,Nigeria,Wine,Production,2018,1000 hl,0
+Africa,Nigeria,Wine,Production,2019,1000 hl,0
+Africa,Nigeria,Wine,Production,2020,1000 hl,0
+Africa,Nigeria,Wine,Production,2021,1000 hl,0
+Africa,Nigeria,Wine,Production,2022,1000 hl,0
+Oceania,Niue,Wine,Production,2009,1000 hl,0
+Oceania,Niue,Wine,Production,2010,1000 hl,0
+Oceania,Niue,Wine,Production,2011,1000 hl,0
+Oceania,Niue,Wine,Production,2012,1000 hl,0
+Oceania,Niue,Wine,Production,2013,1000 hl,0
+Oceania,Niue,Wine,Production,2014,1000 hl,0
+Oceania,Niue,Wine,Production,2015,1000 hl,0
+Oceania,Niue,Wine,Production,2016,1000 hl,0
+Oceania,Niue,Wine,Production,2017,1000 hl,0
+Oceania,Niue,Wine,Production,2018,1000 hl,0
+Oceania,Niue,Wine,Production,2019,1000 hl,0
+Oceania,Niue,Wine,Production,2020,1000 hl,0
+Oceania,Niue,Wine,Production,2021,1000 hl,0
+Oceania,Niue,Wine,Production,2022,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2009,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2010,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2011,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2012,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2013,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2014,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2015,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2016,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2017,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2018,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2019,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2020,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2021,1000 hl,0
+Oceania,Norfolk Island,Wine,Production,2022,1000 hl,0
+Europe,Norway,Wine,Production,2009,1000 hl,0
+Europe,Norway,Wine,Production,2010,1000 hl,0
+Europe,Norway,Wine,Production,2011,1000 hl,0
+Europe,Norway,Wine,Production,2012,1000 hl,0
+Europe,Norway,Wine,Production,2013,1000 hl,0
+Europe,Norway,Wine,Production,2014,1000 hl,0
+Europe,Norway,Wine,Production,2015,1000 hl,0
+Europe,Norway,Wine,Production,2016,1000 hl,0
+Europe,Norway,Wine,Production,2017,1000 hl,0
+Europe,Norway,Wine,Production,2018,1000 hl,0
+Europe,Norway,Wine,Production,2019,1000 hl,0
+Europe,Norway,Wine,Production,2020,1000 hl,0
+Europe,Norway,Wine,Production,2021,1000 hl,0
+Europe,Norway,Wine,Production,2022,1000 hl,0
+Asia,Oman,Wine,Production,2009,1000 hl,0
+Asia,Oman,Wine,Production,2010,1000 hl,0
+Asia,Oman,Wine,Production,2011,1000 hl,0
+Asia,Oman,Wine,Production,2012,1000 hl,0
+Asia,Oman,Wine,Production,2013,1000 hl,0
+Asia,Oman,Wine,Production,2014,1000 hl,0
+Asia,Oman,Wine,Production,2015,1000 hl,0
+Asia,Oman,Wine,Production,2016,1000 hl,0
+Asia,Oman,Wine,Production,2017,1000 hl,0
+Asia,Oman,Wine,Production,2018,1000 hl,0
+Asia,Oman,Wine,Production,2019,1000 hl,0
+Asia,Oman,Wine,Production,2020,1000 hl,0
+Asia,Oman,Wine,Production,2021,1000 hl,0
+Asia,Oman,Wine,Production,2022,1000 hl,0
+Asia,Pakistan,Wine,Production,2009,1000 hl,0
+Asia,Pakistan,Wine,Production,2010,1000 hl,0
+Asia,Pakistan,Wine,Production,2011,1000 hl,0
+Asia,Pakistan,Wine,Production,2012,1000 hl,0
+Asia,Pakistan,Wine,Production,2013,1000 hl,0
+Asia,Pakistan,Wine,Production,2014,1000 hl,0
+Asia,Pakistan,Wine,Production,2015,1000 hl,0
+Asia,Pakistan,Wine,Production,2016,1000 hl,0
+Asia,Pakistan,Wine,Production,2017,1000 hl,0
+Asia,Pakistan,Wine,Production,2018,1000 hl,0
+Asia,Pakistan,Wine,Production,2019,1000 hl,0
+Asia,Pakistan,Wine,Production,2020,1000 hl,0
+Asia,Pakistan,Wine,Production,2021,1000 hl,0
+Asia,Pakistan,Wine,Production,2022,1000 hl,0
+Oceania,Palau,Wine,Production,2009,1000 hl,0
+Oceania,Palau,Wine,Production,2010,1000 hl,0
+Oceania,Palau,Wine,Production,2011,1000 hl,0
+Oceania,Palau,Wine,Production,2012,1000 hl,0
+Oceania,Palau,Wine,Production,2013,1000 hl,0
+Oceania,Palau,Wine,Production,2014,1000 hl,0
+Oceania,Palau,Wine,Production,2015,1000 hl,0
+Oceania,Palau,Wine,Production,2016,1000 hl,0
+Oceania,Palau,Wine,Production,2017,1000 hl,0
+Oceania,Palau,Wine,Production,2018,1000 hl,0
+Oceania,Palau,Wine,Production,2019,1000 hl,0
+Oceania,Palau,Wine,Production,2020,1000 hl,0
+Oceania,Palau,Wine,Production,2021,1000 hl,0
+Oceania,Palau,Wine,Production,2022,1000 hl,0
+America,Panama,Wine,Production,2009,1000 hl,  1
+America,Panama,Wine,Production,2010,1000 hl,  2
+America,Panama,Wine,Production,2011,1000 hl,  1
+America,Panama,Wine,Production,2012,1000 hl,  1
+America,Panama,Wine,Production,2013,1000 hl,  1
+America,Panama,Wine,Production,2014,1000 hl,  2
+America,Panama,Wine,Production,2015,1000 hl,  1
+America,Panama,Wine,Production,2016,1000 hl,  1
+America,Panama,Wine,Production,2017,1000 hl,  1
+America,Panama,Wine,Production,2018,1000 hl,  1
+America,Panama,Wine,Production,2019,1000 hl,  1
+America,Panama,Wine,Production,2020,1000 hl,  1
+America,Panama,Wine,Production,2021,1000 hl,  1
+America,Panama,Wine,Production,2022,1000 hl,  1
+America,Panama,Wine,Production,2023,1000 hl,  1
+Oceania,Papua New Guinea,Wine,Production,2009,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2010,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2011,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2012,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2013,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2014,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2015,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2016,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2017,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2018,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2019,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2020,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2021,1000 hl,0
+Oceania,Papua New Guinea,Wine,Production,2022,1000 hl,0
+America,Paraguay,Wine,Production,2009,1000 hl,  14
+America,Paraguay,Wine,Production,2010,1000 hl,  13
+America,Paraguay,Wine,Production,2011,1000 hl,  14
+America,Paraguay,Wine,Production,2012,1000 hl,  14
+America,Paraguay,Wine,Production,2013,1000 hl,  14
+America,Paraguay,Wine,Production,2014,1000 hl,  15
+America,Paraguay,Wine,Production,2015,1000 hl,  15
+America,Paraguay,Wine,Production,2016,1000 hl,  16
+America,Paraguay,Wine,Production,2017,1000 hl,  16
+America,Paraguay,Wine,Production,2018,1000 hl,  19
+America,Paraguay,Wine,Production,2019,1000 hl,  18
+America,Paraguay,Wine,Production,2020,1000 hl,  17
+America,Paraguay,Wine,Production,2021,1000 hl,  20
+America,Paraguay,Wine,Production,2022,1000 hl,  18
+America,Paraguay,Wine,Production,2023,1000 hl,  18
+Asia,People's Republic of China,Wine,Production,2009,1000 hl, 12 800
+Asia,People's Republic of China,Wine,Production,2010,1000 hl, 13 000
+Asia,People's Republic of China,Wine,Production,2011,1000 hl, 13 426
+Asia,People's Republic of China,Wine,Production,2012,1000 hl, 16 065
+Asia,People's Republic of China,Wine,Production,2013,1000 hl, 13 693
+Asia,People's Republic of China,Wine,Production,2014,1000 hl, 13 496
+Asia,People's Republic of China,Wine,Production,2015,1000 hl, 13 345
+Asia,People's Republic of China,Wine,Production,2016,1000 hl, 13 217
+Asia,People's Republic of China,Wine,Production,2017,1000 hl, 11 636
+Asia,People's Republic of China,Wine,Production,2018,1000 hl, 9 269
+Asia,People's Republic of China,Wine,Production,2019,1000 hl, 7 824
+Asia,People's Republic of China,Wine,Production,2020,1000 hl, 6 587
+Asia,People's Republic of China,Wine,Production,2021,1000 hl, 5 908
+Asia,People's Republic of China,Wine,Production,2022,1000 hl, 4 727
+Asia,People's Republic of China,Wine,Production,2023,1000 hl, 3 167
+America,Peru,Wine,Production,2009,1000 hl,  515
+America,Peru,Wine,Production,2010,1000 hl,  520
+America,Peru,Wine,Production,2011,1000 hl,  630
+America,Peru,Wine,Production,2012,1000 hl,  650
+America,Peru,Wine,Production,2013,1000 hl,  700
+America,Peru,Wine,Production,2014,1000 hl,  730
+America,Peru,Wine,Production,2015,1000 hl,  747
+America,Peru,Wine,Production,2016,1000 hl,  750
+America,Peru,Wine,Production,2017,1000 hl,  765
+America,Peru,Wine,Production,2018,1000 hl,  820
+America,Peru,Wine,Production,2019,1000 hl,  820
+America,Peru,Wine,Production,2020,1000 hl,  810
+America,Peru,Wine,Production,2021,1000 hl,  810
+America,Peru,Wine,Production,2022,1000 hl,  805
+America,Peru,Wine,Production,2023,1000 hl,  813
+Asia,Philippines,Wine,Production,2009,1000 hl,0
+Asia,Philippines,Wine,Production,2010,1000 hl,0
+Asia,Philippines,Wine,Production,2011,1000 hl,0
+Asia,Philippines,Wine,Production,2012,1000 hl,0
+Asia,Philippines,Wine,Production,2013,1000 hl,0
+Asia,Philippines,Wine,Production,2014,1000 hl,0
+Asia,Philippines,Wine,Production,2015,1000 hl,0
+Asia,Philippines,Wine,Production,2016,1000 hl,0
+Asia,Philippines,Wine,Production,2017,1000 hl,0
+Asia,Philippines,Wine,Production,2018,1000 hl,0
+Asia,Philippines,Wine,Production,2019,1000 hl,0
+Asia,Philippines,Wine,Production,2020,1000 hl,0
+Asia,Philippines,Wine,Production,2021,1000 hl,0
+Asia,Philippines,Wine,Production,2022,1000 hl,0
+Europe,Poland,Wine,Production,2009,1000 hl,0
+Europe,Poland,Wine,Production,2010,1000 hl,0
+Europe,Poland,Wine,Production,2011,1000 hl,0
+Europe,Poland,Wine,Production,2012,1000 hl,0
+Europe,Poland,Wine,Production,2013,1000 hl,  5
+Europe,Poland,Wine,Production,2014,1000 hl,  5
+Europe,Poland,Wine,Production,2015,1000 hl,  5
+Europe,Poland,Wine,Production,2016,1000 hl,  5
+Europe,Poland,Wine,Production,2017,1000 hl,  5
+Europe,Poland,Wine,Production,2018,1000 hl,  5
+Europe,Poland,Wine,Production,2019,1000 hl,  5
+Europe,Poland,Wine,Production,2020,1000 hl,  5
+Europe,Poland,Wine,Production,2021,1000 hl,  5
+Europe,Poland,Wine,Production,2022,1000 hl,  5
+Europe,Poland,Wine,Production,2023,1000 hl,  5
+Europe,Portugal,Wine,Production,2009,1000 hl, 5 894
+Europe,Portugal,Wine,Production,2010,1000 hl, 7 148
+Europe,Portugal,Wine,Production,2011,1000 hl, 5 622
+Europe,Portugal,Wine,Production,2012,1000 hl, 6 327
+Europe,Portugal,Wine,Production,2013,1000 hl, 6 231
+Europe,Portugal,Wine,Production,2014,1000 hl, 6 206
+Europe,Portugal,Wine,Production,2015,1000 hl, 7 048
+Europe,Portugal,Wine,Production,2016,1000 hl, 6 010
+Europe,Portugal,Wine,Production,2017,1000 hl, 6 737
+Europe,Portugal,Wine,Production,2018,1000 hl, 6 060
+Europe,Portugal,Wine,Production,2019,1000 hl, 6 527
+Europe,Portugal,Wine,Production,2020,1000 hl, 6 418
+Europe,Portugal,Wine,Production,2021,1000 hl, 7 359
+Europe,Portugal,Wine,Production,2022,1000 hl, 6 848
+Europe,Portugal,Wine,Production,2023,1000 hl, 7 542
+Asia,Qatar,Wine,Production,2009,1000 hl,0
+Asia,Qatar,Wine,Production,2010,1000 hl,0
+Asia,Qatar,Wine,Production,2011,1000 hl,0
+Asia,Qatar,Wine,Production,2012,1000 hl,0
+Asia,Qatar,Wine,Production,2013,1000 hl,0
+Asia,Qatar,Wine,Production,2014,1000 hl,0
+Asia,Qatar,Wine,Production,2015,1000 hl,0
+Asia,Qatar,Wine,Production,2016,1000 hl,0
+Asia,Qatar,Wine,Production,2017,1000 hl,0
+Asia,Qatar,Wine,Production,2018,1000 hl,0
+Asia,Qatar,Wine,Production,2019,1000 hl,0
+Asia,Qatar,Wine,Production,2020,1000 hl,0
+Asia,Qatar,Wine,Production,2021,1000 hl,0
+Asia,Qatar,Wine,Production,2022,1000 hl,0
+Europe,Republic of North Macedonia,Wine,Production,2009,1000 hl,  955
+Europe,Republic of North Macedonia,Wine,Production,2010,1000 hl,  772
+Europe,Republic of North Macedonia,Wine,Production,2011,1000 hl,  665
+Europe,Republic of North Macedonia,Wine,Production,2012,1000 hl,  781
+Europe,Republic of North Macedonia,Wine,Production,2013,1000 hl, 1 024
+Europe,Republic of North Macedonia,Wine,Production,2014,1000 hl,  790
+Europe,Republic of North Macedonia,Wine,Production,2015,1000 hl, 1 096
+Europe,Republic of North Macedonia,Wine,Production,2016,1000 hl, 1 053
+Europe,Republic of North Macedonia,Wine,Production,2017,1000 hl,  657
+Europe,Republic of North Macedonia,Wine,Production,2018,1000 hl, 1 026
+Europe,Republic of North Macedonia,Wine,Production,2019,1000 hl,  906
+Europe,Republic of North Macedonia,Wine,Production,2020,1000 hl,  744
+Europe,Republic of North Macedonia,Wine,Production,2021,1000 hl,  936
+Europe,Republic of North Macedonia,Wine,Production,2022,1000 hl,  854
+Europe,Republic of North Macedonia,Wine,Production,2023,1000 hl,  893
+Asia,Republic of Türkiye,Wine,Production,2009,1000 hl,  476
+Asia,Republic of Türkiye,Wine,Production,2010,1000 hl,  601
+Asia,Republic of Türkiye,Wine,Production,2011,1000 hl,  571
+Asia,Republic of Türkiye,Wine,Production,2012,1000 hl,  546
+Asia,Republic of Türkiye,Wine,Production,2013,1000 hl,  604
+Asia,Republic of Türkiye,Wine,Production,2014,1000 hl,  604
+Asia,Republic of Türkiye,Wine,Production,2015,1000 hl,  617
+Asia,Republic of Türkiye,Wine,Production,2016,1000 hl,  496
+Asia,Republic of Türkiye,Wine,Production,2017,1000 hl,  644
+Asia,Republic of Türkiye,Wine,Production,2018,1000 hl,  754
+Asia,Republic of Türkiye,Wine,Production,2019,1000 hl,  725
+Asia,Republic of Türkiye,Wine,Production,2020,1000 hl,  622
+Asia,Republic of Türkiye,Wine,Production,2021,1000 hl,  700
+Asia,Republic of Türkiye,Wine,Production,2022,1000 hl,  683
+Asia,Republic of Türkiye,Wine,Production,2023,1000 hl,  697
+Africa,Reunion island,Wine,Production,2009,1000 hl,0
+Africa,Reunion island,Wine,Production,2010,1000 hl,0
+Africa,Reunion island,Wine,Production,2011,1000 hl,0
+Africa,Reunion island,Wine,Production,2012,1000 hl,0
+Africa,Reunion island,Wine,Production,2013,1000 hl,0
+Africa,Reunion island,Wine,Production,2014,1000 hl,0
+Africa,Reunion island,Wine,Production,2015,1000 hl,0
+Africa,Reunion island,Wine,Production,2016,1000 hl,0
+Africa,Reunion island,Wine,Production,2017,1000 hl,0
+Africa,Reunion island,Wine,Production,2018,1000 hl,0
+Africa,Reunion island,Wine,Production,2019,1000 hl,0
+Africa,Reunion island,Wine,Production,2020,1000 hl,0
+Africa,Reunion island,Wine,Production,2021,1000 hl,0
+Africa,Reunion island,Wine,Production,2022,1000 hl,0
+Europe,Romania,Wine,Production,2009,1000 hl, 6 703
+Europe,Romania,Wine,Production,2010,1000 hl, 3 287
+Europe,Romania,Wine,Production,2011,1000 hl, 4 058
+Europe,Romania,Wine,Production,2012,1000 hl, 3 311
+Europe,Romania,Wine,Production,2013,1000 hl, 5 113
+Europe,Romania,Wine,Production,2014,1000 hl, 3 750
+Europe,Romania,Wine,Production,2015,1000 hl, 3 628
+Europe,Romania,Wine,Production,2016,1000 hl, 3 267
+Europe,Romania,Wine,Production,2017,1000 hl, 4 317
+Europe,Romania,Wine,Production,2018,1000 hl, 5 088
+Europe,Romania,Wine,Production,2019,1000 hl, 3 808
+Europe,Romania,Wine,Production,2020,1000 hl, 3 829
+Europe,Romania,Wine,Production,2021,1000 hl, 4 451
+Europe,Romania,Wine,Production,2022,1000 hl, 3 788
+Europe,Romania,Wine,Production,2023,1000 hl, 4 590
+Europe,Russia,Wine,Production,2009,1000 hl, 3 911
+Europe,Russia,Wine,Production,2010,1000 hl, 6 756
+Europe,Russia,Wine,Production,2011,1000 hl, 6 242
+Europe,Russia,Wine,Production,2012,1000 hl, 5 724
+Europe,Russia,Wine,Production,2013,1000 hl, 5 065
+Europe,Russia,Wine,Production,2014,1000 hl, 4 712
+Europe,Russia,Wine,Production,2015,1000 hl, 5 603
+Europe,Russia,Wine,Production,2016,1000 hl, 5 173
+Europe,Russia,Wine,Production,2017,1000 hl, 4 481
+Europe,Russia,Wine,Production,2018,1000 hl, 4 293
+Europe,Russia,Wine,Production,2019,1000 hl, 4 620
+Europe,Russia,Wine,Production,2020,1000 hl, 4 433
+Europe,Russia,Wine,Production,2021,1000 hl, 4 293
+Europe,Russia,Wine,Production,2022,1000 hl, 4 996
+Europe,Russia,Wine,Production,2023,1000 hl, 4 498
+Africa,Rwanda,Wine,Production,2009,1000 hl,0
+Africa,Rwanda,Wine,Production,2010,1000 hl,0
+Africa,Rwanda,Wine,Production,2011,1000 hl,0
+Africa,Rwanda,Wine,Production,2012,1000 hl,0
+Africa,Rwanda,Wine,Production,2013,1000 hl,0
+Africa,Rwanda,Wine,Production,2014,1000 hl,0
+Africa,Rwanda,Wine,Production,2015,1000 hl,0
+Africa,Rwanda,Wine,Production,2016,1000 hl,0
+Africa,Rwanda,Wine,Production,2017,1000 hl,0
+Africa,Rwanda,Wine,Production,2018,1000 hl,0
+Africa,Rwanda,Wine,Production,2019,1000 hl,0
+Africa,Rwanda,Wine,Production,2020,1000 hl,0
+Africa,Rwanda,Wine,Production,2021,1000 hl,0
+Africa,Rwanda,Wine,Production,2022,1000 hl,0
+Africa,Saint Helena,Wine,Production,2009,1000 hl,0
+Africa,Saint Helena,Wine,Production,2010,1000 hl,0
+Africa,Saint Helena,Wine,Production,2011,1000 hl,0
+Africa,Saint Helena,Wine,Production,2012,1000 hl,0
+Africa,Saint Helena,Wine,Production,2013,1000 hl,0
+Africa,Saint Helena,Wine,Production,2014,1000 hl,0
+Africa,Saint Helena,Wine,Production,2015,1000 hl,0
+Africa,Saint Helena,Wine,Production,2016,1000 hl,0
+Africa,Saint Helena,Wine,Production,2017,1000 hl,0
+Africa,Saint Helena,Wine,Production,2018,1000 hl,0
+Africa,Saint Helena,Wine,Production,2019,1000 hl,0
+Africa,Saint Helena,Wine,Production,2020,1000 hl,0
+Africa,Saint Helena,Wine,Production,2021,1000 hl,0
+Africa,Saint Helena,Wine,Production,2022,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2009,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2010,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2011,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2012,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2013,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2014,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2015,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2016,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2017,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2018,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2019,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2020,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2021,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Production,2022,1000 hl,0
+America,Saint Lucia,Wine,Production,2009,1000 hl,0
+America,Saint Lucia,Wine,Production,2010,1000 hl,0
+America,Saint Lucia,Wine,Production,2011,1000 hl,0
+America,Saint Lucia,Wine,Production,2012,1000 hl,0
+America,Saint Lucia,Wine,Production,2013,1000 hl,0
+America,Saint Lucia,Wine,Production,2014,1000 hl,0
+America,Saint Lucia,Wine,Production,2015,1000 hl,0
+America,Saint Lucia,Wine,Production,2016,1000 hl,0
+America,Saint Lucia,Wine,Production,2017,1000 hl,0
+America,Saint Lucia,Wine,Production,2018,1000 hl,0
+America,Saint Lucia,Wine,Production,2019,1000 hl,0
+America,Saint Lucia,Wine,Production,2020,1000 hl,0
+America,Saint Lucia,Wine,Production,2021,1000 hl,0
+America,Saint Lucia,Wine,Production,2022,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2009,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2010,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2011,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2012,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2013,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2014,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2015,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2016,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2017,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2018,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2019,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2020,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2021,1000 hl,0
+America,Saint Pierre And Miquelon,Wine,Production,2022,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2009,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2010,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2011,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2012,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2013,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2014,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2015,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2016,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2017,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2018,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2019,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2020,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2021,1000 hl,0
+America,Saint Vincent and the Grenadines,Wine,Production,2022,1000 hl,0
+Oceania,Samoa,Wine,Production,2009,1000 hl,0
+Oceania,Samoa,Wine,Production,2010,1000 hl,0
+Oceania,Samoa,Wine,Production,2011,1000 hl,0
+Oceania,Samoa,Wine,Production,2012,1000 hl,0
+Oceania,Samoa,Wine,Production,2013,1000 hl,0
+Oceania,Samoa,Wine,Production,2014,1000 hl,0
+Oceania,Samoa,Wine,Production,2015,1000 hl,0
+Oceania,Samoa,Wine,Production,2016,1000 hl,0
+Oceania,Samoa,Wine,Production,2017,1000 hl,0
+Oceania,Samoa,Wine,Production,2018,1000 hl,0
+Oceania,Samoa,Wine,Production,2019,1000 hl,0
+Oceania,Samoa,Wine,Production,2020,1000 hl,0
+Oceania,Samoa,Wine,Production,2021,1000 hl,0
+Oceania,Samoa,Wine,Production,2022,1000 hl,0
+Europe,San Marino,Wine,Production,2009,1000 hl,0
+Europe,San Marino,Wine,Production,2010,1000 hl,0
+Europe,San Marino,Wine,Production,2011,1000 hl,0
+Europe,San Marino,Wine,Production,2012,1000 hl,0
+Europe,San Marino,Wine,Production,2013,1000 hl,0
+Europe,San Marino,Wine,Production,2014,1000 hl,0
+Europe,San Marino,Wine,Production,2015,1000 hl,0
+Europe,San Marino,Wine,Production,2016,1000 hl,0
+Europe,San Marino,Wine,Production,2017,1000 hl,0
+Europe,San Marino,Wine,Production,2018,1000 hl,0
+Europe,San Marino,Wine,Production,2019,1000 hl,0
+Europe,San Marino,Wine,Production,2020,1000 hl,0
+Europe,San Marino,Wine,Production,2021,1000 hl,0
+Europe,San Marino,Wine,Production,2022,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2009,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2010,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2011,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2012,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2013,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2014,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2015,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2016,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2017,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2018,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2019,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2020,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2021,1000 hl,0
+Africa,Sao Tome and Principe,Wine,Production,2022,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2009,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2010,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2011,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2012,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2013,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2014,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2015,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2016,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2017,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2018,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2019,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2020,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2021,1000 hl,0
+Asia,Saudi Arabia,Wine,Production,2022,1000 hl,0
+Africa,Senegal,Wine,Production,2009,1000 hl,0
+Africa,Senegal,Wine,Production,2010,1000 hl,0
+Africa,Senegal,Wine,Production,2011,1000 hl,0
+Africa,Senegal,Wine,Production,2012,1000 hl,0
+Africa,Senegal,Wine,Production,2013,1000 hl,0
+Africa,Senegal,Wine,Production,2014,1000 hl,0
+Africa,Senegal,Wine,Production,2015,1000 hl,0
+Africa,Senegal,Wine,Production,2016,1000 hl,0
+Africa,Senegal,Wine,Production,2017,1000 hl,0
+Africa,Senegal,Wine,Production,2018,1000 hl,0
+Africa,Senegal,Wine,Production,2019,1000 hl,0
+Africa,Senegal,Wine,Production,2020,1000 hl,0
+Africa,Senegal,Wine,Production,2021,1000 hl,0
+Africa,Senegal,Wine,Production,2022,1000 hl,0
+Europe,Serbia,Wine,Production,2009,1000 hl, 2 392
+Europe,Serbia,Wine,Production,2010,1000 hl, 1 200
+Europe,Serbia,Wine,Production,2011,1000 hl, 1 949
+Europe,Serbia,Wine,Production,2012,1000 hl, 1 581
+Europe,Serbia,Wine,Production,2013,1000 hl, 1 200
+Europe,Serbia,Wine,Production,2014,1000 hl,  734
+Europe,Serbia,Wine,Production,2015,1000 hl,  758
+Europe,Serbia,Wine,Production,2016,1000 hl,  648
+Europe,Serbia,Wine,Production,2017,1000 hl,  736
+Europe,Serbia,Wine,Production,2018,1000 hl,  711
+Europe,Serbia,Wine,Production,2019,1000 hl,  617
+Europe,Serbia,Wine,Production,2020,1000 hl,  558
+Europe,Serbia,Wine,Production,2021,1000 hl,  544
+Europe,Serbia,Wine,Production,2022,1000 hl,  455
+Europe,Serbia,Wine,Production,2023,1000 hl,  442
+Europe,Serbia And Montenegro,Wine,Production,2009,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2010,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2011,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2012,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2013,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2014,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2015,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2016,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2017,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2018,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2019,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2020,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2021,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Production,2022,1000 hl,0
+Africa,Seychelles,Wine,Production,2009,1000 hl,0
+Africa,Seychelles,Wine,Production,2010,1000 hl,0
+Africa,Seychelles,Wine,Production,2011,1000 hl,0
+Africa,Seychelles,Wine,Production,2012,1000 hl,0
+Africa,Seychelles,Wine,Production,2013,1000 hl,0
+Africa,Seychelles,Wine,Production,2014,1000 hl,0
+Africa,Seychelles,Wine,Production,2015,1000 hl,0
+Africa,Seychelles,Wine,Production,2016,1000 hl,0
+Africa,Seychelles,Wine,Production,2017,1000 hl,0
+Africa,Seychelles,Wine,Production,2018,1000 hl,0
+Africa,Seychelles,Wine,Production,2019,1000 hl,0
+Africa,Seychelles,Wine,Production,2020,1000 hl,0
+Africa,Seychelles,Wine,Production,2021,1000 hl,0
+Africa,Seychelles,Wine,Production,2022,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2009,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2010,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2011,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2012,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2013,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2014,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2015,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2016,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2017,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2018,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2019,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2020,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2021,1000 hl,0
+Africa,Sierra Leone,Wine,Production,2022,1000 hl,0
+Asia,Singapore,Wine,Production,2009,1000 hl,0
+Asia,Singapore,Wine,Production,2010,1000 hl,0
+Asia,Singapore,Wine,Production,2011,1000 hl,0
+Asia,Singapore,Wine,Production,2012,1000 hl,0
+Asia,Singapore,Wine,Production,2013,1000 hl,0
+Asia,Singapore,Wine,Production,2014,1000 hl,0
+Asia,Singapore,Wine,Production,2015,1000 hl,0
+Asia,Singapore,Wine,Production,2016,1000 hl,0
+Asia,Singapore,Wine,Production,2017,1000 hl,0
+Asia,Singapore,Wine,Production,2018,1000 hl,0
+Asia,Singapore,Wine,Production,2019,1000 hl,0
+Asia,Singapore,Wine,Production,2020,1000 hl,0
+Asia,Singapore,Wine,Production,2021,1000 hl,0
+Asia,Singapore,Wine,Production,2022,1000 hl,0
+Europe,Slovakia,Wine,Production,2009,1000 hl,  330
+Europe,Slovakia,Wine,Production,2010,1000 hl,  190
+Europe,Slovakia,Wine,Production,2011,1000 hl,  343
+Europe,Slovakia,Wine,Production,2012,1000 hl,  310
+Europe,Slovakia,Wine,Production,2013,1000 hl,  318
+Europe,Slovakia,Wine,Production,2014,1000 hl,  258
+Europe,Slovakia,Wine,Production,2015,1000 hl,  340
+Europe,Slovakia,Wine,Production,2016,1000 hl,  309
+Europe,Slovakia,Wine,Production,2017,1000 hl,  298
+Europe,Slovakia,Wine,Production,2018,1000 hl,  381
+Europe,Slovakia,Wine,Production,2019,1000 hl,  319
+Europe,Slovakia,Wine,Production,2020,1000 hl,  353
+Europe,Slovakia,Wine,Production,2021,1000 hl,  346
+Europe,Slovakia,Wine,Production,2022,1000 hl,  332
+Europe,Slovakia,Wine,Production,2023,1000 hl,  254
+Europe,Slovenia,Wine,Production,2009,1000 hl,  592
+Europe,Slovenia,Wine,Production,2010,1000 hl,  570
+Europe,Slovenia,Wine,Production,2011,1000 hl,  638
+Europe,Slovenia,Wine,Production,2012,1000 hl,  484
+Europe,Slovenia,Wine,Production,2013,1000 hl,  526
+Europe,Slovenia,Wine,Production,2014,1000 hl,  494
+Europe,Slovenia,Wine,Production,2015,1000 hl,  617
+Europe,Slovenia,Wine,Production,2016,1000 hl,  739
+Europe,Slovenia,Wine,Production,2017,1000 hl,  630
+Europe,Slovenia,Wine,Production,2018,1000 hl,  889
+Europe,Slovenia,Wine,Production,2019,1000 hl,  758
+Europe,Slovenia,Wine,Production,2020,1000 hl,  743
+Europe,Slovenia,Wine,Production,2021,1000 hl,  581
+Europe,Slovenia,Wine,Production,2022,1000 hl,  546
+Europe,Slovenia,Wine,Production,2023,1000 hl,  500
+Oceania,Solomon Islands,Wine,Production,2009,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2010,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2011,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2012,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2013,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2014,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2015,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2016,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2017,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2018,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2019,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2020,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2021,1000 hl,0
+Oceania,Solomon Islands,Wine,Production,2022,1000 hl,0
+Africa,Somalia,Wine,Production,2009,1000 hl,0
+Africa,Somalia,Wine,Production,2010,1000 hl,0
+Africa,Somalia,Wine,Production,2011,1000 hl,0
+Africa,Somalia,Wine,Production,2012,1000 hl,0
+Africa,Somalia,Wine,Production,2013,1000 hl,0
+Africa,Somalia,Wine,Production,2014,1000 hl,0
+Africa,Somalia,Wine,Production,2015,1000 hl,0
+Africa,Somalia,Wine,Production,2016,1000 hl,0
+Africa,Somalia,Wine,Production,2017,1000 hl,0
+Africa,Somalia,Wine,Production,2018,1000 hl,0
+Africa,Somalia,Wine,Production,2019,1000 hl,0
+Africa,Somalia,Wine,Production,2020,1000 hl,0
+Africa,Somalia,Wine,Production,2021,1000 hl,0
+Africa,Somalia,Wine,Production,2022,1000 hl,0
+Africa,South Africa,Wine,Production,2009,1000 hl, 9 986
+Africa,South Africa,Wine,Production,2010,1000 hl, 9 327
+Africa,South Africa,Wine,Production,2011,1000 hl, 9 725
+Africa,South Africa,Wine,Production,2012,1000 hl, 10 569
+Africa,South Africa,Wine,Production,2013,1000 hl, 10 982
+Africa,South Africa,Wine,Production,2014,1000 hl, 11 460
+Africa,South Africa,Wine,Production,2015,1000 hl, 11 231
+Africa,South Africa,Wine,Production,2016,1000 hl, 10 531
+Africa,South Africa,Wine,Production,2017,1000 hl, 10 820
+Africa,South Africa,Wine,Production,2018,1000 hl, 9 503
+Africa,South Africa,Wine,Production,2019,1000 hl, 9 705
+Africa,South Africa,Wine,Production,2020,1000 hl, 10 385
+Africa,South Africa,Wine,Production,2021,1000 hl, 10 826
+Africa,South Africa,Wine,Production,2022,1000 hl, 10 337
+Africa,South Africa,Wine,Production,2023,1000 hl, 9 315
+Africa,South Sudan,Wine,Production,2009,1000 hl,0
+Africa,South Sudan,Wine,Production,2010,1000 hl,0
+Africa,South Sudan,Wine,Production,2011,1000 hl,0
+Africa,South Sudan,Wine,Production,2012,1000 hl,0
+Africa,South Sudan,Wine,Production,2013,1000 hl,0
+Africa,South Sudan,Wine,Production,2014,1000 hl,0
+Africa,South Sudan,Wine,Production,2015,1000 hl,0
+Africa,South Sudan,Wine,Production,2016,1000 hl,0
+Africa,South Sudan,Wine,Production,2017,1000 hl,0
+Africa,South Sudan,Wine,Production,2018,1000 hl,0
+Africa,South Sudan,Wine,Production,2019,1000 hl,0
+Africa,South Sudan,Wine,Production,2020,1000 hl,0
+Africa,South Sudan,Wine,Production,2021,1000 hl,0
+Africa,South Sudan,Wine,Production,2022,1000 hl,0
+Europe,Spain,Wine,Production,2009,1000 hl, 36 093
+Europe,Spain,Wine,Production,2010,1000 hl, 35 353
+Europe,Spain,Wine,Production,2011,1000 hl, 33 397
+Europe,Spain,Wine,Production,2012,1000 hl, 31 123
+Europe,Spain,Wine,Production,2013,1000 hl, 45 308
+Europe,Spain,Wine,Production,2014,1000 hl, 39 494
+Europe,Spain,Wine,Production,2015,1000 hl, 37 703
+Europe,Spain,Wine,Production,2016,1000 hl, 39 970
+Europe,Spain,Wine,Production,2017,1000 hl, 32 480
+Europe,Spain,Wine,Production,2018,1000 hl, 44 933
+Europe,Spain,Wine,Production,2019,1000 hl, 33 676
+Europe,Spain,Wine,Production,2020,1000 hl, 40 949
+Europe,Spain,Wine,Production,2021,1000 hl, 35 471
+Europe,Spain,Wine,Production,2022,1000 hl, 35 986
+Europe,Spain,Wine,Production,2023,1000 hl, 28 384
+Asia,Sri Lanka,Wine,Production,2009,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2010,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2011,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2012,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2013,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2014,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2015,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2016,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2017,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2018,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2019,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2020,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2021,1000 hl,0
+Asia,Sri Lanka,Wine,Production,2022,1000 hl,0
+Asia,State of Palestine,Wine,Production,2009,1000 hl,0
+Asia,State of Palestine,Wine,Production,2010,1000 hl,0
+Asia,State of Palestine,Wine,Production,2011,1000 hl,0
+Asia,State of Palestine,Wine,Production,2012,1000 hl,0
+Asia,State of Palestine,Wine,Production,2013,1000 hl,0
+Asia,State of Palestine,Wine,Production,2014,1000 hl,0
+Asia,State of Palestine,Wine,Production,2015,1000 hl,0
+Asia,State of Palestine,Wine,Production,2016,1000 hl,0
+Asia,State of Palestine,Wine,Production,2017,1000 hl,0
+Asia,State of Palestine,Wine,Production,2018,1000 hl,0
+Asia,State of Palestine,Wine,Production,2019,1000 hl,0
+Asia,State of Palestine,Wine,Production,2020,1000 hl,0
+Asia,State of Palestine,Wine,Production,2021,1000 hl,0
+Asia,State of Palestine,Wine,Production,2022,1000 hl,0
+Africa,Sudan,Wine,Production,2009,1000 hl,0
+Africa,Sudan,Wine,Production,2010,1000 hl,0
+Africa,Sudan,Wine,Production,2011,1000 hl,0
+Africa,Sudan,Wine,Production,2012,1000 hl,0
+Africa,Sudan,Wine,Production,2013,1000 hl,0
+Africa,Sudan,Wine,Production,2014,1000 hl,0
+Africa,Sudan,Wine,Production,2015,1000 hl,0
+Africa,Sudan,Wine,Production,2016,1000 hl,0
+Africa,Sudan,Wine,Production,2017,1000 hl,0
+Africa,Sudan,Wine,Production,2018,1000 hl,0
+Africa,Sudan,Wine,Production,2019,1000 hl,0
+Africa,Sudan,Wine,Production,2020,1000 hl,0
+Africa,Sudan,Wine,Production,2021,1000 hl,0
+Africa,Sudan,Wine,Production,2022,1000 hl,0
+America,Suriname,Wine,Production,2009,1000 hl,0
+America,Suriname,Wine,Production,2010,1000 hl,0
+America,Suriname,Wine,Production,2011,1000 hl,0
+America,Suriname,Wine,Production,2012,1000 hl,0
+America,Suriname,Wine,Production,2013,1000 hl,0
+America,Suriname,Wine,Production,2014,1000 hl,0
+America,Suriname,Wine,Production,2015,1000 hl,0
+America,Suriname,Wine,Production,2016,1000 hl,0
+America,Suriname,Wine,Production,2017,1000 hl,0
+America,Suriname,Wine,Production,2018,1000 hl,0
+America,Suriname,Wine,Production,2019,1000 hl,0
+America,Suriname,Wine,Production,2020,1000 hl,0
+America,Suriname,Wine,Production,2021,1000 hl,0
+America,Suriname,Wine,Production,2022,1000 hl,0
+Europe,Sweden,Wine,Production,2009,1000 hl,0
+Europe,Sweden,Wine,Production,2010,1000 hl,0
+Europe,Sweden,Wine,Production,2011,1000 hl,0
+Europe,Sweden,Wine,Production,2012,1000 hl,0
+Europe,Sweden,Wine,Production,2013,1000 hl,0
+Europe,Sweden,Wine,Production,2014,1000 hl,0
+Europe,Sweden,Wine,Production,2015,1000 hl,0
+Europe,Sweden,Wine,Production,2016,1000 hl,0
+Europe,Sweden,Wine,Production,2017,1000 hl,0
+Europe,Sweden,Wine,Production,2018,1000 hl,0
+Europe,Sweden,Wine,Production,2019,1000 hl,0
+Europe,Sweden,Wine,Production,2020,1000 hl,0
+Europe,Sweden,Wine,Production,2021,1000 hl,0
+Europe,Sweden,Wine,Production,2022,1000 hl,0
+Europe,Sweden,Wine,Production,2023,1000 hl,0
+Europe,Switzerland,Wine,Production,2009,1000 hl, 1 112
+Europe,Switzerland,Wine,Production,2010,1000 hl, 1 030
+Europe,Switzerland,Wine,Production,2011,1000 hl, 1 119
+Europe,Switzerland,Wine,Production,2012,1000 hl, 1 004
+Europe,Switzerland,Wine,Production,2013,1000 hl,  839
+Europe,Switzerland,Wine,Production,2014,1000 hl,  934
+Europe,Switzerland,Wine,Production,2015,1000 hl,  850
+Europe,Switzerland,Wine,Production,2016,1000 hl, 1 077
+Europe,Switzerland,Wine,Production,2017,1000 hl,  792
+Europe,Switzerland,Wine,Production,2018,1000 hl, 1 112
+Europe,Switzerland,Wine,Production,2019,1000 hl,  979
+Europe,Switzerland,Wine,Production,2020,1000 hl,  834
+Europe,Switzerland,Wine,Production,2021,1000 hl,  609
+Europe,Switzerland,Wine,Production,2022,1000 hl,  992
+Europe,Switzerland,Wine,Production,2023,1000 hl, 1 010
+Asia,Syrian Arab Republic,Wine,Production,2009,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Production,2010,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2011,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2012,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2013,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2014,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2015,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2016,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2017,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Production,2018,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2019,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2020,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2021,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2022,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Production,2023,1000 hl,0
+Asia,Tajikistan,Wine,Production,2009,1000 hl,  3
+Asia,Tajikistan,Wine,Production,2010,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2011,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2012,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2013,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2014,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2015,1000 hl,  1
+Asia,Tajikistan,Wine,Production,2016,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2017,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2018,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2019,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2020,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2021,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2022,1000 hl,  2
+Asia,Tajikistan,Wine,Production,2023,1000 hl,  2
+Africa,"Tanzania, the United Republic of",Wine,Production,2009,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2010,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2011,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2012,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2013,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2014,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2015,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2016,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2017,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2018,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2019,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2020,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2021,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2022,1000 hl,0
+Africa,"Tanzania, the United Republic of",Wine,Production,2023,1000 hl,0
+Asia,Thailand,Wine,Production,2009,1000 hl,0
+Asia,Thailand,Wine,Production,2010,1000 hl,0
+Asia,Thailand,Wine,Production,2011,1000 hl,0
+Asia,Thailand,Wine,Production,2012,1000 hl,0
+Asia,Thailand,Wine,Production,2013,1000 hl,0
+Asia,Thailand,Wine,Production,2014,1000 hl,0
+Asia,Thailand,Wine,Production,2015,1000 hl,0
+Asia,Thailand,Wine,Production,2016,1000 hl,0
+Asia,Thailand,Wine,Production,2017,1000 hl,0
+Asia,Thailand,Wine,Production,2018,1000 hl,0
+Asia,Thailand,Wine,Production,2019,1000 hl,0
+Asia,Thailand,Wine,Production,2020,1000 hl,  6
+Asia,Thailand,Wine,Production,2021,1000 hl,  5
+Asia,Thailand,Wine,Production,2022,1000 hl,  5
+Asia,Thailand,Wine,Production,2023,1000 hl,  5
+Asia,Timor-Leste,Wine,Production,2009,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2010,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2011,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2012,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2013,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2014,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2015,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2016,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2017,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2018,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2019,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2020,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2021,1000 hl,0
+Asia,Timor-Leste,Wine,Production,2022,1000 hl,0
+Africa,Togo,Wine,Production,2009,1000 hl,0
+Africa,Togo,Wine,Production,2010,1000 hl,0
+Africa,Togo,Wine,Production,2011,1000 hl,0
+Africa,Togo,Wine,Production,2012,1000 hl,0
+Africa,Togo,Wine,Production,2013,1000 hl,0
+Africa,Togo,Wine,Production,2014,1000 hl,0
+Africa,Togo,Wine,Production,2015,1000 hl,0
+Africa,Togo,Wine,Production,2016,1000 hl,0
+Africa,Togo,Wine,Production,2017,1000 hl,0
+Africa,Togo,Wine,Production,2018,1000 hl,0
+Africa,Togo,Wine,Production,2019,1000 hl,0
+Africa,Togo,Wine,Production,2020,1000 hl,0
+Africa,Togo,Wine,Production,2021,1000 hl,0
+Africa,Togo,Wine,Production,2022,1000 hl,0
+Oceania,Tonga,Wine,Production,2009,1000 hl,0
+Oceania,Tonga,Wine,Production,2010,1000 hl,0
+Oceania,Tonga,Wine,Production,2011,1000 hl,0
+Oceania,Tonga,Wine,Production,2012,1000 hl,0
+Oceania,Tonga,Wine,Production,2013,1000 hl,0
+Oceania,Tonga,Wine,Production,2014,1000 hl,0
+Oceania,Tonga,Wine,Production,2015,1000 hl,0
+Oceania,Tonga,Wine,Production,2016,1000 hl,0
+Oceania,Tonga,Wine,Production,2017,1000 hl,0
+Oceania,Tonga,Wine,Production,2018,1000 hl,0
+Oceania,Tonga,Wine,Production,2019,1000 hl,0
+Oceania,Tonga,Wine,Production,2020,1000 hl,0
+Oceania,Tonga,Wine,Production,2021,1000 hl,0
+Oceania,Tonga,Wine,Production,2022,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2009,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2010,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2011,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2012,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2013,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2014,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2015,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2016,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2017,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2018,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2019,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2020,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2021,1000 hl,0
+America,Trinidad and Tobago,Wine,Production,2022,1000 hl,0
+Africa,Tunisia,Wine,Production,2009,1000 hl,  245
+Africa,Tunisia,Wine,Production,2010,1000 hl,  222
+Africa,Tunisia,Wine,Production,2011,1000 hl,  230
+Africa,Tunisia,Wine,Production,2012,1000 hl,  284
+Africa,Tunisia,Wine,Production,2013,1000 hl,  328
+Africa,Tunisia,Wine,Production,2014,1000 hl,  320
+Africa,Tunisia,Wine,Production,2015,1000 hl,  325
+Africa,Tunisia,Wine,Production,2016,1000 hl,  305
+Africa,Tunisia,Wine,Production,2017,1000 hl,  305
+Africa,Tunisia,Wine,Production,2018,1000 hl,  320
+Africa,Tunisia,Wine,Production,2019,1000 hl,  370
+Africa,Tunisia,Wine,Production,2020,1000 hl,  310
+Africa,Tunisia,Wine,Production,2021,1000 hl,  280
+Africa,Tunisia,Wine,Production,2022,1000 hl,  317
+Africa,Tunisia,Wine,Production,2023,1000 hl,  319
+Asia,Turkmenistan,Wine,Production,2009,1000 hl,  402
+Asia,Turkmenistan,Wine,Production,2010,1000 hl,  377
+Asia,Turkmenistan,Wine,Production,2011,1000 hl,  378
+Asia,Turkmenistan,Wine,Production,2012,1000 hl,  377
+Asia,Turkmenistan,Wine,Production,2013,1000 hl,  367
+Asia,Turkmenistan,Wine,Production,2014,1000 hl,  366
+Asia,Turkmenistan,Wine,Production,2015,1000 hl,  374
+Asia,Turkmenistan,Wine,Production,2016,1000 hl,  500
+Asia,Turkmenistan,Wine,Production,2017,1000 hl,  503
+Asia,Turkmenistan,Wine,Production,2018,1000 hl,  503
+Asia,Turkmenistan,Wine,Production,2019,1000 hl,  515
+Asia,Turkmenistan,Wine,Production,2020,1000 hl,  520
+Asia,Turkmenistan,Wine,Production,2021,1000 hl,  521
+Asia,Turkmenistan,Wine,Production,2022,1000 hl,  512
+Asia,Turkmenistan,Wine,Production,2023,1000 hl,  514
+Oceania,Tuvalu,Wine,Production,2009,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2010,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2011,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2012,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2013,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2014,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2015,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2016,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2017,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2018,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2019,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2020,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2021,1000 hl,0
+Oceania,Tuvalu,Wine,Production,2022,1000 hl,0
+Africa,Uganda,Wine,Production,2009,1000 hl,0
+Africa,Uganda,Wine,Production,2010,1000 hl,0
+Africa,Uganda,Wine,Production,2011,1000 hl,0
+Africa,Uganda,Wine,Production,2012,1000 hl,0
+Africa,Uganda,Wine,Production,2013,1000 hl,0
+Africa,Uganda,Wine,Production,2014,1000 hl,0
+Africa,Uganda,Wine,Production,2015,1000 hl,0
+Africa,Uganda,Wine,Production,2016,1000 hl,0
+Africa,Uganda,Wine,Production,2017,1000 hl,0
+Africa,Uganda,Wine,Production,2018,1000 hl,0
+Africa,Uganda,Wine,Production,2019,1000 hl,0
+Africa,Uganda,Wine,Production,2020,1000 hl,0
+Africa,Uganda,Wine,Production,2021,1000 hl,0
+Africa,Uganda,Wine,Production,2022,1000 hl,0
+Europe,Ukraine,Wine,Production,2009,1000 hl, 3 181
+Europe,Ukraine,Wine,Production,2010,1000 hl, 3 002
+Europe,Ukraine,Wine,Production,2011,1000 hl, 3 170
+Europe,Ukraine,Wine,Production,2012,1000 hl, 2 400
+Europe,Ukraine,Wine,Production,2013,1000 hl, 2 827
+Europe,Ukraine,Wine,Production,2014,1000 hl, 1 229
+Europe,Ukraine,Wine,Production,2015,1000 hl,  920
+Europe,Ukraine,Wine,Production,2016,1000 hl, 1 242
+Europe,Ukraine,Wine,Production,2017,1000 hl, 1 039
+Europe,Ukraine,Wine,Production,2018,1000 hl, 1 010
+Europe,Ukraine,Wine,Production,2019,1000 hl,  990
+Europe,Ukraine,Wine,Production,2020,1000 hl,  660
+Europe,Ukraine,Wine,Production,2021,1000 hl,  673
+Europe,Ukraine,Wine,Production,2022,1000 hl,  673
+Europe,Ukraine,Wine,Production,2023,1000 hl,  673
+Asia,United Arab Emirates,Wine,Production,2009,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2010,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2011,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2012,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2013,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2014,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2015,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2016,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2017,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2018,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2019,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2020,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2021,1000 hl,0
+Asia,United Arab Emirates,Wine,Production,2022,1000 hl,0
+Europe,United Kingdom,Wine,Production,2009,1000 hl,  22
+Europe,United Kingdom,Wine,Production,2010,1000 hl,  28
+Europe,United Kingdom,Wine,Production,2011,1000 hl,  23
+Europe,United Kingdom,Wine,Production,2012,1000 hl,  8
+Europe,United Kingdom,Wine,Production,2013,1000 hl,  33
+Europe,United Kingdom,Wine,Production,2014,1000 hl,  47
+Europe,United Kingdom,Wine,Production,2015,1000 hl,  40
+Europe,United Kingdom,Wine,Production,2016,1000 hl,  38
+Europe,United Kingdom,Wine,Production,2017,1000 hl,  40
+Europe,United Kingdom,Wine,Production,2018,1000 hl,  98
+Europe,United Kingdom,Wine,Production,2019,1000 hl,  79
+Europe,United Kingdom,Wine,Production,2020,1000 hl,  65
+Europe,United Kingdom,Wine,Production,2021,1000 hl,  67
+Europe,United Kingdom,Wine,Production,2022,1000 hl,  91
+Europe,United Kingdom,Wine,Production,2023,1000 hl,  162
+America,United States of America,Wine,Production,2009,1000 hl, 23 063
+America,United States of America,Wine,Production,2010,1000 hl, 21 931
+America,United States of America,Wine,Production,2011,1000 hl, 21 102
+America,United States of America,Wine,Production,2012,1000 hl, 23 870
+America,United States of America,Wine,Production,2013,1000 hl, 26 863
+America,United States of America,Wine,Production,2014,1000 hl, 25 466
+America,United States of America,Wine,Production,2015,1000 hl, 23 959
+America,United States of America,Wine,Production,2016,1000 hl, 26 146
+America,United States of America,Wine,Production,2017,1000 hl, 25 731
+America,United States of America,Wine,Production,2018,1000 hl, 27 378
+America,United States of America,Wine,Production,2019,1000 hl, 26 840
+America,United States of America,Wine,Production,2020,1000 hl, 23 888
+America,United States of America,Wine,Production,2021,1000 hl, 25 274
+America,United States of America,Wine,Production,2022,1000 hl, 23 504
+America,United States of America,Wine,Production,2023,1000 hl, 25 502
+America,Uruguay,Wine,Production,2009,1000 hl,  620
+America,Uruguay,Wine,Production,2010,1000 hl,  769
+America,Uruguay,Wine,Production,2011,1000 hl,  901
+America,Uruguay,Wine,Production,2012,1000 hl,  962
+America,Uruguay,Wine,Production,2013,1000 hl,  667
+America,Uruguay,Wine,Production,2014,1000 hl,  670
+America,Uruguay,Wine,Production,2015,1000 hl,  658
+America,Uruguay,Wine,Production,2016,1000 hl,  755
+America,Uruguay,Wine,Production,2017,1000 hl,  763
+America,Uruguay,Wine,Production,2018,1000 hl,  745
+America,Uruguay,Wine,Production,2019,1000 hl,  604
+America,Uruguay,Wine,Production,2020,1000 hl,  695
+America,Uruguay,Wine,Production,2021,1000 hl,  749
+America,Uruguay,Wine,Production,2022,1000 hl,  756
+America,Uruguay,Wine,Production,2023,1000 hl,  503
+Asia,Uzbekistan,Wine,Production,2009,1000 hl,  211
+Asia,Uzbekistan,Wine,Production,2010,1000 hl,  213
+Asia,Uzbekistan,Wine,Production,2011,1000 hl,  361
+Asia,Uzbekistan,Wine,Production,2012,1000 hl,  375
+Asia,Uzbekistan,Wine,Production,2013,1000 hl,  358
+Asia,Uzbekistan,Wine,Production,2014,1000 hl,  253
+Asia,Uzbekistan,Wine,Production,2015,1000 hl,  345
+Asia,Uzbekistan,Wine,Production,2016,1000 hl,  272
+Asia,Uzbekistan,Wine,Production,2017,1000 hl,  256
+Asia,Uzbekistan,Wine,Production,2018,1000 hl,  229
+Asia,Uzbekistan,Wine,Production,2019,1000 hl,  216
+Asia,Uzbekistan,Wine,Production,2020,1000 hl,  218
+Asia,Uzbekistan,Wine,Production,2021,1000 hl,  169
+Asia,Uzbekistan,Wine,Production,2022,1000 hl,  169
+Asia,Uzbekistan,Wine,Production,2023,1000 hl,  169
+Oceania,Vanuatu,Wine,Production,2009,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2010,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2011,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2012,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2013,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2014,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2015,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2016,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2017,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2018,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2019,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2020,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2021,1000 hl,0
+Oceania,Vanuatu,Wine,Production,2022,1000 hl,0
+America,Venezuela,Wine,Production,2009,1000 hl,0
+America,Venezuela,Wine,Production,2010,1000 hl,0
+America,Venezuela,Wine,Production,2011,1000 hl,0
+America,Venezuela,Wine,Production,2012,1000 hl,0
+America,Venezuela,Wine,Production,2013,1000 hl,0
+America,Venezuela,Wine,Production,2014,1000 hl,0
+America,Venezuela,Wine,Production,2015,1000 hl,0
+America,Venezuela,Wine,Production,2016,1000 hl,0
+America,Venezuela,Wine,Production,2017,1000 hl,0
+America,Venezuela,Wine,Production,2018,1000 hl,0
+America,Venezuela,Wine,Production,2019,1000 hl,0
+America,Venezuela,Wine,Production,2020,1000 hl,0
+America,Venezuela,Wine,Production,2021,1000 hl,0
+America,Venezuela,Wine,Production,2022,1000 hl,0
+Asia,Vietnam,Wine,Production,2009,1000 hl,0
+Asia,Vietnam,Wine,Production,2010,1000 hl,0
+Asia,Vietnam,Wine,Production,2011,1000 hl,0
+Asia,Vietnam,Wine,Production,2012,1000 hl,0
+Asia,Vietnam,Wine,Production,2013,1000 hl,0
+Asia,Vietnam,Wine,Production,2014,1000 hl,0
+Asia,Vietnam,Wine,Production,2015,1000 hl,0
+Asia,Vietnam,Wine,Production,2016,1000 hl,0
+Asia,Vietnam,Wine,Production,2017,1000 hl,0
+Asia,Vietnam,Wine,Production,2018,1000 hl,0
+Asia,Vietnam,Wine,Production,2019,1000 hl,0
+Asia,Vietnam,Wine,Production,2020,1000 hl,0
+Asia,Vietnam,Wine,Production,2021,1000 hl,0
+Asia,Vietnam,Wine,Production,2022,1000 hl,0
+Asia,Vietnam,Wine,Production,2023,1000 hl,0
+America,Virgin Islands,Wine,Production,2009,1000 hl,0
+America,Virgin Islands,Wine,Production,2010,1000 hl,0
+America,Virgin Islands,Wine,Production,2011,1000 hl,0
+America,Virgin Islands,Wine,Production,2012,1000 hl,0
+America,Virgin Islands,Wine,Production,2013,1000 hl,0
+America,Virgin Islands,Wine,Production,2014,1000 hl,0
+America,Virgin Islands,Wine,Production,2015,1000 hl,0
+America,Virgin Islands,Wine,Production,2016,1000 hl,0
+America,Virgin Islands,Wine,Production,2017,1000 hl,0
+America,Virgin Islands,Wine,Production,2018,1000 hl,0
+America,Virgin Islands,Wine,Production,2019,1000 hl,0
+America,Virgin Islands,Wine,Production,2020,1000 hl,0
+America,Virgin Islands,Wine,Production,2021,1000 hl,0
+America,Virgin Islands,Wine,Production,2022,1000 hl,0
+Asia,Yemen,Wine,Production,2009,1000 hl,0
+Asia,Yemen,Wine,Production,2010,1000 hl,0
+Asia,Yemen,Wine,Production,2011,1000 hl,0
+Asia,Yemen,Wine,Production,2012,1000 hl,0
+Asia,Yemen,Wine,Production,2013,1000 hl,0
+Asia,Yemen,Wine,Production,2014,1000 hl,0
+Asia,Yemen,Wine,Production,2015,1000 hl,0
+Asia,Yemen,Wine,Production,2016,1000 hl,0
+Asia,Yemen,Wine,Production,2017,1000 hl,0
+Asia,Yemen,Wine,Production,2018,1000 hl,0
+Asia,Yemen,Wine,Production,2019,1000 hl,0
+Asia,Yemen,Wine,Production,2020,1000 hl,0
+Asia,Yemen,Wine,Production,2021,1000 hl,0
+Asia,Yemen,Wine,Production,2022,1000 hl,0
+Asia,Yemen,Wine,Production,2023,1000 hl,0
+Africa,Zambia,Wine,Production,2009,1000 hl,0
+Africa,Zambia,Wine,Production,2010,1000 hl,0
+Africa,Zambia,Wine,Production,2011,1000 hl,0
+Africa,Zambia,Wine,Production,2012,1000 hl,0
+Africa,Zambia,Wine,Production,2013,1000 hl,0
+Africa,Zambia,Wine,Production,2014,1000 hl,0
+Africa,Zambia,Wine,Production,2015,1000 hl,0
+Africa,Zambia,Wine,Production,2016,1000 hl,0
+Africa,Zambia,Wine,Production,2017,1000 hl,0
+Africa,Zambia,Wine,Production,2018,1000 hl,0
+Africa,Zambia,Wine,Production,2019,1000 hl,0
+Africa,Zambia,Wine,Production,2020,1000 hl,0
+Africa,Zambia,Wine,Production,2021,1000 hl,0
+Africa,Zambia,Wine,Production,2022,1000 hl,0
+Africa,Zimbabwe,Wine,Production,2009,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2010,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2011,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2012,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2013,1000 hl,  18
+Africa,Zimbabwe,Wine,Production,2014,1000 hl,  20
+Africa,Zimbabwe,Wine,Production,2015,1000 hl,  23
+Africa,Zimbabwe,Wine,Production,2016,1000 hl,  21
+Africa,Zimbabwe,Wine,Production,2017,1000 hl,  22
+Africa,Zimbabwe,Wine,Production,2018,1000 hl,  20
+Africa,Zimbabwe,Wine,Production,2019,1000 hl,  14
+Africa,Zimbabwe,Wine,Production,2020,1000 hl,  14
+Africa,Zimbabwe,Wine,Production,2021,1000 hl,  14
+Africa,Zimbabwe,Wine,Production,2022,1000 hl,  14
+Africa,Zimbabwe,Wine,Production,2023,1000 hl,  15

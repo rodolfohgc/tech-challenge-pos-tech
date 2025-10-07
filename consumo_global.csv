@@ -1,0 +1,2971 @@
+﻿Continent,Region/Country,Product,Variable,Year,Unit,Quantity
+Asia,Afghanistan,Wine,Consumption,2009,1000 hl,  3
+Asia,Afghanistan,Wine,Consumption,2010,1000 hl,  2
+Asia,Afghanistan,Wine,Consumption,2011,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2012,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2013,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2014,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2015,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2016,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2017,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2018,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2019,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2020,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2021,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2022,1000 hl,  1
+Asia,Afghanistan,Wine,Consumption,2023,1000 hl,  1
+Europe,Albania,Wine,Consumption,2009,1000 hl,  200
+Europe,Albania,Wine,Consumption,2010,1000 hl,  206
+Europe,Albania,Wine,Consumption,2011,1000 hl,  207
+Europe,Albania,Wine,Consumption,2012,1000 hl,  216
+Europe,Albania,Wine,Consumption,2013,1000 hl,  209
+Europe,Albania,Wine,Consumption,2014,1000 hl,  196
+Europe,Albania,Wine,Consumption,2015,1000 hl,  219
+Europe,Albania,Wine,Consumption,2016,1000 hl,  233
+Europe,Albania,Wine,Consumption,2017,1000 hl,  217
+Europe,Albania,Wine,Consumption,2018,1000 hl,  207
+Europe,Albania,Wine,Consumption,2019,1000 hl,  217
+Europe,Albania,Wine,Consumption,2020,1000 hl,  234
+Europe,Albania,Wine,Consumption,2021,1000 hl,  291
+Europe,Albania,Wine,Consumption,2022,1000 hl,  316
+Europe,Albania,Wine,Consumption,2023,1000 hl,  253
+Africa,Algeria,Wine,Consumption,2009,1000 hl,  406
+Africa,Algeria,Wine,Consumption,2010,1000 hl,  280
+Africa,Algeria,Wine,Consumption,2011,1000 hl,  288
+Africa,Algeria,Wine,Consumption,2012,1000 hl,  311
+Africa,Algeria,Wine,Consumption,2013,1000 hl,  338
+Africa,Algeria,Wine,Consumption,2014,1000 hl,  372
+Africa,Algeria,Wine,Consumption,2015,1000 hl,  189
+Africa,Algeria,Wine,Consumption,2016,1000 hl,  178
+Africa,Algeria,Wine,Consumption,2017,1000 hl,  245
+Africa,Algeria,Wine,Consumption,2018,1000 hl,  300
+Africa,Algeria,Wine,Consumption,2019,1000 hl,  268
+Africa,Algeria,Wine,Consumption,2020,1000 hl,  263
+Africa,Algeria,Wine,Consumption,2021,1000 hl,  284
+Africa,Algeria,Wine,Consumption,2022,1000 hl,  287
+Africa,Algeria,Wine,Consumption,2023,1000 hl,  280
+Oceania,American Samoa,Wine,Consumption,2009,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2010,1000 hl,  1
+Oceania,American Samoa,Wine,Consumption,2011,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2012,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2013,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2014,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2015,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2016,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2017,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2018,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2019,1000 hl,0
+Oceania,American Samoa,Wine,Consumption,2020,1000 hl,  1
+Oceania,American Samoa,Wine,Consumption,2021,1000 hl,  1
+Oceania,American Samoa,Wine,Consumption,2022,1000 hl,  1
+Oceania,American Samoa,Wine,Consumption,2023,1000 hl,0
+Africa,Angola,Wine,Consumption,2009,1000 hl,  798
+Africa,Angola,Wine,Consumption,2010,1000 hl,  868
+Africa,Angola,Wine,Consumption,2011,1000 hl,  908
+Africa,Angola,Wine,Consumption,2012,1000 hl,  990
+Africa,Angola,Wine,Consumption,2013,1000 hl, 1 017
+Africa,Angola,Wine,Consumption,2014,1000 hl, 1 344
+Africa,Angola,Wine,Consumption,2015,1000 hl, 1 350
+Africa,Angola,Wine,Consumption,2016,1000 hl,  916
+Africa,Angola,Wine,Consumption,2017,1000 hl,  759
+Africa,Angola,Wine,Consumption,2018,1000 hl,  549
+Africa,Angola,Wine,Consumption,2019,1000 hl,  362
+Africa,Angola,Wine,Consumption,2020,1000 hl,  279
+Africa,Angola,Wine,Consumption,2021,1000 hl,  232
+Africa,Angola,Wine,Consumption,2022,1000 hl,  304
+Africa,Angola,Wine,Consumption,2023,1000 hl,  345
+America,Antigua and Barbuda,Wine,Consumption,2009,1000 hl,  7
+America,Antigua and Barbuda,Wine,Consumption,2010,1000 hl,  6
+America,Antigua and Barbuda,Wine,Consumption,2011,1000 hl,  6
+America,Antigua and Barbuda,Wine,Consumption,2012,1000 hl,  11
+America,Antigua and Barbuda,Wine,Consumption,2013,1000 hl,  17
+America,Antigua and Barbuda,Wine,Consumption,2014,1000 hl,  19
+America,Antigua and Barbuda,Wine,Consumption,2015,1000 hl,  16
+America,Antigua and Barbuda,Wine,Consumption,2016,1000 hl,  21
+America,Antigua and Barbuda,Wine,Consumption,2017,1000 hl,  25
+America,Antigua and Barbuda,Wine,Consumption,2018,1000 hl,  24
+America,Antigua and Barbuda,Wine,Consumption,2019,1000 hl,  20
+America,Antigua and Barbuda,Wine,Consumption,2020,1000 hl,  15
+America,Antigua and Barbuda,Wine,Consumption,2021,1000 hl,  15
+America,Antigua and Barbuda,Wine,Consumption,2022,1000 hl,  17
+America,Antigua and Barbuda,Wine,Consumption,2023,1000 hl,  18
+America,Argentina,Wine,Consumption,2009,1000 hl, 10 342
+America,Argentina,Wine,Consumption,2010,1000 hl, 9 753
+America,Argentina,Wine,Consumption,2011,1000 hl, 9 809
+America,Argentina,Wine,Consumption,2012,1000 hl, 10 051
+America,Argentina,Wine,Consumption,2013,1000 hl, 10 352
+America,Argentina,Wine,Consumption,2014,1000 hl, 9 938
+America,Argentina,Wine,Consumption,2015,1000 hl, 10 269
+America,Argentina,Wine,Consumption,2016,1000 hl, 9 416
+America,Argentina,Wine,Consumption,2017,1000 hl, 8 925
+America,Argentina,Wine,Consumption,2018,1000 hl, 8 396
+America,Argentina,Wine,Consumption,2019,1000 hl, 8 532
+America,Argentina,Wine,Consumption,2020,1000 hl, 9 430
+America,Argentina,Wine,Consumption,2021,1000 hl, 8 381
+America,Argentina,Wine,Consumption,2022,1000 hl, 8 276
+America,Argentina,Wine,Consumption,2023,1000 hl, 7 753
+Asia,Armenia,Wine,Consumption,2009,1000 hl,  43
+Asia,Armenia,Wine,Consumption,2010,1000 hl,  47
+Asia,Armenia,Wine,Consumption,2011,1000 hl,  61
+Asia,Armenia,Wine,Consumption,2012,1000 hl,  49
+Asia,Armenia,Wine,Consumption,2013,1000 hl,  54
+Asia,Armenia,Wine,Consumption,2014,1000 hl,  42
+Asia,Armenia,Wine,Consumption,2015,1000 hl,  43
+Asia,Armenia,Wine,Consumption,2016,1000 hl,  59
+Asia,Armenia,Wine,Consumption,2017,1000 hl,  74
+Asia,Armenia,Wine,Consumption,2018,1000 hl,  65
+Asia,Armenia,Wine,Consumption,2019,1000 hl,  86
+Asia,Armenia,Wine,Consumption,2020,1000 hl,  98
+Asia,Armenia,Wine,Consumption,2021,1000 hl,  101
+Asia,Armenia,Wine,Consumption,2022,1000 hl,  100
+Asia,Armenia,Wine,Consumption,2023,1000 hl,  90
+Oceania,Australia,Wine,Consumption,2009,1000 hl, 5 122
+Oceania,Australia,Wine,Consumption,2010,1000 hl, 5 389
+Oceania,Australia,Wine,Consumption,2011,1000 hl, 5 406
+Oceania,Australia,Wine,Consumption,2012,1000 hl, 5 420
+Oceania,Australia,Wine,Consumption,2013,1000 hl, 5 379
+Oceania,Australia,Wine,Consumption,2014,1000 hl, 5 418
+Oceania,Australia,Wine,Consumption,2015,1000 hl, 5 476
+Oceania,Australia,Wine,Consumption,2016,1000 hl, 5 380
+Oceania,Australia,Wine,Consumption,2017,1000 hl, 5 360
+Oceania,Australia,Wine,Consumption,2018,1000 hl, 5 272
+Oceania,Australia,Wine,Consumption,2019,1000 hl, 5 803
+Oceania,Australia,Wine,Consumption,2020,1000 hl, 5 950
+Oceania,Australia,Wine,Consumption,2021,1000 hl, 5 604
+Oceania,Australia,Wine,Consumption,2022,1000 hl, 5 404
+Oceania,Australia,Wine,Consumption,2023,1000 hl, 5 469
+Europe,Austria,Wine,Consumption,2009,1000 hl, 2 400
+Europe,Austria,Wine,Consumption,2010,1000 hl, 2 400
+Europe,Austria,Wine,Consumption,2011,1000 hl, 2 542
+Europe,Austria,Wine,Consumption,2012,1000 hl, 2 652
+Europe,Austria,Wine,Consumption,2013,1000 hl, 2 803
+Europe,Austria,Wine,Consumption,2014,1000 hl, 3 001
+Europe,Austria,Wine,Consumption,2015,1000 hl, 2 375
+Europe,Austria,Wine,Consumption,2016,1000 hl, 2 423
+Europe,Austria,Wine,Consumption,2017,1000 hl, 2 415
+Europe,Austria,Wine,Consumption,2018,1000 hl, 2 353
+Europe,Austria,Wine,Consumption,2019,1000 hl, 2 256
+Europe,Austria,Wine,Consumption,2020,1000 hl, 2 306
+Europe,Austria,Wine,Consumption,2021,1000 hl, 2 360
+Europe,Austria,Wine,Consumption,2022,1000 hl, 2 350
+Europe,Austria,Wine,Consumption,2023,1000 hl, 2 300
+Asia,Azerbaijan,Wine,Consumption,2009,1000 hl,  56
+Asia,Azerbaijan,Wine,Consumption,2010,1000 hl,  80
+Asia,Azerbaijan,Wine,Consumption,2011,1000 hl,  72
+Asia,Azerbaijan,Wine,Consumption,2012,1000 hl,  57
+Asia,Azerbaijan,Wine,Consumption,2013,1000 hl,  59
+Asia,Azerbaijan,Wine,Consumption,2014,1000 hl,  58
+Asia,Azerbaijan,Wine,Consumption,2015,1000 hl,  85
+Asia,Azerbaijan,Wine,Consumption,2016,1000 hl,  106
+Asia,Azerbaijan,Wine,Consumption,2017,1000 hl,  95
+Asia,Azerbaijan,Wine,Consumption,2018,1000 hl,  89
+Asia,Azerbaijan,Wine,Consumption,2019,1000 hl,  68
+Asia,Azerbaijan,Wine,Consumption,2020,1000 hl,  55
+Asia,Azerbaijan,Wine,Consumption,2021,1000 hl,  75
+Asia,Azerbaijan,Wine,Consumption,2022,1000 hl,  85
+Asia,Azerbaijan,Wine,Consumption,2023,1000 hl,  74
+America,Bahamas,Wine,Consumption,2009,1000 hl,  30
+America,Bahamas,Wine,Consumption,2010,1000 hl,  30
+America,Bahamas,Wine,Consumption,2011,1000 hl,  30
+America,Bahamas,Wine,Consumption,2012,1000 hl,  34
+America,Bahamas,Wine,Consumption,2013,1000 hl,  33
+America,Bahamas,Wine,Consumption,2014,1000 hl,  31
+America,Bahamas,Wine,Consumption,2015,1000 hl,  36
+America,Bahamas,Wine,Consumption,2016,1000 hl,  38
+America,Bahamas,Wine,Consumption,2017,1000 hl,  35
+America,Bahamas,Wine,Consumption,2018,1000 hl,  36
+America,Bahamas,Wine,Consumption,2019,1000 hl,  37
+America,Bahamas,Wine,Consumption,2020,1000 hl,  38
+America,Bahamas,Wine,Consumption,2021,1000 hl,  35
+America,Bahamas,Wine,Consumption,2022,1000 hl,  48
+America,Bahamas,Wine,Consumption,2023,1000 hl,  39
+Asia,Bahrain,Wine,Consumption,2009,1000 hl,  26
+Asia,Bahrain,Wine,Consumption,2010,1000 hl,  25
+Asia,Bahrain,Wine,Consumption,2011,1000 hl,  27
+Asia,Bahrain,Wine,Consumption,2012,1000 hl,  17
+Asia,Bahrain,Wine,Consumption,2013,1000 hl,  16
+Asia,Bahrain,Wine,Consumption,2014,1000 hl,  19
+Asia,Bahrain,Wine,Consumption,2015,1000 hl,  14
+Asia,Bahrain,Wine,Consumption,2016,1000 hl,  13
+Asia,Bahrain,Wine,Consumption,2017,1000 hl,  21
+Asia,Bahrain,Wine,Consumption,2018,1000 hl,  21
+Asia,Bahrain,Wine,Consumption,2019,1000 hl,  13
+Asia,Bahrain,Wine,Consumption,2020,1000 hl,  15
+Asia,Bahrain,Wine,Consumption,2021,1000 hl,  14
+Asia,Bahrain,Wine,Consumption,2022,1000 hl,  16
+Asia,Bahrain,Wine,Consumption,2023,1000 hl,  16
+Asia,Bangladesh,Wine,Consumption,2009,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2010,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2011,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2012,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2013,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2014,1000 hl,  2
+Asia,Bangladesh,Wine,Consumption,2015,1000 hl,  2
+Asia,Bangladesh,Wine,Consumption,2016,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2017,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2018,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2019,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2020,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2021,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2022,1000 hl,  1
+Asia,Bangladesh,Wine,Consumption,2023,1000 hl,  1
+America,Barbados,Wine,Consumption,2009,1000 hl,  21
+America,Barbados,Wine,Consumption,2010,1000 hl,  22
+America,Barbados,Wine,Consumption,2011,1000 hl,  21
+America,Barbados,Wine,Consumption,2012,1000 hl,  21
+America,Barbados,Wine,Consumption,2013,1000 hl,  23
+America,Barbados,Wine,Consumption,2014,1000 hl,  23
+America,Barbados,Wine,Consumption,2015,1000 hl,  29
+America,Barbados,Wine,Consumption,2016,1000 hl,  34
+America,Barbados,Wine,Consumption,2017,1000 hl,  29
+America,Barbados,Wine,Consumption,2018,1000 hl,  27
+America,Barbados,Wine,Consumption,2019,1000 hl,  27
+America,Barbados,Wine,Consumption,2020,1000 hl,  26
+America,Barbados,Wine,Consumption,2021,1000 hl,  20
+America,Barbados,Wine,Consumption,2022,1000 hl,  26
+America,Barbados,Wine,Consumption,2023,1000 hl,  25
+Europe,Belarus,Wine,Consumption,2009,1000 hl,  635
+Europe,Belarus,Wine,Consumption,2010,1000 hl,  684
+Europe,Belarus,Wine,Consumption,2011,1000 hl,  733
+Europe,Belarus,Wine,Consumption,2012,1000 hl,  757
+Europe,Belarus,Wine,Consumption,2013,1000 hl,  796
+Europe,Belarus,Wine,Consumption,2014,1000 hl,  812
+Europe,Belarus,Wine,Consumption,2015,1000 hl,  793
+Europe,Belarus,Wine,Consumption,2016,1000 hl,  756
+Europe,Belarus,Wine,Consumption,2017,1000 hl,  801
+Europe,Belarus,Wine,Consumption,2018,1000 hl,  864
+Europe,Belarus,Wine,Consumption,2019,1000 hl,  927
+Europe,Belarus,Wine,Consumption,2020,1000 hl,  984
+Europe,Belarus,Wine,Consumption,2021,1000 hl,  940
+Europe,Belarus,Wine,Consumption,2022,1000 hl,  925
+Europe,Belarus,Wine,Consumption,2023,1000 hl,  946
+Europe,Belgium,Wine,Consumption,2009,1000 hl, 2 850
+Europe,Belgium,Wine,Consumption,2010,1000 hl, 2 760
+Europe,Belgium,Wine,Consumption,2011,1000 hl, 2 917
+Europe,Belgium,Wine,Consumption,2012,1000 hl, 2 872
+Europe,Belgium,Wine,Consumption,2013,1000 hl, 2 886
+Europe,Belgium,Wine,Consumption,2014,1000 hl, 2 666
+Europe,Belgium,Wine,Consumption,2015,1000 hl, 2 966
+Europe,Belgium,Wine,Consumption,2016,1000 hl, 2 802
+Europe,Belgium,Wine,Consumption,2017,1000 hl, 2 818
+Europe,Belgium,Wine,Consumption,2018,1000 hl, 2 735
+Europe,Belgium,Wine,Consumption,2019,1000 hl, 2 659
+Europe,Belgium,Wine,Consumption,2020,1000 hl, 2 655
+Europe,Belgium,Wine,Consumption,2021,1000 hl, 2 382
+Europe,Belgium,Wine,Consumption,2022,1000 hl, 2 066
+Europe,Belgium,Wine,Consumption,2023,1000 hl, 1 820
+America,Belize,Wine,Consumption,2009,1000 hl,  3
+America,Belize,Wine,Consumption,2010,1000 hl,  4
+America,Belize,Wine,Consumption,2011,1000 hl,  4
+America,Belize,Wine,Consumption,2012,1000 hl,  6
+America,Belize,Wine,Consumption,2013,1000 hl,  12
+America,Belize,Wine,Consumption,2014,1000 hl,  15
+America,Belize,Wine,Consumption,2015,1000 hl,  14
+America,Belize,Wine,Consumption,2016,1000 hl,  13
+America,Belize,Wine,Consumption,2017,1000 hl,  14
+America,Belize,Wine,Consumption,2018,1000 hl,  15
+America,Belize,Wine,Consumption,2019,1000 hl,  15
+America,Belize,Wine,Consumption,2020,1000 hl,  13
+America,Belize,Wine,Consumption,2021,1000 hl,  9
+America,Belize,Wine,Consumption,2022,1000 hl,  14
+America,Belize,Wine,Consumption,2023,1000 hl,  13
+Africa,Benin,Wine,Consumption,2009,1000 hl,  30
+Africa,Benin,Wine,Consumption,2010,1000 hl,  56
+Africa,Benin,Wine,Consumption,2011,1000 hl,  83
+Africa,Benin,Wine,Consumption,2012,1000 hl,  65
+Africa,Benin,Wine,Consumption,2013,1000 hl,  42
+Africa,Benin,Wine,Consumption,2014,1000 hl,  34
+Africa,Benin,Wine,Consumption,2015,1000 hl,  38
+Africa,Benin,Wine,Consumption,2016,1000 hl,  39
+Africa,Benin,Wine,Consumption,2017,1000 hl,  32
+Africa,Benin,Wine,Consumption,2018,1000 hl,  23
+Africa,Benin,Wine,Consumption,2019,1000 hl,  19
+Africa,Benin,Wine,Consumption,2020,1000 hl,  23
+Africa,Benin,Wine,Consumption,2021,1000 hl,  23
+Africa,Benin,Wine,Consumption,2022,1000 hl,  23
+Africa,Benin,Wine,Consumption,2023,1000 hl,  22
+America,Bermuda,Wine,Consumption,2009,1000 hl,  21
+America,Bermuda,Wine,Consumption,2010,1000 hl,  21
+America,Bermuda,Wine,Consumption,2011,1000 hl,  28
+America,Bermuda,Wine,Consumption,2012,1000 hl,  34
+America,Bermuda,Wine,Consumption,2013,1000 hl,  22
+America,Bermuda,Wine,Consumption,2014,1000 hl,  13
+America,Bermuda,Wine,Consumption,2015,1000 hl,  15
+America,Bermuda,Wine,Consumption,2016,1000 hl,  15
+America,Bermuda,Wine,Consumption,2017,1000 hl,  15
+America,Bermuda,Wine,Consumption,2018,1000 hl,  15
+America,Bermuda,Wine,Consumption,2019,1000 hl,  16
+America,Bermuda,Wine,Consumption,2020,1000 hl,  15
+America,Bermuda,Wine,Consumption,2021,1000 hl,  13
+America,Bermuda,Wine,Consumption,2022,1000 hl,  14
+America,Bermuda,Wine,Consumption,2023,1000 hl,  15
+America,Bolivia,Wine,Consumption,2009,1000 hl,  78
+America,Bolivia,Wine,Consumption,2010,1000 hl,  81
+America,Bolivia,Wine,Consumption,2011,1000 hl,  83
+America,Bolivia,Wine,Consumption,2012,1000 hl,  83
+America,Bolivia,Wine,Consumption,2013,1000 hl,  92
+America,Bolivia,Wine,Consumption,2014,1000 hl,  79
+America,Bolivia,Wine,Consumption,2015,1000 hl,  79
+America,Bolivia,Wine,Consumption,2016,1000 hl,  93
+America,Bolivia,Wine,Consumption,2017,1000 hl,  95
+America,Bolivia,Wine,Consumption,2018,1000 hl,  87
+America,Bolivia,Wine,Consumption,2019,1000 hl,  83
+America,Bolivia,Wine,Consumption,2020,1000 hl,  91
+America,Bolivia,Wine,Consumption,2021,1000 hl,  90
+America,Bolivia,Wine,Consumption,2022,1000 hl,  88
+America,Bolivia,Wine,Consumption,2023,1000 hl,  88
+Europe,Bosnia and Herzegovina,Wine,Consumption,2009,1000 hl,  118
+Europe,Bosnia and Herzegovina,Wine,Consumption,2010,1000 hl,  116
+Europe,Bosnia and Herzegovina,Wine,Consumption,2011,1000 hl,  108
+Europe,Bosnia and Herzegovina,Wine,Consumption,2012,1000 hl,  108
+Europe,Bosnia and Herzegovina,Wine,Consumption,2013,1000 hl,  117
+Europe,Bosnia and Herzegovina,Wine,Consumption,2014,1000 hl,  119
+Europe,Bosnia and Herzegovina,Wine,Consumption,2015,1000 hl,  116
+Europe,Bosnia and Herzegovina,Wine,Consumption,2016,1000 hl,  114
+Europe,Bosnia and Herzegovina,Wine,Consumption,2017,1000 hl,  119
+Europe,Bosnia and Herzegovina,Wine,Consumption,2018,1000 hl,  119
+Europe,Bosnia and Herzegovina,Wine,Consumption,2019,1000 hl,  111
+Europe,Bosnia and Herzegovina,Wine,Consumption,2020,1000 hl,  113
+Europe,Bosnia and Herzegovina,Wine,Consumption,2021,1000 hl,  119
+Europe,Bosnia and Herzegovina,Wine,Consumption,2022,1000 hl,  121
+Europe,Bosnia and Herzegovina,Wine,Consumption,2023,1000 hl,  117
+Africa,Botswana,Wine,Consumption,2009,1000 hl,  72
+Africa,Botswana,Wine,Consumption,2010,1000 hl,  57
+Africa,Botswana,Wine,Consumption,2011,1000 hl,  47
+Africa,Botswana,Wine,Consumption,2012,1000 hl,  42
+Africa,Botswana,Wine,Consumption,2013,1000 hl,  41
+Africa,Botswana,Wine,Consumption,2014,1000 hl,  45
+Africa,Botswana,Wine,Consumption,2015,1000 hl,  37
+Africa,Botswana,Wine,Consumption,2016,1000 hl,  35
+Africa,Botswana,Wine,Consumption,2017,1000 hl,  31
+Africa,Botswana,Wine,Consumption,2018,1000 hl,  48
+Africa,Botswana,Wine,Consumption,2019,1000 hl,  58
+Africa,Botswana,Wine,Consumption,2020,1000 hl,  46
+Africa,Botswana,Wine,Consumption,2021,1000 hl,  49
+Africa,Botswana,Wine,Consumption,2022,1000 hl,  63
+Africa,Botswana,Wine,Consumption,2023,1000 hl,  53
+America,Brazil,Wine,Consumption,2009,1000 hl, 3 508
+America,Brazil,Wine,Consumption,2010,1000 hl, 3 686
+America,Brazil,Wine,Consumption,2011,1000 hl, 3 625
+America,Brazil,Wine,Consumption,2012,1000 hl, 3 198
+America,Brazil,Wine,Consumption,2013,1000 hl, 3 488
+America,Brazil,Wine,Consumption,2014,1000 hl, 3 233
+America,Brazil,Wine,Consumption,2015,1000 hl, 3 270
+America,Brazil,Wine,Consumption,2016,1000 hl, 3 112
+America,Brazil,Wine,Consumption,2017,1000 hl, 3 278
+America,Brazil,Wine,Consumption,2018,1000 hl, 3 285
+America,Brazil,Wine,Consumption,2019,1000 hl, 3 634
+America,Brazil,Wine,Consumption,2020,1000 hl, 4 053
+America,Brazil,Wine,Consumption,2021,1000 hl, 4 123
+America,Brazil,Wine,Consumption,2022,1000 hl, 3 590
+America,Brazil,Wine,Consumption,2023,1000 hl, 3 500
+Asia,Brunei Darussalam,Wine,Consumption,2009,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2010,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2011,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2012,1000 hl,  1
+Asia,Brunei Darussalam,Wine,Consumption,2013,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2014,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2015,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2016,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2017,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2018,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2019,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2020,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2021,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2022,1000 hl,0
+Asia,Brunei Darussalam,Wine,Consumption,2023,1000 hl,0
+Europe,Bulgaria,Wine,Consumption,2009,1000 hl,  878
+Europe,Bulgaria,Wine,Consumption,2010,1000 hl,  595
+Europe,Bulgaria,Wine,Consumption,2011,1000 hl,  502
+Europe,Bulgaria,Wine,Consumption,2012,1000 hl,  618
+Europe,Bulgaria,Wine,Consumption,2013,1000 hl,  973
+Europe,Bulgaria,Wine,Consumption,2014,1000 hl,  793
+Europe,Bulgaria,Wine,Consumption,2015,1000 hl,  665
+Europe,Bulgaria,Wine,Consumption,2016,1000 hl,  908
+Europe,Bulgaria,Wine,Consumption,2017,1000 hl,  829
+Europe,Bulgaria,Wine,Consumption,2018,1000 hl,  756
+Europe,Bulgaria,Wine,Consumption,2019,1000 hl,  633
+Europe,Bulgaria,Wine,Consumption,2020,1000 hl,  511
+Europe,Bulgaria,Wine,Consumption,2021,1000 hl,  550
+Europe,Bulgaria,Wine,Consumption,2022,1000 hl,  607
+Europe,Bulgaria,Wine,Consumption,2023,1000 hl,  611
+Africa,Burkina Faso,Wine,Consumption,2009,1000 hl,  34
+Africa,Burkina Faso,Wine,Consumption,2010,1000 hl,  41
+Africa,Burkina Faso,Wine,Consumption,2011,1000 hl,  41
+Africa,Burkina Faso,Wine,Consumption,2012,1000 hl,  54
+Africa,Burkina Faso,Wine,Consumption,2013,1000 hl,  28
+Africa,Burkina Faso,Wine,Consumption,2014,1000 hl,  22
+Africa,Burkina Faso,Wine,Consumption,2015,1000 hl,  29
+Africa,Burkina Faso,Wine,Consumption,2016,1000 hl,  31
+Africa,Burkina Faso,Wine,Consumption,2017,1000 hl,  33
+Africa,Burkina Faso,Wine,Consumption,2018,1000 hl,  57
+Africa,Burkina Faso,Wine,Consumption,2019,1000 hl,  96
+Africa,Burkina Faso,Wine,Consumption,2020,1000 hl,  99
+Africa,Burkina Faso,Wine,Consumption,2021,1000 hl,  115
+Africa,Burkina Faso,Wine,Consumption,2022,1000 hl,  145
+Africa,Burkina Faso,Wine,Consumption,2023,1000 hl,  102
+Africa,Burundi,Wine,Consumption,2009,1000 hl,  2
+Africa,Burundi,Wine,Consumption,2010,1000 hl,  2
+Africa,Burundi,Wine,Consumption,2011,1000 hl,  2
+Africa,Burundi,Wine,Consumption,2012,1000 hl,  3
+Africa,Burundi,Wine,Consumption,2013,1000 hl,  4
+Africa,Burundi,Wine,Consumption,2014,1000 hl,  3
+Africa,Burundi,Wine,Consumption,2015,1000 hl,  2
+Africa,Burundi,Wine,Consumption,2016,1000 hl,  2
+Africa,Burundi,Wine,Consumption,2017,1000 hl,  1
+Africa,Burundi,Wine,Consumption,2018,1000 hl,  1
+Africa,Burundi,Wine,Consumption,2019,1000 hl,  3
+Africa,Burundi,Wine,Consumption,2020,1000 hl,  4
+Africa,Burundi,Wine,Consumption,2021,1000 hl,  4
+Africa,Burundi,Wine,Consumption,2022,1000 hl,  4
+Africa,Burundi,Wine,Consumption,2023,1000 hl,  3
+Africa,Cabo Verde,Wine,Consumption,2009,1000 hl,  43
+Africa,Cabo Verde,Wine,Consumption,2010,1000 hl,  50
+Africa,Cabo Verde,Wine,Consumption,2011,1000 hl,  45
+Africa,Cabo Verde,Wine,Consumption,2012,1000 hl,  43
+Africa,Cabo Verde,Wine,Consumption,2013,1000 hl,  35
+Africa,Cabo Verde,Wine,Consumption,2014,1000 hl,  43
+Africa,Cabo Verde,Wine,Consumption,2015,1000 hl,  53
+Africa,Cabo Verde,Wine,Consumption,2016,1000 hl,  63
+Africa,Cabo Verde,Wine,Consumption,2017,1000 hl,  69
+Africa,Cabo Verde,Wine,Consumption,2018,1000 hl,  65
+Africa,Cabo Verde,Wine,Consumption,2019,1000 hl,  64
+Africa,Cabo Verde,Wine,Consumption,2020,1000 hl,  58
+Africa,Cabo Verde,Wine,Consumption,2021,1000 hl,  48
+Africa,Cabo Verde,Wine,Consumption,2022,1000 hl,  50
+Africa,Cabo Verde,Wine,Consumption,2023,1000 hl,  57
+Asia,Cambodia,Wine,Consumption,2009,1000 hl,  13
+Asia,Cambodia,Wine,Consumption,2010,1000 hl,  8
+Asia,Cambodia,Wine,Consumption,2011,1000 hl,  9
+Asia,Cambodia,Wine,Consumption,2012,1000 hl,  11
+Asia,Cambodia,Wine,Consumption,2013,1000 hl,  14
+Asia,Cambodia,Wine,Consumption,2014,1000 hl,  19
+Asia,Cambodia,Wine,Consumption,2015,1000 hl,  15
+Asia,Cambodia,Wine,Consumption,2016,1000 hl,  14
+Asia,Cambodia,Wine,Consumption,2017,1000 hl,  8
+Asia,Cambodia,Wine,Consumption,2018,1000 hl,  6
+Asia,Cambodia,Wine,Consumption,2019,1000 hl,  10
+Asia,Cambodia,Wine,Consumption,2020,1000 hl,  12
+Asia,Cambodia,Wine,Consumption,2021,1000 hl,  12
+Asia,Cambodia,Wine,Consumption,2022,1000 hl,  12
+Asia,Cambodia,Wine,Consumption,2023,1000 hl,  10
+Africa,Cameroon,Wine,Consumption,2009,1000 hl,  77
+Africa,Cameroon,Wine,Consumption,2010,1000 hl,  91
+Africa,Cameroon,Wine,Consumption,2011,1000 hl,  115
+Africa,Cameroon,Wine,Consumption,2012,1000 hl,  115
+Africa,Cameroon,Wine,Consumption,2013,1000 hl,  99
+Africa,Cameroon,Wine,Consumption,2014,1000 hl,  126
+Africa,Cameroon,Wine,Consumption,2015,1000 hl,  121
+Africa,Cameroon,Wine,Consumption,2016,1000 hl,  95
+Africa,Cameroon,Wine,Consumption,2017,1000 hl,  106
+Africa,Cameroon,Wine,Consumption,2018,1000 hl,  111
+Africa,Cameroon,Wine,Consumption,2019,1000 hl,  85
+Africa,Cameroon,Wine,Consumption,2020,1000 hl,  86
+Africa,Cameroon,Wine,Consumption,2021,1000 hl,  104
+Africa,Cameroon,Wine,Consumption,2022,1000 hl,  112
+Africa,Cameroon,Wine,Consumption,2023,1000 hl,  100
+America,Canada,Wine,Consumption,2009,1000 hl, 4 414
+America,Canada,Wine,Consumption,2010,1000 hl, 4 564
+America,Canada,Wine,Consumption,2011,1000 hl, 4 700
+America,Canada,Wine,Consumption,2012,1000 hl, 4 859
+America,Canada,Wine,Consumption,2013,1000 hl, 4 878
+America,Canada,Wine,Consumption,2014,1000 hl, 4 645
+America,Canada,Wine,Consumption,2015,1000 hl, 4 835
+America,Canada,Wine,Consumption,2016,1000 hl, 4 996
+America,Canada,Wine,Consumption,2017,1000 hl, 5 124
+America,Canada,Wine,Consumption,2018,1000 hl, 5 126
+America,Canada,Wine,Consumption,2019,1000 hl, 5 163
+America,Canada,Wine,Consumption,2020,1000 hl, 5 320
+America,Canada,Wine,Consumption,2021,1000 hl, 5 268
+America,Canada,Wine,Consumption,2022,1000 hl, 5 083
+America,Canada,Wine,Consumption,2023,1000 hl, 4 884
+Africa,Central African Republic,Wine,Consumption,2009,1000 hl,  3
+Africa,Central African Republic,Wine,Consumption,2010,1000 hl,  6
+Africa,Central African Republic,Wine,Consumption,2011,1000 hl,  5
+Africa,Central African Republic,Wine,Consumption,2012,1000 hl,  5
+Africa,Central African Republic,Wine,Consumption,2013,1000 hl,  4
+Africa,Central African Republic,Wine,Consumption,2014,1000 hl,  1
+Africa,Central African Republic,Wine,Consumption,2015,1000 hl,  6
+Africa,Central African Republic,Wine,Consumption,2016,1000 hl,  6
+Africa,Central African Republic,Wine,Consumption,2017,1000 hl,  6
+Africa,Central African Republic,Wine,Consumption,2018,1000 hl,  7
+Africa,Central African Republic,Wine,Consumption,2019,1000 hl,  4
+Africa,Central African Republic,Wine,Consumption,2020,1000 hl,  4
+Africa,Central African Republic,Wine,Consumption,2021,1000 hl,  4
+Africa,Central African Republic,Wine,Consumption,2022,1000 hl,  4
+Africa,Central African Republic,Wine,Consumption,2023,1000 hl,  5
+Africa,Chad,Wine,Consumption,2009,1000 hl,  12
+Africa,Chad,Wine,Consumption,2010,1000 hl,  19
+Africa,Chad,Wine,Consumption,2011,1000 hl,  24
+Africa,Chad,Wine,Consumption,2012,1000 hl,  21
+Africa,Chad,Wine,Consumption,2013,1000 hl,  21
+Africa,Chad,Wine,Consumption,2014,1000 hl,  14
+Africa,Chad,Wine,Consumption,2015,1000 hl,  5
+Africa,Chad,Wine,Consumption,2016,1000 hl,  5
+Africa,Chad,Wine,Consumption,2017,1000 hl,  4
+Africa,Chad,Wine,Consumption,2018,1000 hl,  2
+Africa,Chad,Wine,Consumption,2019,1000 hl,  2
+Africa,Chad,Wine,Consumption,2020,1000 hl,  2
+Africa,Chad,Wine,Consumption,2021,1000 hl,  2
+Africa,Chad,Wine,Consumption,2022,1000 hl,  2
+Africa,Chad,Wine,Consumption,2023,1000 hl,  2
+America,Chile,Wine,Consumption,2009,1000 hl, 3 118
+America,Chile,Wine,Consumption,2010,1000 hl, 3 100
+America,Chile,Wine,Consumption,2011,1000 hl, 3 007
+America,Chile,Wine,Consumption,2012,1000 hl, 3 157
+America,Chile,Wine,Consumption,2013,1000 hl, 2 947
+America,Chile,Wine,Consumption,2014,1000 hl, 2 950
+America,Chile,Wine,Consumption,2015,1000 hl, 2 578
+America,Chile,Wine,Consumption,2016,1000 hl, 2 433
+America,Chile,Wine,Consumption,2017,1000 hl, 2 329
+America,Chile,Wine,Consumption,2018,1000 hl, 2 294
+America,Chile,Wine,Consumption,2019,1000 hl, 2 745
+America,Chile,Wine,Consumption,2020,1000 hl, 2 392
+America,Chile,Wine,Consumption,2021,1000 hl, 2 521
+America,Chile,Wine,Consumption,2022,1000 hl, 2 280
+America,Chile,Wine,Consumption,2023,1000 hl, 1 730
+Asia,"China, Hong Kong SAR",Wine,Consumption,2009,1000 hl,  250
+Asia,"China, Hong Kong SAR",Wine,Consumption,2010,1000 hl,  260
+Asia,"China, Hong Kong SAR",Wine,Consumption,2011,1000 hl,  277
+Asia,"China, Hong Kong SAR",Wine,Consumption,2012,1000 hl,  308
+Asia,"China, Hong Kong SAR",Wine,Consumption,2013,1000 hl,  315
+Asia,"China, Hong Kong SAR",Wine,Consumption,2014,1000 hl,  307
+Asia,"China, Hong Kong SAR",Wine,Consumption,2015,1000 hl,  332
+Asia,"China, Hong Kong SAR",Wine,Consumption,2016,1000 hl,  359
+Asia,"China, Hong Kong SAR",Wine,Consumption,2017,1000 hl,  360
+Asia,"China, Hong Kong SAR",Wine,Consumption,2018,1000 hl,  355
+Asia,"China, Hong Kong SAR",Wine,Consumption,2019,1000 hl,  323
+Asia,"China, Hong Kong SAR",Wine,Consumption,2020,1000 hl,  307
+Asia,"China, Hong Kong SAR",Wine,Consumption,2021,1000 hl,  300
+Asia,"China, Hong Kong SAR",Wine,Consumption,2022,1000 hl,  277
+Asia,"China, Hong Kong SAR",Wine,Consumption,2023,1000 hl,  312
+Asia,"China, Macao SAR",Wine,Consumption,2009,1000 hl,  43
+Asia,"China, Macao SAR",Wine,Consumption,2010,1000 hl,  53
+Asia,"China, Macao SAR",Wine,Consumption,2011,1000 hl,  65
+Asia,"China, Macao SAR",Wine,Consumption,2012,1000 hl,  67
+Asia,"China, Macao SAR",Wine,Consumption,2013,1000 hl,  51
+Asia,"China, Macao SAR",Wine,Consumption,2014,1000 hl,  43
+Asia,"China, Macao SAR",Wine,Consumption,2015,1000 hl,  51
+Asia,"China, Macao SAR",Wine,Consumption,2016,1000 hl,  54
+Asia,"China, Macao SAR",Wine,Consumption,2017,1000 hl,  51
+Asia,"China, Macao SAR",Wine,Consumption,2018,1000 hl,  47
+Asia,"China, Macao SAR",Wine,Consumption,2019,1000 hl,  44
+Asia,"China, Macao SAR",Wine,Consumption,2020,1000 hl,  36
+Asia,"China, Macao SAR",Wine,Consumption,2021,1000 hl,  36
+Asia,"China, Macao SAR",Wine,Consumption,2022,1000 hl,  36
+Asia,"China, Macao SAR",Wine,Consumption,2023,1000 hl,  40
+Asia,"China, Taiwan Province of",Wine,Consumption,2009,1000 hl,  135
+Asia,"China, Taiwan Province of",Wine,Consumption,2010,1000 hl,  132
+Asia,"China, Taiwan Province of",Wine,Consumption,2011,1000 hl,  166
+Asia,"China, Taiwan Province of",Wine,Consumption,2012,1000 hl,  170
+Asia,"China, Taiwan Province of",Wine,Consumption,2013,1000 hl,  166
+Asia,"China, Taiwan Province of",Wine,Consumption,2014,1000 hl,  168
+Asia,"China, Taiwan Province of",Wine,Consumption,2015,1000 hl,  187
+Asia,"China, Taiwan Province of",Wine,Consumption,2016,1000 hl,  210
+Asia,"China, Taiwan Province of",Wine,Consumption,2017,1000 hl,  216
+Asia,"China, Taiwan Province of",Wine,Consumption,2018,1000 hl,  216
+Asia,"China, Taiwan Province of",Wine,Consumption,2019,1000 hl,  208
+Asia,"China, Taiwan Province of",Wine,Consumption,2020,1000 hl,  196
+Asia,"China, Taiwan Province of",Wine,Consumption,2021,1000 hl,  209
+Asia,"China, Taiwan Province of",Wine,Consumption,2022,1000 hl,  233
+Asia,"China, Taiwan Province of",Wine,Consumption,2023,1000 hl,  212
+America,Colombia,Wine,Consumption,2009,1000 hl,  144
+America,Colombia,Wine,Consumption,2010,1000 hl,  142
+America,Colombia,Wine,Consumption,2011,1000 hl,  129
+America,Colombia,Wine,Consumption,2012,1000 hl,  130
+America,Colombia,Wine,Consumption,2013,1000 hl,  149
+America,Colombia,Wine,Consumption,2014,1000 hl,  158
+America,Colombia,Wine,Consumption,2015,1000 hl,  163
+America,Colombia,Wine,Consumption,2016,1000 hl,  172
+America,Colombia,Wine,Consumption,2017,1000 hl,  177
+America,Colombia,Wine,Consumption,2018,1000 hl,  181
+America,Colombia,Wine,Consumption,2019,1000 hl,  205
+America,Colombia,Wine,Consumption,2020,1000 hl,  233
+America,Colombia,Wine,Consumption,2021,1000 hl,  251
+America,Colombia,Wine,Consumption,2022,1000 hl,  296
+America,Colombia,Wine,Consumption,2023,1000 hl,  233
+Africa,Comoros,Wine,Consumption,2009,1000 hl,  1
+Africa,Comoros,Wine,Consumption,2010,1000 hl,  1
+Africa,Comoros,Wine,Consumption,2011,1000 hl,  1
+Africa,Comoros,Wine,Consumption,2012,1000 hl,  2
+Africa,Comoros,Wine,Consumption,2013,1000 hl,  2
+Africa,Comoros,Wine,Consumption,2014,1000 hl,  2
+Africa,Comoros,Wine,Consumption,2015,1000 hl,  1
+Africa,Comoros,Wine,Consumption,2016,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2017,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2018,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2019,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2020,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2021,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2022,1000 hl,  3
+Africa,Comoros,Wine,Consumption,2023,1000 hl,  3
+Africa,Congo,Wine,Consumption,2009,1000 hl,  44
+Africa,Congo,Wine,Consumption,2010,1000 hl,  47
+Africa,Congo,Wine,Consumption,2011,1000 hl,  33
+Africa,Congo,Wine,Consumption,2012,1000 hl,  50
+Africa,Congo,Wine,Consumption,2013,1000 hl,  41
+Africa,Congo,Wine,Consumption,2014,1000 hl,  27
+Africa,Congo,Wine,Consumption,2015,1000 hl,  32
+Africa,Congo,Wine,Consumption,2016,1000 hl,  32
+Africa,Congo,Wine,Consumption,2017,1000 hl,  22
+Africa,Congo,Wine,Consumption,2018,1000 hl,  16
+Africa,Congo,Wine,Consumption,2019,1000 hl,  19
+Africa,Congo,Wine,Consumption,2020,1000 hl,  22
+Africa,Congo,Wine,Consumption,2021,1000 hl,  22
+Africa,Congo,Wine,Consumption,2022,1000 hl,  22
+Africa,Congo,Wine,Consumption,2023,1000 hl,  20
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2009,1000 hl,  28
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2010,1000 hl,  35
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2011,1000 hl,  30
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2012,1000 hl,  31
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2013,1000 hl,  34
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2014,1000 hl,  30
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2015,1000 hl,  29
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2016,1000 hl,  21
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2017,1000 hl,  26
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2018,1000 hl,  34
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2019,1000 hl,  36
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2020,1000 hl,  33
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2021,1000 hl,  33
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2022,1000 hl,  33
+Africa,Congo (the Democratic Republic of the),Wine,Consumption,2023,1000 hl,  34
+Oceania,Cook Islands,Wine,Consumption,2009,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2010,1000 hl,  3
+Oceania,Cook Islands,Wine,Consumption,2011,1000 hl,  1
+Oceania,Cook Islands,Wine,Consumption,2012,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2013,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2014,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2015,1000 hl,  3
+Oceania,Cook Islands,Wine,Consumption,2016,1000 hl,  3
+Oceania,Cook Islands,Wine,Consumption,2017,1000 hl,  3
+Oceania,Cook Islands,Wine,Consumption,2018,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2019,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2020,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2021,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2022,1000 hl,  2
+Oceania,Cook Islands,Wine,Consumption,2023,1000 hl,  2
+America,Costa Rica,Wine,Consumption,2009,1000 hl,  45
+America,Costa Rica,Wine,Consumption,2010,1000 hl,  94
+America,Costa Rica,Wine,Consumption,2011,1000 hl,  85
+America,Costa Rica,Wine,Consumption,2012,1000 hl,  85
+America,Costa Rica,Wine,Consumption,2013,1000 hl,  89
+America,Costa Rica,Wine,Consumption,2014,1000 hl,  99
+America,Costa Rica,Wine,Consumption,2015,1000 hl,  107
+America,Costa Rica,Wine,Consumption,2016,1000 hl,  113
+America,Costa Rica,Wine,Consumption,2017,1000 hl,  108
+America,Costa Rica,Wine,Consumption,2018,1000 hl,  100
+America,Costa Rica,Wine,Consumption,2019,1000 hl,  108
+America,Costa Rica,Wine,Consumption,2020,1000 hl,  109
+America,Costa Rica,Wine,Consumption,2021,1000 hl,  118
+America,Costa Rica,Wine,Consumption,2022,1000 hl,  138
+America,Costa Rica,Wine,Consumption,2023,1000 hl,  115
+Africa,Côte d'Ivoire,Wine,Consumption,2009,1000 hl,  277
+Africa,Côte d'Ivoire,Wine,Consumption,2010,1000 hl,  299
+Africa,Côte d'Ivoire,Wine,Consumption,2011,1000 hl,  289
+Africa,Côte d'Ivoire,Wine,Consumption,2012,1000 hl,  284
+Africa,Côte d'Ivoire,Wine,Consumption,2013,1000 hl,  290
+Africa,Côte d'Ivoire,Wine,Consumption,2014,1000 hl,  305
+Africa,Côte d'Ivoire,Wine,Consumption,2015,1000 hl,  360
+Africa,Côte d'Ivoire,Wine,Consumption,2016,1000 hl,  424
+Africa,Côte d'Ivoire,Wine,Consumption,2017,1000 hl,  464
+Africa,Côte d'Ivoire,Wine,Consumption,2018,1000 hl,  444
+Africa,Côte d'Ivoire,Wine,Consumption,2019,1000 hl,  412
+Africa,Côte d'Ivoire,Wine,Consumption,2020,1000 hl,  404
+Africa,Côte d'Ivoire,Wine,Consumption,2021,1000 hl,  487
+Africa,Côte d'Ivoire,Wine,Consumption,2022,1000 hl,  581
+Africa,Côte d'Ivoire,Wine,Consumption,2023,1000 hl,  466
+Europe,Croatia,Wine,Consumption,2009,1000 hl, 1 447
+Europe,Croatia,Wine,Consumption,2010,1000 hl, 1 530
+Europe,Croatia,Wine,Consumption,2011,1000 hl, 1 537
+Europe,Croatia,Wine,Consumption,2012,1000 hl, 1 449
+Europe,Croatia,Wine,Consumption,2013,1000 hl, 1 363
+Europe,Croatia,Wine,Consumption,2014,1000 hl, 1 188
+Europe,Croatia,Wine,Consumption,2015,1000 hl, 1 131
+Europe,Croatia,Wine,Consumption,2016,1000 hl, 1 134
+Europe,Croatia,Wine,Consumption,2017,1000 hl,  988
+Europe,Croatia,Wine,Consumption,2018,1000 hl, 1 040
+Europe,Croatia,Wine,Consumption,2019,1000 hl, 1 142
+Europe,Croatia,Wine,Consumption,2020,1000 hl, 1 079
+Europe,Croatia,Wine,Consumption,2021,1000 hl, 1 003
+Europe,Croatia,Wine,Consumption,2022,1000 hl,  961
+Europe,Croatia,Wine,Consumption,2023,1000 hl, 1 045
+America,Cuba,Wine,Consumption,2009,1000 hl,  159
+America,Cuba,Wine,Consumption,2010,1000 hl,  160
+America,Cuba,Wine,Consumption,2011,1000 hl,  163
+America,Cuba,Wine,Consumption,2012,1000 hl,  171
+America,Cuba,Wine,Consumption,2013,1000 hl,  175
+America,Cuba,Wine,Consumption,2014,1000 hl,  178
+America,Cuba,Wine,Consumption,2015,1000 hl,  177
+America,Cuba,Wine,Consumption,2016,1000 hl,  181
+America,Cuba,Wine,Consumption,2017,1000 hl,  186
+America,Cuba,Wine,Consumption,2018,1000 hl,  178
+America,Cuba,Wine,Consumption,2019,1000 hl,  164
+America,Cuba,Wine,Consumption,2020,1000 hl,  160
+America,Cuba,Wine,Consumption,2021,1000 hl,  159
+America,Cuba,Wine,Consumption,2022,1000 hl,  161
+America,Cuba,Wine,Consumption,2023,1000 hl,  164
+Europe,Cyprus,Wine,Consumption,2009,1000 hl,  159
+Europe,Cyprus,Wine,Consumption,2010,1000 hl,  157
+Europe,Cyprus,Wine,Consumption,2011,1000 hl,  140
+Europe,Cyprus,Wine,Consumption,2012,1000 hl,  146
+Europe,Cyprus,Wine,Consumption,2013,1000 hl,  166
+Europe,Cyprus,Wine,Consumption,2014,1000 hl,  155
+Europe,Cyprus,Wine,Consumption,2015,1000 hl,  160
+Europe,Cyprus,Wine,Consumption,2016,1000 hl,  158
+Europe,Cyprus,Wine,Consumption,2017,1000 hl,  167
+Europe,Cyprus,Wine,Consumption,2018,1000 hl,  185
+Europe,Cyprus,Wine,Consumption,2019,1000 hl,  179
+Europe,Cyprus,Wine,Consumption,2020,1000 hl,  155
+Europe,Cyprus,Wine,Consumption,2021,1000 hl,  131
+Europe,Cyprus,Wine,Consumption,2022,1000 hl,  153
+Europe,Cyprus,Wine,Consumption,2023,1000 hl,  161
+Europe,Czech Republic,Wine,Consumption,2009,1000 hl, 2 006
+Europe,Czech Republic,Wine,Consumption,2010,1000 hl, 2 000
+Europe,Czech Republic,Wine,Consumption,2011,1000 hl, 2 260
+Europe,Czech Republic,Wine,Consumption,2012,1000 hl, 1 686
+Europe,Czech Republic,Wine,Consumption,2013,1000 hl, 2 067
+Europe,Czech Republic,Wine,Consumption,2014,1000 hl, 2 125
+Europe,Czech Republic,Wine,Consumption,2015,1000 hl, 2 236
+Europe,Czech Republic,Wine,Consumption,2016,1000 hl, 2 231
+Europe,Czech Republic,Wine,Consumption,2017,1000 hl, 2 094
+Europe,Czech Republic,Wine,Consumption,2018,1000 hl, 1 992
+Europe,Czech Republic,Wine,Consumption,2019,1000 hl, 2 174
+Europe,Czech Republic,Wine,Consumption,2020,1000 hl, 2 062
+Europe,Czech Republic,Wine,Consumption,2021,1000 hl, 2 230
+Europe,Czech Republic,Wine,Consumption,2022,1000 hl, 2 236
+Europe,Czech Republic,Wine,Consumption,2023,1000 hl, 2 154
+Europe,Denmark,Wine,Consumption,2009,1000 hl, 1 654
+Europe,Denmark,Wine,Consumption,2010,1000 hl, 1 629
+Europe,Denmark,Wine,Consumption,2011,1000 hl, 1 592
+Europe,Denmark,Wine,Consumption,2012,1000 hl, 1 580
+Europe,Denmark,Wine,Consumption,2013,1000 hl, 1 552
+Europe,Denmark,Wine,Consumption,2014,1000 hl, 1 544
+Europe,Denmark,Wine,Consumption,2015,1000 hl, 1 506
+Europe,Denmark,Wine,Consumption,2016,1000 hl, 1 495
+Europe,Denmark,Wine,Consumption,2017,1000 hl, 1 459
+Europe,Denmark,Wine,Consumption,2018,1000 hl, 1 471
+Europe,Denmark,Wine,Consumption,2019,1000 hl, 1 524
+Europe,Denmark,Wine,Consumption,2020,1000 hl, 1 534
+Europe,Denmark,Wine,Consumption,2021,1000 hl, 1 569
+Europe,Denmark,Wine,Consumption,2022,1000 hl, 1 536
+Europe,Denmark,Wine,Consumption,2023,1000 hl, 1 433
+Africa,Djibouti,Wine,Consumption,2009,1000 hl,  3
+Africa,Djibouti,Wine,Consumption,2010,1000 hl,  3
+Africa,Djibouti,Wine,Consumption,2011,1000 hl,  3
+Africa,Djibouti,Wine,Consumption,2012,1000 hl,  4
+Africa,Djibouti,Wine,Consumption,2013,1000 hl,  7
+Africa,Djibouti,Wine,Consumption,2014,1000 hl,  5
+Africa,Djibouti,Wine,Consumption,2015,1000 hl,  2
+Africa,Djibouti,Wine,Consumption,2016,1000 hl,  3
+Africa,Djibouti,Wine,Consumption,2017,1000 hl,  3
+Africa,Djibouti,Wine,Consumption,2018,1000 hl,  2
+Africa,Djibouti,Wine,Consumption,2019,1000 hl,  2
+Africa,Djibouti,Wine,Consumption,2020,1000 hl,  2
+Africa,Djibouti,Wine,Consumption,2021,1000 hl,  2
+Africa,Djibouti,Wine,Consumption,2022,1000 hl,  2
+Africa,Djibouti,Wine,Consumption,2023,1000 hl,  2
+America,Dominica,Wine,Consumption,2009,1000 hl,  3
+America,Dominica,Wine,Consumption,2010,1000 hl,  2
+America,Dominica,Wine,Consumption,2011,1000 hl,  2
+America,Dominica,Wine,Consumption,2012,1000 hl,  1
+America,Dominica,Wine,Consumption,2013,1000 hl,  1
+America,Dominica,Wine,Consumption,2014,1000 hl,  1
+America,Dominica,Wine,Consumption,2015,1000 hl,  1
+America,Dominica,Wine,Consumption,2016,1000 hl,  1
+America,Dominica,Wine,Consumption,2017,1000 hl,  1
+America,Dominica,Wine,Consumption,2018,1000 hl,  1
+America,Dominica,Wine,Consumption,2019,1000 hl,  1
+America,Dominica,Wine,Consumption,2020,1000 hl,  1
+America,Dominica,Wine,Consumption,2021,1000 hl,  1
+America,Dominica,Wine,Consumption,2022,1000 hl,  1
+America,Dominica,Wine,Consumption,2023,1000 hl,  1
+America,Dominican Republic,Wine,Consumption,2009,1000 hl,  73
+America,Dominican Republic,Wine,Consumption,2010,1000 hl,  86
+America,Dominican Republic,Wine,Consumption,2011,1000 hl,  96
+America,Dominican Republic,Wine,Consumption,2012,1000 hl,  96
+America,Dominican Republic,Wine,Consumption,2013,1000 hl,  78
+America,Dominican Republic,Wine,Consumption,2014,1000 hl,  32
+America,Dominican Republic,Wine,Consumption,2015,1000 hl,  69
+America,Dominican Republic,Wine,Consumption,2016,1000 hl,  132
+America,Dominican Republic,Wine,Consumption,2017,1000 hl,  141
+America,Dominican Republic,Wine,Consumption,2018,1000 hl,  118
+America,Dominican Republic,Wine,Consumption,2019,1000 hl,  86
+America,Dominican Republic,Wine,Consumption,2020,1000 hl,  85
+America,Dominican Republic,Wine,Consumption,2021,1000 hl,  118
+America,Dominican Republic,Wine,Consumption,2022,1000 hl,  185
+America,Dominican Republic,Wine,Consumption,2023,1000 hl,  118
+America,Ecuador,Wine,Consumption,2009,1000 hl,  50
+America,Ecuador,Wine,Consumption,2010,1000 hl,  59
+America,Ecuador,Wine,Consumption,2011,1000 hl,  45
+America,Ecuador,Wine,Consumption,2012,1000 hl,  61
+America,Ecuador,Wine,Consumption,2013,1000 hl,  50
+America,Ecuador,Wine,Consumption,2014,1000 hl,  71
+America,Ecuador,Wine,Consumption,2015,1000 hl,  55
+America,Ecuador,Wine,Consumption,2016,1000 hl,  57
+America,Ecuador,Wine,Consumption,2017,1000 hl,  70
+America,Ecuador,Wine,Consumption,2018,1000 hl,  87
+America,Ecuador,Wine,Consumption,2019,1000 hl,  99
+America,Ecuador,Wine,Consumption,2020,1000 hl,  95
+America,Ecuador,Wine,Consumption,2021,1000 hl,  109
+America,Ecuador,Wine,Consumption,2022,1000 hl,  139
+America,Ecuador,Wine,Consumption,2023,1000 hl,  106
+Africa,Egypt,Wine,Consumption,2009,1000 hl,  118
+Africa,Egypt,Wine,Consumption,2010,1000 hl,  80
+Africa,Egypt,Wine,Consumption,2011,1000 hl,  44
+Africa,Egypt,Wine,Consumption,2012,1000 hl,  44
+Africa,Egypt,Wine,Consumption,2013,1000 hl,  45
+Africa,Egypt,Wine,Consumption,2014,1000 hl,  47
+Africa,Egypt,Wine,Consumption,2015,1000 hl,  57
+Africa,Egypt,Wine,Consumption,2016,1000 hl,  59
+Africa,Egypt,Wine,Consumption,2017,1000 hl,  59
+Africa,Egypt,Wine,Consumption,2018,1000 hl,  58
+Africa,Egypt,Wine,Consumption,2019,1000 hl,  55
+Africa,Egypt,Wine,Consumption,2020,1000 hl,  53
+Africa,Egypt,Wine,Consumption,2021,1000 hl,  50
+Africa,Egypt,Wine,Consumption,2022,1000 hl,  50
+Africa,Egypt,Wine,Consumption,2023,1000 hl,  53
+America,El Salvador,Wine,Consumption,2009,1000 hl,  20
+America,El Salvador,Wine,Consumption,2010,1000 hl,  21
+America,El Salvador,Wine,Consumption,2011,1000 hl,  21
+America,El Salvador,Wine,Consumption,2012,1000 hl,  20
+America,El Salvador,Wine,Consumption,2013,1000 hl,  20
+America,El Salvador,Wine,Consumption,2014,1000 hl,  20
+America,El Salvador,Wine,Consumption,2015,1000 hl,  20
+America,El Salvador,Wine,Consumption,2016,1000 hl,  20
+America,El Salvador,Wine,Consumption,2017,1000 hl,  20
+America,El Salvador,Wine,Consumption,2018,1000 hl,  20
+America,El Salvador,Wine,Consumption,2019,1000 hl,  24
+America,El Salvador,Wine,Consumption,2020,1000 hl,  26
+America,El Salvador,Wine,Consumption,2021,1000 hl,  26
+America,El Salvador,Wine,Consumption,2022,1000 hl,  26
+America,El Salvador,Wine,Consumption,2023,1000 hl,  24
+Europe,Estonia,Wine,Consumption,2009,1000 hl,  142
+Europe,Estonia,Wine,Consumption,2010,1000 hl,  156
+Europe,Estonia,Wine,Consumption,2011,1000 hl,  202
+Europe,Estonia,Wine,Consumption,2012,1000 hl,  253
+Europe,Estonia,Wine,Consumption,2013,1000 hl,  290
+Europe,Estonia,Wine,Consumption,2014,1000 hl,  307
+Europe,Estonia,Wine,Consumption,2015,1000 hl,  310
+Europe,Estonia,Wine,Consumption,2016,1000 hl,  312
+Europe,Estonia,Wine,Consumption,2017,1000 hl,  302
+Europe,Estonia,Wine,Consumption,2018,1000 hl,  283
+Europe,Estonia,Wine,Consumption,2019,1000 hl,  278
+Europe,Estonia,Wine,Consumption,2020,1000 hl,  277
+Europe,Estonia,Wine,Consumption,2021,1000 hl,  277
+Europe,Estonia,Wine,Consumption,2022,1000 hl,  288
+Europe,Estonia,Wine,Consumption,2023,1000 hl,  281
+Africa,Eswatini,Wine,Consumption,2009,1000 hl,  2
+Africa,Eswatini,Wine,Consumption,2010,1000 hl,  3
+Africa,Eswatini,Wine,Consumption,2011,1000 hl,  4
+Africa,Eswatini,Wine,Consumption,2012,1000 hl,  12
+Africa,Eswatini,Wine,Consumption,2013,1000 hl,  26
+Africa,Eswatini,Wine,Consumption,2014,1000 hl,  22
+Africa,Eswatini,Wine,Consumption,2015,1000 hl,  19
+Africa,Eswatini,Wine,Consumption,2016,1000 hl,  17
+Africa,Eswatini,Wine,Consumption,2017,1000 hl,  23
+Africa,Eswatini,Wine,Consumption,2018,1000 hl,  34
+Africa,Eswatini,Wine,Consumption,2019,1000 hl,  20
+Africa,Eswatini,Wine,Consumption,2020,1000 hl,  20
+Africa,Eswatini,Wine,Consumption,2021,1000 hl,  4
+Africa,Eswatini,Wine,Consumption,2022,1000 hl,  4
+Africa,Eswatini,Wine,Consumption,2023,1000 hl,  16
+Africa,Ethiopia,Wine,Consumption,2009,1000 hl,  21
+Africa,Ethiopia,Wine,Consumption,2010,1000 hl,  19
+Africa,Ethiopia,Wine,Consumption,2011,1000 hl,  18
+Africa,Ethiopia,Wine,Consumption,2012,1000 hl,  18
+Africa,Ethiopia,Wine,Consumption,2013,1000 hl,  18
+Africa,Ethiopia,Wine,Consumption,2014,1000 hl,  29
+Africa,Ethiopia,Wine,Consumption,2015,1000 hl,  24
+Africa,Ethiopia,Wine,Consumption,2016,1000 hl,  20
+Africa,Ethiopia,Wine,Consumption,2017,1000 hl,  13
+Africa,Ethiopia,Wine,Consumption,2018,1000 hl,  10
+Africa,Ethiopia,Wine,Consumption,2019,1000 hl,  8
+Africa,Ethiopia,Wine,Consumption,2020,1000 hl,  8
+Africa,Ethiopia,Wine,Consumption,2021,1000 hl,  8
+Africa,Ethiopia,Wine,Consumption,2022,1000 hl,  8
+Africa,Ethiopia,Wine,Consumption,2023,1000 hl,  9
+Europe,Faroe Islands,Wine,Consumption,2009,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2010,1000 hl,  4
+Europe,Faroe Islands,Wine,Consumption,2011,1000 hl,  4
+Europe,Faroe Islands,Wine,Consumption,2012,1000 hl,  4
+Europe,Faroe Islands,Wine,Consumption,2013,1000 hl,  4
+Europe,Faroe Islands,Wine,Consumption,2014,1000 hl,  4
+Europe,Faroe Islands,Wine,Consumption,2015,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2016,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2017,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2018,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2019,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2020,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2021,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2022,1000 hl,  5
+Europe,Faroe Islands,Wine,Consumption,2023,1000 hl,  5
+Oceania,Fiji,Wine,Consumption,2009,1000 hl,  13
+Oceania,Fiji,Wine,Consumption,2010,1000 hl,  9
+Oceania,Fiji,Wine,Consumption,2011,1000 hl,  9
+Oceania,Fiji,Wine,Consumption,2012,1000 hl,  10
+Oceania,Fiji,Wine,Consumption,2013,1000 hl,  10
+Oceania,Fiji,Wine,Consumption,2014,1000 hl,  11
+Oceania,Fiji,Wine,Consumption,2015,1000 hl,  13
+Oceania,Fiji,Wine,Consumption,2016,1000 hl,  14
+Oceania,Fiji,Wine,Consumption,2017,1000 hl,  14
+Oceania,Fiji,Wine,Consumption,2018,1000 hl,  14
+Oceania,Fiji,Wine,Consumption,2019,1000 hl,  14
+Oceania,Fiji,Wine,Consumption,2020,1000 hl,  13
+Oceania,Fiji,Wine,Consumption,2021,1000 hl,  13
+Oceania,Fiji,Wine,Consumption,2022,1000 hl,  13
+Oceania,Fiji,Wine,Consumption,2023,1000 hl,  14
+Europe,Finland,Wine,Consumption,2009,1000 hl,  597
+Europe,Finland,Wine,Consumption,2010,1000 hl,  578
+Europe,Finland,Wine,Consumption,2011,1000 hl,  591
+Europe,Finland,Wine,Consumption,2012,1000 hl,  588
+Europe,Finland,Wine,Consumption,2013,1000 hl,  593
+Europe,Finland,Wine,Consumption,2014,1000 hl,  586
+Europe,Finland,Wine,Consumption,2015,1000 hl,  576
+Europe,Finland,Wine,Consumption,2016,1000 hl,  565
+Europe,Finland,Wine,Consumption,2017,1000 hl,  560
+Europe,Finland,Wine,Consumption,2018,1000 hl,  569
+Europe,Finland,Wine,Consumption,2019,1000 hl,  565
+Europe,Finland,Wine,Consumption,2020,1000 hl,  232
+Europe,Finland,Wine,Consumption,2021,1000 hl,  231
+Europe,Finland,Wine,Consumption,2022,1000 hl,  218
+Europe,Finland,Wine,Consumption,2023,1000 hl,  363
+Europe,France,Wine,Consumption,2009,1000 hl, 30 214
+Europe,France,Wine,Consumption,2010,1000 hl, 29 272
+Europe,France,Wine,Consumption,2011,1000 hl, 28 307
+Europe,France,Wine,Consumption,2012,1000 hl, 28 022
+Europe,France,Wine,Consumption,2013,1000 hl, 27 770
+Europe,France,Wine,Consumption,2014,1000 hl, 27 545
+Europe,France,Wine,Consumption,2015,1000 hl, 26 452
+Europe,France,Wine,Consumption,2016,1000 hl, 28 290
+Europe,France,Wine,Consumption,2017,1000 hl, 28 634
+Europe,France,Wine,Consumption,2018,1000 hl, 26 028
+Europe,France,Wine,Consumption,2019,1000 hl, 24 714
+Europe,France,Wine,Consumption,2020,1000 hl, 23 202
+Europe,France,Wine,Consumption,2021,1000 hl, 24 556
+Europe,France,Wine,Consumption,2022,1000 hl, 24 407
+Europe,France,Wine,Consumption,2023,1000 hl, 23 814
+America,French Guiana,Wine,Consumption,2009,1000 hl,0
+America,French Guiana,Wine,Consumption,2010,1000 hl,0
+America,French Guiana,Wine,Consumption,2011,1000 hl,  1
+America,French Guiana,Wine,Consumption,2012,1000 hl,  1
+America,French Guiana,Wine,Consumption,2013,1000 hl,  1
+America,French Guiana,Wine,Consumption,2014,1000 hl,  1
+America,French Guiana,Wine,Consumption,2015,1000 hl,  1
+America,French Guiana,Wine,Consumption,2016,1000 hl,  1
+America,French Guiana,Wine,Consumption,2017,1000 hl,  1
+America,French Guiana,Wine,Consumption,2018,1000 hl,  2
+America,French Guiana,Wine,Consumption,2019,1000 hl,  2
+America,French Guiana,Wine,Consumption,2020,1000 hl,  2
+America,French Guiana,Wine,Consumption,2021,1000 hl,  2
+America,French Guiana,Wine,Consumption,2022,1000 hl,  2
+America,French Guiana,Wine,Consumption,2023,1000 hl,  2
+Oceania,French Polynesia,Wine,Consumption,2009,1000 hl,  43
+Oceania,French Polynesia,Wine,Consumption,2010,1000 hl,  40
+Oceania,French Polynesia,Wine,Consumption,2011,1000 hl,  38
+Oceania,French Polynesia,Wine,Consumption,2012,1000 hl,  36
+Oceania,French Polynesia,Wine,Consumption,2013,1000 hl,  33
+Oceania,French Polynesia,Wine,Consumption,2014,1000 hl,  28
+Oceania,French Polynesia,Wine,Consumption,2015,1000 hl,  27
+Oceania,French Polynesia,Wine,Consumption,2016,1000 hl,  27
+Oceania,French Polynesia,Wine,Consumption,2017,1000 hl,  26
+Oceania,French Polynesia,Wine,Consumption,2018,1000 hl,  26
+Oceania,French Polynesia,Wine,Consumption,2019,1000 hl,  26
+Oceania,French Polynesia,Wine,Consumption,2020,1000 hl,  26
+Oceania,French Polynesia,Wine,Consumption,2021,1000 hl,  26
+Oceania,French Polynesia,Wine,Consumption,2022,1000 hl,  26
+Oceania,French Polynesia,Wine,Consumption,2023,1000 hl,  26
+Africa,Gabon,Wine,Consumption,2009,1000 hl,  71
+Africa,Gabon,Wine,Consumption,2010,1000 hl,  99
+Africa,Gabon,Wine,Consumption,2011,1000 hl,  99
+Africa,Gabon,Wine,Consumption,2012,1000 hl,  82
+Africa,Gabon,Wine,Consumption,2013,1000 hl,  72
+Africa,Gabon,Wine,Consumption,2014,1000 hl,  68
+Africa,Gabon,Wine,Consumption,2015,1000 hl,  70
+Africa,Gabon,Wine,Consumption,2016,1000 hl,  73
+Africa,Gabon,Wine,Consumption,2017,1000 hl,  63
+Africa,Gabon,Wine,Consumption,2018,1000 hl,  56
+Africa,Gabon,Wine,Consumption,2019,1000 hl,  55
+Africa,Gabon,Wine,Consumption,2020,1000 hl,  54
+Africa,Gabon,Wine,Consumption,2021,1000 hl,  53
+Africa,Gabon,Wine,Consumption,2022,1000 hl,  54
+Africa,Gabon,Wine,Consumption,2023,1000 hl,  54
+Africa,Gambia,Wine,Consumption,2009,1000 hl,  1
+Africa,Gambia,Wine,Consumption,2010,1000 hl,  1
+Africa,Gambia,Wine,Consumption,2011,1000 hl,  1
+Africa,Gambia,Wine,Consumption,2012,1000 hl,  1
+Africa,Gambia,Wine,Consumption,2013,1000 hl,0
+Africa,Gambia,Wine,Consumption,2014,1000 hl,0
+Africa,Gambia,Wine,Consumption,2015,1000 hl,0
+Africa,Gambia,Wine,Consumption,2016,1000 hl,0
+Africa,Gambia,Wine,Consumption,2017,1000 hl,0
+Africa,Gambia,Wine,Consumption,2018,1000 hl,0
+Africa,Gambia,Wine,Consumption,2019,1000 hl,0
+Africa,Gambia,Wine,Consumption,2020,1000 hl,0
+Africa,Gambia,Wine,Consumption,2021,1000 hl,0
+Africa,Gambia,Wine,Consumption,2022,1000 hl,0
+Africa,Gambia,Wine,Consumption,2023,1000 hl,0
+Asia,Georgia,Wine,Consumption,2009,1000 hl,  974
+Asia,Georgia,Wine,Consumption,2010,1000 hl,  931
+Asia,Georgia,Wine,Consumption,2011,1000 hl,  927
+Asia,Georgia,Wine,Consumption,2012,1000 hl,  786
+Asia,Georgia,Wine,Consumption,2013,1000 hl,  636
+Asia,Georgia,Wine,Consumption,2014,1000 hl,  551
+Asia,Georgia,Wine,Consumption,2015,1000 hl,  695
+Asia,Georgia,Wine,Consumption,2016,1000 hl,  718
+Asia,Georgia,Wine,Consumption,2017,1000 hl,  468
+Asia,Georgia,Wine,Consumption,2018,1000 hl,  771
+Asia,Georgia,Wine,Consumption,2019,1000 hl, 1 091
+Asia,Georgia,Wine,Consumption,2020,1000 hl, 1 090
+Asia,Georgia,Wine,Consumption,2021,1000 hl, 1 265
+Asia,Georgia,Wine,Consumption,2022,1000 hl,  993
+Asia,Georgia,Wine,Consumption,2023,1000 hl,  935
+Europe,Germany,Wine,Consumption,2009,1000 hl, 20 224
+Europe,Germany,Wine,Consumption,2010,1000 hl, 20 200
+Europe,Germany,Wine,Consumption,2011,1000 hl, 19 707
+Europe,Germany,Wine,Consumption,2012,1000 hl, 20 300
+Europe,Germany,Wine,Consumption,2013,1000 hl, 20 400
+Europe,Germany,Wine,Consumption,2014,1000 hl, 20 300
+Europe,Germany,Wine,Consumption,2015,1000 hl, 20 500
+Europe,Germany,Wine,Consumption,2016,1000 hl, 20 200
+Europe,Germany,Wine,Consumption,2017,1000 hl, 20 145
+Europe,Germany,Wine,Consumption,2018,1000 hl, 19 745
+Europe,Germany,Wine,Consumption,2019,1000 hl, 19 450
+Europe,Germany,Wine,Consumption,2020,1000 hl, 19 844
+Europe,Germany,Wine,Consumption,2021,1000 hl, 19 900
+Europe,Germany,Wine,Consumption,2022,1000 hl, 19 400
+Europe,Germany,Wine,Consumption,2023,1000 hl, 18 400
+Africa,Ghana,Wine,Consumption,2009,1000 hl,  89
+Africa,Ghana,Wine,Consumption,2010,1000 hl,  85
+Africa,Ghana,Wine,Consumption,2011,1000 hl,  91
+Africa,Ghana,Wine,Consumption,2012,1000 hl,  105
+Africa,Ghana,Wine,Consumption,2013,1000 hl,  99
+Africa,Ghana,Wine,Consumption,2014,1000 hl,  74
+Africa,Ghana,Wine,Consumption,2015,1000 hl,  52
+Africa,Ghana,Wine,Consumption,2016,1000 hl,  46
+Africa,Ghana,Wine,Consumption,2017,1000 hl,  55
+Africa,Ghana,Wine,Consumption,2018,1000 hl,  55
+Africa,Ghana,Wine,Consumption,2019,1000 hl,  65
+Africa,Ghana,Wine,Consumption,2020,1000 hl,  68
+Africa,Ghana,Wine,Consumption,2021,1000 hl,  64
+Africa,Ghana,Wine,Consumption,2022,1000 hl,  81
+Africa,Ghana,Wine,Consumption,2023,1000 hl,  66
+Global,Global,Wine,Consumption,2009,1000 hl, 241 337
+Global,Global,Wine,Consumption,2010,1000 hl, 239 893
+Global,Global,Wine,Consumption,2011,1000 hl, 241 781
+Global,Global,Wine,Consumption,2012,1000 hl, 243 656
+Global,Global,Wine,Consumption,2013,1000 hl, 246 074
+Global,Global,Wine,Consumption,2014,1000 hl, 241 080
+Global,Global,Wine,Consumption,2015,1000 hl, 240 785
+Global,Global,Wine,Consumption,2016,1000 hl, 244 604
+Global,Global,Wine,Consumption,2017,1000 hl, 246 211
+Global,Global,Wine,Consumption,2018,1000 hl, 240 643
+Global,Global,Wine,Consumption,2019,1000 hl, 236 193
+Global,Global,Wine,Consumption,2020,1000 hl, 231 441
+Global,Global,Wine,Consumption,2021,1000 hl, 234 229
+Global,Global,Wine,Consumption,2022,1000 hl, 229 098
+Global,Global,Wine,Consumption,2023,1000 hl, 221 570
+Europe,Greece,Wine,Consumption,2009,1000 hl, 3 029
+Europe,Greece,Wine,Consumption,2010,1000 hl, 3 248
+Europe,Greece,Wine,Consumption,2011,1000 hl, 2 852
+Europe,Greece,Wine,Consumption,2012,1000 hl, 3 068
+Europe,Greece,Wine,Consumption,2013,1000 hl, 2 996
+Europe,Greece,Wine,Consumption,2014,1000 hl, 2 639
+Europe,Greece,Wine,Consumption,2015,1000 hl, 2 404
+Europe,Greece,Wine,Consumption,2016,1000 hl, 2 365
+Europe,Greece,Wine,Consumption,2017,1000 hl, 2 396
+Europe,Greece,Wine,Consumption,2018,1000 hl, 2 228
+Europe,Greece,Wine,Consumption,2019,1000 hl, 2 183
+Europe,Greece,Wine,Consumption,2020,1000 hl, 2 199
+Europe,Greece,Wine,Consumption,2021,1000 hl, 2 195
+Europe,Greece,Wine,Consumption,2022,1000 hl, 2 139
+Europe,Greece,Wine,Consumption,2023,1000 hl, 1 606
+America,Greenland,Wine,Consumption,2009,1000 hl,  7
+America,Greenland,Wine,Consumption,2010,1000 hl,  5
+America,Greenland,Wine,Consumption,2011,1000 hl,  6
+America,Greenland,Wine,Consumption,2012,1000 hl,  6
+America,Greenland,Wine,Consumption,2013,1000 hl,  7
+America,Greenland,Wine,Consumption,2014,1000 hl,  8
+America,Greenland,Wine,Consumption,2015,1000 hl,  7
+America,Greenland,Wine,Consumption,2016,1000 hl,  6
+America,Greenland,Wine,Consumption,2017,1000 hl,  6
+America,Greenland,Wine,Consumption,2018,1000 hl,  5
+America,Greenland,Wine,Consumption,2019,1000 hl,  5
+America,Greenland,Wine,Consumption,2020,1000 hl,  6
+America,Greenland,Wine,Consumption,2021,1000 hl,  6
+America,Greenland,Wine,Consumption,2022,1000 hl,  6
+America,Greenland,Wine,Consumption,2023,1000 hl,  6
+America,Grenada,Wine,Consumption,2009,1000 hl,  32
+America,Grenada,Wine,Consumption,2010,1000 hl,  32
+America,Grenada,Wine,Consumption,2011,1000 hl,  31
+America,Grenada,Wine,Consumption,2012,1000 hl,  32
+America,Grenada,Wine,Consumption,2013,1000 hl,  39
+America,Grenada,Wine,Consumption,2014,1000 hl,  41
+America,Grenada,Wine,Consumption,2015,1000 hl,  40
+America,Grenada,Wine,Consumption,2016,1000 hl,  41
+America,Grenada,Wine,Consumption,2017,1000 hl,  44
+America,Grenada,Wine,Consumption,2018,1000 hl,  48
+America,Grenada,Wine,Consumption,2019,1000 hl,  54
+America,Grenada,Wine,Consumption,2020,1000 hl,  54
+America,Grenada,Wine,Consumption,2021,1000 hl,  54
+America,Grenada,Wine,Consumption,2022,1000 hl,  54
+America,Grenada,Wine,Consumption,2023,1000 hl,  53
+America,Guadeloupe,Wine,Consumption,2009,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2010,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2011,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2012,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2013,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2014,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2015,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2016,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2017,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2018,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2019,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2020,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2021,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2022,1000 hl,0
+America,Guadeloupe,Wine,Consumption,2023,1000 hl,0
+Oceania,Guam,Wine,Consumption,2009,1000 hl,0
+Oceania,Guam,Wine,Consumption,2010,1000 hl,0
+Oceania,Guam,Wine,Consumption,2011,1000 hl,0
+Oceania,Guam,Wine,Consumption,2012,1000 hl,0
+Oceania,Guam,Wine,Consumption,2013,1000 hl,0
+Oceania,Guam,Wine,Consumption,2014,1000 hl,  1
+Oceania,Guam,Wine,Consumption,2015,1000 hl,  2
+Oceania,Guam,Wine,Consumption,2016,1000 hl,  2
+Oceania,Guam,Wine,Consumption,2017,1000 hl,  1
+Oceania,Guam,Wine,Consumption,2018,1000 hl,0
+Oceania,Guam,Wine,Consumption,2019,1000 hl,0
+Oceania,Guam,Wine,Consumption,2020,1000 hl,0
+Oceania,Guam,Wine,Consumption,2021,1000 hl,0
+Oceania,Guam,Wine,Consumption,2022,1000 hl,0
+Oceania,Guam,Wine,Consumption,2023,1000 hl,0
+Africa,Guinea,Wine,Consumption,2009,1000 hl,  1
+Africa,Guinea,Wine,Consumption,2010,1000 hl,  14
+Africa,Guinea,Wine,Consumption,2011,1000 hl,  12
+Africa,Guinea,Wine,Consumption,2012,1000 hl,  7
+Africa,Guinea,Wine,Consumption,2013,1000 hl,  6
+Africa,Guinea,Wine,Consumption,2014,1000 hl,  6
+Africa,Guinea,Wine,Consumption,2015,1000 hl,  5
+Africa,Guinea,Wine,Consumption,2016,1000 hl,  5
+Africa,Guinea,Wine,Consumption,2017,1000 hl,  6
+Africa,Guinea,Wine,Consumption,2018,1000 hl,  7
+Africa,Guinea,Wine,Consumption,2019,1000 hl,  8
+Africa,Guinea,Wine,Consumption,2020,1000 hl,  9
+Africa,Guinea,Wine,Consumption,2021,1000 hl,  9
+Africa,Guinea,Wine,Consumption,2022,1000 hl,  9
+Africa,Guinea,Wine,Consumption,2023,1000 hl,  8
+Africa,Guinea-Bissau,Wine,Consumption,2009,1000 hl,  41
+Africa,Guinea-Bissau,Wine,Consumption,2010,1000 hl,  53
+Africa,Guinea-Bissau,Wine,Consumption,2011,1000 hl,  71
+Africa,Guinea-Bissau,Wine,Consumption,2012,1000 hl,  71
+Africa,Guinea-Bissau,Wine,Consumption,2013,1000 hl,  68
+Africa,Guinea-Bissau,Wine,Consumption,2014,1000 hl,  70
+Africa,Guinea-Bissau,Wine,Consumption,2015,1000 hl,  78
+Africa,Guinea-Bissau,Wine,Consumption,2016,1000 hl,  86
+Africa,Guinea-Bissau,Wine,Consumption,2017,1000 hl,  101
+Africa,Guinea-Bissau,Wine,Consumption,2018,1000 hl,  100
+Africa,Guinea-Bissau,Wine,Consumption,2019,1000 hl,  97
+Africa,Guinea-Bissau,Wine,Consumption,2020,1000 hl,  100
+Africa,Guinea-Bissau,Wine,Consumption,2021,1000 hl,  102
+Africa,Guinea-Bissau,Wine,Consumption,2022,1000 hl,  114
+Africa,Guinea-Bissau,Wine,Consumption,2023,1000 hl,  103
+America,Guyana,Wine,Consumption,2009,1000 hl,0
+America,Guyana,Wine,Consumption,2010,1000 hl,0
+America,Guyana,Wine,Consumption,2011,1000 hl,  1
+America,Guyana,Wine,Consumption,2012,1000 hl,  1
+America,Guyana,Wine,Consumption,2013,1000 hl,0
+America,Guyana,Wine,Consumption,2014,1000 hl,0
+America,Guyana,Wine,Consumption,2015,1000 hl,0
+America,Guyana,Wine,Consumption,2016,1000 hl,0
+America,Guyana,Wine,Consumption,2017,1000 hl,  1
+America,Guyana,Wine,Consumption,2018,1000 hl,  2
+America,Guyana,Wine,Consumption,2019,1000 hl,  2
+America,Guyana,Wine,Consumption,2020,1000 hl,  3
+America,Guyana,Wine,Consumption,2021,1000 hl,  3
+America,Guyana,Wine,Consumption,2022,1000 hl,  3
+America,Guyana,Wine,Consumption,2023,1000 hl,  2
+America,Haiti,Wine,Consumption,2009,1000 hl,  7
+America,Haiti,Wine,Consumption,2010,1000 hl,  7
+America,Haiti,Wine,Consumption,2011,1000 hl,  8
+America,Haiti,Wine,Consumption,2012,1000 hl,  8
+America,Haiti,Wine,Consumption,2013,1000 hl,  8
+America,Haiti,Wine,Consumption,2014,1000 hl,  12
+America,Haiti,Wine,Consumption,2015,1000 hl,  8
+America,Haiti,Wine,Consumption,2016,1000 hl,  9
+America,Haiti,Wine,Consumption,2017,1000 hl,  16
+America,Haiti,Wine,Consumption,2018,1000 hl,  18
+America,Haiti,Wine,Consumption,2019,1000 hl,  18
+America,Haiti,Wine,Consumption,2020,1000 hl,  18
+America,Haiti,Wine,Consumption,2021,1000 hl,  18
+America,Haiti,Wine,Consumption,2022,1000 hl,  18
+America,Haiti,Wine,Consumption,2023,1000 hl,  18
+America,Honduras,Wine,Consumption,2009,1000 hl,  16
+America,Honduras,Wine,Consumption,2010,1000 hl,  11
+America,Honduras,Wine,Consumption,2011,1000 hl,  11
+America,Honduras,Wine,Consumption,2012,1000 hl,  16
+America,Honduras,Wine,Consumption,2013,1000 hl,  16
+America,Honduras,Wine,Consumption,2014,1000 hl,  14
+America,Honduras,Wine,Consumption,2015,1000 hl,  14
+America,Honduras,Wine,Consumption,2016,1000 hl,  15
+America,Honduras,Wine,Consumption,2017,1000 hl,  19
+America,Honduras,Wine,Consumption,2018,1000 hl,  20
+America,Honduras,Wine,Consumption,2019,1000 hl,  20
+America,Honduras,Wine,Consumption,2020,1000 hl,  20
+America,Honduras,Wine,Consumption,2021,1000 hl,  20
+America,Honduras,Wine,Consumption,2022,1000 hl,  20
+America,Honduras,Wine,Consumption,2023,1000 hl,  20
+Europe,Hungary,Wine,Consumption,2009,1000 hl, 2 611
+Europe,Hungary,Wine,Consumption,2010,1000 hl, 2 345
+Europe,Hungary,Wine,Consumption,2011,1000 hl, 2 591
+Europe,Hungary,Wine,Consumption,2012,1000 hl, 2 355
+Europe,Hungary,Wine,Consumption,2013,1000 hl, 2 357
+Europe,Hungary,Wine,Consumption,2014,1000 hl, 2 149
+Europe,Hungary,Wine,Consumption,2015,1000 hl, 2 491
+Europe,Hungary,Wine,Consumption,2016,1000 hl, 2 638
+Europe,Hungary,Wine,Consumption,2017,1000 hl, 2 426
+Europe,Hungary,Wine,Consumption,2018,1000 hl, 2 404
+Europe,Hungary,Wine,Consumption,2019,1000 hl, 2 054
+Europe,Hungary,Wine,Consumption,2020,1000 hl, 2 016
+Europe,Hungary,Wine,Consumption,2021,1000 hl, 1 705
+Europe,Hungary,Wine,Consumption,2022,1000 hl, 1 748
+Europe,Hungary,Wine,Consumption,2023,1000 hl, 1 877
+Europe,Iceland,Wine,Consumption,2009,1000 hl,  56
+Europe,Iceland,Wine,Consumption,2010,1000 hl,  47
+Europe,Iceland,Wine,Consumption,2011,1000 hl,  38
+Europe,Iceland,Wine,Consumption,2012,1000 hl,  39
+Europe,Iceland,Wine,Consumption,2013,1000 hl,  40
+Europe,Iceland,Wine,Consumption,2014,1000 hl,  40
+Europe,Iceland,Wine,Consumption,2015,1000 hl,  42
+Europe,Iceland,Wine,Consumption,2016,1000 hl,  44
+Europe,Iceland,Wine,Consumption,2017,1000 hl,  44
+Europe,Iceland,Wine,Consumption,2018,1000 hl,  45
+Europe,Iceland,Wine,Consumption,2019,1000 hl,  46
+Europe,Iceland,Wine,Consumption,2020,1000 hl,  50
+Europe,Iceland,Wine,Consumption,2021,1000 hl,  50
+Europe,Iceland,Wine,Consumption,2022,1000 hl,  50
+Europe,Iceland,Wine,Consumption,2023,1000 hl,  48
+Asia,India,Wine,Consumption,2009,1000 hl,  139
+Asia,India,Wine,Consumption,2010,1000 hl,  160
+Asia,India,Wine,Consumption,2011,1000 hl,  174
+Asia,India,Wine,Consumption,2012,1000 hl,  176
+Asia,India,Wine,Consumption,2013,1000 hl,  185
+Asia,India,Wine,Consumption,2014,1000 hl,  191
+Asia,India,Wine,Consumption,2015,1000 hl,  202
+Asia,India,Wine,Consumption,2016,1000 hl,  217
+Asia,India,Wine,Consumption,2017,1000 hl,  231
+Asia,India,Wine,Consumption,2018,1000 hl,  245
+Asia,India,Wine,Consumption,2019,1000 hl,  232
+Asia,India,Wine,Consumption,2020,1000 hl,  208
+Asia,India,Wine,Consumption,2021,1000 hl,  217
+Asia,India,Wine,Consumption,2022,1000 hl,  242
+Asia,India,Wine,Consumption,2023,1000 hl,  229
+Asia,Indonesia,Wine,Consumption,2009,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2010,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2011,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2012,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2013,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2014,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2015,1000 hl,0
+Asia,Indonesia,Wine,Consumption,2016,1000 hl,  6
+Asia,Indonesia,Wine,Consumption,2017,1000 hl,  27
+Asia,Indonesia,Wine,Consumption,2018,1000 hl,  49
+Asia,Indonesia,Wine,Consumption,2019,1000 hl,  49
+Asia,Indonesia,Wine,Consumption,2020,1000 hl,  25
+Asia,Indonesia,Wine,Consumption,2021,1000 hl,  25
+Asia,Indonesia,Wine,Consumption,2022,1000 hl,  25
+Asia,Indonesia,Wine,Consumption,2023,1000 hl,  35
+Asia,Iran,Wine,Consumption,2009,1000 hl,0
+Asia,Iran,Wine,Consumption,2010,1000 hl,0
+Asia,Iran,Wine,Consumption,2011,1000 hl,0
+Asia,Iran,Wine,Consumption,2012,1000 hl,0
+Asia,Iran,Wine,Consumption,2013,1000 hl,0
+Asia,Iran,Wine,Consumption,2014,1000 hl,0
+Asia,Iran,Wine,Consumption,2015,1000 hl,0
+Asia,Iran,Wine,Consumption,2016,1000 hl,0
+Asia,Iran,Wine,Consumption,2017,1000 hl,0
+Asia,Iran,Wine,Consumption,2018,1000 hl,0
+Asia,Iran,Wine,Consumption,2019,1000 hl,0
+Asia,Iran,Wine,Consumption,2020,1000 hl,0
+Asia,Iran,Wine,Consumption,2021,1000 hl,0
+Asia,Iran,Wine,Consumption,2022,1000 hl,0
+Asia,Iran,Wine,Consumption,2023,1000 hl,0
+Asia,Iraq,Wine,Consumption,2009,1000 hl,  2
+Asia,Iraq,Wine,Consumption,2010,1000 hl,  3
+Asia,Iraq,Wine,Consumption,2011,1000 hl,  5
+Asia,Iraq,Wine,Consumption,2012,1000 hl,  6
+Asia,Iraq,Wine,Consumption,2013,1000 hl,  6
+Asia,Iraq,Wine,Consumption,2014,1000 hl,  4
+Asia,Iraq,Wine,Consumption,2015,1000 hl,  5
+Asia,Iraq,Wine,Consumption,2016,1000 hl,  8
+Asia,Iraq,Wine,Consumption,2017,1000 hl,  8
+Asia,Iraq,Wine,Consumption,2018,1000 hl,  6
+Asia,Iraq,Wine,Consumption,2019,1000 hl,  8
+Asia,Iraq,Wine,Consumption,2020,1000 hl,  10
+Asia,Iraq,Wine,Consumption,2021,1000 hl,  10
+Asia,Iraq,Wine,Consumption,2022,1000 hl,  10
+Asia,Iraq,Wine,Consumption,2023,1000 hl,  9
+Europe,Ireland,Wine,Consumption,2009,1000 hl,  677
+Europe,Ireland,Wine,Consumption,2010,1000 hl,  636
+Europe,Ireland,Wine,Consumption,2011,1000 hl,  678
+Europe,Ireland,Wine,Consumption,2012,1000 hl,  731
+Europe,Ireland,Wine,Consumption,2013,1000 hl,  767
+Europe,Ireland,Wine,Consumption,2014,1000 hl,  747
+Europe,Ireland,Wine,Consumption,2015,1000 hl,  743
+Europe,Ireland,Wine,Consumption,2016,1000 hl,  784
+Europe,Ireland,Wine,Consumption,2017,1000 hl,  805
+Europe,Ireland,Wine,Consumption,2018,1000 hl,  765
+Europe,Ireland,Wine,Consumption,2019,1000 hl,  752
+Europe,Ireland,Wine,Consumption,2020,1000 hl,  919
+Europe,Ireland,Wine,Consumption,2021,1000 hl,  911
+Europe,Ireland,Wine,Consumption,2022,1000 hl,  763
+Europe,Ireland,Wine,Consumption,2023,1000 hl,  793
+Asia,Israel,Wine,Consumption,2009,1000 hl,  56
+Asia,Israel,Wine,Consumption,2010,1000 hl,  61
+Asia,Israel,Wine,Consumption,2011,1000 hl,  61
+Asia,Israel,Wine,Consumption,2012,1000 hl,  80
+Asia,Israel,Wine,Consumption,2013,1000 hl,  34
+Asia,Israel,Wine,Consumption,2014,1000 hl,  9
+Asia,Israel,Wine,Consumption,2015,1000 hl,  43
+Asia,Israel,Wine,Consumption,2016,1000 hl,  47
+Asia,Israel,Wine,Consumption,2017,1000 hl,  51
+Asia,Israel,Wine,Consumption,2018,1000 hl,  76
+Asia,Israel,Wine,Consumption,2019,1000 hl,  22
+Asia,Israel,Wine,Consumption,2020,1000 hl,  38
+Asia,Israel,Wine,Consumption,2021,1000 hl,  38
+Asia,Israel,Wine,Consumption,2022,1000 hl,  38
+Asia,Israel,Wine,Consumption,2023,1000 hl,  42
+Europe,Italy,Wine,Consumption,2009,1000 hl, 23 000
+Europe,Italy,Wine,Consumption,2010,1000 hl, 23 500
+Europe,Italy,Wine,Consumption,2011,1000 hl, 22 000
+Europe,Italy,Wine,Consumption,2012,1000 hl, 21 600
+Europe,Italy,Wine,Consumption,2013,1000 hl, 20 800
+Europe,Italy,Wine,Consumption,2014,1000 hl, 19 500
+Europe,Italy,Wine,Consumption,2015,1000 hl, 21 400
+Europe,Italy,Wine,Consumption,2016,1000 hl, 22 400
+Europe,Italy,Wine,Consumption,2017,1000 hl, 22 600
+Europe,Italy,Wine,Consumption,2018,1000 hl, 22 400
+Europe,Italy,Wine,Consumption,2019,1000 hl, 22 600
+Europe,Italy,Wine,Consumption,2020,1000 hl, 24 200
+Europe,Italy,Wine,Consumption,2021,1000 hl, 24 200
+Europe,Italy,Wine,Consumption,2022,1000 hl, 22 352
+Europe,Italy,Wine,Consumption,2023,1000 hl, 22 282
+America,Jamaica,Wine,Consumption,2009,1000 hl,  21
+America,Jamaica,Wine,Consumption,2010,1000 hl,  22
+America,Jamaica,Wine,Consumption,2011,1000 hl,  19
+America,Jamaica,Wine,Consumption,2012,1000 hl,  16
+America,Jamaica,Wine,Consumption,2013,1000 hl,  21
+America,Jamaica,Wine,Consumption,2014,1000 hl,  24
+America,Jamaica,Wine,Consumption,2015,1000 hl,  26
+America,Jamaica,Wine,Consumption,2016,1000 hl,  40
+America,Jamaica,Wine,Consumption,2017,1000 hl,  59
+America,Jamaica,Wine,Consumption,2018,1000 hl,  56
+America,Jamaica,Wine,Consumption,2019,1000 hl,  47
+America,Jamaica,Wine,Consumption,2020,1000 hl,  45
+America,Jamaica,Wine,Consumption,2021,1000 hl,  45
+America,Jamaica,Wine,Consumption,2022,1000 hl,  45
+America,Jamaica,Wine,Consumption,2023,1000 hl,  48
+Asia,Japan,Wine,Consumption,2009,1000 hl, 2 533
+Asia,Japan,Wine,Consumption,2010,1000 hl, 2 610
+Asia,Japan,Wine,Consumption,2011,1000 hl, 2 778
+Asia,Japan,Wine,Consumption,2012,1000 hl, 3 120
+Asia,Japan,Wine,Consumption,2013,1000 hl, 3 398
+Asia,Japan,Wine,Consumption,2014,1000 hl, 3 490
+Asia,Japan,Wine,Consumption,2015,1000 hl, 3 555
+Asia,Japan,Wine,Consumption,2016,1000 hl, 3 523
+Asia,Japan,Wine,Consumption,2017,1000 hl, 3 524
+Asia,Japan,Wine,Consumption,2018,1000 hl, 3 488
+Asia,Japan,Wine,Consumption,2019,1000 hl, 3 543
+Asia,Japan,Wine,Consumption,2020,1000 hl, 3 518
+Asia,Japan,Wine,Consumption,2021,1000 hl, 3 148
+Asia,Japan,Wine,Consumption,2022,1000 hl, 3 166
+Asia,Japan,Wine,Consumption,2023,1000 hl, 3 232
+Asia,Jordan,Wine,Consumption,2009,1000 hl,  1
+Asia,Jordan,Wine,Consumption,2010,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2011,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2012,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2013,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2014,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2015,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2016,1000 hl,  3
+Asia,Jordan,Wine,Consumption,2017,1000 hl,  3
+Asia,Jordan,Wine,Consumption,2018,1000 hl,  2
+Asia,Jordan,Wine,Consumption,2019,1000 hl,  3
+Asia,Jordan,Wine,Consumption,2020,1000 hl,  3
+Asia,Jordan,Wine,Consumption,2021,1000 hl,  3
+Asia,Jordan,Wine,Consumption,2022,1000 hl,  3
+Asia,Jordan,Wine,Consumption,2023,1000 hl,  3
+Asia,Kazakhstan,Wine,Consumption,2009,1000 hl,  258
+Asia,Kazakhstan,Wine,Consumption,2010,1000 hl,  264
+Asia,Kazakhstan,Wine,Consumption,2011,1000 hl,  270
+Asia,Kazakhstan,Wine,Consumption,2012,1000 hl,  283
+Asia,Kazakhstan,Wine,Consumption,2013,1000 hl,  317
+Asia,Kazakhstan,Wine,Consumption,2014,1000 hl,  352
+Asia,Kazakhstan,Wine,Consumption,2015,1000 hl,  358
+Asia,Kazakhstan,Wine,Consumption,2016,1000 hl,  368
+Asia,Kazakhstan,Wine,Consumption,2017,1000 hl,  413
+Asia,Kazakhstan,Wine,Consumption,2018,1000 hl,  527
+Asia,Kazakhstan,Wine,Consumption,2019,1000 hl,  581
+Asia,Kazakhstan,Wine,Consumption,2020,1000 hl,  545
+Asia,Kazakhstan,Wine,Consumption,2021,1000 hl,  450
+Asia,Kazakhstan,Wine,Consumption,2022,1000 hl,  353
+Asia,Kazakhstan,Wine,Consumption,2023,1000 hl,  491
+Africa,Kenya,Wine,Consumption,2009,1000 hl,  31
+Africa,Kenya,Wine,Consumption,2010,1000 hl,  44
+Africa,Kenya,Wine,Consumption,2011,1000 hl,  47
+Africa,Kenya,Wine,Consumption,2012,1000 hl,  53
+Africa,Kenya,Wine,Consumption,2013,1000 hl,  57
+Africa,Kenya,Wine,Consumption,2014,1000 hl,  59
+Africa,Kenya,Wine,Consumption,2015,1000 hl,  58
+Africa,Kenya,Wine,Consumption,2016,1000 hl,  58
+Africa,Kenya,Wine,Consumption,2017,1000 hl,  60
+Africa,Kenya,Wine,Consumption,2018,1000 hl,  73
+Africa,Kenya,Wine,Consumption,2019,1000 hl,  80
+Africa,Kenya,Wine,Consumption,2020,1000 hl,  71
+Africa,Kenya,Wine,Consumption,2021,1000 hl,  75
+Africa,Kenya,Wine,Consumption,2022,1000 hl,  83
+Africa,Kenya,Wine,Consumption,2023,1000 hl,  76
+Oceania,Kiribati,Wine,Consumption,2009,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2010,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2011,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2012,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2013,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2014,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2015,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2016,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2017,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2018,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2019,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2020,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2021,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2022,1000 hl,0
+Oceania,Kiribati,Wine,Consumption,2023,1000 hl,0
+Asia,Korea (the Republic of),Wine,Consumption,2009,1000 hl,  220
+Asia,Korea (the Republic of),Wine,Consumption,2010,1000 hl,  234
+Asia,Korea (the Republic of),Wine,Consumption,2011,1000 hl,  249
+Asia,Korea (the Republic of),Wine,Consumption,2012,1000 hl,  276
+Asia,Korea (the Republic of),Wine,Consumption,2013,1000 hl,  310
+Asia,Korea (the Republic of),Wine,Consumption,2014,1000 hl,  328
+Asia,Korea (the Republic of),Wine,Consumption,2015,1000 hl,  383
+Asia,Korea (the Republic of),Wine,Consumption,2016,1000 hl,  407
+Asia,Korea (the Republic of),Wine,Consumption,2017,1000 hl,  371
+Asia,Korea (the Republic of),Wine,Consumption,2018,1000 hl,  386
+Asia,Korea (the Republic of),Wine,Consumption,2019,1000 hl,  422
+Asia,Korea (the Republic of),Wine,Consumption,2020,1000 hl,  491
+Asia,Korea (the Republic of),Wine,Consumption,2021,1000 hl,  655
+Asia,Korea (the Republic of),Wine,Consumption,2022,1000 hl,  740
+Asia,Korea (the Republic of),Wine,Consumption,2023,1000 hl,  539
+Asia,Kyrgyzstan,Wine,Consumption,2009,1000 hl,  24
+Asia,Kyrgyzstan,Wine,Consumption,2010,1000 hl,  25
+Asia,Kyrgyzstan,Wine,Consumption,2011,1000 hl,  25
+Asia,Kyrgyzstan,Wine,Consumption,2012,1000 hl,  27
+Asia,Kyrgyzstan,Wine,Consumption,2013,1000 hl,  31
+Asia,Kyrgyzstan,Wine,Consumption,2014,1000 hl,  29
+Asia,Kyrgyzstan,Wine,Consumption,2015,1000 hl,  31
+Asia,Kyrgyzstan,Wine,Consumption,2016,1000 hl,  36
+Asia,Kyrgyzstan,Wine,Consumption,2017,1000 hl,  37
+Asia,Kyrgyzstan,Wine,Consumption,2018,1000 hl,  56
+Asia,Kyrgyzstan,Wine,Consumption,2019,1000 hl,  65
+Asia,Kyrgyzstan,Wine,Consumption,2020,1000 hl,  40
+Asia,Kyrgyzstan,Wine,Consumption,2021,1000 hl,  30
+Asia,Kyrgyzstan,Wine,Consumption,2022,1000 hl,  30
+Asia,Kyrgyzstan,Wine,Consumption,2023,1000 hl,  44
+Asia,Lao People's Democratic Republic,Wine,Consumption,2009,1000 hl,  11
+Asia,Lao People's Democratic Republic,Wine,Consumption,2010,1000 hl,  12
+Asia,Lao People's Democratic Republic,Wine,Consumption,2011,1000 hl,  14
+Asia,Lao People's Democratic Republic,Wine,Consumption,2012,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Consumption,2013,1000 hl,  19
+Asia,Lao People's Democratic Republic,Wine,Consumption,2014,1000 hl,  24
+Asia,Lao People's Democratic Republic,Wine,Consumption,2015,1000 hl,  26
+Asia,Lao People's Democratic Republic,Wine,Consumption,2016,1000 hl,  28
+Asia,Lao People's Democratic Republic,Wine,Consumption,2017,1000 hl,  20
+Asia,Lao People's Democratic Republic,Wine,Consumption,2018,1000 hl,  12
+Asia,Lao People's Democratic Republic,Wine,Consumption,2019,1000 hl,  14
+Asia,Lao People's Democratic Republic,Wine,Consumption,2020,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Consumption,2021,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Consumption,2022,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Consumption,2023,1000 hl,  15
+Europe,Latvia,Wine,Consumption,2009,1000 hl,  21
+Europe,Latvia,Wine,Consumption,2010,1000 hl,  21
+Europe,Latvia,Wine,Consumption,2011,1000 hl,  23
+Europe,Latvia,Wine,Consumption,2012,1000 hl,  22
+Europe,Latvia,Wine,Consumption,2013,1000 hl,  37
+Europe,Latvia,Wine,Consumption,2014,1000 hl,  98
+Europe,Latvia,Wine,Consumption,2015,1000 hl,  143
+Europe,Latvia,Wine,Consumption,2016,1000 hl,  151
+Europe,Latvia,Wine,Consumption,2017,1000 hl,  148
+Europe,Latvia,Wine,Consumption,2018,1000 hl,  90
+Europe,Latvia,Wine,Consumption,2019,1000 hl,  55
+Europe,Latvia,Wine,Consumption,2020,1000 hl,  127
+Europe,Latvia,Wine,Consumption,2021,1000 hl,  177
+Europe,Latvia,Wine,Consumption,2022,1000 hl,  181
+Europe,Latvia,Wine,Consumption,2023,1000 hl,  126
+Asia,Lebanon,Wine,Consumption,2009,1000 hl,  63
+Asia,Lebanon,Wine,Consumption,2010,1000 hl,  59
+Asia,Lebanon,Wine,Consumption,2011,1000 hl,  63
+Asia,Lebanon,Wine,Consumption,2012,1000 hl,  76
+Asia,Lebanon,Wine,Consumption,2013,1000 hl,  84
+Asia,Lebanon,Wine,Consumption,2014,1000 hl,  83
+Asia,Lebanon,Wine,Consumption,2015,1000 hl,  91
+Asia,Lebanon,Wine,Consumption,2016,1000 hl,  97
+Asia,Lebanon,Wine,Consumption,2017,1000 hl,  91
+Asia,Lebanon,Wine,Consumption,2018,1000 hl,  89
+Asia,Lebanon,Wine,Consumption,2019,1000 hl,  88
+Asia,Lebanon,Wine,Consumption,2020,1000 hl,  50
+Asia,Lebanon,Wine,Consumption,2021,1000 hl,  50
+Asia,Lebanon,Wine,Consumption,2022,1000 hl,  50
+Asia,Lebanon,Wine,Consumption,2023,1000 hl,  65
+Africa,Lesotho,Wine,Consumption,2009,1000 hl,  1
+Africa,Lesotho,Wine,Consumption,2010,1000 hl,  1
+Africa,Lesotho,Wine,Consumption,2011,1000 hl,  1
+Africa,Lesotho,Wine,Consumption,2012,1000 hl,  1
+Africa,Lesotho,Wine,Consumption,2013,1000 hl,  5
+Africa,Lesotho,Wine,Consumption,2014,1000 hl,  12
+Africa,Lesotho,Wine,Consumption,2015,1000 hl,  12
+Africa,Lesotho,Wine,Consumption,2016,1000 hl,  11
+Africa,Lesotho,Wine,Consumption,2017,1000 hl,  15
+Africa,Lesotho,Wine,Consumption,2018,1000 hl,  11
+Africa,Lesotho,Wine,Consumption,2019,1000 hl,  10
+Africa,Lesotho,Wine,Consumption,2020,1000 hl,  15
+Africa,Lesotho,Wine,Consumption,2021,1000 hl,  15
+Africa,Lesotho,Wine,Consumption,2022,1000 hl,  15
+Africa,Lesotho,Wine,Consumption,2023,1000 hl,  13
+Africa,Liberia,Wine,Consumption,2009,1000 hl,  1
+Africa,Liberia,Wine,Consumption,2010,1000 hl,  2
+Africa,Liberia,Wine,Consumption,2011,1000 hl,  2
+Africa,Liberia,Wine,Consumption,2012,1000 hl,  2
+Africa,Liberia,Wine,Consumption,2013,1000 hl,  2
+Africa,Liberia,Wine,Consumption,2014,1000 hl,  4
+Africa,Liberia,Wine,Consumption,2015,1000 hl,  4
+Africa,Liberia,Wine,Consumption,2016,1000 hl,  5
+Africa,Liberia,Wine,Consumption,2017,1000 hl,  10
+Africa,Liberia,Wine,Consumption,2018,1000 hl,  13
+Africa,Liberia,Wine,Consumption,2019,1000 hl,  10
+Africa,Liberia,Wine,Consumption,2020,1000 hl,  8
+Africa,Liberia,Wine,Consumption,2021,1000 hl,  8
+Africa,Liberia,Wine,Consumption,2022,1000 hl,  8
+Africa,Liberia,Wine,Consumption,2023,1000 hl,  9
+Africa,Libya,Wine,Consumption,2009,1000 hl,0
+Africa,Libya,Wine,Consumption,2010,1000 hl,0
+Africa,Libya,Wine,Consumption,2011,1000 hl,0
+Africa,Libya,Wine,Consumption,2012,1000 hl,0
+Africa,Libya,Wine,Consumption,2013,1000 hl,0
+Africa,Libya,Wine,Consumption,2014,1000 hl,0
+Africa,Libya,Wine,Consumption,2015,1000 hl,  1
+Africa,Libya,Wine,Consumption,2016,1000 hl,  1
+Africa,Libya,Wine,Consumption,2017,1000 hl,0
+Africa,Libya,Wine,Consumption,2018,1000 hl,0
+Africa,Libya,Wine,Consumption,2019,1000 hl,  1
+Africa,Libya,Wine,Consumption,2020,1000 hl,  1
+Africa,Libya,Wine,Consumption,2021,1000 hl,  1
+Africa,Libya,Wine,Consumption,2022,1000 hl,  1
+Africa,Libya,Wine,Consumption,2023,1000 hl,  1
+Europe,Lithuania,Wine,Consumption,2009,1000 hl,  228
+Europe,Lithuania,Wine,Consumption,2010,1000 hl,  263
+Europe,Lithuania,Wine,Consumption,2011,1000 hl,  310
+Europe,Lithuania,Wine,Consumption,2012,1000 hl,  332
+Europe,Lithuania,Wine,Consumption,2013,1000 hl,  356
+Europe,Lithuania,Wine,Consumption,2014,1000 hl,  381
+Europe,Lithuania,Wine,Consumption,2015,1000 hl,  368
+Europe,Lithuania,Wine,Consumption,2016,1000 hl,  352
+Europe,Lithuania,Wine,Consumption,2017,1000 hl,  359
+Europe,Lithuania,Wine,Consumption,2018,1000 hl,  356
+Europe,Lithuania,Wine,Consumption,2019,1000 hl,  356
+Europe,Lithuania,Wine,Consumption,2020,1000 hl,  333
+Europe,Lithuania,Wine,Consumption,2021,1000 hl,  310
+Europe,Lithuania,Wine,Consumption,2022,1000 hl,  310
+Europe,Lithuania,Wine,Consumption,2023,1000 hl,  333
+Europe,Luxemburg,Wine,Consumption,2009,1000 hl,  258
+Europe,Luxemburg,Wine,Consumption,2010,1000 hl,  271
+Europe,Luxemburg,Wine,Consumption,2011,1000 hl,  257
+Europe,Luxemburg,Wine,Consumption,2012,1000 hl,  266
+Europe,Luxemburg,Wine,Consumption,2013,1000 hl,  262
+Europe,Luxemburg,Wine,Consumption,2014,1000 hl,  271
+Europe,Luxemburg,Wine,Consumption,2015,1000 hl,  266
+Europe,Luxemburg,Wine,Consumption,2016,1000 hl,  260
+Europe,Luxemburg,Wine,Consumption,2017,1000 hl,  258
+Europe,Luxemburg,Wine,Consumption,2018,1000 hl,  272
+Europe,Luxemburg,Wine,Consumption,2019,1000 hl,  276
+Europe,Luxemburg,Wine,Consumption,2020,1000 hl,  257
+Europe,Luxemburg,Wine,Consumption,2021,1000 hl,  255
+Europe,Luxemburg,Wine,Consumption,2022,1000 hl,  264
+Europe,Luxemburg,Wine,Consumption,2023,1000 hl,  249
+Africa,Madagascar,Wine,Consumption,2009,1000 hl,  89
+Africa,Madagascar,Wine,Consumption,2010,1000 hl,  90
+Africa,Madagascar,Wine,Consumption,2011,1000 hl,  93
+Africa,Madagascar,Wine,Consumption,2012,1000 hl,  97
+Africa,Madagascar,Wine,Consumption,2013,1000 hl,  93
+Africa,Madagascar,Wine,Consumption,2014,1000 hl,  90
+Africa,Madagascar,Wine,Consumption,2015,1000 hl,  85
+Africa,Madagascar,Wine,Consumption,2016,1000 hl,  82
+Africa,Madagascar,Wine,Consumption,2017,1000 hl,  84
+Africa,Madagascar,Wine,Consumption,2018,1000 hl,  90
+Africa,Madagascar,Wine,Consumption,2019,1000 hl,  89
+Africa,Madagascar,Wine,Consumption,2020,1000 hl,  86
+Africa,Madagascar,Wine,Consumption,2021,1000 hl,  84
+Africa,Madagascar,Wine,Consumption,2022,1000 hl,  86
+Africa,Madagascar,Wine,Consumption,2023,1000 hl,  87
+Africa,Malawi,Wine,Consumption,2009,1000 hl,  4
+Africa,Malawi,Wine,Consumption,2010,1000 hl,  3
+Africa,Malawi,Wine,Consumption,2011,1000 hl,  2
+Africa,Malawi,Wine,Consumption,2012,1000 hl,  3
+Africa,Malawi,Wine,Consumption,2013,1000 hl,  3
+Africa,Malawi,Wine,Consumption,2014,1000 hl,  2
+Africa,Malawi,Wine,Consumption,2015,1000 hl,  2
+Africa,Malawi,Wine,Consumption,2016,1000 hl,  1
+Africa,Malawi,Wine,Consumption,2017,1000 hl,  1
+Africa,Malawi,Wine,Consumption,2018,1000 hl,  18
+Africa,Malawi,Wine,Consumption,2019,1000 hl,  18
+Africa,Malawi,Wine,Consumption,2020,1000 hl,  2
+Africa,Malawi,Wine,Consumption,2021,1000 hl,  2
+Africa,Malawi,Wine,Consumption,2022,1000 hl,  2
+Africa,Malawi,Wine,Consumption,2023,1000 hl,  9
+Asia,Malaysia,Wine,Consumption,2009,1000 hl,  37
+Asia,Malaysia,Wine,Consumption,2010,1000 hl,  47
+Asia,Malaysia,Wine,Consumption,2011,1000 hl,  45
+Asia,Malaysia,Wine,Consumption,2012,1000 hl,  33
+Asia,Malaysia,Wine,Consumption,2013,1000 hl,  36
+Asia,Malaysia,Wine,Consumption,2014,1000 hl,  49
+Asia,Malaysia,Wine,Consumption,2015,1000 hl,  61
+Asia,Malaysia,Wine,Consumption,2016,1000 hl,  69
+Asia,Malaysia,Wine,Consumption,2017,1000 hl,  88
+Asia,Malaysia,Wine,Consumption,2018,1000 hl,  92
+Asia,Malaysia,Wine,Consumption,2019,1000 hl,  78
+Asia,Malaysia,Wine,Consumption,2020,1000 hl,  62
+Asia,Malaysia,Wine,Consumption,2021,1000 hl,  111
+Asia,Malaysia,Wine,Consumption,2022,1000 hl,  230
+Asia,Malaysia,Wine,Consumption,2023,1000 hl,  115
+Asia,Maldives,Wine,Consumption,2009,1000 hl,  12
+Asia,Maldives,Wine,Consumption,2010,1000 hl,  12
+Asia,Maldives,Wine,Consumption,2011,1000 hl,  14
+Asia,Maldives,Wine,Consumption,2012,1000 hl,  14
+Asia,Maldives,Wine,Consumption,2013,1000 hl,  13
+Asia,Maldives,Wine,Consumption,2014,1000 hl,  14
+Asia,Maldives,Wine,Consumption,2015,1000 hl,  13
+Asia,Maldives,Wine,Consumption,2016,1000 hl,  14
+Asia,Maldives,Wine,Consumption,2017,1000 hl,  15
+Asia,Maldives,Wine,Consumption,2018,1000 hl,  18
+Asia,Maldives,Wine,Consumption,2019,1000 hl,  21
+Asia,Maldives,Wine,Consumption,2020,1000 hl,  22
+Asia,Maldives,Wine,Consumption,2021,1000 hl,  22
+Asia,Maldives,Wine,Consumption,2022,1000 hl,  22
+Asia,Maldives,Wine,Consumption,2023,1000 hl,  21
+Africa,Mali,Wine,Consumption,2009,1000 hl,  3
+Africa,Mali,Wine,Consumption,2010,1000 hl,  6
+Africa,Mali,Wine,Consumption,2011,1000 hl,  6
+Africa,Mali,Wine,Consumption,2012,1000 hl,  3
+Africa,Mali,Wine,Consumption,2013,1000 hl,  3
+Africa,Mali,Wine,Consumption,2014,1000 hl,  3
+Africa,Mali,Wine,Consumption,2015,1000 hl,  6
+Africa,Mali,Wine,Consumption,2016,1000 hl,  6
+Africa,Mali,Wine,Consumption,2017,1000 hl,  4
+Africa,Mali,Wine,Consumption,2018,1000 hl,  5
+Africa,Mali,Wine,Consumption,2019,1000 hl,  12
+Africa,Mali,Wine,Consumption,2020,1000 hl,  19
+Africa,Mali,Wine,Consumption,2021,1000 hl,  19
+Africa,Mali,Wine,Consumption,2022,1000 hl,  19
+Africa,Mali,Wine,Consumption,2023,1000 hl,  15
+Europe,Malta,Wine,Consumption,2009,1000 hl,  73
+Europe,Malta,Wine,Consumption,2010,1000 hl,  65
+Europe,Malta,Wine,Consumption,2011,1000 hl,  60
+Europe,Malta,Wine,Consumption,2012,1000 hl,  65
+Europe,Malta,Wine,Consumption,2013,1000 hl,  62
+Europe,Malta,Wine,Consumption,2014,1000 hl,  60
+Europe,Malta,Wine,Consumption,2015,1000 hl,  67
+Europe,Malta,Wine,Consumption,2016,1000 hl,  72
+Europe,Malta,Wine,Consumption,2017,1000 hl,  79
+Europe,Malta,Wine,Consumption,2018,1000 hl,  72
+Europe,Malta,Wine,Consumption,2019,1000 hl,  69
+Europe,Malta,Wine,Consumption,2020,1000 hl,  48
+Europe,Malta,Wine,Consumption,2021,1000 hl,  42
+Europe,Malta,Wine,Consumption,2022,1000 hl,  66
+Europe,Malta,Wine,Consumption,2023,1000 hl,  59
+America,Martinique,Wine,Consumption,2009,1000 hl,0
+America,Martinique,Wine,Consumption,2010,1000 hl,0
+America,Martinique,Wine,Consumption,2011,1000 hl,0
+America,Martinique,Wine,Consumption,2012,1000 hl,0
+America,Martinique,Wine,Consumption,2013,1000 hl,0
+America,Martinique,Wine,Consumption,2014,1000 hl,0
+America,Martinique,Wine,Consumption,2015,1000 hl,0
+America,Martinique,Wine,Consumption,2016,1000 hl,0
+America,Martinique,Wine,Consumption,2017,1000 hl,0
+America,Martinique,Wine,Consumption,2018,1000 hl,0
+America,Martinique,Wine,Consumption,2019,1000 hl,0
+America,Martinique,Wine,Consumption,2020,1000 hl,0
+America,Martinique,Wine,Consumption,2021,1000 hl,0
+America,Martinique,Wine,Consumption,2022,1000 hl,0
+America,Martinique,Wine,Consumption,2023,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2009,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2010,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2011,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2012,1000 hl,  1
+Africa,Mauritania,Wine,Consumption,2013,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2014,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2015,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2016,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2017,1000 hl,  1
+Africa,Mauritania,Wine,Consumption,2018,1000 hl,  1
+Africa,Mauritania,Wine,Consumption,2019,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2020,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2021,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2022,1000 hl,0
+Africa,Mauritania,Wine,Consumption,2023,1000 hl,0
+Africa,Mauritius,Wine,Consumption,2009,1000 hl,  16
+Africa,Mauritius,Wine,Consumption,2010,1000 hl,  18
+Africa,Mauritius,Wine,Consumption,2011,1000 hl,  19
+Africa,Mauritius,Wine,Consumption,2012,1000 hl,  17
+Africa,Mauritius,Wine,Consumption,2013,1000 hl,  17
+Africa,Mauritius,Wine,Consumption,2014,1000 hl,  19
+Africa,Mauritius,Wine,Consumption,2015,1000 hl,  20
+Africa,Mauritius,Wine,Consumption,2016,1000 hl,  22
+Africa,Mauritius,Wine,Consumption,2017,1000 hl,  23
+Africa,Mauritius,Wine,Consumption,2018,1000 hl,  23
+Africa,Mauritius,Wine,Consumption,2019,1000 hl,  22
+Africa,Mauritius,Wine,Consumption,2020,1000 hl,  16
+Africa,Mauritius,Wine,Consumption,2021,1000 hl,  16
+Africa,Mauritius,Wine,Consumption,2022,1000 hl,  16
+Africa,Mauritius,Wine,Consumption,2023,1000 hl,  19
+America,Mexico,Wine,Consumption,2009,1000 hl,  574
+America,Mexico,Wine,Consumption,2010,1000 hl,  614
+America,Mexico,Wine,Consumption,2011,1000 hl,  857
+America,Mexico,Wine,Consumption,2012,1000 hl,  882
+America,Mexico,Wine,Consumption,2013,1000 hl,  944
+America,Mexico,Wine,Consumption,2014,1000 hl,  928
+America,Mexico,Wine,Consumption,2015,1000 hl, 1 011
+America,Mexico,Wine,Consumption,2016,1000 hl, 1 073
+America,Mexico,Wine,Consumption,2017,1000 hl, 1 094
+America,Mexico,Wine,Consumption,2018,1000 hl, 1 193
+America,Mexico,Wine,Consumption,2019,1000 hl, 1 216
+America,Mexico,Wine,Consumption,2020,1000 hl, 1 109
+America,Mexico,Wine,Consumption,2021,1000 hl, 1 080
+America,Mexico,Wine,Consumption,2022,1000 hl, 1 417
+America,Mexico,Wine,Consumption,2023,1000 hl, 1 501
+Europe,Moldova,Wine,Consumption,2009,1000 hl,  299
+Europe,Moldova,Wine,Consumption,2010,1000 hl,  400
+Europe,Moldova,Wine,Consumption,2011,1000 hl,  400
+Europe,Moldova,Wine,Consumption,2012,1000 hl,  301
+Europe,Moldova,Wine,Consumption,2013,1000 hl,  400
+Europe,Moldova,Wine,Consumption,2014,1000 hl,  400
+Europe,Moldova,Wine,Consumption,2015,1000 hl,  406
+Europe,Moldova,Wine,Consumption,2016,1000 hl,  264
+Europe,Moldova,Wine,Consumption,2017,1000 hl,  291
+Europe,Moldova,Wine,Consumption,2018,1000 hl,  454
+Europe,Moldova,Wine,Consumption,2019,1000 hl,  228
+Europe,Moldova,Wine,Consumption,2020,1000 hl,  329
+Europe,Moldova,Wine,Consumption,2021,1000 hl,  313
+Europe,Moldova,Wine,Consumption,2022,1000 hl,  311
+Europe,Moldova,Wine,Consumption,2023,1000 hl,  327
+Asia,Mongolia,Wine,Consumption,2009,1000 hl,  14
+Asia,Mongolia,Wine,Consumption,2010,1000 hl,  14
+Asia,Mongolia,Wine,Consumption,2011,1000 hl,  20
+Asia,Mongolia,Wine,Consumption,2012,1000 hl,  23
+Asia,Mongolia,Wine,Consumption,2013,1000 hl,  19
+Asia,Mongolia,Wine,Consumption,2014,1000 hl,  16
+Asia,Mongolia,Wine,Consumption,2015,1000 hl,  16
+Asia,Mongolia,Wine,Consumption,2016,1000 hl,  14
+Asia,Mongolia,Wine,Consumption,2017,1000 hl,  15
+Asia,Mongolia,Wine,Consumption,2018,1000 hl,  20
+Asia,Mongolia,Wine,Consumption,2019,1000 hl,  20
+Asia,Mongolia,Wine,Consumption,2020,1000 hl,  18
+Asia,Mongolia,Wine,Consumption,2021,1000 hl,  18
+Asia,Mongolia,Wine,Consumption,2022,1000 hl,  18
+Asia,Mongolia,Wine,Consumption,2023,1000 hl,  19
+Europe,Montenegro,Wine,Consumption,2009,1000 hl,  134
+Europe,Montenegro,Wine,Consumption,2010,1000 hl,  134
+Europe,Montenegro,Wine,Consumption,2011,1000 hl,  103
+Europe,Montenegro,Wine,Consumption,2012,1000 hl,  102
+Europe,Montenegro,Wine,Consumption,2013,1000 hl,  123
+Europe,Montenegro,Wine,Consumption,2014,1000 hl,  84
+Europe,Montenegro,Wine,Consumption,2015,1000 hl,  61
+Europe,Montenegro,Wine,Consumption,2016,1000 hl,  61
+Europe,Montenegro,Wine,Consumption,2017,1000 hl,  67
+Europe,Montenegro,Wine,Consumption,2018,1000 hl,  68
+Europe,Montenegro,Wine,Consumption,2019,1000 hl,  62
+Europe,Montenegro,Wine,Consumption,2020,1000 hl,  52
+Europe,Montenegro,Wine,Consumption,2021,1000 hl,  37
+Europe,Montenegro,Wine,Consumption,2022,1000 hl,  37
+Europe,Montenegro,Wine,Consumption,2023,1000 hl,  51
+America,Montserrat,Wine,Consumption,2009,1000 hl,0
+America,Montserrat,Wine,Consumption,2010,1000 hl,0
+America,Montserrat,Wine,Consumption,2011,1000 hl,0
+America,Montserrat,Wine,Consumption,2012,1000 hl,0
+America,Montserrat,Wine,Consumption,2013,1000 hl,0
+America,Montserrat,Wine,Consumption,2014,1000 hl,0
+America,Montserrat,Wine,Consumption,2015,1000 hl,0
+America,Montserrat,Wine,Consumption,2016,1000 hl,0
+America,Montserrat,Wine,Consumption,2017,1000 hl,0
+America,Montserrat,Wine,Consumption,2018,1000 hl,0
+America,Montserrat,Wine,Consumption,2019,1000 hl,0
+America,Montserrat,Wine,Consumption,2020,1000 hl,0
+America,Montserrat,Wine,Consumption,2021,1000 hl,0
+America,Montserrat,Wine,Consumption,2022,1000 hl,0
+America,Montserrat,Wine,Consumption,2023,1000 hl,0
+Africa,Morocco,Wine,Consumption,2009,1000 hl,  379
+Africa,Morocco,Wine,Consumption,2010,1000 hl,  355
+Africa,Morocco,Wine,Consumption,2011,1000 hl,  373
+Africa,Morocco,Wine,Consumption,2012,1000 hl,  397
+Africa,Morocco,Wine,Consumption,2013,1000 hl,  422
+Africa,Morocco,Wine,Consumption,2014,1000 hl,  395
+Africa,Morocco,Wine,Consumption,2015,1000 hl,  339
+Africa,Morocco,Wine,Consumption,2016,1000 hl,  334
+Africa,Morocco,Wine,Consumption,2017,1000 hl,  360
+Africa,Morocco,Wine,Consumption,2018,1000 hl,  480
+Africa,Morocco,Wine,Consumption,2019,1000 hl,  611
+Africa,Morocco,Wine,Consumption,2020,1000 hl,  630
+Africa,Morocco,Wine,Consumption,2021,1000 hl,  599
+Africa,Morocco,Wine,Consumption,2022,1000 hl,  609
+Africa,Morocco,Wine,Consumption,2023,1000 hl,  586
+Africa,Mozambique,Wine,Consumption,2009,1000 hl,  21
+Africa,Mozambique,Wine,Consumption,2010,1000 hl,  23
+Africa,Mozambique,Wine,Consumption,2011,1000 hl,  57
+Africa,Mozambique,Wine,Consumption,2012,1000 hl,  70
+Africa,Mozambique,Wine,Consumption,2013,1000 hl,  74
+Africa,Mozambique,Wine,Consumption,2014,1000 hl,  81
+Africa,Mozambique,Wine,Consumption,2015,1000 hl,  72
+Africa,Mozambique,Wine,Consumption,2016,1000 hl,  120
+Africa,Mozambique,Wine,Consumption,2017,1000 hl,  199
+Africa,Mozambique,Wine,Consumption,2018,1000 hl,  268
+Africa,Mozambique,Wine,Consumption,2019,1000 hl,  161
+Africa,Mozambique,Wine,Consumption,2020,1000 hl,  24
+Africa,Mozambique,Wine,Consumption,2021,1000 hl,  24
+Africa,Mozambique,Wine,Consumption,2022,1000 hl,  24
+Africa,Mozambique,Wine,Consumption,2023,1000 hl,  100
+Asia,Myanmar,Wine,Consumption,2009,1000 hl,  20
+Asia,Myanmar,Wine,Consumption,2010,1000 hl,  16
+Asia,Myanmar,Wine,Consumption,2011,1000 hl,  26
+Asia,Myanmar,Wine,Consumption,2012,1000 hl,  32
+Asia,Myanmar,Wine,Consumption,2013,1000 hl,  28
+Asia,Myanmar,Wine,Consumption,2014,1000 hl,  1
+Asia,Myanmar,Wine,Consumption,2015,1000 hl,  2
+Asia,Myanmar,Wine,Consumption,2016,1000 hl,  1
+Asia,Myanmar,Wine,Consumption,2017,1000 hl,  7
+Asia,Myanmar,Wine,Consumption,2018,1000 hl,  26
+Asia,Myanmar,Wine,Consumption,2019,1000 hl,  1
+Asia,Myanmar,Wine,Consumption,2020,1000 hl,  1
+Asia,Myanmar,Wine,Consumption,2021,1000 hl,  1
+Asia,Myanmar,Wine,Consumption,2022,1000 hl,  1
+Asia,Myanmar,Wine,Consumption,2023,1000 hl,  6
+Africa,Namibia,Wine,Consumption,2009,1000 hl,  69
+Africa,Namibia,Wine,Consumption,2010,1000 hl,  69
+Africa,Namibia,Wine,Consumption,2011,1000 hl,  61
+Africa,Namibia,Wine,Consumption,2012,1000 hl,  139
+Africa,Namibia,Wine,Consumption,2013,1000 hl,  310
+Africa,Namibia,Wine,Consumption,2014,1000 hl,  464
+Africa,Namibia,Wine,Consumption,2015,1000 hl,  544
+Africa,Namibia,Wine,Consumption,2016,1000 hl,  472
+Africa,Namibia,Wine,Consumption,2017,1000 hl,  394
+Africa,Namibia,Wine,Consumption,2018,1000 hl,  263
+Africa,Namibia,Wine,Consumption,2019,1000 hl,  253
+Africa,Namibia,Wine,Consumption,2020,1000 hl,  308
+Africa,Namibia,Wine,Consumption,2021,1000 hl,  499
+Africa,Namibia,Wine,Consumption,2022,1000 hl,  488
+Africa,Namibia,Wine,Consumption,2023,1000 hl,  362
+Oceania,Nauru,Wine,Consumption,2009,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2010,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2011,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2012,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2013,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2014,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2015,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2016,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2017,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2018,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2019,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2020,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2021,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2022,1000 hl,0
+Oceania,Nauru,Wine,Consumption,2023,1000 hl,0
+Asia,Nepal,Wine,Consumption,2009,1000 hl,  6
+Asia,Nepal,Wine,Consumption,2010,1000 hl,  6
+Asia,Nepal,Wine,Consumption,2011,1000 hl,  8
+Asia,Nepal,Wine,Consumption,2012,1000 hl,  8
+Asia,Nepal,Wine,Consumption,2013,1000 hl,  8
+Asia,Nepal,Wine,Consumption,2014,1000 hl,  8
+Asia,Nepal,Wine,Consumption,2015,1000 hl,  7
+Asia,Nepal,Wine,Consumption,2016,1000 hl,  7
+Asia,Nepal,Wine,Consumption,2017,1000 hl,  7
+Asia,Nepal,Wine,Consumption,2018,1000 hl,  8
+Asia,Nepal,Wine,Consumption,2019,1000 hl,  8
+Asia,Nepal,Wine,Consumption,2020,1000 hl,  7
+Asia,Nepal,Wine,Consumption,2021,1000 hl,  7
+Asia,Nepal,Wine,Consumption,2022,1000 hl,  7
+Asia,Nepal,Wine,Consumption,2023,1000 hl,  7
+Europe,Netherlands,Wine,Consumption,2009,1000 hl, 3 568
+Europe,Netherlands,Wine,Consumption,2010,1000 hl, 3 500
+Europe,Netherlands,Wine,Consumption,2011,1000 hl, 3 289
+Europe,Netherlands,Wine,Consumption,2012,1000 hl, 3 157
+Europe,Netherlands,Wine,Consumption,2013,1000 hl, 3 323
+Europe,Netherlands,Wine,Consumption,2014,1000 hl, 3 426
+Europe,Netherlands,Wine,Consumption,2015,1000 hl, 3 452
+Europe,Netherlands,Wine,Consumption,2016,1000 hl, 3 636
+Europe,Netherlands,Wine,Consumption,2017,1000 hl, 3 729
+Europe,Netherlands,Wine,Consumption,2018,1000 hl, 3 573
+Europe,Netherlands,Wine,Consumption,2019,1000 hl, 3 532
+Europe,Netherlands,Wine,Consumption,2020,1000 hl, 3 650
+Europe,Netherlands,Wine,Consumption,2021,1000 hl, 3 748
+Europe,Netherlands,Wine,Consumption,2022,1000 hl, 3 630
+Europe,Netherlands,Wine,Consumption,2023,1000 hl, 3 453
+America,Netherlands Antilles,Wine,Consumption,2009,1000 hl,  30
+America,Netherlands Antilles,Wine,Consumption,2010,1000 hl,  32
+America,Netherlands Antilles,Wine,Consumption,2011,1000 hl,  32
+America,Netherlands Antilles,Wine,Consumption,2012,1000 hl,  33
+America,Netherlands Antilles,Wine,Consumption,2013,1000 hl,  33
+America,Netherlands Antilles,Wine,Consumption,2014,1000 hl,  17
+America,Netherlands Antilles,Wine,Consumption,2015,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2016,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2017,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2018,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2019,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2020,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2021,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2022,1000 hl,0
+America,Netherlands Antilles,Wine,Consumption,2023,1000 hl,0
+Oceania,New Caledonia,Wine,Consumption,2009,1000 hl,  66
+Oceania,New Caledonia,Wine,Consumption,2010,1000 hl,  64
+Oceania,New Caledonia,Wine,Consumption,2011,1000 hl,  68
+Oceania,New Caledonia,Wine,Consumption,2012,1000 hl,  68
+Oceania,New Caledonia,Wine,Consumption,2013,1000 hl,  68
+Oceania,New Caledonia,Wine,Consumption,2014,1000 hl,  71
+Oceania,New Caledonia,Wine,Consumption,2015,1000 hl,  78
+Oceania,New Caledonia,Wine,Consumption,2016,1000 hl,  68
+Oceania,New Caledonia,Wine,Consumption,2017,1000 hl,  55
+Oceania,New Caledonia,Wine,Consumption,2018,1000 hl,  50
+Oceania,New Caledonia,Wine,Consumption,2019,1000 hl,  43
+Oceania,New Caledonia,Wine,Consumption,2020,1000 hl,  44
+Oceania,New Caledonia,Wine,Consumption,2021,1000 hl,  44
+Oceania,New Caledonia,Wine,Consumption,2022,1000 hl,  44
+Oceania,New Caledonia,Wine,Consumption,2023,1000 hl,  45
+Oceania,New Zealand,Wine,Consumption,2009,1000 hl,  927
+Oceania,New Zealand,Wine,Consumption,2010,1000 hl,  921
+Oceania,New Zealand,Wine,Consumption,2011,1000 hl,  939
+Oceania,New Zealand,Wine,Consumption,2012,1000 hl,  919
+Oceania,New Zealand,Wine,Consumption,2013,1000 hl,  925
+Oceania,New Zealand,Wine,Consumption,2014,1000 hl,  906
+Oceania,New Zealand,Wine,Consumption,2015,1000 hl,  960
+Oceania,New Zealand,Wine,Consumption,2016,1000 hl,  934
+Oceania,New Zealand,Wine,Consumption,2017,1000 hl,  920
+Oceania,New Zealand,Wine,Consumption,2018,1000 hl,  945
+Oceania,New Zealand,Wine,Consumption,2019,1000 hl,  931
+Oceania,New Zealand,Wine,Consumption,2020,1000 hl,  917
+Oceania,New Zealand,Wine,Consumption,2021,1000 hl,  902
+Oceania,New Zealand,Wine,Consumption,2022,1000 hl,  895
+Oceania,New Zealand,Wine,Consumption,2023,1000 hl,  867
+America,Nicaragua,Wine,Consumption,2009,1000 hl,  8
+America,Nicaragua,Wine,Consumption,2010,1000 hl,  9
+America,Nicaragua,Wine,Consumption,2011,1000 hl,  9
+America,Nicaragua,Wine,Consumption,2012,1000 hl,  10
+America,Nicaragua,Wine,Consumption,2013,1000 hl,  12
+America,Nicaragua,Wine,Consumption,2014,1000 hl,  12
+America,Nicaragua,Wine,Consumption,2015,1000 hl,  13
+America,Nicaragua,Wine,Consumption,2016,1000 hl,  14
+America,Nicaragua,Wine,Consumption,2017,1000 hl,  12
+America,Nicaragua,Wine,Consumption,2018,1000 hl,  11
+America,Nicaragua,Wine,Consumption,2019,1000 hl,  11
+America,Nicaragua,Wine,Consumption,2020,1000 hl,  11
+America,Nicaragua,Wine,Consumption,2021,1000 hl,  11
+America,Nicaragua,Wine,Consumption,2022,1000 hl,  11
+America,Nicaragua,Wine,Consumption,2023,1000 hl,  11
+Africa,Niger,Wine,Consumption,2009,1000 hl,  4
+Africa,Niger,Wine,Consumption,2010,1000 hl,  8
+Africa,Niger,Wine,Consumption,2011,1000 hl,  9
+Africa,Niger,Wine,Consumption,2012,1000 hl,  9
+Africa,Niger,Wine,Consumption,2013,1000 hl,  8
+Africa,Niger,Wine,Consumption,2014,1000 hl,  7
+Africa,Niger,Wine,Consumption,2015,1000 hl,  6
+Africa,Niger,Wine,Consumption,2016,1000 hl,  8
+Africa,Niger,Wine,Consumption,2017,1000 hl,  8
+Africa,Niger,Wine,Consumption,2018,1000 hl,  5
+Africa,Niger,Wine,Consumption,2019,1000 hl,  7
+Africa,Niger,Wine,Consumption,2020,1000 hl,  10
+Africa,Niger,Wine,Consumption,2021,1000 hl,  10
+Africa,Niger,Wine,Consumption,2022,1000 hl,  10
+Africa,Niger,Wine,Consumption,2023,1000 hl,  8
+Africa,Nigeria,Wine,Consumption,2009,1000 hl,  130
+Africa,Nigeria,Wine,Consumption,2010,1000 hl,  213
+Africa,Nigeria,Wine,Consumption,2011,1000 hl,  243
+Africa,Nigeria,Wine,Consumption,2012,1000 hl,  328
+Africa,Nigeria,Wine,Consumption,2013,1000 hl,  375
+Africa,Nigeria,Wine,Consumption,2014,1000 hl,  370
+Africa,Nigeria,Wine,Consumption,2015,1000 hl,  334
+Africa,Nigeria,Wine,Consumption,2016,1000 hl,  233
+Africa,Nigeria,Wine,Consumption,2017,1000 hl,  192
+Africa,Nigeria,Wine,Consumption,2018,1000 hl,  230
+Africa,Nigeria,Wine,Consumption,2019,1000 hl,  264
+Africa,Nigeria,Wine,Consumption,2020,1000 hl,  251
+Africa,Nigeria,Wine,Consumption,2021,1000 hl,  282
+Africa,Nigeria,Wine,Consumption,2022,1000 hl,  310
+Africa,Nigeria,Wine,Consumption,2023,1000 hl,  267
+Oceania,Niue,Wine,Consumption,2009,1000 hl,0
+Oceania,Niue,Wine,Consumption,2010,1000 hl,0
+Oceania,Niue,Wine,Consumption,2011,1000 hl,0
+Oceania,Niue,Wine,Consumption,2012,1000 hl,0
+Oceania,Niue,Wine,Consumption,2013,1000 hl,0
+Oceania,Niue,Wine,Consumption,2014,1000 hl,0
+Oceania,Niue,Wine,Consumption,2015,1000 hl,0
+Oceania,Niue,Wine,Consumption,2016,1000 hl,0
+Oceania,Niue,Wine,Consumption,2017,1000 hl,0
+Oceania,Niue,Wine,Consumption,2018,1000 hl,0
+Oceania,Niue,Wine,Consumption,2019,1000 hl,0
+Oceania,Niue,Wine,Consumption,2020,1000 hl,0
+Oceania,Niue,Wine,Consumption,2021,1000 hl,0
+Oceania,Niue,Wine,Consumption,2022,1000 hl,0
+Oceania,Niue,Wine,Consumption,2023,1000 hl,0
+Europe,Norway,Wine,Consumption,2009,1000 hl,  698
+Europe,Norway,Wine,Consumption,2010,1000 hl,  729
+Europe,Norway,Wine,Consumption,2011,1000 hl,  741
+Europe,Norway,Wine,Consumption,2012,1000 hl,  749
+Europe,Norway,Wine,Consumption,2013,1000 hl,  759
+Europe,Norway,Wine,Consumption,2014,1000 hl,  773
+Europe,Norway,Wine,Consumption,2015,1000 hl,  780
+Europe,Norway,Wine,Consumption,2016,1000 hl,  764
+Europe,Norway,Wine,Consumption,2017,1000 hl,  761
+Europe,Norway,Wine,Consumption,2018,1000 hl,  772
+Europe,Norway,Wine,Consumption,2019,1000 hl,  789
+Europe,Norway,Wine,Consumption,2020,1000 hl, 1 052
+Europe,Norway,Wine,Consumption,2021,1000 hl, 1 066
+Europe,Norway,Wine,Consumption,2022,1000 hl,  991
+Europe,Norway,Wine,Consumption,2023,1000 hl,  902
+Asia,Pakistan,Wine,Consumption,2009,1000 hl,  1
+Asia,Pakistan,Wine,Consumption,2010,1000 hl,  1
+Asia,Pakistan,Wine,Consumption,2011,1000 hl,  1
+Asia,Pakistan,Wine,Consumption,2012,1000 hl,  1
+Asia,Pakistan,Wine,Consumption,2013,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2014,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2015,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2016,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2017,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2018,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2019,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2020,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2021,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2022,1000 hl,0
+Asia,Pakistan,Wine,Consumption,2023,1000 hl,0
+America,Panama,Wine,Consumption,2009,1000 hl,  35
+America,Panama,Wine,Consumption,2010,1000 hl,  36
+America,Panama,Wine,Consumption,2011,1000 hl,  39
+America,Panama,Wine,Consumption,2012,1000 hl,  45
+America,Panama,Wine,Consumption,2013,1000 hl,  43
+America,Panama,Wine,Consumption,2014,1000 hl,  45
+America,Panama,Wine,Consumption,2015,1000 hl,  36
+America,Panama,Wine,Consumption,2016,1000 hl,  37
+America,Panama,Wine,Consumption,2017,1000 hl,  38
+America,Panama,Wine,Consumption,2018,1000 hl,  4
+America,Panama,Wine,Consumption,2019,1000 hl,  6
+America,Panama,Wine,Consumption,2020,1000 hl,  10
+America,Panama,Wine,Consumption,2021,1000 hl,  11
+America,Panama,Wine,Consumption,2022,1000 hl,  11
+America,Panama,Wine,Consumption,2023,1000 hl,  8
+Oceania,Papua New Guinea,Wine,Consumption,2009,1000 hl,  5
+Oceania,Papua New Guinea,Wine,Consumption,2010,1000 hl,  5
+Oceania,Papua New Guinea,Wine,Consumption,2011,1000 hl,  5
+Oceania,Papua New Guinea,Wine,Consumption,2012,1000 hl,  7
+Oceania,Papua New Guinea,Wine,Consumption,2013,1000 hl,  7
+Oceania,Papua New Guinea,Wine,Consumption,2014,1000 hl,  8
+Oceania,Papua New Guinea,Wine,Consumption,2015,1000 hl,  23
+Oceania,Papua New Guinea,Wine,Consumption,2016,1000 hl,  30
+Oceania,Papua New Guinea,Wine,Consumption,2017,1000 hl,  21
+Oceania,Papua New Guinea,Wine,Consumption,2018,1000 hl,  26
+Oceania,Papua New Guinea,Wine,Consumption,2019,1000 hl,  30
+Oceania,Papua New Guinea,Wine,Consumption,2020,1000 hl,  27
+Oceania,Papua New Guinea,Wine,Consumption,2021,1000 hl,  27
+Oceania,Papua New Guinea,Wine,Consumption,2022,1000 hl,  27
+Oceania,Papua New Guinea,Wine,Consumption,2023,1000 hl,  28
+America,Paraguay,Wine,Consumption,2009,1000 hl,  417
+America,Paraguay,Wine,Consumption,2010,1000 hl,  396
+America,Paraguay,Wine,Consumption,2011,1000 hl,  342
+America,Paraguay,Wine,Consumption,2012,1000 hl,  289
+America,Paraguay,Wine,Consumption,2013,1000 hl,  235
+America,Paraguay,Wine,Consumption,2014,1000 hl,  179
+America,Paraguay,Wine,Consumption,2015,1000 hl,  160
+America,Paraguay,Wine,Consumption,2016,1000 hl,  204
+America,Paraguay,Wine,Consumption,2017,1000 hl,  246
+America,Paraguay,Wine,Consumption,2018,1000 hl,  247
+America,Paraguay,Wine,Consumption,2019,1000 hl,  249
+America,Paraguay,Wine,Consumption,2020,1000 hl,  249
+America,Paraguay,Wine,Consumption,2021,1000 hl,  264
+America,Paraguay,Wine,Consumption,2022,1000 hl,  249
+America,Paraguay,Wine,Consumption,2023,1000 hl,  252
+Asia,People's Republic of China,Wine,Consumption,2009,1000 hl, 14 514
+Asia,People's Republic of China,Wine,Consumption,2010,1000 hl, 15 180
+Asia,People's Republic of China,Wine,Consumption,2011,1000 hl, 16 454
+Asia,People's Republic of China,Wine,Consumption,2012,1000 hl, 18 525
+Asia,People's Republic of China,Wine,Consumption,2013,1000 hl, 18 714
+Asia,People's Republic of China,Wine,Consumption,2014,1000 hl, 17 369
+Asia,People's Republic of China,Wine,Consumption,2015,1000 hl, 18 057
+Asia,People's Republic of China,Wine,Consumption,2016,1000 hl, 19 162
+Asia,People's Republic of China,Wine,Consumption,2017,1000 hl, 19 280
+Asia,People's Republic of China,Wine,Consumption,2018,1000 hl, 17 568
+Asia,People's Republic of China,Wine,Consumption,2019,1000 hl, 14 999
+Asia,People's Republic of China,Wine,Consumption,2020,1000 hl, 12 396
+Asia,People's Republic of China,Wine,Consumption,2021,1000 hl, 10 492
+Asia,People's Republic of China,Wine,Consumption,2022,1000 hl, 9 088
+Asia,People's Republic of China,Wine,Consumption,2023,1000 hl, 6 845
+America,Peru,Wine,Consumption,2009,1000 hl,  586
+America,Peru,Wine,Consumption,2010,1000 hl,  597
+America,Peru,Wine,Consumption,2011,1000 hl,  660
+America,Peru,Wine,Consumption,2012,1000 hl,  729
+America,Peru,Wine,Consumption,2013,1000 hl,  765
+America,Peru,Wine,Consumption,2014,1000 hl,  796
+America,Peru,Wine,Consumption,2015,1000 hl,  824
+America,Peru,Wine,Consumption,2016,1000 hl,  836
+America,Peru,Wine,Consumption,2017,1000 hl,  846
+America,Peru,Wine,Consumption,2018,1000 hl,  891
+America,Peru,Wine,Consumption,2019,1000 hl,  918
+America,Peru,Wine,Consumption,2020,1000 hl,  904
+America,Peru,Wine,Consumption,2021,1000 hl,  915
+America,Peru,Wine,Consumption,2022,1000 hl,  935
+America,Peru,Wine,Consumption,2023,1000 hl,  924
+Asia,Philippines,Wine,Consumption,2009,1000 hl,  97
+Asia,Philippines,Wine,Consumption,2010,1000 hl,  116
+Asia,Philippines,Wine,Consumption,2011,1000 hl,  115
+Asia,Philippines,Wine,Consumption,2012,1000 hl,  108
+Asia,Philippines,Wine,Consumption,2013,1000 hl,  105
+Asia,Philippines,Wine,Consumption,2014,1000 hl,  144
+Asia,Philippines,Wine,Consumption,2015,1000 hl,  171
+Asia,Philippines,Wine,Consumption,2016,1000 hl,  198
+Asia,Philippines,Wine,Consumption,2017,1000 hl,  207
+Asia,Philippines,Wine,Consumption,2018,1000 hl,  207
+Asia,Philippines,Wine,Consumption,2019,1000 hl,  213
+Asia,Philippines,Wine,Consumption,2020,1000 hl,  175
+Asia,Philippines,Wine,Consumption,2021,1000 hl,  135
+Asia,Philippines,Wine,Consumption,2022,1000 hl,  209
+Asia,Philippines,Wine,Consumption,2023,1000 hl,  188
+Europe,Poland,Wine,Consumption,2009,1000 hl,  823
+Europe,Poland,Wine,Consumption,2010,1000 hl,  873
+Europe,Poland,Wine,Consumption,2011,1000 hl,  934
+Europe,Poland,Wine,Consumption,2012,1000 hl,  928
+Europe,Poland,Wine,Consumption,2013,1000 hl,  960
+Europe,Poland,Wine,Consumption,2014,1000 hl, 1 019
+Europe,Poland,Wine,Consumption,2015,1000 hl, 1 060
+Europe,Poland,Wine,Consumption,2016,1000 hl, 1 118
+Europe,Poland,Wine,Consumption,2017,1000 hl, 1 202
+Europe,Poland,Wine,Consumption,2018,1000 hl, 1 249
+Europe,Poland,Wine,Consumption,2019,1000 hl, 1 263
+Europe,Poland,Wine,Consumption,2020,1000 hl, 1 285
+Europe,Poland,Wine,Consumption,2021,1000 hl, 1 338
+Europe,Poland,Wine,Consumption,2022,1000 hl, 1 396
+Europe,Poland,Wine,Consumption,2023,1000 hl, 1 369
+Europe,Portugal,Wine,Consumption,2009,1000 hl, 4 514
+Europe,Portugal,Wine,Consumption,2010,1000 hl, 4 725
+Europe,Portugal,Wine,Consumption,2011,1000 hl, 4 802
+Europe,Portugal,Wine,Consumption,2012,1000 hl, 4 994
+Europe,Portugal,Wine,Consumption,2013,1000 hl, 4 164
+Europe,Portugal,Wine,Consumption,2014,1000 hl, 4 289
+Europe,Portugal,Wine,Consumption,2015,1000 hl, 4 813
+Europe,Portugal,Wine,Consumption,2016,1000 hl, 4 686
+Europe,Portugal,Wine,Consumption,2017,1000 hl, 5 273
+Europe,Portugal,Wine,Consumption,2018,1000 hl, 5 073
+Europe,Portugal,Wine,Consumption,2019,1000 hl, 5 390
+Europe,Portugal,Wine,Consumption,2020,1000 hl, 4 374
+Europe,Portugal,Wine,Consumption,2021,1000 hl, 5 314
+Europe,Portugal,Wine,Consumption,2022,1000 hl, 5 676
+Europe,Portugal,Wine,Consumption,2023,1000 hl, 5 520
+Europe,Republic of North Macedonia,Wine,Consumption,2009,1000 hl,  150
+Europe,Republic of North Macedonia,Wine,Consumption,2010,1000 hl,  150
+Europe,Republic of North Macedonia,Wine,Consumption,2011,1000 hl,  150
+Europe,Republic of North Macedonia,Wine,Consumption,2012,1000 hl,  150
+Europe,Republic of North Macedonia,Wine,Consumption,2013,1000 hl,  150
+Europe,Republic of North Macedonia,Wine,Consumption,2014,1000 hl,  150
+Europe,Republic of North Macedonia,Wine,Consumption,2015,1000 hl,  252
+Europe,Republic of North Macedonia,Wine,Consumption,2016,1000 hl,  400
+Europe,Republic of North Macedonia,Wine,Consumption,2017,1000 hl,  103
+Europe,Republic of North Macedonia,Wine,Consumption,2018,1000 hl,  99
+Europe,Republic of North Macedonia,Wine,Consumption,2019,1000 hl,  266
+Europe,Republic of North Macedonia,Wine,Consumption,2020,1000 hl,  168
+Europe,Republic of North Macedonia,Wine,Consumption,2021,1000 hl,  169
+Europe,Republic of North Macedonia,Wine,Consumption,2022,1000 hl,  224
+Europe,Republic of North Macedonia,Wine,Consumption,2023,1000 hl,  185
+Asia,Republic of Türkiye,Wine,Consumption,2009,1000 hl,  461
+Asia,Republic of Türkiye,Wine,Consumption,2010,1000 hl,  595
+Asia,Republic of Türkiye,Wine,Consumption,2011,1000 hl,  586
+Asia,Republic of Türkiye,Wine,Consumption,2012,1000 hl,  564
+Asia,Republic of Türkiye,Wine,Consumption,2013,1000 hl,  622
+Asia,Republic of Türkiye,Wine,Consumption,2014,1000 hl,  629
+Asia,Republic of Türkiye,Wine,Consumption,2015,1000 hl,  636
+Asia,Republic of Türkiye,Wine,Consumption,2016,1000 hl,  513
+Asia,Republic of Türkiye,Wine,Consumption,2017,1000 hl,  664
+Asia,Republic of Türkiye,Wine,Consumption,2018,1000 hl,  772
+Asia,Republic of Türkiye,Wine,Consumption,2019,1000 hl,  748
+Asia,Republic of Türkiye,Wine,Consumption,2020,1000 hl,  681
+Asia,Republic of Türkiye,Wine,Consumption,2021,1000 hl,  775
+Asia,Republic of Türkiye,Wine,Consumption,2022,1000 hl,  726
+Asia,Republic of Türkiye,Wine,Consumption,2023,1000 hl,  752
+Africa,Reunion island,Wine,Consumption,2009,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2010,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2011,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2012,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2013,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2014,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2015,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2016,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2017,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2018,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2019,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2020,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2021,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2022,1000 hl,0
+Africa,Reunion island,Wine,Consumption,2023,1000 hl,0
+Europe,Romania,Wine,Consumption,2009,1000 hl, 6 066
+Europe,Romania,Wine,Consumption,2010,1000 hl, 5 070
+Europe,Romania,Wine,Consumption,2011,1000 hl, 4 137
+Europe,Romania,Wine,Consumption,2012,1000 hl, 4 302
+Europe,Romania,Wine,Consumption,2013,1000 hl, 4 559
+Europe,Romania,Wine,Consumption,2014,1000 hl, 4 681
+Europe,Romania,Wine,Consumption,2015,1000 hl, 3 991
+Europe,Romania,Wine,Consumption,2016,1000 hl, 3 818
+Europe,Romania,Wine,Consumption,2017,1000 hl, 4 140
+Europe,Romania,Wine,Consumption,2018,1000 hl, 3 899
+Europe,Romania,Wine,Consumption,2019,1000 hl, 2 243
+Europe,Romania,Wine,Consumption,2020,1000 hl, 2 558
+Europe,Romania,Wine,Consumption,2021,1000 hl, 3 709
+Europe,Romania,Wine,Consumption,2022,1000 hl, 2 498
+Europe,Romania,Wine,Consumption,2023,1000 hl, 3 386
+Europe,Russia,Wine,Consumption,2009,1000 hl, 11 895
+Europe,Russia,Wine,Consumption,2010,1000 hl, 10 743
+Europe,Russia,Wine,Consumption,2011,1000 hl, 12 564
+Europe,Russia,Wine,Consumption,2012,1000 hl, 11 598
+Europe,Russia,Wine,Consumption,2013,1000 hl, 10 555
+Europe,Russia,Wine,Consumption,2014,1000 hl, 9 881
+Europe,Russia,Wine,Consumption,2015,1000 hl, 9 658
+Europe,Russia,Wine,Consumption,2016,1000 hl, 9 370
+Europe,Russia,Wine,Consumption,2017,1000 hl, 9 041
+Europe,Russia,Wine,Consumption,2018,1000 hl, 8 615
+Europe,Russia,Wine,Consumption,2019,1000 hl, 8 100
+Europe,Russia,Wine,Consumption,2020,1000 hl, 7 921
+Europe,Russia,Wine,Consumption,2021,1000 hl, 7 976
+Europe,Russia,Wine,Consumption,2022,1000 hl, 8 744
+Europe,Russia,Wine,Consumption,2023,1000 hl, 7 933
+Africa,Rwanda,Wine,Consumption,2009,1000 hl,  3
+Africa,Rwanda,Wine,Consumption,2010,1000 hl,  3
+Africa,Rwanda,Wine,Consumption,2011,1000 hl,  5
+Africa,Rwanda,Wine,Consumption,2012,1000 hl,  5
+Africa,Rwanda,Wine,Consumption,2013,1000 hl,  6
+Africa,Rwanda,Wine,Consumption,2014,1000 hl,  8
+Africa,Rwanda,Wine,Consumption,2015,1000 hl,  9
+Africa,Rwanda,Wine,Consumption,2016,1000 hl,  12
+Africa,Rwanda,Wine,Consumption,2017,1000 hl,  17
+Africa,Rwanda,Wine,Consumption,2018,1000 hl,  17
+Africa,Rwanda,Wine,Consumption,2019,1000 hl,  15
+Africa,Rwanda,Wine,Consumption,2020,1000 hl,  17
+Africa,Rwanda,Wine,Consumption,2021,1000 hl,  17
+Africa,Rwanda,Wine,Consumption,2022,1000 hl,  17
+Africa,Rwanda,Wine,Consumption,2023,1000 hl,  17
+Africa,Saint Helena,Wine,Consumption,2009,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2010,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2011,1000 hl,  1
+Africa,Saint Helena,Wine,Consumption,2012,1000 hl,  1
+Africa,Saint Helena,Wine,Consumption,2013,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2014,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2015,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2016,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2017,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2018,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2019,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2020,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2021,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2022,1000 hl,0
+Africa,Saint Helena,Wine,Consumption,2023,1000 hl,0
+America,Saint Kitts and Nevis,Wine,Consumption,2009,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Consumption,2010,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2011,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2012,1000 hl,  1
+America,Saint Kitts and Nevis,Wine,Consumption,2013,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2014,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2015,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2016,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Consumption,2017,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Consumption,2018,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2019,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2020,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2021,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2022,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Consumption,2023,1000 hl,  2
+America,Saint Lucia,Wine,Consumption,2009,1000 hl,  11
+America,Saint Lucia,Wine,Consumption,2010,1000 hl,  11
+America,Saint Lucia,Wine,Consumption,2011,1000 hl,  10
+America,Saint Lucia,Wine,Consumption,2012,1000 hl,  10
+America,Saint Lucia,Wine,Consumption,2013,1000 hl,  7
+America,Saint Lucia,Wine,Consumption,2014,1000 hl,  9
+America,Saint Lucia,Wine,Consumption,2015,1000 hl,  7
+America,Saint Lucia,Wine,Consumption,2016,1000 hl,  6
+America,Saint Lucia,Wine,Consumption,2017,1000 hl,  8
+America,Saint Lucia,Wine,Consumption,2018,1000 hl,  12
+America,Saint Lucia,Wine,Consumption,2019,1000 hl,  22
+America,Saint Lucia,Wine,Consumption,2020,1000 hl,  22
+America,Saint Lucia,Wine,Consumption,2021,1000 hl,  22
+America,Saint Lucia,Wine,Consumption,2022,1000 hl,  22
+America,Saint Lucia,Wine,Consumption,2023,1000 hl,  20
+America,Saint Pierre And Miquelon,Wine,Consumption,2009,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2010,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2011,1000 hl,  3
+America,Saint Pierre And Miquelon,Wine,Consumption,2012,1000 hl,  3
+America,Saint Pierre And Miquelon,Wine,Consumption,2013,1000 hl,  3
+America,Saint Pierre And Miquelon,Wine,Consumption,2014,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2015,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2016,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2017,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2018,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2019,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2020,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2021,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2022,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Consumption,2023,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2009,1000 hl,  4
+America,Saint Vincent and the Grenadines,Wine,Consumption,2010,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Consumption,2011,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2012,1000 hl,  1
+America,Saint Vincent and the Grenadines,Wine,Consumption,2013,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2014,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2015,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Consumption,2016,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Consumption,2017,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2018,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2019,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Consumption,2020,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Consumption,2021,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Consumption,2022,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Consumption,2023,1000 hl,  3
+Oceania,Samoa,Wine,Consumption,2009,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2010,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2011,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2012,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2013,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2014,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2015,1000 hl,0
+Oceania,Samoa,Wine,Consumption,2016,1000 hl,  1
+Oceania,Samoa,Wine,Consumption,2017,1000 hl,  2
+Oceania,Samoa,Wine,Consumption,2018,1000 hl,  2
+Oceania,Samoa,Wine,Consumption,2019,1000 hl,  1
+Oceania,Samoa,Wine,Consumption,2020,1000 hl,  1
+Oceania,Samoa,Wine,Consumption,2021,1000 hl,  1
+Oceania,Samoa,Wine,Consumption,2022,1000 hl,  1
+Oceania,Samoa,Wine,Consumption,2023,1000 hl,  1
+Africa,Sao Tome and Principe,Wine,Consumption,2009,1000 hl,  25
+Africa,Sao Tome and Principe,Wine,Consumption,2010,1000 hl,  30
+Africa,Sao Tome and Principe,Wine,Consumption,2011,1000 hl,  43
+Africa,Sao Tome and Principe,Wine,Consumption,2012,1000 hl,  43
+Africa,Sao Tome and Principe,Wine,Consumption,2013,1000 hl,  41
+Africa,Sao Tome and Principe,Wine,Consumption,2014,1000 hl,  41
+Africa,Sao Tome and Principe,Wine,Consumption,2015,1000 hl,  36
+Africa,Sao Tome and Principe,Wine,Consumption,2016,1000 hl,  35
+Africa,Sao Tome and Principe,Wine,Consumption,2017,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Consumption,2018,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Consumption,2019,1000 hl,  34
+Africa,Sao Tome and Principe,Wine,Consumption,2020,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Consumption,2021,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Consumption,2022,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Consumption,2023,1000 hl,  32
+Asia,Saudi Arabia,Wine,Consumption,2009,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2010,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2011,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2012,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2013,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2014,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2015,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2016,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2017,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2018,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2019,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2020,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2021,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2022,1000 hl,0
+Asia,Saudi Arabia,Wine,Consumption,2023,1000 hl,0
+Africa,Senegal,Wine,Consumption,2009,1000 hl,  77
+Africa,Senegal,Wine,Consumption,2010,1000 hl,  76
+Africa,Senegal,Wine,Consumption,2011,1000 hl,  75
+Africa,Senegal,Wine,Consumption,2012,1000 hl,  70
+Africa,Senegal,Wine,Consumption,2013,1000 hl,  59
+Africa,Senegal,Wine,Consumption,2014,1000 hl,  66
+Africa,Senegal,Wine,Consumption,2015,1000 hl,  68
+Africa,Senegal,Wine,Consumption,2016,1000 hl,  60
+Africa,Senegal,Wine,Consumption,2017,1000 hl,  66
+Africa,Senegal,Wine,Consumption,2018,1000 hl,  60
+Africa,Senegal,Wine,Consumption,2019,1000 hl,  55
+Africa,Senegal,Wine,Consumption,2020,1000 hl,  55
+Africa,Senegal,Wine,Consumption,2021,1000 hl,  56
+Africa,Senegal,Wine,Consumption,2022,1000 hl,  60
+Africa,Senegal,Wine,Consumption,2023,1000 hl,  57
+Europe,Serbia,Wine,Consumption,2009,1000 hl, 2 495
+Europe,Serbia,Wine,Consumption,2010,1000 hl, 1 894
+Europe,Serbia,Wine,Consumption,2011,1000 hl, 1 694
+Europe,Serbia,Wine,Consumption,2012,1000 hl, 1 877
+Europe,Serbia,Wine,Consumption,2013,1000 hl, 1 487
+Europe,Serbia,Wine,Consumption,2014,1000 hl, 1 089
+Europe,Serbia,Wine,Consumption,2015,1000 hl,  850
+Europe,Serbia,Wine,Consumption,2016,1000 hl,  796
+Europe,Serbia,Wine,Consumption,2017,1000 hl,  810
+Europe,Serbia,Wine,Consumption,2018,1000 hl,  834
+Europe,Serbia,Wine,Consumption,2019,1000 hl,  749
+Europe,Serbia,Wine,Consumption,2020,1000 hl,  684
+Europe,Serbia,Wine,Consumption,2021,1000 hl,  675
+Europe,Serbia,Wine,Consumption,2022,1000 hl,  664
+Europe,Serbia,Wine,Consumption,2023,1000 hl,  653
+Africa,Seychelles,Wine,Consumption,2009,1000 hl,  9
+Africa,Seychelles,Wine,Consumption,2010,1000 hl,  11
+Africa,Seychelles,Wine,Consumption,2011,1000 hl,  15
+Africa,Seychelles,Wine,Consumption,2012,1000 hl,  13
+Africa,Seychelles,Wine,Consumption,2013,1000 hl,  11
+Africa,Seychelles,Wine,Consumption,2014,1000 hl,  19
+Africa,Seychelles,Wine,Consumption,2015,1000 hl,  23
+Africa,Seychelles,Wine,Consumption,2016,1000 hl,  29
+Africa,Seychelles,Wine,Consumption,2017,1000 hl,  29
+Africa,Seychelles,Wine,Consumption,2018,1000 hl,  10
+Africa,Seychelles,Wine,Consumption,2019,1000 hl,  12
+Africa,Seychelles,Wine,Consumption,2020,1000 hl,  17
+Africa,Seychelles,Wine,Consumption,2021,1000 hl,  17
+Africa,Seychelles,Wine,Consumption,2022,1000 hl,  17
+Africa,Seychelles,Wine,Consumption,2023,1000 hl,  15
+Africa,Sierra Leone,Wine,Consumption,2009,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2010,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2011,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2012,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2013,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2014,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2015,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2016,1000 hl,  2
+Africa,Sierra Leone,Wine,Consumption,2017,1000 hl,  3
+Africa,Sierra Leone,Wine,Consumption,2018,1000 hl,  6
+Africa,Sierra Leone,Wine,Consumption,2019,1000 hl,  4
+Africa,Sierra Leone,Wine,Consumption,2020,1000 hl,  3
+Africa,Sierra Leone,Wine,Consumption,2021,1000 hl,  3
+Africa,Sierra Leone,Wine,Consumption,2022,1000 hl,  3
+Africa,Sierra Leone,Wine,Consumption,2023,1000 hl,  4
+Asia,Singapore,Wine,Consumption,2009,1000 hl,  99
+Asia,Singapore,Wine,Consumption,2010,1000 hl,  117
+Asia,Singapore,Wine,Consumption,2011,1000 hl,  130
+Asia,Singapore,Wine,Consumption,2012,1000 hl,  128
+Asia,Singapore,Wine,Consumption,2013,1000 hl,  125
+Asia,Singapore,Wine,Consumption,2014,1000 hl,  136
+Asia,Singapore,Wine,Consumption,2015,1000 hl,  138
+Asia,Singapore,Wine,Consumption,2016,1000 hl,  127
+Asia,Singapore,Wine,Consumption,2017,1000 hl,  136
+Asia,Singapore,Wine,Consumption,2018,1000 hl,  159
+Asia,Singapore,Wine,Consumption,2019,1000 hl,  174
+Asia,Singapore,Wine,Consumption,2020,1000 hl,  157
+Asia,Singapore,Wine,Consumption,2021,1000 hl,  147
+Asia,Singapore,Wine,Consumption,2022,1000 hl,  158
+Asia,Singapore,Wine,Consumption,2023,1000 hl,  159
+Europe,Slovakia,Wine,Consumption,2009,1000 hl,  687
+Europe,Slovakia,Wine,Consumption,2010,1000 hl,  633
+Europe,Slovakia,Wine,Consumption,2011,1000 hl,  732
+Europe,Slovakia,Wine,Consumption,2012,1000 hl,  694
+Europe,Slovakia,Wine,Consumption,2013,1000 hl,  731
+Europe,Slovakia,Wine,Consumption,2014,1000 hl,  979
+Europe,Slovakia,Wine,Consumption,2015,1000 hl,  935
+Europe,Slovakia,Wine,Consumption,2016,1000 hl,  638
+Europe,Slovakia,Wine,Consumption,2017,1000 hl,  666
+Europe,Slovakia,Wine,Consumption,2018,1000 hl,  690
+Europe,Slovakia,Wine,Consumption,2019,1000 hl,  666
+Europe,Slovakia,Wine,Consumption,2020,1000 hl,  645
+Europe,Slovakia,Wine,Consumption,2021,1000 hl,  707
+Europe,Slovakia,Wine,Consumption,2022,1000 hl,  646
+Europe,Slovakia,Wine,Consumption,2023,1000 hl,  671
+Europe,Slovenia,Wine,Consumption,2009,1000 hl,  750
+Europe,Slovenia,Wine,Consumption,2010,1000 hl,  762
+Europe,Slovenia,Wine,Consumption,2011,1000 hl,  760
+Europe,Slovenia,Wine,Consumption,2012,1000 hl,  719
+Europe,Slovenia,Wine,Consumption,2013,1000 hl,  634
+Europe,Slovenia,Wine,Consumption,2014,1000 hl,  651
+Europe,Slovenia,Wine,Consumption,2015,1000 hl,  752
+Europe,Slovenia,Wine,Consumption,2016,1000 hl,  811
+Europe,Slovenia,Wine,Consumption,2017,1000 hl,  748
+Europe,Slovenia,Wine,Consumption,2018,1000 hl,  735
+Europe,Slovenia,Wine,Consumption,2019,1000 hl,  868
+Europe,Slovenia,Wine,Consumption,2020,1000 hl,  772
+Europe,Slovenia,Wine,Consumption,2021,1000 hl,  674
+Europe,Slovenia,Wine,Consumption,2022,1000 hl,  593
+Europe,Slovenia,Wine,Consumption,2023,1000 hl,  728
+Oceania,Solomon Islands,Wine,Consumption,2009,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2010,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2011,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2012,1000 hl,0
+Oceania,Solomon Islands,Wine,Consumption,2013,1000 hl,0
+Oceania,Solomon Islands,Wine,Consumption,2014,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2015,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2016,1000 hl,  2
+Oceania,Solomon Islands,Wine,Consumption,2017,1000 hl,  2
+Oceania,Solomon Islands,Wine,Consumption,2018,1000 hl,  2
+Oceania,Solomon Islands,Wine,Consumption,2019,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2020,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2021,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2022,1000 hl,  1
+Oceania,Solomon Islands,Wine,Consumption,2023,1000 hl,  1
+Africa,Somalia,Wine,Consumption,2009,1000 hl,0
+Africa,Somalia,Wine,Consumption,2010,1000 hl,0
+Africa,Somalia,Wine,Consumption,2011,1000 hl,0
+Africa,Somalia,Wine,Consumption,2012,1000 hl,0
+Africa,Somalia,Wine,Consumption,2013,1000 hl,0
+Africa,Somalia,Wine,Consumption,2014,1000 hl,0
+Africa,Somalia,Wine,Consumption,2015,1000 hl,0
+Africa,Somalia,Wine,Consumption,2016,1000 hl,0
+Africa,Somalia,Wine,Consumption,2017,1000 hl,0
+Africa,Somalia,Wine,Consumption,2018,1000 hl,0
+Africa,Somalia,Wine,Consumption,2019,1000 hl,0
+Africa,Somalia,Wine,Consumption,2020,1000 hl,0
+Africa,Somalia,Wine,Consumption,2021,1000 hl,0
+Africa,Somalia,Wine,Consumption,2022,1000 hl,0
+Africa,Somalia,Wine,Consumption,2023,1000 hl,0
+Africa,South Africa,Wine,Consumption,2009,1000 hl, 3 050
+Africa,South Africa,Wine,Consumption,2010,1000 hl, 3 133
+Africa,South Africa,Wine,Consumption,2011,1000 hl, 3 201
+Africa,South Africa,Wine,Consumption,2012,1000 hl, 3 287
+Africa,South Africa,Wine,Consumption,2013,1000 hl, 3 358
+Africa,South Africa,Wine,Consumption,2014,1000 hl, 3 622
+Africa,South Africa,Wine,Consumption,2015,1000 hl, 3 916
+Africa,South Africa,Wine,Consumption,2016,1000 hl, 4 047
+Africa,South Africa,Wine,Consumption,2017,1000 hl, 4 161
+Africa,South Africa,Wine,Consumption,2018,1000 hl, 3 965
+Africa,South Africa,Wine,Consumption,2019,1000 hl, 3 733
+Africa,South Africa,Wine,Consumption,2020,1000 hl, 2 983
+Africa,South Africa,Wine,Consumption,2021,1000 hl, 3 870
+Africa,South Africa,Wine,Consumption,2022,1000 hl, 4 463
+Africa,South Africa,Wine,Consumption,2023,1000 hl, 4 410
+Europe,Spain,Wine,Consumption,2009,1000 hl, 10 415
+Europe,Spain,Wine,Consumption,2010,1000 hl, 10 359
+Europe,Spain,Wine,Consumption,2011,1000 hl, 9 950
+Europe,Spain,Wine,Consumption,2012,1000 hl, 9 850
+Europe,Spain,Wine,Consumption,2013,1000 hl, 9 820
+Europe,Spain,Wine,Consumption,2014,1000 hl, 9 810
+Europe,Spain,Wine,Consumption,2015,1000 hl, 9 810
+Europe,Spain,Wine,Consumption,2016,1000 hl, 10 578
+Europe,Spain,Wine,Consumption,2017,1000 hl, 10 373
+Europe,Spain,Wine,Consumption,2018,1000 hl, 10 741
+Europe,Spain,Wine,Consumption,2019,1000 hl, 10 222
+Europe,Spain,Wine,Consumption,2020,1000 hl, 9 218
+Europe,Spain,Wine,Consumption,2021,1000 hl, 10 311
+Europe,Spain,Wine,Consumption,2022,1000 hl, 9 636
+Europe,Spain,Wine,Consumption,2023,1000 hl, 9 756
+Asia,Sri Lanka,Wine,Consumption,2009,1000 hl,  2
+Asia,Sri Lanka,Wine,Consumption,2010,1000 hl,  2
+Asia,Sri Lanka,Wine,Consumption,2011,1000 hl,  5
+Asia,Sri Lanka,Wine,Consumption,2012,1000 hl,  8
+Asia,Sri Lanka,Wine,Consumption,2013,1000 hl,  10
+Asia,Sri Lanka,Wine,Consumption,2014,1000 hl,  12
+Asia,Sri Lanka,Wine,Consumption,2015,1000 hl,  11
+Asia,Sri Lanka,Wine,Consumption,2016,1000 hl,  12
+Asia,Sri Lanka,Wine,Consumption,2017,1000 hl,  12
+Asia,Sri Lanka,Wine,Consumption,2018,1000 hl,  14
+Asia,Sri Lanka,Wine,Consumption,2019,1000 hl,  15
+Asia,Sri Lanka,Wine,Consumption,2020,1000 hl,  11
+Asia,Sri Lanka,Wine,Consumption,2021,1000 hl,  11
+Asia,Sri Lanka,Wine,Consumption,2022,1000 hl,  11
+Asia,Sri Lanka,Wine,Consumption,2023,1000 hl,  13
+Asia,State of Palestine,Wine,Consumption,2009,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2010,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2011,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2012,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2013,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2014,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2015,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2016,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2017,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2018,1000 hl,  1
+Asia,State of Palestine,Wine,Consumption,2019,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2020,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2021,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2022,1000 hl,0
+Asia,State of Palestine,Wine,Consumption,2023,1000 hl,0
+Africa,Sudan,Wine,Consumption,2009,1000 hl,  1
+Africa,Sudan,Wine,Consumption,2010,1000 hl,  1
+Africa,Sudan,Wine,Consumption,2011,1000 hl,  2
+Africa,Sudan,Wine,Consumption,2012,1000 hl,  1
+Africa,Sudan,Wine,Consumption,2013,1000 hl,0
+Africa,Sudan,Wine,Consumption,2014,1000 hl,  2
+Africa,Sudan,Wine,Consumption,2015,1000 hl,  2
+Africa,Sudan,Wine,Consumption,2016,1000 hl,  1
+Africa,Sudan,Wine,Consumption,2017,1000 hl,  1
+Africa,Sudan,Wine,Consumption,2018,1000 hl,  2
+Africa,Sudan,Wine,Consumption,2019,1000 hl,  3
+Africa,Sudan,Wine,Consumption,2020,1000 hl,  3
+Africa,Sudan,Wine,Consumption,2021,1000 hl,  3
+Africa,Sudan,Wine,Consumption,2022,1000 hl,  3
+Africa,Sudan,Wine,Consumption,2023,1000 hl,  3
+America,Suriname,Wine,Consumption,2009,1000 hl,  4
+America,Suriname,Wine,Consumption,2010,1000 hl,  4
+America,Suriname,Wine,Consumption,2011,1000 hl,  7
+America,Suriname,Wine,Consumption,2012,1000 hl,  7
+America,Suriname,Wine,Consumption,2013,1000 hl,  4
+America,Suriname,Wine,Consumption,2014,1000 hl,  5
+America,Suriname,Wine,Consumption,2015,1000 hl,  4
+America,Suriname,Wine,Consumption,2016,1000 hl,  4
+America,Suriname,Wine,Consumption,2017,1000 hl,  4
+America,Suriname,Wine,Consumption,2018,1000 hl,  6
+America,Suriname,Wine,Consumption,2019,1000 hl,  8
+America,Suriname,Wine,Consumption,2020,1000 hl,  9
+America,Suriname,Wine,Consumption,2021,1000 hl,  9
+America,Suriname,Wine,Consumption,2022,1000 hl,  9
+America,Suriname,Wine,Consumption,2023,1000 hl,  8
+Europe,Sweden,Wine,Consumption,2009,1000 hl, 2 154
+Europe,Sweden,Wine,Consumption,2010,1000 hl, 2 224
+Europe,Sweden,Wine,Consumption,2011,1000 hl, 2 295
+Europe,Sweden,Wine,Consumption,2012,1000 hl, 2 312
+Europe,Sweden,Wine,Consumption,2013,1000 hl, 2 375
+Europe,Sweden,Wine,Consumption,2014,1000 hl, 2 344
+Europe,Sweden,Wine,Consumption,2015,1000 hl, 2 330
+Europe,Sweden,Wine,Consumption,2016,1000 hl, 2 370
+Europe,Sweden,Wine,Consumption,2017,1000 hl, 2 348
+Europe,Sweden,Wine,Consumption,2018,1000 hl, 2 063
+Europe,Sweden,Wine,Consumption,2019,1000 hl, 2 025
+Europe,Sweden,Wine,Consumption,2020,1000 hl, 2 130
+Europe,Sweden,Wine,Consumption,2021,1000 hl, 2 119
+Europe,Sweden,Wine,Consumption,2022,1000 hl, 2 022
+Europe,Sweden,Wine,Consumption,2023,1000 hl, 1 978
+Europe,Switzerland,Wine,Consumption,2009,1000 hl, 2 885
+Europe,Switzerland,Wine,Consumption,2010,1000 hl, 2 935
+Europe,Switzerland,Wine,Consumption,2011,1000 hl, 2 872
+Europe,Switzerland,Wine,Consumption,2012,1000 hl, 2 824
+Europe,Switzerland,Wine,Consumption,2013,1000 hl, 2 877
+Europe,Switzerland,Wine,Consumption,2014,1000 hl, 2 827
+Europe,Switzerland,Wine,Consumption,2015,1000 hl, 2 805
+Europe,Switzerland,Wine,Consumption,2016,1000 hl, 2 699
+Europe,Switzerland,Wine,Consumption,2017,1000 hl, 2 481
+Europe,Switzerland,Wine,Consumption,2018,1000 hl, 2 439
+Europe,Switzerland,Wine,Consumption,2019,1000 hl, 2 553
+Europe,Switzerland,Wine,Consumption,2020,1000 hl, 2 503
+Europe,Switzerland,Wine,Consumption,2021,1000 hl, 2 551
+Europe,Switzerland,Wine,Consumption,2022,1000 hl, 2 372
+Europe,Switzerland,Wine,Consumption,2023,1000 hl, 2 360
+Asia,Syrian Arab Republic,Wine,Consumption,2009,1000 hl,  4
+Asia,Syrian Arab Republic,Wine,Consumption,2010,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Consumption,2011,1000 hl,  4
+Asia,Syrian Arab Republic,Wine,Consumption,2012,1000 hl,  3
+Asia,Syrian Arab Republic,Wine,Consumption,2013,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Consumption,2014,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Consumption,2015,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Consumption,2016,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Consumption,2017,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Consumption,2018,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Consumption,2019,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Consumption,2020,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Consumption,2021,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Consumption,2022,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Consumption,2023,1000 hl,  1
+Asia,Tajikistan,Wine,Consumption,2009,1000 hl,  11
+Asia,Tajikistan,Wine,Consumption,2010,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2011,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2012,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2013,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2014,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2015,1000 hl,  5
+Asia,Tajikistan,Wine,Consumption,2016,1000 hl,  5
+Asia,Tajikistan,Wine,Consumption,2017,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2018,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2019,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2020,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2021,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2022,1000 hl,  4
+Asia,Tajikistan,Wine,Consumption,2023,1000 hl,  4
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2009,1000 hl,  36
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2010,1000 hl,  39
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2011,1000 hl,  43
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2012,1000 hl,  50
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2013,1000 hl,  57
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2014,1000 hl,  54
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2015,1000 hl,  46
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2016,1000 hl,  45
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2017,1000 hl,  43
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2018,1000 hl,  34
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2019,1000 hl,  29
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2020,1000 hl,  29
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2021,1000 hl,  29
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2022,1000 hl,  29
+Africa,"Tanzania, the United Republic of",Wine,Consumption,2023,1000 hl,  30
+Asia,Thailand,Wine,Consumption,2009,1000 hl,  42
+Asia,Thailand,Wine,Consumption,2010,1000 hl,  58
+Asia,Thailand,Wine,Consumption,2011,1000 hl,  65
+Asia,Thailand,Wine,Consumption,2012,1000 hl,  80
+Asia,Thailand,Wine,Consumption,2013,1000 hl,  72
+Asia,Thailand,Wine,Consumption,2014,1000 hl,  66
+Asia,Thailand,Wine,Consumption,2015,1000 hl,  50
+Asia,Thailand,Wine,Consumption,2016,1000 hl,  24
+Asia,Thailand,Wine,Consumption,2017,1000 hl,  22
+Asia,Thailand,Wine,Consumption,2018,1000 hl,  35
+Asia,Thailand,Wine,Consumption,2019,1000 hl,  22
+Asia,Thailand,Wine,Consumption,2020,1000 hl,  10
+Asia,Thailand,Wine,Consumption,2021,1000 hl,  10
+Asia,Thailand,Wine,Consumption,2022,1000 hl,  10
+Asia,Thailand,Wine,Consumption,2023,1000 hl,  17
+Asia,Timor-Leste,Wine,Consumption,2009,1000 hl,  3
+Asia,Timor-Leste,Wine,Consumption,2010,1000 hl,  3
+Asia,Timor-Leste,Wine,Consumption,2011,1000 hl,  4
+Asia,Timor-Leste,Wine,Consumption,2012,1000 hl,  6
+Asia,Timor-Leste,Wine,Consumption,2013,1000 hl,  6
+Asia,Timor-Leste,Wine,Consumption,2014,1000 hl,  3
+Asia,Timor-Leste,Wine,Consumption,2015,1000 hl,  1
+Asia,Timor-Leste,Wine,Consumption,2016,1000 hl,  1
+Asia,Timor-Leste,Wine,Consumption,2017,1000 hl,  3
+Asia,Timor-Leste,Wine,Consumption,2018,1000 hl,  4
+Asia,Timor-Leste,Wine,Consumption,2019,1000 hl,0
+Asia,Timor-Leste,Wine,Consumption,2020,1000 hl,0
+Asia,Timor-Leste,Wine,Consumption,2021,1000 hl,0
+Asia,Timor-Leste,Wine,Consumption,2022,1000 hl,0
+Asia,Timor-Leste,Wine,Consumption,2023,1000 hl,  1
+Africa,Togo,Wine,Consumption,2009,1000 hl,  69
+Africa,Togo,Wine,Consumption,2010,1000 hl,  51
+Africa,Togo,Wine,Consumption,2011,1000 hl,  62
+Africa,Togo,Wine,Consumption,2012,1000 hl,  75
+Africa,Togo,Wine,Consumption,2013,1000 hl,  68
+Africa,Togo,Wine,Consumption,2014,1000 hl,  57
+Africa,Togo,Wine,Consumption,2015,1000 hl,  57
+Africa,Togo,Wine,Consumption,2016,1000 hl,  48
+Africa,Togo,Wine,Consumption,2017,1000 hl,  9
+Africa,Togo,Wine,Consumption,2018,1000 hl,  3
+Africa,Togo,Wine,Consumption,2019,1000 hl,  1
+Africa,Togo,Wine,Consumption,2020,1000 hl,0
+Africa,Togo,Wine,Consumption,2021,1000 hl,0
+Africa,Togo,Wine,Consumption,2022,1000 hl,0
+Africa,Togo,Wine,Consumption,2023,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2009,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2010,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2011,1000 hl,0
+Oceania,Tonga,Wine,Consumption,2012,1000 hl,0
+Oceania,Tonga,Wine,Consumption,2013,1000 hl,0
+Oceania,Tonga,Wine,Consumption,2014,1000 hl,0
+Oceania,Tonga,Wine,Consumption,2015,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2016,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2017,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2018,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2019,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2020,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2021,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2022,1000 hl,  1
+Oceania,Tonga,Wine,Consumption,2023,1000 hl,  1
+America,Trinidad and Tobago,Wine,Consumption,2009,1000 hl,  10
+America,Trinidad and Tobago,Wine,Consumption,2010,1000 hl,  9
+America,Trinidad and Tobago,Wine,Consumption,2011,1000 hl,  9
+America,Trinidad and Tobago,Wine,Consumption,2012,1000 hl,  11
+America,Trinidad and Tobago,Wine,Consumption,2013,1000 hl,  15
+America,Trinidad and Tobago,Wine,Consumption,2014,1000 hl,  21
+America,Trinidad and Tobago,Wine,Consumption,2015,1000 hl,  28
+America,Trinidad and Tobago,Wine,Consumption,2016,1000 hl,  22
+America,Trinidad and Tobago,Wine,Consumption,2017,1000 hl,  12
+America,Trinidad and Tobago,Wine,Consumption,2018,1000 hl,  10
+America,Trinidad and Tobago,Wine,Consumption,2019,1000 hl,  10
+America,Trinidad and Tobago,Wine,Consumption,2020,1000 hl,  11
+America,Trinidad and Tobago,Wine,Consumption,2021,1000 hl,  11
+America,Trinidad and Tobago,Wine,Consumption,2022,1000 hl,  11
+America,Trinidad and Tobago,Wine,Consumption,2023,1000 hl,  11
+Africa,Tunisia,Wine,Consumption,2009,1000 hl,  191
+Africa,Tunisia,Wine,Consumption,2010,1000 hl,  184
+Africa,Tunisia,Wine,Consumption,2011,1000 hl,  186
+Africa,Tunisia,Wine,Consumption,2012,1000 hl,  226
+Africa,Tunisia,Wine,Consumption,2013,1000 hl,  287
+Africa,Tunisia,Wine,Consumption,2014,1000 hl,  309
+Africa,Tunisia,Wine,Consumption,2015,1000 hl,  308
+Africa,Tunisia,Wine,Consumption,2016,1000 hl,  307
+Africa,Tunisia,Wine,Consumption,2017,1000 hl,  302
+Africa,Tunisia,Wine,Consumption,2018,1000 hl,  308
+Africa,Tunisia,Wine,Consumption,2019,1000 hl,  340
+Africa,Tunisia,Wine,Consumption,2020,1000 hl,  339
+Africa,Tunisia,Wine,Consumption,2021,1000 hl,  295
+Africa,Tunisia,Wine,Consumption,2022,1000 hl,  298
+Africa,Tunisia,Wine,Consumption,2023,1000 hl,  316
+Asia,Turkmenistan,Wine,Consumption,2009,1000 hl,  170
+Asia,Turkmenistan,Wine,Consumption,2010,1000 hl,  397
+Asia,Turkmenistan,Wine,Consumption,2011,1000 hl,  391
+Asia,Turkmenistan,Wine,Consumption,2012,1000 hl,  391
+Asia,Turkmenistan,Wine,Consumption,2013,1000 hl,  391
+Asia,Turkmenistan,Wine,Consumption,2014,1000 hl,  387
+Asia,Turkmenistan,Wine,Consumption,2015,1000 hl,  383
+Asia,Turkmenistan,Wine,Consumption,2016,1000 hl,  385
+Asia,Turkmenistan,Wine,Consumption,2017,1000 hl,  385
+Asia,Turkmenistan,Wine,Consumption,2018,1000 hl,  389
+Asia,Turkmenistan,Wine,Consumption,2019,1000 hl,  444
+Asia,Turkmenistan,Wine,Consumption,2020,1000 hl,  499
+Asia,Turkmenistan,Wine,Consumption,2021,1000 hl,  524
+Asia,Turkmenistan,Wine,Consumption,2022,1000 hl,  521
+Asia,Turkmenistan,Wine,Consumption,2023,1000 hl,  475
+Oceania,Tuvalu,Wine,Consumption,2009,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2010,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2011,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2012,1000 hl,  1
+Oceania,Tuvalu,Wine,Consumption,2013,1000 hl,  1
+Oceania,Tuvalu,Wine,Consumption,2014,1000 hl,  1
+Oceania,Tuvalu,Wine,Consumption,2015,1000 hl,  1
+Oceania,Tuvalu,Wine,Consumption,2016,1000 hl,  1
+Oceania,Tuvalu,Wine,Consumption,2017,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2018,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2019,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2020,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2021,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2022,1000 hl,0
+Oceania,Tuvalu,Wine,Consumption,2023,1000 hl,0
+Africa,Uganda,Wine,Consumption,2009,1000 hl,  6
+Africa,Uganda,Wine,Consumption,2010,1000 hl,  11
+Africa,Uganda,Wine,Consumption,2011,1000 hl,  15
+Africa,Uganda,Wine,Consumption,2012,1000 hl,  14
+Africa,Uganda,Wine,Consumption,2013,1000 hl,  21
+Africa,Uganda,Wine,Consumption,2014,1000 hl,  21
+Africa,Uganda,Wine,Consumption,2015,1000 hl,  22
+Africa,Uganda,Wine,Consumption,2016,1000 hl,  23
+Africa,Uganda,Wine,Consumption,2017,1000 hl,  23
+Africa,Uganda,Wine,Consumption,2018,1000 hl,  28
+Africa,Uganda,Wine,Consumption,2019,1000 hl,  22
+Africa,Uganda,Wine,Consumption,2020,1000 hl,  12
+Africa,Uganda,Wine,Consumption,2021,1000 hl,  12
+Africa,Uganda,Wine,Consumption,2022,1000 hl,  12
+Africa,Uganda,Wine,Consumption,2023,1000 hl,  17
+Europe,Ukraine,Wine,Consumption,2009,1000 hl, 2 481
+Europe,Ukraine,Wine,Consumption,2010,1000 hl, 2 487
+Europe,Ukraine,Wine,Consumption,2011,1000 hl, 2 792
+Europe,Ukraine,Wine,Consumption,2012,1000 hl, 2 771
+Europe,Ukraine,Wine,Consumption,2013,1000 hl, 2 392
+Europe,Ukraine,Wine,Consumption,2014,1000 hl, 1 809
+Europe,Ukraine,Wine,Consumption,2015,1000 hl,  813
+Europe,Ukraine,Wine,Consumption,2016,1000 hl, 1 242
+Europe,Ukraine,Wine,Consumption,2017,1000 hl,  987
+Europe,Ukraine,Wine,Consumption,2018,1000 hl,  912
+Europe,Ukraine,Wine,Consumption,2019,1000 hl, 1 400
+Europe,Ukraine,Wine,Consumption,2020,1000 hl, 1 050
+Europe,Ukraine,Wine,Consumption,2021,1000 hl, 1 122
+Europe,Ukraine,Wine,Consumption,2022,1000 hl, 1 097
+Europe,Ukraine,Wine,Consumption,2023,1000 hl,  960
+Europe,United Kingdom,Wine,Consumption,2009,1000 hl, 12 680
+Europe,United Kingdom,Wine,Consumption,2010,1000 hl, 12 900
+Europe,United Kingdom,Wine,Consumption,2011,1000 hl, 12 860
+Europe,United Kingdom,Wine,Consumption,2012,1000 hl, 12 801
+Europe,United Kingdom,Wine,Consumption,2013,1000 hl, 12 738
+Europe,United Kingdom,Wine,Consumption,2014,1000 hl, 12 562
+Europe,United Kingdom,Wine,Consumption,2015,1000 hl, 12 781
+Europe,United Kingdom,Wine,Consumption,2016,1000 hl, 12 935
+Europe,United Kingdom,Wine,Consumption,2017,1000 hl, 13 148
+Europe,United Kingdom,Wine,Consumption,2018,1000 hl, 12 904
+Europe,United Kingdom,Wine,Consumption,2019,1000 hl, 12 586
+Europe,United Kingdom,Wine,Consumption,2020,1000 hl, 13 735
+Europe,United Kingdom,Wine,Consumption,2021,1000 hl, 13 895
+Europe,United Kingdom,Wine,Consumption,2022,1000 hl, 13 132
+Europe,United Kingdom,Wine,Consumption,2023,1000 hl, 12 750
+America,United States of America,Wine,Consumption,2009,1000 hl, 27 250
+America,United States of America,Wine,Consumption,2010,1000 hl, 27 350
+America,United States of America,Wine,Consumption,2011,1000 hl, 29 064
+America,United States of America,Wine,Consumption,2012,1000 hl, 29 316
+America,United States of America,Wine,Consumption,2013,1000 hl, 32 611
+America,United States of America,Wine,Consumption,2014,1000 hl, 32 933
+America,United States of America,Wine,Consumption,2015,1000 hl, 31 495
+America,United States of America,Wine,Consumption,2016,1000 hl, 32 152
+America,United States of America,Wine,Consumption,2017,1000 hl, 33 931
+America,United States of America,Wine,Consumption,2018,1000 hl, 34 982
+America,United States of America,Wine,Consumption,2019,1000 hl, 35 573
+America,United States of America,Wine,Consumption,2020,1000 hl, 34 062
+America,United States of America,Wine,Consumption,2021,1000 hl, 34 250
+America,United States of America,Wine,Consumption,2022,1000 hl, 35 496
+America,United States of America,Wine,Consumption,2023,1000 hl, 35 380
+America,Uruguay,Wine,Consumption,2009,1000 hl,  747
+America,Uruguay,Wine,Consumption,2010,1000 hl,  712
+America,Uruguay,Wine,Consumption,2011,1000 hl,  690
+America,Uruguay,Wine,Consumption,2012,1000 hl,  641
+America,Uruguay,Wine,Consumption,2013,1000 hl,  683
+America,Uruguay,Wine,Consumption,2014,1000 hl,  647
+America,Uruguay,Wine,Consumption,2015,1000 hl,  640
+America,Uruguay,Wine,Consumption,2016,1000 hl,  609
+America,Uruguay,Wine,Consumption,2017,1000 hl,  647
+America,Uruguay,Wine,Consumption,2018,1000 hl,  645
+America,Uruguay,Wine,Consumption,2019,1000 hl,  594
+America,Uruguay,Wine,Consumption,2020,1000 hl,  684
+America,Uruguay,Wine,Consumption,2021,1000 hl,  641
+America,Uruguay,Wine,Consumption,2022,1000 hl,  591
+America,Uruguay,Wine,Consumption,2023,1000 hl,  394
+Asia,Uzbekistan,Wine,Consumption,2009,1000 hl,  121
+Asia,Uzbekistan,Wine,Consumption,2010,1000 hl,  130
+Asia,Uzbekistan,Wine,Consumption,2011,1000 hl,  154
+Asia,Uzbekistan,Wine,Consumption,2012,1000 hl,  159
+Asia,Uzbekistan,Wine,Consumption,2013,1000 hl,  284
+Asia,Uzbekistan,Wine,Consumption,2014,1000 hl,  238
+Asia,Uzbekistan,Wine,Consumption,2015,1000 hl,  244
+Asia,Uzbekistan,Wine,Consumption,2016,1000 hl,  230
+Asia,Uzbekistan,Wine,Consumption,2017,1000 hl,  130
+Asia,Uzbekistan,Wine,Consumption,2018,1000 hl,  108
+Asia,Uzbekistan,Wine,Consumption,2019,1000 hl,  119
+Asia,Uzbekistan,Wine,Consumption,2020,1000 hl,  138
+Asia,Uzbekistan,Wine,Consumption,2021,1000 hl,  138
+Asia,Uzbekistan,Wine,Consumption,2022,1000 hl,  114
+Asia,Uzbekistan,Wine,Consumption,2023,1000 hl,  123
+Oceania,Vanuatu,Wine,Consumption,2009,1000 hl,  5
+Oceania,Vanuatu,Wine,Consumption,2010,1000 hl,  5
+Oceania,Vanuatu,Wine,Consumption,2011,1000 hl,  4
+Oceania,Vanuatu,Wine,Consumption,2012,1000 hl,  4
+Oceania,Vanuatu,Wine,Consumption,2013,1000 hl,  3
+Oceania,Vanuatu,Wine,Consumption,2014,1000 hl,  4
+Oceania,Vanuatu,Wine,Consumption,2015,1000 hl,  4
+Oceania,Vanuatu,Wine,Consumption,2016,1000 hl,  5
+Oceania,Vanuatu,Wine,Consumption,2017,1000 hl,  6
+Oceania,Vanuatu,Wine,Consumption,2018,1000 hl,  6
+Oceania,Vanuatu,Wine,Consumption,2019,1000 hl,  6
+Oceania,Vanuatu,Wine,Consumption,2020,1000 hl,  6
+Oceania,Vanuatu,Wine,Consumption,2021,1000 hl,  6
+Oceania,Vanuatu,Wine,Consumption,2022,1000 hl,  6
+Oceania,Vanuatu,Wine,Consumption,2023,1000 hl,  6
+America,Venezuela,Wine,Consumption,2009,1000 hl,  197
+America,Venezuela,Wine,Consumption,2010,1000 hl,  178
+America,Venezuela,Wine,Consumption,2011,1000 hl,  173
+America,Venezuela,Wine,Consumption,2012,1000 hl,  205
+America,Venezuela,Wine,Consumption,2013,1000 hl,  163
+America,Venezuela,Wine,Consumption,2014,1000 hl,  100
+America,Venezuela,Wine,Consumption,2015,1000 hl,  59
+America,Venezuela,Wine,Consumption,2016,1000 hl,  23
+America,Venezuela,Wine,Consumption,2017,1000 hl,  24
+America,Venezuela,Wine,Consumption,2018,1000 hl,  24
+America,Venezuela,Wine,Consumption,2019,1000 hl,  24
+America,Venezuela,Wine,Consumption,2020,1000 hl,  24
+America,Venezuela,Wine,Consumption,2021,1000 hl,  24
+America,Venezuela,Wine,Consumption,2022,1000 hl,  24
+America,Venezuela,Wine,Consumption,2023,1000 hl,  24
+Asia,Vietnam,Wine,Consumption,2009,1000 hl,  81
+Asia,Vietnam,Wine,Consumption,2010,1000 hl,  95
+Asia,Vietnam,Wine,Consumption,2011,1000 hl,  113
+Asia,Vietnam,Wine,Consumption,2012,1000 hl,  119
+Asia,Vietnam,Wine,Consumption,2013,1000 hl,  84
+Asia,Vietnam,Wine,Consumption,2014,1000 hl,  58
+Asia,Vietnam,Wine,Consumption,2015,1000 hl,  69
+Asia,Vietnam,Wine,Consumption,2016,1000 hl,  77
+Asia,Vietnam,Wine,Consumption,2017,1000 hl,  82
+Asia,Vietnam,Wine,Consumption,2018,1000 hl,  89
+Asia,Vietnam,Wine,Consumption,2019,1000 hl,  94
+Asia,Vietnam,Wine,Consumption,2020,1000 hl,  77
+Asia,Vietnam,Wine,Consumption,2021,1000 hl,  66
+Asia,Vietnam,Wine,Consumption,2022,1000 hl,  75
+Asia,Vietnam,Wine,Consumption,2023,1000 hl,  80
+Asia,Yemen,Wine,Consumption,2009,1000 hl,0
+Asia,Yemen,Wine,Consumption,2010,1000 hl,0
+Asia,Yemen,Wine,Consumption,2011,1000 hl,0
+Asia,Yemen,Wine,Consumption,2012,1000 hl,0
+Asia,Yemen,Wine,Consumption,2013,1000 hl,0
+Asia,Yemen,Wine,Consumption,2014,1000 hl,0
+Asia,Yemen,Wine,Consumption,2015,1000 hl,0
+Asia,Yemen,Wine,Consumption,2016,1000 hl,0
+Asia,Yemen,Wine,Consumption,2017,1000 hl,0
+Asia,Yemen,Wine,Consumption,2018,1000 hl,0
+Asia,Yemen,Wine,Consumption,2019,1000 hl,0
+Asia,Yemen,Wine,Consumption,2020,1000 hl,0
+Asia,Yemen,Wine,Consumption,2021,1000 hl,0
+Asia,Yemen,Wine,Consumption,2022,1000 hl,0
+Asia,Yemen,Wine,Consumption,2023,1000 hl,0
+Africa,Zambia,Wine,Consumption,2009,1000 hl,  7
+Africa,Zambia,Wine,Consumption,2010,1000 hl,  5
+Africa,Zambia,Wine,Consumption,2011,1000 hl,  6
+Africa,Zambia,Wine,Consumption,2012,1000 hl,  9
+Africa,Zambia,Wine,Consumption,2013,1000 hl,  14
+Africa,Zambia,Wine,Consumption,2014,1000 hl,  30
+Africa,Zambia,Wine,Consumption,2015,1000 hl,  36
+Africa,Zambia,Wine,Consumption,2016,1000 hl,  36
+Africa,Zambia,Wine,Consumption,2017,1000 hl,  42
+Africa,Zambia,Wine,Consumption,2018,1000 hl,  34
+Africa,Zambia,Wine,Consumption,2019,1000 hl,  29
+Africa,Zambia,Wine,Consumption,2020,1000 hl,  27
+Africa,Zambia,Wine,Consumption,2021,1000 hl,  27
+Africa,Zambia,Wine,Consumption,2022,1000 hl,  27
+Africa,Zambia,Wine,Consumption,2023,1000 hl,  29
+Africa,Zimbabwe,Wine,Consumption,2009,1000 hl,  41
+Africa,Zimbabwe,Wine,Consumption,2010,1000 hl,  38
+Africa,Zimbabwe,Wine,Consumption,2011,1000 hl,  35
+Africa,Zimbabwe,Wine,Consumption,2012,1000 hl,  36
+Africa,Zimbabwe,Wine,Consumption,2013,1000 hl,  38
+Africa,Zimbabwe,Wine,Consumption,2014,1000 hl,  42
+Africa,Zimbabwe,Wine,Consumption,2015,1000 hl,  48
+Africa,Zimbabwe,Wine,Consumption,2016,1000 hl,  41
+Africa,Zimbabwe,Wine,Consumption,2017,1000 hl,  35
+Africa,Zimbabwe,Wine,Consumption,2018,1000 hl,  38
+Africa,Zimbabwe,Wine,Consumption,2019,1000 hl,  31
+Africa,Zimbabwe,Wine,Consumption,2020,1000 hl,  17
+Africa,Zimbabwe,Wine,Consumption,2021,1000 hl,  22
+Africa,Zimbabwe,Wine,Consumption,2022,1000 hl,  22
+Africa,Zimbabwe,Wine,Consumption,2023,1000 hl,  26

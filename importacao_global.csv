@@ -1,0 +1,3056 @@
+﻿Continent,Region/Country,Product,Variable,Year,Unit,Quantity
+Asia,Afghanistan,Wine,Imports,2009,1000 hl,  3
+Asia,Afghanistan,Wine,Imports,2010,1000 hl,  2
+Asia,Afghanistan,Wine,Imports,2011,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2012,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2013,1000 hl,0
+Asia,Afghanistan,Wine,Imports,2014,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2015,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2016,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2017,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2018,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2019,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2020,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2021,1000 hl,  1
+Asia,Afghanistan,Wine,Imports,2022,1000 hl,0
+Europe,Albania,Wine,Imports,2009,1000 hl,  25
+Europe,Albania,Wine,Imports,2010,1000 hl,  25
+Europe,Albania,Wine,Imports,2011,1000 hl,  27
+Europe,Albania,Wine,Imports,2012,1000 hl,  26
+Europe,Albania,Wine,Imports,2013,1000 hl,  22
+Europe,Albania,Wine,Imports,2014,1000 hl,  16
+Europe,Albania,Wine,Imports,2015,1000 hl,  84
+Europe,Albania,Wine,Imports,2016,1000 hl,  41
+Europe,Albania,Wine,Imports,2017,1000 hl,  47
+Europe,Albania,Wine,Imports,2018,1000 hl,  46
+Europe,Albania,Wine,Imports,2019,1000 hl,  49
+Europe,Albania,Wine,Imports,2020,1000 hl,  41
+Europe,Albania,Wine,Imports,2021,1000 hl,  55
+Europe,Albania,Wine,Imports,2022,1000 hl,  54
+Europe,Albania,Wine,Imports,2023,1000 hl,  54
+Africa,Algeria,Wine,Imports,2009,1000 hl,  25
+Africa,Algeria,Wine,Imports,2010,1000 hl,  17
+Africa,Algeria,Wine,Imports,2011,1000 hl,  24
+Africa,Algeria,Wine,Imports,2012,1000 hl,  38
+Africa,Algeria,Wine,Imports,2013,1000 hl,  56
+Africa,Algeria,Wine,Imports,2014,1000 hl,  75
+Africa,Algeria,Wine,Imports,2015,1000 hl,  85
+Africa,Algeria,Wine,Imports,2016,1000 hl,  113
+Africa,Algeria,Wine,Imports,2017,1000 hl,  90
+Africa,Algeria,Wine,Imports,2018,1000 hl,  94
+Africa,Algeria,Wine,Imports,2019,1000 hl,  58
+Africa,Algeria,Wine,Imports,2020,1000 hl,  85
+Africa,Algeria,Wine,Imports,2021,1000 hl,  109
+Africa,Algeria,Wine,Imports,2022,1000 hl,  105
+Africa,Algeria,Wine,Imports,2023,1000 hl,  105
+Oceania,American Samoa,Wine,Imports,2009,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2010,1000 hl,  1
+Oceania,American Samoa,Wine,Imports,2011,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2012,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2013,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2014,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2015,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2016,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2017,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2018,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2019,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2020,1000 hl,  1
+Oceania,American Samoa,Wine,Imports,2021,1000 hl,0
+Oceania,American Samoa,Wine,Imports,2022,1000 hl,0
+Africa,Angola,Wine,Imports,2009,1000 hl,  798
+Africa,Angola,Wine,Imports,2010,1000 hl,  868
+Africa,Angola,Wine,Imports,2011,1000 hl,  948
+Africa,Angola,Wine,Imports,2012,1000 hl, 1 031
+Africa,Angola,Wine,Imports,2013,1000 hl, 1 003
+Africa,Angola,Wine,Imports,2014,1000 hl, 1 686
+Africa,Angola,Wine,Imports,2015,1000 hl, 1 015
+Africa,Angola,Wine,Imports,2016,1000 hl,  850
+Africa,Angola,Wine,Imports,2017,1000 hl, 1 270
+Africa,Angola,Wine,Imports,2018,1000 hl,  417
+Africa,Angola,Wine,Imports,2019,1000 hl,  353
+Africa,Angola,Wine,Imports,2020,1000 hl,  267
+Africa,Angola,Wine,Imports,2021,1000 hl,  218
+Africa,Angola,Wine,Imports,2022,1000 hl,  407
+Africa,Angola,Wine,Imports,2023,1000 hl,  400
+America,Antigua and Barbuda,Wine,Imports,2009,1000 hl,  7
+America,Antigua and Barbuda,Wine,Imports,2010,1000 hl,  8
+America,Antigua and Barbuda,Wine,Imports,2011,1000 hl,  8
+America,Antigua and Barbuda,Wine,Imports,2012,1000 hl,  15
+America,Antigua and Barbuda,Wine,Imports,2013,1000 hl,  19
+America,Antigua and Barbuda,Wine,Imports,2014,1000 hl,  19
+America,Antigua and Barbuda,Wine,Imports,2015,1000 hl,  13
+America,Antigua and Barbuda,Wine,Imports,2016,1000 hl,  28
+America,Antigua and Barbuda,Wine,Imports,2017,1000 hl,  23
+America,Antigua and Barbuda,Wine,Imports,2018,1000 hl,  25
+America,Antigua and Barbuda,Wine,Imports,2019,1000 hl,  15
+America,Antigua and Barbuda,Wine,Imports,2020,1000 hl,  15
+America,Antigua and Barbuda,Wine,Imports,2021,1000 hl,  15
+America,Antigua and Barbuda,Wine,Imports,2022,1000 hl,  20
+America,Argentina,Wine,Imports,2009,1000 hl,  113
+America,Argentina,Wine,Imports,2010,1000 hl,  288
+America,Argentina,Wine,Imports,2011,1000 hl,  74
+America,Argentina,Wine,Imports,2012,1000 hl,  6
+America,Argentina,Wine,Imports,2013,1000 hl,  7
+America,Argentina,Wine,Imports,2014,1000 hl,  3
+America,Argentina,Wine,Imports,2015,1000 hl,  5
+America,Argentina,Wine,Imports,2016,1000 hl,  93
+America,Argentina,Wine,Imports,2017,1000 hl,  810
+America,Argentina,Wine,Imports,2018,1000 hl,  26
+America,Argentina,Wine,Imports,2019,1000 hl,  2
+America,Argentina,Wine,Imports,2020,1000 hl,  3
+America,Argentina,Wine,Imports,2021,1000 hl,  2
+America,Argentina,Wine,Imports,2022,1000 hl,  6
+America,Argentina,Wine,Imports,2023,1000 hl,  11
+Asia,Armenia,Wine,Imports,2009,1000 hl,  1
+Asia,Armenia,Wine,Imports,2010,1000 hl,  5
+Asia,Armenia,Wine,Imports,2011,1000 hl,  6
+Asia,Armenia,Wine,Imports,2012,1000 hl,  4
+Asia,Armenia,Wine,Imports,2013,1000 hl,  4
+Asia,Armenia,Wine,Imports,2014,1000 hl,  3
+Asia,Armenia,Wine,Imports,2015,1000 hl,  4
+Asia,Armenia,Wine,Imports,2016,1000 hl,  3
+Asia,Armenia,Wine,Imports,2017,1000 hl,  5
+Asia,Armenia,Wine,Imports,2018,1000 hl,  4
+Asia,Armenia,Wine,Imports,2019,1000 hl,  5
+Asia,Armenia,Wine,Imports,2020,1000 hl,  7
+Asia,Armenia,Wine,Imports,2021,1000 hl,  6
+Asia,Armenia,Wine,Imports,2022,1000 hl,  10
+Asia,Armenia,Wine,Imports,2023,1000 hl,  13
+America,Aruba,Wine,Imports,2009,1000 hl,  22
+America,Aruba,Wine,Imports,2010,1000 hl,  22
+America,Aruba,Wine,Imports,2011,1000 hl,  30
+America,Aruba,Wine,Imports,2012,1000 hl,  32
+America,Aruba,Wine,Imports,2013,1000 hl,  30
+America,Aruba,Wine,Imports,2014,1000 hl,  32
+America,Aruba,Wine,Imports,2015,1000 hl,  34
+America,Aruba,Wine,Imports,2016,1000 hl,  32
+America,Aruba,Wine,Imports,2017,1000 hl,  34
+America,Aruba,Wine,Imports,2018,1000 hl,  33
+America,Aruba,Wine,Imports,2019,1000 hl,  36
+America,Aruba,Wine,Imports,2020,1000 hl,  21
+America,Aruba,Wine,Imports,2021,1000 hl,  30
+America,Aruba,Wine,Imports,2022,1000 hl,  39
+America,Aruba,Wine,Imports,2023,1000 hl,  34
+Oceania,Australia,Wine,Imports,2009,1000 hl,  622
+Oceania,Australia,Wine,Imports,2010,1000 hl,  679
+Oceania,Australia,Wine,Imports,2011,1000 hl,  676
+Oceania,Australia,Wine,Imports,2012,1000 hl,  831
+Oceania,Australia,Wine,Imports,2013,1000 hl,  830
+Oceania,Australia,Wine,Imports,2014,1000 hl,  818
+Oceania,Australia,Wine,Imports,2015,1000 hl,  914
+Oceania,Australia,Wine,Imports,2016,1000 hl,  867
+Oceania,Australia,Wine,Imports,2017,1000 hl,  928
+Oceania,Australia,Wine,Imports,2018,1000 hl,  992
+Oceania,Australia,Wine,Imports,2019,1000 hl, 1 002
+Oceania,Australia,Wine,Imports,2020,1000 hl, 1 046
+Oceania,Australia,Wine,Imports,2021,1000 hl, 1 051
+Oceania,Australia,Wine,Imports,2022,1000 hl, 1 083
+Oceania,Australia,Wine,Imports,2023,1000 hl,  843
+Europe,Austria,Wine,Imports,2009,1000 hl,  626
+Europe,Austria,Wine,Imports,2010,1000 hl,  748
+Europe,Austria,Wine,Imports,2011,1000 hl,  920
+Europe,Austria,Wine,Imports,2012,1000 hl,  776
+Europe,Austria,Wine,Imports,2013,1000 hl,  784
+Europe,Austria,Wine,Imports,2014,1000 hl,  781
+Europe,Austria,Wine,Imports,2015,1000 hl,  736
+Europe,Austria,Wine,Imports,2016,1000 hl,  824
+Europe,Austria,Wine,Imports,2017,1000 hl,  867
+Europe,Austria,Wine,Imports,2018,1000 hl,  699
+Europe,Austria,Wine,Imports,2019,1000 hl,  484
+Europe,Austria,Wine,Imports,2020,1000 hl,  718
+Europe,Austria,Wine,Imports,2021,1000 hl,  750
+Europe,Austria,Wine,Imports,2022,1000 hl,  700
+Europe,Austria,Wine,Imports,2023,1000 hl,  700
+Asia,Azerbaijan,Wine,Imports,2009,1000 hl,  2
+Asia,Azerbaijan,Wine,Imports,2010,1000 hl,  1
+Asia,Azerbaijan,Wine,Imports,2011,1000 hl,  3
+Asia,Azerbaijan,Wine,Imports,2012,1000 hl,  3
+Asia,Azerbaijan,Wine,Imports,2013,1000 hl,  3
+Asia,Azerbaijan,Wine,Imports,2014,1000 hl,  2
+Asia,Azerbaijan,Wine,Imports,2015,1000 hl,  1
+Asia,Azerbaijan,Wine,Imports,2016,1000 hl,  4
+Asia,Azerbaijan,Wine,Imports,2017,1000 hl,  7
+Asia,Azerbaijan,Wine,Imports,2018,1000 hl,  3
+Asia,Azerbaijan,Wine,Imports,2019,1000 hl,  4
+Asia,Azerbaijan,Wine,Imports,2020,1000 hl,  4
+Asia,Azerbaijan,Wine,Imports,2021,1000 hl,  4
+Asia,Azerbaijan,Wine,Imports,2022,1000 hl,  5
+Asia,Azerbaijan,Wine,Imports,2023,1000 hl,  7
+America,Bahamas,Wine,Imports,2009,1000 hl,  30
+America,Bahamas,Wine,Imports,2010,1000 hl,  31
+America,Bahamas,Wine,Imports,2011,1000 hl,  30
+America,Bahamas,Wine,Imports,2012,1000 hl,  39
+America,Bahamas,Wine,Imports,2013,1000 hl,  28
+America,Bahamas,Wine,Imports,2014,1000 hl,  33
+America,Bahamas,Wine,Imports,2015,1000 hl,  39
+America,Bahamas,Wine,Imports,2016,1000 hl,  38
+America,Bahamas,Wine,Imports,2017,1000 hl,  34
+America,Bahamas,Wine,Imports,2018,1000 hl,  37
+America,Bahamas,Wine,Imports,2019,1000 hl,  41
+America,Bahamas,Wine,Imports,2020,1000 hl,  35
+America,Bahamas,Wine,Imports,2021,1000 hl,  36
+America,Bahamas,Wine,Imports,2022,1000 hl,  60
+Asia,Bahrain,Wine,Imports,2009,1000 hl,  27
+Asia,Bahrain,Wine,Imports,2010,1000 hl,  25
+Asia,Bahrain,Wine,Imports,2011,1000 hl,  27
+Asia,Bahrain,Wine,Imports,2012,1000 hl,  7
+Asia,Bahrain,Wine,Imports,2013,1000 hl,  25
+Asia,Bahrain,Wine,Imports,2014,1000 hl,  13
+Asia,Bahrain,Wine,Imports,2015,1000 hl,  15
+Asia,Bahrain,Wine,Imports,2016,1000 hl,  12
+Asia,Bahrain,Wine,Imports,2017,1000 hl,  29
+Asia,Bahrain,Wine,Imports,2018,1000 hl,  13
+Asia,Bahrain,Wine,Imports,2019,1000 hl,  13
+Asia,Bahrain,Wine,Imports,2020,1000 hl,  19
+Asia,Bahrain,Wine,Imports,2021,1000 hl,  12
+Asia,Bahrain,Wine,Imports,2022,1000 hl,  23
+Asia,Bahrain,Wine,Imports,2023,1000 hl,  18
+Asia,Bangladesh,Wine,Imports,2009,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2010,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2011,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2012,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2013,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2014,1000 hl,  3
+Asia,Bangladesh,Wine,Imports,2015,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2016,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2017,1000 hl,0
+Asia,Bangladesh,Wine,Imports,2018,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2019,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2020,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2021,1000 hl,  1
+Asia,Bangladesh,Wine,Imports,2022,1000 hl,  2
+America,Barbados,Wine,Imports,2009,1000 hl,  22
+America,Barbados,Wine,Imports,2010,1000 hl,  23
+America,Barbados,Wine,Imports,2011,1000 hl,  21
+America,Barbados,Wine,Imports,2012,1000 hl,  22
+America,Barbados,Wine,Imports,2013,1000 hl,  24
+America,Barbados,Wine,Imports,2014,1000 hl,  23
+America,Barbados,Wine,Imports,2015,1000 hl,  36
+America,Barbados,Wine,Imports,2016,1000 hl,  34
+America,Barbados,Wine,Imports,2017,1000 hl,  27
+America,Barbados,Wine,Imports,2018,1000 hl,  29
+America,Barbados,Wine,Imports,2019,1000 hl,  27
+America,Barbados,Wine,Imports,2020,1000 hl,  20
+America,Barbados,Wine,Imports,2021,1000 hl,  20
+America,Barbados,Wine,Imports,2022,1000 hl,  33
+Europe,Belarus,Wine,Imports,2009,1000 hl,  427
+Europe,Belarus,Wine,Imports,2010,1000 hl,  484
+Europe,Belarus,Wine,Imports,2011,1000 hl,  469
+Europe,Belarus,Wine,Imports,2012,1000 hl,  513
+Europe,Belarus,Wine,Imports,2013,1000 hl,  535
+Europe,Belarus,Wine,Imports,2014,1000 hl,  520
+Europe,Belarus,Wine,Imports,2015,1000 hl,  503
+Europe,Belarus,Wine,Imports,2016,1000 hl,  485
+Europe,Belarus,Wine,Imports,2017,1000 hl,  576
+Europe,Belarus,Wine,Imports,2018,1000 hl,  571
+Europe,Belarus,Wine,Imports,2019,1000 hl,  681
+Europe,Belarus,Wine,Imports,2020,1000 hl,  699
+Europe,Belarus,Wine,Imports,2021,1000 hl,  664
+Europe,Belarus,Wine,Imports,2022,1000 hl,  664
+Europe,Belarus,Wine,Imports,2023,1000 hl,  664
+Europe,Belgium,Wine,Imports,2009,1000 hl, 3 061
+Europe,Belgium,Wine,Imports,2010,1000 hl, 2 984
+Europe,Belgium,Wine,Imports,2011,1000 hl, 3 158
+Europe,Belgium,Wine,Imports,2012,1000 hl, 3 133
+Europe,Belgium,Wine,Imports,2013,1000 hl, 3 166
+Europe,Belgium,Wine,Imports,2014,1000 hl, 3 118
+Europe,Belgium,Wine,Imports,2015,1000 hl, 3 110
+Europe,Belgium,Wine,Imports,2016,1000 hl, 3 120
+Europe,Belgium,Wine,Imports,2017,1000 hl, 3 142
+Europe,Belgium,Wine,Imports,2018,1000 hl, 3 030
+Europe,Belgium,Wine,Imports,2019,1000 hl, 3 078
+Europe,Belgium,Wine,Imports,2020,1000 hl, 3 109
+Europe,Belgium,Wine,Imports,2021,1000 hl, 3 529
+Europe,Belgium,Wine,Imports,2022,1000 hl, 3 394
+Europe,Belgium,Wine,Imports,2023,1000 hl, 3 027
+Europe,Belgium and Luxemburg,Wine,Imports,2009,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2010,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2011,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2012,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2013,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2014,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2015,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2016,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2017,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2018,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2019,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2020,1000 hl,0
+Europe,Belgium and Luxemburg,Wine,Imports,2021,1000 hl,0
+America,Belize,Wine,Imports,2009,1000 hl,  3
+America,Belize,Wine,Imports,2010,1000 hl,  5
+America,Belize,Wine,Imports,2011,1000 hl,  4
+America,Belize,Wine,Imports,2012,1000 hl,  8
+America,Belize,Wine,Imports,2013,1000 hl,  17
+America,Belize,Wine,Imports,2014,1000 hl,  14
+America,Belize,Wine,Imports,2015,1000 hl,  13
+America,Belize,Wine,Imports,2016,1000 hl,  13
+America,Belize,Wine,Imports,2017,1000 hl,  15
+America,Belize,Wine,Imports,2018,1000 hl,  15
+America,Belize,Wine,Imports,2019,1000 hl,  16
+America,Belize,Wine,Imports,2020,1000 hl,  9
+America,Belize,Wine,Imports,2021,1000 hl,  9
+America,Belize,Wine,Imports,2022,1000 hl,  19
+America,Belize,Wine,Imports,2023,1000 hl,  16
+Africa,Benin,Wine,Imports,2009,1000 hl,  59
+Africa,Benin,Wine,Imports,2010,1000 hl,  78
+Africa,Benin,Wine,Imports,2011,1000 hl,  83
+Africa,Benin,Wine,Imports,2012,1000 hl,  47
+Africa,Benin,Wine,Imports,2013,1000 hl,  36
+Africa,Benin,Wine,Imports,2014,1000 hl,  33
+Africa,Benin,Wine,Imports,2015,1000 hl,  44
+Africa,Benin,Wine,Imports,2016,1000 hl,  34
+Africa,Benin,Wine,Imports,2017,1000 hl,  29
+Africa,Benin,Wine,Imports,2018,1000 hl,  16
+Africa,Benin,Wine,Imports,2019,1000 hl,  23
+Africa,Benin,Wine,Imports,2020,1000 hl,  20
+Africa,Benin,Wine,Imports,2021,1000 hl,  25
+Africa,Benin,Wine,Imports,2022,1000 hl,  31
+Africa,Benin,Wine,Imports,2023,1000 hl,  31
+America,Bermuda,Wine,Imports,2009,1000 hl,  21
+America,Bermuda,Wine,Imports,2010,1000 hl,  21
+America,Bermuda,Wine,Imports,2011,1000 hl,  34
+America,Bermuda,Wine,Imports,2012,1000 hl,  34
+America,Bermuda,Wine,Imports,2013,1000 hl,  11
+America,Bermuda,Wine,Imports,2014,1000 hl,  15
+America,Bermuda,Wine,Imports,2015,1000 hl,  15
+America,Bermuda,Wine,Imports,2016,1000 hl,  15
+America,Bermuda,Wine,Imports,2017,1000 hl,  16
+America,Bermuda,Wine,Imports,2018,1000 hl,  14
+America,Bermuda,Wine,Imports,2019,1000 hl,  18
+America,Bermuda,Wine,Imports,2020,1000 hl,  12
+America,Bermuda,Wine,Imports,2021,1000 hl,  13
+America,Bermuda,Wine,Imports,2022,1000 hl,  14
+America,Bermuda,Wine,Imports,2023,1000 hl,  12
+Asia,Bhutan,Wine,Imports,2009,1000 hl,  1
+Asia,Bhutan,Wine,Imports,2010,1000 hl,  3
+Asia,Bhutan,Wine,Imports,2011,1000 hl,  2
+Asia,Bhutan,Wine,Imports,2012,1000 hl,  4
+Asia,Bhutan,Wine,Imports,2013,1000 hl,  4
+Asia,Bhutan,Wine,Imports,2014,1000 hl,  2
+Asia,Bhutan,Wine,Imports,2015,1000 hl,  2
+Asia,Bhutan,Wine,Imports,2016,1000 hl,  2
+Asia,Bhutan,Wine,Imports,2017,1000 hl,  3
+Asia,Bhutan,Wine,Imports,2018,1000 hl,  3
+Asia,Bhutan,Wine,Imports,2019,1000 hl,  3
+Asia,Bhutan,Wine,Imports,2020,1000 hl,  3
+Asia,Bhutan,Wine,Imports,2021,1000 hl,  3
+Asia,Bhutan,Wine,Imports,2022,1000 hl,  5
+America,Bolivia,Wine,Imports,2009,1000 hl,  8
+America,Bolivia,Wine,Imports,2010,1000 hl,  7
+America,Bolivia,Wine,Imports,2011,1000 hl,  9
+America,Bolivia,Wine,Imports,2012,1000 hl,  9
+America,Bolivia,Wine,Imports,2013,1000 hl,  10
+America,Bolivia,Wine,Imports,2014,1000 hl,  10
+America,Bolivia,Wine,Imports,2015,1000 hl,  10
+America,Bolivia,Wine,Imports,2016,1000 hl,  10
+America,Bolivia,Wine,Imports,2017,1000 hl,  14
+America,Bolivia,Wine,Imports,2018,1000 hl,  10
+America,Bolivia,Wine,Imports,2019,1000 hl,  7
+America,Bolivia,Wine,Imports,2020,1000 hl,  7
+America,Bolivia,Wine,Imports,2021,1000 hl,  5
+America,Bolivia,Wine,Imports,2022,1000 hl,  8
+America,Bolivia,Wine,Imports,2023,1000 hl,  8
+Europe,Bosnia and Herzegovina,Wine,Imports,2009,1000 hl,  99
+Europe,Bosnia and Herzegovina,Wine,Imports,2010,1000 hl,  90
+Europe,Bosnia and Herzegovina,Wine,Imports,2011,1000 hl,  74
+Europe,Bosnia and Herzegovina,Wine,Imports,2012,1000 hl,  81
+Europe,Bosnia and Herzegovina,Wine,Imports,2013,1000 hl,  69
+Europe,Bosnia and Herzegovina,Wine,Imports,2014,1000 hl,  72
+Europe,Bosnia and Herzegovina,Wine,Imports,2015,1000 hl,  82
+Europe,Bosnia and Herzegovina,Wine,Imports,2016,1000 hl,  80
+Europe,Bosnia and Herzegovina,Wine,Imports,2017,1000 hl,  87
+Europe,Bosnia and Herzegovina,Wine,Imports,2018,1000 hl,  85
+Europe,Bosnia and Herzegovina,Wine,Imports,2019,1000 hl,  88
+Europe,Bosnia and Herzegovina,Wine,Imports,2020,1000 hl,  73
+Europe,Bosnia and Herzegovina,Wine,Imports,2021,1000 hl,  84
+Europe,Bosnia and Herzegovina,Wine,Imports,2022,1000 hl,  85
+Europe,Bosnia and Herzegovina,Wine,Imports,2023,1000 hl,  85
+Africa,Botswana,Wine,Imports,2009,1000 hl,  73
+Africa,Botswana,Wine,Imports,2010,1000 hl,  43
+Africa,Botswana,Wine,Imports,2011,1000 hl,  51
+Africa,Botswana,Wine,Imports,2012,1000 hl,  33
+Africa,Botswana,Wine,Imports,2013,1000 hl,  49
+Africa,Botswana,Wine,Imports,2014,1000 hl,  41
+Africa,Botswana,Wine,Imports,2015,1000 hl,  33
+Africa,Botswana,Wine,Imports,2016,1000 hl,  37
+Africa,Botswana,Wine,Imports,2017,1000 hl,  25
+Africa,Botswana,Wine,Imports,2018,1000 hl,  71
+Africa,Botswana,Wine,Imports,2019,1000 hl,  46
+Africa,Botswana,Wine,Imports,2020,1000 hl,  46
+Africa,Botswana,Wine,Imports,2021,1000 hl,  53
+Africa,Botswana,Wine,Imports,2022,1000 hl,  73
+Africa,Botswana,Wine,Imports,2023,1000 hl,  73
+America,Brazil,Wine,Imports,2009,1000 hl,  559
+America,Brazil,Wine,Imports,2010,1000 hl,  707
+America,Brazil,Wine,Imports,2011,1000 hl,  727
+America,Brazil,Wine,Imports,2012,1000 hl,  742
+America,Brazil,Wine,Imports,2013,1000 hl,  679
+America,Brazil,Wine,Imports,2014,1000 hl,  812
+America,Brazil,Wine,Imports,2015,1000 hl,  818
+America,Brazil,Wine,Imports,2016,1000 hl,  921
+America,Brazil,Wine,Imports,2017,1000 hl, 1 258
+America,Brazil,Wine,Imports,2018,1000 hl, 1 102
+America,Brazil,Wine,Imports,2019,1000 hl, 1 204
+America,Brazil,Wine,Imports,2020,1000 hl, 1 520
+America,Brazil,Wine,Imports,2021,1000 hl, 1 825
+America,Brazil,Wine,Imports,2022,1000 hl, 1 541
+America,Brazil,Wine,Imports,2023,1000 hl, 1 800
+Asia,Brunei Darussalam,Wine,Imports,2009,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2010,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2011,1000 hl,  1
+Asia,Brunei Darussalam,Wine,Imports,2012,1000 hl,  1
+Asia,Brunei Darussalam,Wine,Imports,2013,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2014,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2015,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2016,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2017,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2018,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2019,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2020,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2021,1000 hl,0
+Asia,Brunei Darussalam,Wine,Imports,2022,1000 hl,0
+Europe,Bulgaria,Wine,Imports,2009,1000 hl,  53
+Europe,Bulgaria,Wine,Imports,2010,1000 hl,  82
+Europe,Bulgaria,Wine,Imports,2011,1000 hl,  67
+Europe,Bulgaria,Wine,Imports,2012,1000 hl,  71
+Europe,Bulgaria,Wine,Imports,2013,1000 hl,  65
+Europe,Bulgaria,Wine,Imports,2014,1000 hl,  49
+Europe,Bulgaria,Wine,Imports,2015,1000 hl,  80
+Europe,Bulgaria,Wine,Imports,2016,1000 hl,  73
+Europe,Bulgaria,Wine,Imports,2017,1000 hl,  87
+Europe,Bulgaria,Wine,Imports,2018,1000 hl,  86
+Europe,Bulgaria,Wine,Imports,2019,1000 hl,  90
+Europe,Bulgaria,Wine,Imports,2020,1000 hl,  97
+Europe,Bulgaria,Wine,Imports,2021,1000 hl,  145
+Europe,Bulgaria,Wine,Imports,2022,1000 hl,  125
+Europe,Bulgaria,Wine,Imports,2023,1000 hl,  160
+Africa,Burkina Faso,Wine,Imports,2009,1000 hl,  34
+Africa,Burkina Faso,Wine,Imports,2010,1000 hl,  41
+Africa,Burkina Faso,Wine,Imports,2011,1000 hl,  41
+Africa,Burkina Faso,Wine,Imports,2012,1000 hl,  56
+Africa,Burkina Faso,Wine,Imports,2013,1000 hl,  29
+Africa,Burkina Faso,Wine,Imports,2014,1000 hl,  24
+Africa,Burkina Faso,Wine,Imports,2015,1000 hl,  29
+Africa,Burkina Faso,Wine,Imports,2016,1000 hl,  32
+Africa,Burkina Faso,Wine,Imports,2017,1000 hl,  36
+Africa,Burkina Faso,Wine,Imports,2018,1000 hl,  79
+Africa,Burkina Faso,Wine,Imports,2019,1000 hl,  115
+Africa,Burkina Faso,Wine,Imports,2020,1000 hl,  86
+Africa,Burkina Faso,Wine,Imports,2021,1000 hl,  146
+Africa,Burkina Faso,Wine,Imports,2022,1000 hl,  146
+Africa,Burkina Faso,Wine,Imports,2023,1000 hl,  146
+Africa,Burundi,Wine,Imports,2009,1000 hl,  2
+Africa,Burundi,Wine,Imports,2010,1000 hl,  2
+Africa,Burundi,Wine,Imports,2011,1000 hl,  2
+Africa,Burundi,Wine,Imports,2012,1000 hl,  4
+Africa,Burundi,Wine,Imports,2013,1000 hl,  4
+Africa,Burundi,Wine,Imports,2014,1000 hl,  2
+Africa,Burundi,Wine,Imports,2015,1000 hl,  2
+Africa,Burundi,Wine,Imports,2016,1000 hl,  2
+Africa,Burundi,Wine,Imports,2017,1000 hl,  1
+Africa,Burundi,Wine,Imports,2018,1000 hl,  1
+Africa,Burundi,Wine,Imports,2019,1000 hl,  4
+Africa,Burundi,Wine,Imports,2020,1000 hl,  3
+Africa,Burundi,Wine,Imports,2021,1000 hl,  4
+Africa,Burundi,Wine,Imports,2022,1000 hl,  7
+Africa,Cabo Verde,Wine,Imports,2009,1000 hl,  43
+Africa,Cabo Verde,Wine,Imports,2010,1000 hl,  50
+Africa,Cabo Verde,Wine,Imports,2011,1000 hl,  45
+Africa,Cabo Verde,Wine,Imports,2012,1000 hl,  43
+Africa,Cabo Verde,Wine,Imports,2013,1000 hl,  40
+Africa,Cabo Verde,Wine,Imports,2014,1000 hl,  47
+Africa,Cabo Verde,Wine,Imports,2015,1000 hl,  58
+Africa,Cabo Verde,Wine,Imports,2016,1000 hl,  68
+Africa,Cabo Verde,Wine,Imports,2017,1000 hl,  71
+Africa,Cabo Verde,Wine,Imports,2018,1000 hl,  60
+Africa,Cabo Verde,Wine,Imports,2019,1000 hl,  68
+Africa,Cabo Verde,Wine,Imports,2020,1000 hl,  48
+Africa,Cabo Verde,Wine,Imports,2021,1000 hl,  49
+Africa,Cabo Verde,Wine,Imports,2022,1000 hl,  51
+Africa,Cabo Verde,Wine,Imports,2023,1000 hl,  51
+Asia,Cambodia,Wine,Imports,2009,1000 hl,  13
+Asia,Cambodia,Wine,Imports,2010,1000 hl,  8
+Asia,Cambodia,Wine,Imports,2011,1000 hl,  9
+Asia,Cambodia,Wine,Imports,2012,1000 hl,  11
+Asia,Cambodia,Wine,Imports,2013,1000 hl,  15
+Asia,Cambodia,Wine,Imports,2014,1000 hl,  22
+Asia,Cambodia,Wine,Imports,2015,1000 hl,  17
+Asia,Cambodia,Wine,Imports,2016,1000 hl,  12
+Asia,Cambodia,Wine,Imports,2017,1000 hl,  5
+Asia,Cambodia,Wine,Imports,2018,1000 hl,  6
+Asia,Cambodia,Wine,Imports,2019,1000 hl,  13
+Asia,Cambodia,Wine,Imports,2020,1000 hl,  11
+Asia,Cambodia,Wine,Imports,2021,1000 hl,  6
+Asia,Cambodia,Wine,Imports,2022,1000 hl,  12
+Africa,Cameroon,Wine,Imports,2009,1000 hl,  84
+Africa,Cameroon,Wine,Imports,2010,1000 hl,  97
+Africa,Cameroon,Wine,Imports,2011,1000 hl,  120
+Africa,Cameroon,Wine,Imports,2012,1000 hl,  120
+Africa,Cameroon,Wine,Imports,2013,1000 hl,  116
+Africa,Cameroon,Wine,Imports,2014,1000 hl,  127
+Africa,Cameroon,Wine,Imports,2015,1000 hl,  117
+Africa,Cameroon,Wine,Imports,2016,1000 hl,  76
+Africa,Cameroon,Wine,Imports,2017,1000 hl,  137
+Africa,Cameroon,Wine,Imports,2018,1000 hl,  86
+Africa,Cameroon,Wine,Imports,2019,1000 hl,  99
+Africa,Cameroon,Wine,Imports,2020,1000 hl,  90
+Africa,Cameroon,Wine,Imports,2021,1000 hl,  121
+Africa,Cameroon,Wine,Imports,2022,1000 hl,  104
+Africa,Cameroon,Wine,Imports,2023,1000 hl,  104
+America,Canada,Wine,Imports,2009,1000 hl, 3 284
+America,Canada,Wine,Imports,2010,1000 hl, 3 500
+America,Canada,Wine,Imports,2011,1000 hl, 3 584
+America,Canada,Wine,Imports,2012,1000 hl, 3 768
+America,Canada,Wine,Imports,2013,1000 hl, 3 727
+America,Canada,Wine,Imports,2014,1000 hl, 3 849
+America,Canada,Wine,Imports,2015,1000 hl, 4 134
+America,Canada,Wine,Imports,2016,1000 hl, 4 157
+America,Canada,Wine,Imports,2017,1000 hl, 4 187
+America,Canada,Wine,Imports,2018,1000 hl, 4 217
+America,Canada,Wine,Imports,2019,1000 hl, 4 169
+America,Canada,Wine,Imports,2020,1000 hl, 4 499
+America,Canada,Wine,Imports,2021,1000 hl, 4 189
+America,Canada,Wine,Imports,2022,1000 hl, 4 178
+America,Canada,Wine,Imports,2023,1000 hl, 3 751
+America,Cayman Islands,Wine,Imports,2009,1000 hl,  15
+America,Cayman Islands,Wine,Imports,2010,1000 hl,  9
+America,Cayman Islands,Wine,Imports,2011,1000 hl,  8
+America,Cayman Islands,Wine,Imports,2012,1000 hl,  8
+America,Cayman Islands,Wine,Imports,2013,1000 hl,  8
+America,Cayman Islands,Wine,Imports,2014,1000 hl,  10
+America,Cayman Islands,Wine,Imports,2015,1000 hl,  11
+America,Cayman Islands,Wine,Imports,2016,1000 hl,  11
+America,Cayman Islands,Wine,Imports,2017,1000 hl,  11
+America,Cayman Islands,Wine,Imports,2018,1000 hl,  11
+America,Cayman Islands,Wine,Imports,2019,1000 hl,  11
+America,Cayman Islands,Wine,Imports,2020,1000 hl,  31
+America,Cayman Islands,Wine,Imports,2021,1000 hl,  45
+America,Cayman Islands,Wine,Imports,2022,1000 hl,  45
+Africa,Central African Republic,Wine,Imports,2009,1000 hl,  3
+Africa,Central African Republic,Wine,Imports,2010,1000 hl,  6
+Africa,Central African Republic,Wine,Imports,2011,1000 hl,  5
+Africa,Central African Republic,Wine,Imports,2012,1000 hl,  5
+Africa,Central African Republic,Wine,Imports,2013,1000 hl,  2
+Africa,Central African Republic,Wine,Imports,2014,1000 hl,  1
+Africa,Central African Republic,Wine,Imports,2015,1000 hl,  10
+Africa,Central African Republic,Wine,Imports,2016,1000 hl,  2
+Africa,Central African Republic,Wine,Imports,2017,1000 hl,  9
+Africa,Central African Republic,Wine,Imports,2018,1000 hl,  4
+Africa,Central African Republic,Wine,Imports,2019,1000 hl,  5
+Africa,Central African Republic,Wine,Imports,2020,1000 hl,  5
+Africa,Central African Republic,Wine,Imports,2021,1000 hl,  11
+Africa,Central African Republic,Wine,Imports,2022,1000 hl,  11
+Africa,Chad,Wine,Imports,2009,1000 hl,  12
+Africa,Chad,Wine,Imports,2010,1000 hl,  26
+Africa,Chad,Wine,Imports,2011,1000 hl,  22
+Africa,Chad,Wine,Imports,2012,1000 hl,  20
+Africa,Chad,Wine,Imports,2013,1000 hl,  21
+Africa,Chad,Wine,Imports,2014,1000 hl,  6
+Africa,Chad,Wine,Imports,2015,1000 hl,  4
+Africa,Chad,Wine,Imports,2016,1000 hl,  7
+Africa,Chad,Wine,Imports,2017,1000 hl,  2
+Africa,Chad,Wine,Imports,2018,1000 hl,  2
+Africa,Chad,Wine,Imports,2019,1000 hl,  2
+Africa,Chad,Wine,Imports,2020,1000 hl,  4
+Africa,Chad,Wine,Imports,2021,1000 hl,  2
+Africa,Chad,Wine,Imports,2022,1000 hl,  2
+America,Chile,Wine,Imports,2009,1000 hl,  31
+America,Chile,Wine,Imports,2010,1000 hl,  6
+America,Chile,Wine,Imports,2011,1000 hl,  10
+America,Chile,Wine,Imports,2012,1000 hl,  12
+America,Chile,Wine,Imports,2013,1000 hl,  22
+America,Chile,Wine,Imports,2014,1000 hl,  17
+America,Chile,Wine,Imports,2015,1000 hl,  25
+America,Chile,Wine,Imports,2016,1000 hl,  25
+America,Chile,Wine,Imports,2017,1000 hl,  20
+America,Chile,Wine,Imports,2018,1000 hl,  30
+America,Chile,Wine,Imports,2019,1000 hl,  25
+America,Chile,Wine,Imports,2020,1000 hl,  37
+America,Chile,Wine,Imports,2021,1000 hl,  84
+America,Chile,Wine,Imports,2022,1000 hl,  30
+America,Chile,Wine,Imports,2023,1000 hl,  17
+Asia,"China, Hong Kong SAR",Wine,Imports,2009,1000 hl,  348
+Asia,"China, Hong Kong SAR",Wine,Imports,2010,1000 hl,  400
+Asia,"China, Hong Kong SAR",Wine,Imports,2011,1000 hl,  482
+Asia,"China, Hong Kong SAR",Wine,Imports,2012,1000 hl,  505
+Asia,"China, Hong Kong SAR",Wine,Imports,2013,1000 hl,  503
+Asia,"China, Hong Kong SAR",Wine,Imports,2014,1000 hl,  525
+Asia,"China, Hong Kong SAR",Wine,Imports,2015,1000 hl,  634
+Asia,"China, Hong Kong SAR",Wine,Imports,2016,1000 hl,  629
+Asia,"China, Hong Kong SAR",Wine,Imports,2017,1000 hl,  608
+Asia,"China, Hong Kong SAR",Wine,Imports,2018,1000 hl,  513
+Asia,"China, Hong Kong SAR",Wine,Imports,2019,1000 hl,  412
+Asia,"China, Hong Kong SAR",Wine,Imports,2020,1000 hl,  379
+Asia,"China, Hong Kong SAR",Wine,Imports,2021,1000 hl,  390
+Asia,"China, Hong Kong SAR",Wine,Imports,2022,1000 hl,  349
+Asia,"China, Hong Kong SAR",Wine,Imports,2023,1000 hl,  312
+Asia,"China, Macao SAR",Wine,Imports,2009,1000 hl,  48
+Asia,"China, Macao SAR",Wine,Imports,2010,1000 hl,  61
+Asia,"China, Macao SAR",Wine,Imports,2011,1000 hl,  77
+Asia,"China, Macao SAR",Wine,Imports,2012,1000 hl,  68
+Asia,"China, Macao SAR",Wine,Imports,2013,1000 hl,  45
+Asia,"China, Macao SAR",Wine,Imports,2014,1000 hl,  54
+Asia,"China, Macao SAR",Wine,Imports,2015,1000 hl,  60
+Asia,"China, Macao SAR",Wine,Imports,2016,1000 hl,  59
+Asia,"China, Macao SAR",Wine,Imports,2017,1000 hl,  54
+Asia,"China, Macao SAR",Wine,Imports,2018,1000 hl,  49
+Asia,"China, Macao SAR",Wine,Imports,2019,1000 hl,  47
+Asia,"China, Macao SAR",Wine,Imports,2020,1000 hl,  32
+Asia,"China, Macao SAR",Wine,Imports,2021,1000 hl,  47
+Asia,"China, Macao SAR",Wine,Imports,2022,1000 hl,  92
+Asia,"China, Macao SAR",Wine,Imports,2023,1000 hl,  104
+Asia,"China, Taiwan Province of",Wine,Imports,2009,1000 hl,  110
+Asia,"China, Taiwan Province of",Wine,Imports,2010,1000 hl,  160
+Asia,"China, Taiwan Province of",Wine,Imports,2011,1000 hl,  179
+Asia,"China, Taiwan Province of",Wine,Imports,2012,1000 hl,  168
+Asia,"China, Taiwan Province of",Wine,Imports,2013,1000 hl,  167
+Asia,"China, Taiwan Province of",Wine,Imports,2014,1000 hl,  171
+Asia,"China, Taiwan Province of",Wine,Imports,2015,1000 hl,  204
+Asia,"China, Taiwan Province of",Wine,Imports,2016,1000 hl,  216
+Asia,"China, Taiwan Province of",Wine,Imports,2017,1000 hl,  217
+Asia,"China, Taiwan Province of",Wine,Imports,2018,1000 hl,  215
+Asia,"China, Taiwan Province of",Wine,Imports,2019,1000 hl,  202
+Asia,"China, Taiwan Province of",Wine,Imports,2020,1000 hl,  190
+Asia,"China, Taiwan Province of",Wine,Imports,2021,1000 hl,  228
+Asia,"China, Taiwan Province of",Wine,Imports,2022,1000 hl,  238
+Asia,"China, Taiwan Province of",Wine,Imports,2023,1000 hl,  238
+America,Colombia,Wine,Imports,2009,1000 hl,  144
+America,Colombia,Wine,Imports,2010,1000 hl,  142
+America,Colombia,Wine,Imports,2011,1000 hl,  117
+America,Colombia,Wine,Imports,2012,1000 hl,  144
+America,Colombia,Wine,Imports,2013,1000 hl,  154
+America,Colombia,Wine,Imports,2014,1000 hl,  162
+America,Colombia,Wine,Imports,2015,1000 hl,  164
+America,Colombia,Wine,Imports,2016,1000 hl,  181
+America,Colombia,Wine,Imports,2017,1000 hl,  174
+America,Colombia,Wine,Imports,2018,1000 hl,  189
+America,Colombia,Wine,Imports,2019,1000 hl,  222
+America,Colombia,Wine,Imports,2020,1000 hl,  245
+America,Colombia,Wine,Imports,2021,1000 hl,  258
+America,Colombia,Wine,Imports,2022,1000 hl,  334
+America,Colombia,Wine,Imports,2023,1000 hl,  224
+Africa,Comoros,Wine,Imports,2009,1000 hl,  1
+Africa,Comoros,Wine,Imports,2010,1000 hl,  1
+Africa,Comoros,Wine,Imports,2011,1000 hl,  2
+Africa,Comoros,Wine,Imports,2012,1000 hl,  2
+Africa,Comoros,Wine,Imports,2013,1000 hl,  3
+Africa,Comoros,Wine,Imports,2014,1000 hl,  1
+Africa,Comoros,Wine,Imports,2015,1000 hl,  2
+Africa,Comoros,Wine,Imports,2016,1000 hl,  3
+Africa,Comoros,Wine,Imports,2017,1000 hl,  3
+Africa,Comoros,Wine,Imports,2018,1000 hl,  2
+Africa,Comoros,Wine,Imports,2019,1000 hl,  3
+Africa,Comoros,Wine,Imports,2020,1000 hl,  2
+Africa,Comoros,Wine,Imports,2021,1000 hl,  1
+Africa,Comoros,Wine,Imports,2022,1000 hl,  2
+Africa,Congo,Wine,Imports,2009,1000 hl,  52
+Africa,Congo,Wine,Imports,2010,1000 hl,  49
+Africa,Congo,Wine,Imports,2011,1000 hl,  36
+Africa,Congo,Wine,Imports,2012,1000 hl,  55
+Africa,Congo,Wine,Imports,2013,1000 hl,  44
+Africa,Congo,Wine,Imports,2014,1000 hl,  32
+Africa,Congo,Wine,Imports,2015,1000 hl,  32
+Africa,Congo,Wine,Imports,2016,1000 hl,  32
+Africa,Congo,Wine,Imports,2017,1000 hl,  18
+Africa,Congo,Wine,Imports,2018,1000 hl,  18
+Africa,Congo,Wine,Imports,2019,1000 hl,  23
+Africa,Congo,Wine,Imports,2020,1000 hl,  21
+Africa,Congo,Wine,Imports,2021,1000 hl,  26
+Africa,Congo,Wine,Imports,2022,1000 hl,  39
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2009,1000 hl,  28
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2010,1000 hl,  35
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2011,1000 hl,  32
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2012,1000 hl,  26
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2013,1000 hl,  37
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2014,1000 hl,  34
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2015,1000 hl,  22
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2016,1000 hl,  24
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2017,1000 hl,  22
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2018,1000 hl,  15
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2019,1000 hl,  16
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2020,1000 hl,  13
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2021,1000 hl,  24
+Africa,Congo (the Democratic Republic of the),Wine,Imports,2022,1000 hl,  131
+Oceania,Cook Islands,Wine,Imports,2009,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2010,1000 hl,  3
+Oceania,Cook Islands,Wine,Imports,2011,1000 hl,  1
+Oceania,Cook Islands,Wine,Imports,2012,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2013,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2014,1000 hl,  3
+Oceania,Cook Islands,Wine,Imports,2015,1000 hl,  3
+Oceania,Cook Islands,Wine,Imports,2016,1000 hl,  4
+Oceania,Cook Islands,Wine,Imports,2017,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2018,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2019,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2020,1000 hl,  1
+Oceania,Cook Islands,Wine,Imports,2021,1000 hl,  2
+Oceania,Cook Islands,Wine,Imports,2022,1000 hl,  2
+America,Costa Rica,Wine,Imports,2009,1000 hl,  45
+America,Costa Rica,Wine,Imports,2010,1000 hl,  94
+America,Costa Rica,Wine,Imports,2011,1000 hl,  85
+America,Costa Rica,Wine,Imports,2012,1000 hl,  85
+America,Costa Rica,Wine,Imports,2013,1000 hl,  94
+America,Costa Rica,Wine,Imports,2014,1000 hl,  104
+America,Costa Rica,Wine,Imports,2015,1000 hl,  110
+America,Costa Rica,Wine,Imports,2016,1000 hl,  110
+America,Costa Rica,Wine,Imports,2017,1000 hl,  98
+America,Costa Rica,Wine,Imports,2018,1000 hl,  104
+America,Costa Rica,Wine,Imports,2019,1000 hl,  113
+America,Costa Rica,Wine,Imports,2020,1000 hl,  105
+America,Costa Rica,Wine,Imports,2021,1000 hl,  132
+America,Costa Rica,Wine,Imports,2022,1000 hl,  144
+America,Costa Rica,Wine,Imports,2023,1000 hl,  124
+Africa,Côte d'Ivoire,Wine,Imports,2009,1000 hl,  277
+Africa,Côte d'Ivoire,Wine,Imports,2010,1000 hl,  299
+Africa,Côte d'Ivoire,Wine,Imports,2011,1000 hl,  279
+Africa,Côte d'Ivoire,Wine,Imports,2012,1000 hl,  290
+Africa,Côte d'Ivoire,Wine,Imports,2013,1000 hl,  290
+Africa,Côte d'Ivoire,Wine,Imports,2014,1000 hl,  320
+Africa,Côte d'Ivoire,Wine,Imports,2015,1000 hl,  400
+Africa,Côte d'Ivoire,Wine,Imports,2016,1000 hl,  450
+Africa,Côte d'Ivoire,Wine,Imports,2017,1000 hl,  480
+Africa,Côte d'Ivoire,Wine,Imports,2018,1000 hl,  410
+Africa,Côte d'Ivoire,Wine,Imports,2019,1000 hl,  415
+Africa,Côte d'Ivoire,Wine,Imports,2020,1000 hl,  394
+Africa,Côte d'Ivoire,Wine,Imports,2021,1000 hl,  584
+Africa,Côte d'Ivoire,Wine,Imports,2022,1000 hl,  583
+Africa,Côte d'Ivoire,Wine,Imports,2023,1000 hl,  772
+Europe,Croatia,Wine,Imports,2009,1000 hl,  106
+Europe,Croatia,Wine,Imports,2010,1000 hl,  148
+Europe,Croatia,Wine,Imports,2011,1000 hl,  147
+Europe,Croatia,Wine,Imports,2012,1000 hl,  145
+Europe,Croatia,Wine,Imports,2013,1000 hl,  128
+Europe,Croatia,Wine,Imports,2014,1000 hl,  224
+Europe,Croatia,Wine,Imports,2015,1000 hl,  290
+Europe,Croatia,Wine,Imports,2016,1000 hl,  310
+Europe,Croatia,Wine,Imports,2017,1000 hl,  269
+Europe,Croatia,Wine,Imports,2018,1000 hl,  241
+Europe,Croatia,Wine,Imports,2019,1000 hl,  249
+Europe,Croatia,Wine,Imports,2020,1000 hl,  245
+Europe,Croatia,Wine,Imports,2021,1000 hl,  276
+Europe,Croatia,Wine,Imports,2022,1000 hl,  245
+Europe,Croatia,Wine,Imports,2023,1000 hl,  246
+America,Cuba,Wine,Imports,2009,1000 hl,  54
+America,Cuba,Wine,Imports,2010,1000 hl,  68
+America,Cuba,Wine,Imports,2011,1000 hl,  51
+America,Cuba,Wine,Imports,2012,1000 hl,  53
+America,Cuba,Wine,Imports,2013,1000 hl,  58
+America,Cuba,Wine,Imports,2014,1000 hl,  58
+America,Cuba,Wine,Imports,2015,1000 hl,  57
+America,Cuba,Wine,Imports,2016,1000 hl,  74
+America,Cuba,Wine,Imports,2017,1000 hl,  62
+America,Cuba,Wine,Imports,2018,1000 hl,  60
+America,Cuba,Wine,Imports,2019,1000 hl,  48
+America,Cuba,Wine,Imports,2020,1000 hl,  23
+America,Cuba,Wine,Imports,2021,1000 hl,  21
+America,Cuba,Wine,Imports,2022,1000 hl,  39
+Europe,Cyprus,Wine,Imports,2009,1000 hl,  44
+Europe,Cyprus,Wine,Imports,2010,1000 hl,  58
+Europe,Cyprus,Wine,Imports,2011,1000 hl,  62
+Europe,Cyprus,Wine,Imports,2012,1000 hl,  75
+Europe,Cyprus,Wine,Imports,2013,1000 hl,  72
+Europe,Cyprus,Wine,Imports,2014,1000 hl,  80
+Europe,Cyprus,Wine,Imports,2015,1000 hl,  84
+Europe,Cyprus,Wine,Imports,2016,1000 hl,  87
+Europe,Cyprus,Wine,Imports,2017,1000 hl,  89
+Europe,Cyprus,Wine,Imports,2018,1000 hl,  83
+Europe,Cyprus,Wine,Imports,2019,1000 hl,  80
+Europe,Cyprus,Wine,Imports,2020,1000 hl,  50
+Europe,Cyprus,Wine,Imports,2021,1000 hl,  62
+Europe,Cyprus,Wine,Imports,2022,1000 hl,  75
+Europe,Cyprus,Wine,Imports,2023,1000 hl,  64
+Europe,Czech Republic,Wine,Imports,2009,1000 hl, 1 443
+Europe,Czech Republic,Wine,Imports,2010,1000 hl, 1 900
+Europe,Czech Republic,Wine,Imports,2011,1000 hl, 1 850
+Europe,Czech Republic,Wine,Imports,2012,1000 hl, 1 572
+Europe,Czech Republic,Wine,Imports,2013,1000 hl, 1 528
+Europe,Czech Republic,Wine,Imports,2014,1000 hl, 1 552
+Europe,Czech Republic,Wine,Imports,2015,1000 hl, 1 610
+Europe,Czech Republic,Wine,Imports,2016,1000 hl, 1 403
+Europe,Czech Republic,Wine,Imports,2017,1000 hl, 1 467
+Europe,Czech Republic,Wine,Imports,2018,1000 hl, 1 322
+Europe,Czech Republic,Wine,Imports,2019,1000 hl, 1 379
+Europe,Czech Republic,Wine,Imports,2020,1000 hl, 1 741
+Europe,Czech Republic,Wine,Imports,2021,1000 hl, 1 729
+Europe,Czech Republic,Wine,Imports,2022,1000 hl, 1 703
+Europe,Czech Republic,Wine,Imports,2023,1000 hl, 1 375
+Europe,Denmark,Wine,Imports,2009,1000 hl, 2 078
+Europe,Denmark,Wine,Imports,2010,1000 hl, 1 886
+Europe,Denmark,Wine,Imports,2011,1000 hl, 1 875
+Europe,Denmark,Wine,Imports,2012,1000 hl, 1 886
+Europe,Denmark,Wine,Imports,2013,1000 hl, 2 015
+Europe,Denmark,Wine,Imports,2014,1000 hl, 1 867
+Europe,Denmark,Wine,Imports,2015,1000 hl, 1 821
+Europe,Denmark,Wine,Imports,2016,1000 hl, 1 798
+Europe,Denmark,Wine,Imports,2017,1000 hl, 1 711
+Europe,Denmark,Wine,Imports,2018,1000 hl, 1 781
+Europe,Denmark,Wine,Imports,2019,1000 hl, 1 813
+Europe,Denmark,Wine,Imports,2020,1000 hl, 1 836
+Europe,Denmark,Wine,Imports,2021,1000 hl, 1 982
+Europe,Denmark,Wine,Imports,2022,1000 hl, 1 807
+Europe,Denmark,Wine,Imports,2023,1000 hl, 1 774
+Africa,Djibouti,Wine,Imports,2009,1000 hl,  3
+Africa,Djibouti,Wine,Imports,2010,1000 hl,  2
+Africa,Djibouti,Wine,Imports,2011,1000 hl,  4
+Africa,Djibouti,Wine,Imports,2012,1000 hl,  5
+Africa,Djibouti,Wine,Imports,2013,1000 hl,  8
+Africa,Djibouti,Wine,Imports,2014,1000 hl,  1
+Africa,Djibouti,Wine,Imports,2015,1000 hl,  3
+Africa,Djibouti,Wine,Imports,2016,1000 hl,  2
+Africa,Djibouti,Wine,Imports,2017,1000 hl,  3
+Africa,Djibouti,Wine,Imports,2018,1000 hl,  2
+Africa,Djibouti,Wine,Imports,2019,1000 hl,  2
+Africa,Djibouti,Wine,Imports,2020,1000 hl,  2
+Africa,Djibouti,Wine,Imports,2021,1000 hl,  2
+Africa,Djibouti,Wine,Imports,2022,1000 hl,  2
+America,Dominica,Wine,Imports,2009,1000 hl,  2
+America,Dominica,Wine,Imports,2010,1000 hl,  2
+America,Dominica,Wine,Imports,2011,1000 hl,  1
+America,Dominica,Wine,Imports,2012,1000 hl,  1
+America,Dominica,Wine,Imports,2013,1000 hl,  2
+America,Dominica,Wine,Imports,2014,1000 hl,  1
+America,Dominica,Wine,Imports,2015,1000 hl,  1
+America,Dominica,Wine,Imports,2016,1000 hl,  1
+America,Dominica,Wine,Imports,2017,1000 hl,  1
+America,Dominica,Wine,Imports,2018,1000 hl,  2
+America,Dominica,Wine,Imports,2019,1000 hl,  4
+America,Dominica,Wine,Imports,2020,1000 hl,  4
+America,Dominica,Wine,Imports,2021,1000 hl,  3
+America,Dominica,Wine,Imports,2022,1000 hl,  2
+America,Dominican Republic,Wine,Imports,2009,1000 hl,  74
+America,Dominican Republic,Wine,Imports,2010,1000 hl,  86
+America,Dominican Republic,Wine,Imports,2011,1000 hl,  97
+America,Dominican Republic,Wine,Imports,2012,1000 hl,  97
+America,Dominican Republic,Wine,Imports,2013,1000 hl,  120
+America,Dominican Republic,Wine,Imports,2014,1000 hl,  116
+America,Dominican Republic,Wine,Imports,2015,1000 hl,  134
+America,Dominican Republic,Wine,Imports,2016,1000 hl,  131
+America,Dominican Republic,Wine,Imports,2017,1000 hl,  170
+America,Dominican Republic,Wine,Imports,2018,1000 hl,  163
+America,Dominican Republic,Wine,Imports,2019,1000 hl,  159
+America,Dominican Republic,Wine,Imports,2020,1000 hl,  126
+America,Dominican Republic,Wine,Imports,2021,1000 hl,  198
+America,Dominican Republic,Wine,Imports,2022,1000 hl,  256
+America,Dominican Republic,Wine,Imports,2023,1000 hl,  256
+America,Ecuador,Wine,Imports,2009,1000 hl,  50
+America,Ecuador,Wine,Imports,2010,1000 hl,  60
+America,Ecuador,Wine,Imports,2011,1000 hl,  45
+America,Ecuador,Wine,Imports,2012,1000 hl,  60
+America,Ecuador,Wine,Imports,2013,1000 hl,  50
+America,Ecuador,Wine,Imports,2014,1000 hl,  70
+America,Ecuador,Wine,Imports,2015,1000 hl,  60
+America,Ecuador,Wine,Imports,2016,1000 hl,  60
+America,Ecuador,Wine,Imports,2017,1000 hl,  80
+America,Ecuador,Wine,Imports,2018,1000 hl,  95
+America,Ecuador,Wine,Imports,2019,1000 hl,  104
+America,Ecuador,Wine,Imports,2020,1000 hl,  86
+America,Ecuador,Wine,Imports,2021,1000 hl,  133
+America,Ecuador,Wine,Imports,2022,1000 hl,  146
+America,Ecuador,Wine,Imports,2023,1000 hl,  146
+Africa,Egypt,Wine,Imports,2009,1000 hl,0
+Africa,Egypt,Wine,Imports,2010,1000 hl,0
+Africa,Egypt,Wine,Imports,2011,1000 hl,0
+Africa,Egypt,Wine,Imports,2012,1000 hl,0
+Africa,Egypt,Wine,Imports,2013,1000 hl,0
+Africa,Egypt,Wine,Imports,2014,1000 hl,0
+Africa,Egypt,Wine,Imports,2015,1000 hl,0
+Africa,Egypt,Wine,Imports,2016,1000 hl,0
+Africa,Egypt,Wine,Imports,2017,1000 hl,0
+Africa,Egypt,Wine,Imports,2018,1000 hl,0
+Africa,Egypt,Wine,Imports,2019,1000 hl,0
+Africa,Egypt,Wine,Imports,2020,1000 hl,0
+Africa,Egypt,Wine,Imports,2021,1000 hl,0
+Africa,Egypt,Wine,Imports,2022,1000 hl,0
+Africa,Egypt,Wine,Imports,2023,1000 hl,0
+America,El Salvador,Wine,Imports,2009,1000 hl,  20
+America,El Salvador,Wine,Imports,2010,1000 hl,  21
+America,El Salvador,Wine,Imports,2011,1000 hl,  21
+America,El Salvador,Wine,Imports,2012,1000 hl,  20
+America,El Salvador,Wine,Imports,2013,1000 hl,  20
+America,El Salvador,Wine,Imports,2014,1000 hl,  20
+America,El Salvador,Wine,Imports,2015,1000 hl,  20
+America,El Salvador,Wine,Imports,2016,1000 hl,  20
+America,El Salvador,Wine,Imports,2017,1000 hl,  20
+America,El Salvador,Wine,Imports,2018,1000 hl,  20
+America,El Salvador,Wine,Imports,2019,1000 hl,  28
+America,El Salvador,Wine,Imports,2020,1000 hl,  24
+America,El Salvador,Wine,Imports,2021,1000 hl,  32
+America,El Salvador,Wine,Imports,2022,1000 hl,  38
+America,El Salvador,Wine,Imports,2023,1000 hl,  32
+Africa,Equatorial Guinea,Wine,Imports,2009,1000 hl,  117
+Africa,Equatorial Guinea,Wine,Imports,2010,1000 hl,  123
+Africa,Equatorial Guinea,Wine,Imports,2011,1000 hl,  117
+Africa,Equatorial Guinea,Wine,Imports,2012,1000 hl,  127
+Africa,Equatorial Guinea,Wine,Imports,2013,1000 hl,  55
+Africa,Equatorial Guinea,Wine,Imports,2014,1000 hl,  72
+Africa,Equatorial Guinea,Wine,Imports,2015,1000 hl,  67
+Africa,Equatorial Guinea,Wine,Imports,2016,1000 hl,  67
+Africa,Equatorial Guinea,Wine,Imports,2017,1000 hl,  75
+Africa,Equatorial Guinea,Wine,Imports,2018,1000 hl,  63
+Africa,Equatorial Guinea,Wine,Imports,2019,1000 hl,  78
+Africa,Equatorial Guinea,Wine,Imports,2020,1000 hl,  80
+Africa,Equatorial Guinea,Wine,Imports,2021,1000 hl,  57
+Africa,Equatorial Guinea,Wine,Imports,2022,1000 hl,  60
+Europe,Estonia,Wine,Imports,2009,1000 hl,  172
+Europe,Estonia,Wine,Imports,2010,1000 hl,  200
+Europe,Estonia,Wine,Imports,2011,1000 hl,  221
+Europe,Estonia,Wine,Imports,2012,1000 hl,  226
+Europe,Estonia,Wine,Imports,2013,1000 hl,  238
+Europe,Estonia,Wine,Imports,2014,1000 hl,  233
+Europe,Estonia,Wine,Imports,2015,1000 hl,  229
+Europe,Estonia,Wine,Imports,2016,1000 hl,  252
+Europe,Estonia,Wine,Imports,2017,1000 hl,  244
+Europe,Estonia,Wine,Imports,2018,1000 hl,  226
+Europe,Estonia,Wine,Imports,2019,1000 hl,  225
+Europe,Estonia,Wine,Imports,2020,1000 hl,  201
+Europe,Estonia,Wine,Imports,2021,1000 hl,  222
+Europe,Estonia,Wine,Imports,2022,1000 hl,  235
+Europe,Estonia,Wine,Imports,2023,1000 hl,  230
+Africa,Eswatini,Wine,Imports,2009,1000 hl,  2
+Africa,Eswatini,Wine,Imports,2010,1000 hl,  3
+Africa,Eswatini,Wine,Imports,2011,1000 hl,  4
+Africa,Eswatini,Wine,Imports,2012,1000 hl,  11
+Africa,Eswatini,Wine,Imports,2013,1000 hl,  17
+Africa,Eswatini,Wine,Imports,2014,1000 hl,  19
+Africa,Eswatini,Wine,Imports,2015,1000 hl,  16
+Africa,Eswatini,Wine,Imports,2016,1000 hl,  13
+Africa,Eswatini,Wine,Imports,2017,1000 hl,  24
+Africa,Eswatini,Wine,Imports,2018,1000 hl,  32
+Africa,Eswatini,Wine,Imports,2019,1000 hl,  36
+Africa,Eswatini,Wine,Imports,2020,1000 hl,  32
+Africa,Eswatini,Wine,Imports,2021,1000 hl,  36
+Africa,Eswatini,Wine,Imports,2022,1000 hl,  36
+Africa,Ethiopia,Wine,Imports,2009,1000 hl,  5
+Africa,Ethiopia,Wine,Imports,2010,1000 hl,  7
+Africa,Ethiopia,Wine,Imports,2011,1000 hl,  7
+Africa,Ethiopia,Wine,Imports,2012,1000 hl,  2
+Africa,Ethiopia,Wine,Imports,2013,1000 hl,  22
+Africa,Ethiopia,Wine,Imports,2014,1000 hl,  13
+Africa,Ethiopia,Wine,Imports,2015,1000 hl,  19
+Africa,Ethiopia,Wine,Imports,2016,1000 hl,  6
+Africa,Ethiopia,Wine,Imports,2017,1000 hl,  5
+Africa,Ethiopia,Wine,Imports,2018,1000 hl,  2
+Africa,Ethiopia,Wine,Imports,2019,1000 hl,  2
+Africa,Ethiopia,Wine,Imports,2020,1000 hl,  3
+Africa,Ethiopia,Wine,Imports,2021,1000 hl,  2
+Africa,Ethiopia,Wine,Imports,2022,1000 hl,  2
+Africa,Ethiopia,Wine,Imports,2023,1000 hl,  3
+Europe,Faroe Islands,Wine,Imports,2009,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2010,1000 hl,  4
+Europe,Faroe Islands,Wine,Imports,2011,1000 hl,  4
+Europe,Faroe Islands,Wine,Imports,2012,1000 hl,  4
+Europe,Faroe Islands,Wine,Imports,2013,1000 hl,  4
+Europe,Faroe Islands,Wine,Imports,2014,1000 hl,  4
+Europe,Faroe Islands,Wine,Imports,2015,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2016,1000 hl,  4
+Europe,Faroe Islands,Wine,Imports,2017,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2018,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2019,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2020,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2021,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2022,1000 hl,  5
+Europe,Faroe Islands,Wine,Imports,2023,1000 hl,  5
+Oceania,Fiji,Wine,Imports,2009,1000 hl,  13
+Oceania,Fiji,Wine,Imports,2010,1000 hl,  10
+Oceania,Fiji,Wine,Imports,2011,1000 hl,  9
+Oceania,Fiji,Wine,Imports,2012,1000 hl,  11
+Oceania,Fiji,Wine,Imports,2013,1000 hl,  10
+Oceania,Fiji,Wine,Imports,2014,1000 hl,  12
+Oceania,Fiji,Wine,Imports,2015,1000 hl,  15
+Oceania,Fiji,Wine,Imports,2016,1000 hl,  13
+Oceania,Fiji,Wine,Imports,2017,1000 hl,  14
+Oceania,Fiji,Wine,Imports,2018,1000 hl,  15
+Oceania,Fiji,Wine,Imports,2019,1000 hl,  13
+Oceania,Fiji,Wine,Imports,2020,1000 hl,  7
+Oceania,Fiji,Wine,Imports,2021,1000 hl,  11
+Oceania,Fiji,Wine,Imports,2022,1000 hl,  23
+Europe,Finland,Wine,Imports,2009,1000 hl,  573
+Europe,Finland,Wine,Imports,2010,1000 hl,  579
+Europe,Finland,Wine,Imports,2011,1000 hl,  594
+Europe,Finland,Wine,Imports,2012,1000 hl,  603
+Europe,Finland,Wine,Imports,2013,1000 hl,  638
+Europe,Finland,Wine,Imports,2014,1000 hl,  770
+Europe,Finland,Wine,Imports,2015,1000 hl,  761
+Europe,Finland,Wine,Imports,2016,1000 hl,  763
+Europe,Finland,Wine,Imports,2017,1000 hl,  743
+Europe,Finland,Wine,Imports,2018,1000 hl,  784
+Europe,Finland,Wine,Imports,2019,1000 hl,  747
+Europe,Finland,Wine,Imports,2020,1000 hl,  801
+Europe,Finland,Wine,Imports,2021,1000 hl,  713
+Europe,Finland,Wine,Imports,2022,1000 hl,  705
+Europe,Finland,Wine,Imports,2023,1000 hl,  707
+Europe,France,Wine,Imports,2009,1000 hl, 5 829
+Europe,France,Wine,Imports,2010,1000 hl, 6 465
+Europe,France,Wine,Imports,2011,1000 hl, 6 543
+Europe,France,Wine,Imports,2012,1000 hl, 5 433
+Europe,France,Wine,Imports,2013,1000 hl, 5 982
+Europe,France,Wine,Imports,2014,1000 hl, 6 945
+Europe,France,Wine,Imports,2015,1000 hl, 7 620
+Europe,France,Wine,Imports,2016,1000 hl, 7 638
+Europe,France,Wine,Imports,2017,1000 hl, 7 315
+Europe,France,Wine,Imports,2018,1000 hl, 7 002
+Europe,France,Wine,Imports,2019,1000 hl, 6 646
+Europe,France,Wine,Imports,2020,1000 hl, 6 089
+Europe,France,Wine,Imports,2021,1000 hl, 6 151
+Europe,France,Wine,Imports,2022,1000 hl, 6 244
+Europe,France,Wine,Imports,2023,1000 hl, 5 967
+America,French Guiana,Wine,Imports,2009,1000 hl,0
+America,French Guiana,Wine,Imports,2010,1000 hl,0
+America,French Guiana,Wine,Imports,2011,1000 hl,  2
+America,French Guiana,Wine,Imports,2012,1000 hl,  1
+America,French Guiana,Wine,Imports,2013,1000 hl,  1
+America,French Guiana,Wine,Imports,2014,1000 hl,  1
+America,French Guiana,Wine,Imports,2015,1000 hl,  1
+America,French Guiana,Wine,Imports,2016,1000 hl,  1
+America,French Guiana,Wine,Imports,2017,1000 hl,  1
+America,French Guiana,Wine,Imports,2018,1000 hl,  2
+America,French Guiana,Wine,Imports,2019,1000 hl,  2
+America,French Guiana,Wine,Imports,2020,1000 hl,  2
+America,French Guiana,Wine,Imports,2021,1000 hl,  2
+America,French Guiana,Wine,Imports,2022,1000 hl,  2
+Oceania,French Polynesia,Wine,Imports,2009,1000 hl,  41
+Oceania,French Polynesia,Wine,Imports,2010,1000 hl,  39
+Oceania,French Polynesia,Wine,Imports,2011,1000 hl,  37
+Oceania,French Polynesia,Wine,Imports,2012,1000 hl,  36
+Oceania,French Polynesia,Wine,Imports,2013,1000 hl,  29
+Oceania,French Polynesia,Wine,Imports,2014,1000 hl,  27
+Oceania,French Polynesia,Wine,Imports,2015,1000 hl,  27
+Oceania,French Polynesia,Wine,Imports,2016,1000 hl,  26
+Oceania,French Polynesia,Wine,Imports,2017,1000 hl,  26
+Oceania,French Polynesia,Wine,Imports,2018,1000 hl,  26
+Oceania,French Polynesia,Wine,Imports,2019,1000 hl,  25
+Oceania,French Polynesia,Wine,Imports,2020,1000 hl,  21
+Oceania,French Polynesia,Wine,Imports,2021,1000 hl,  21
+Oceania,French Polynesia,Wine,Imports,2022,1000 hl,  23
+Africa,Gabon,Wine,Imports,2009,1000 hl,  77
+Africa,Gabon,Wine,Imports,2010,1000 hl,  99
+Africa,Gabon,Wine,Imports,2011,1000 hl,  92
+Africa,Gabon,Wine,Imports,2012,1000 hl,  73
+Africa,Gabon,Wine,Imports,2013,1000 hl,  75
+Africa,Gabon,Wine,Imports,2014,1000 hl,  68
+Africa,Gabon,Wine,Imports,2015,1000 hl,  76
+Africa,Gabon,Wine,Imports,2016,1000 hl,  72
+Africa,Gabon,Wine,Imports,2017,1000 hl,  55
+Africa,Gabon,Wine,Imports,2018,1000 hl,  57
+Africa,Gabon,Wine,Imports,2019,1000 hl,  54
+Africa,Gabon,Wine,Imports,2020,1000 hl,  46
+Africa,Gabon,Wine,Imports,2021,1000 hl,  60
+Africa,Gabon,Wine,Imports,2022,1000 hl,  49
+Africa,Gambia,Wine,Imports,2009,1000 hl,  1
+Africa,Gambia,Wine,Imports,2010,1000 hl,  1
+Africa,Gambia,Wine,Imports,2011,1000 hl,0
+Africa,Gambia,Wine,Imports,2012,1000 hl,  1
+Africa,Gambia,Wine,Imports,2013,1000 hl,0
+Africa,Gambia,Wine,Imports,2014,1000 hl,0
+Africa,Gambia,Wine,Imports,2015,1000 hl,0
+Africa,Gambia,Wine,Imports,2016,1000 hl,0
+Africa,Gambia,Wine,Imports,2017,1000 hl,0
+Africa,Gambia,Wine,Imports,2018,1000 hl,0
+Africa,Gambia,Wine,Imports,2019,1000 hl,0
+Africa,Gambia,Wine,Imports,2020,1000 hl,0
+Africa,Gambia,Wine,Imports,2021,1000 hl,0
+Africa,Gambia,Wine,Imports,2022,1000 hl,  1
+Asia,Georgia,Wine,Imports,2009,1000 hl,  1
+Asia,Georgia,Wine,Imports,2010,1000 hl,  1
+Asia,Georgia,Wine,Imports,2011,1000 hl,  1
+Asia,Georgia,Wine,Imports,2012,1000 hl,  3
+Asia,Georgia,Wine,Imports,2013,1000 hl,  3
+Asia,Georgia,Wine,Imports,2014,1000 hl,  2
+Asia,Georgia,Wine,Imports,2015,1000 hl,  2
+Asia,Georgia,Wine,Imports,2016,1000 hl,  2
+Asia,Georgia,Wine,Imports,2017,1000 hl,  2
+Asia,Georgia,Wine,Imports,2018,1000 hl,  5
+Asia,Georgia,Wine,Imports,2019,1000 hl,  5
+Asia,Georgia,Wine,Imports,2020,1000 hl,  3
+Asia,Georgia,Wine,Imports,2021,1000 hl,  4
+Asia,Georgia,Wine,Imports,2022,1000 hl,  7
+Asia,Georgia,Wine,Imports,2023,1000 hl,  6
+Europe,Germany,Wine,Imports,2009,1000 hl, 14 110
+Europe,Germany,Wine,Imports,2010,1000 hl, 14 778
+Europe,Germany,Wine,Imports,2011,1000 hl, 16 133
+Europe,Germany,Wine,Imports,2012,1000 hl, 15 374
+Europe,Germany,Wine,Imports,2013,1000 hl, 15 274
+Europe,Germany,Wine,Imports,2014,1000 hl, 15 482
+Europe,Germany,Wine,Imports,2015,1000 hl, 15 420
+Europe,Germany,Wine,Imports,2016,1000 hl, 14 851
+Europe,Germany,Wine,Imports,2017,1000 hl, 15 230
+Europe,Germany,Wine,Imports,2018,1000 hl, 14 656
+Europe,Germany,Wine,Imports,2019,1000 hl, 14 802
+Europe,Germany,Wine,Imports,2020,1000 hl, 14 486
+Europe,Germany,Wine,Imports,2021,1000 hl, 14 781
+Europe,Germany,Wine,Imports,2022,1000 hl, 13 614
+Europe,Germany,Wine,Imports,2023,1000 hl, 13 664
+Africa,Ghana,Wine,Imports,2009,1000 hl,  93
+Africa,Ghana,Wine,Imports,2010,1000 hl,  87
+Africa,Ghana,Wine,Imports,2011,1000 hl,  106
+Africa,Ghana,Wine,Imports,2012,1000 hl,  120
+Africa,Ghana,Wine,Imports,2013,1000 hl,  90
+Africa,Ghana,Wine,Imports,2014,1000 hl,  70
+Africa,Ghana,Wine,Imports,2015,1000 hl,  50
+Africa,Ghana,Wine,Imports,2016,1000 hl,  60
+Africa,Ghana,Wine,Imports,2017,1000 hl,  90
+Africa,Ghana,Wine,Imports,2018,1000 hl,  80
+Africa,Ghana,Wine,Imports,2019,1000 hl,  80
+Africa,Ghana,Wine,Imports,2020,1000 hl,  55
+Africa,Ghana,Wine,Imports,2021,1000 hl,  74
+Africa,Ghana,Wine,Imports,2022,1000 hl,  89
+Africa,Ghana,Wine,Imports,2023,1000 hl,  89
+Global,Global,Wine,Imports,2009,1000 hl, 84 760
+Global,Global,Wine,Imports,2010,1000 hl, 92 428
+Global,Global,Wine,Imports,2011,1000 hl, 98 346
+Global,Global,Wine,Imports,2012,1000 hl, 99 654
+Global,Global,Wine,Imports,2013,1000 hl, 100 075
+Global,Global,Wine,Imports,2014,1000 hl, 104 300
+Global,Global,Wine,Imports,2015,1000 hl, 106 000
+Global,Global,Wine,Imports,2016,1000 hl, 105 500
+Global,Global,Wine,Imports,2017,1000 hl, 110 300
+Global,Global,Wine,Imports,2018,1000 hl, 105 700
+Global,Global,Wine,Imports,2019,1000 hl, 108 200
+Global,Global,Wine,Imports,2020,1000 hl, 106 400
+Global,Global,Wine,Imports,2021,1000 hl, 112 300
+Global,Global,Wine,Imports,2022,1000 hl, 106 052
+Global,Global,Wine,Imports,2023,1000 hl, 99 348
+Europe,Greece,Wine,Imports,2009,1000 hl,  165
+Europe,Greece,Wine,Imports,2010,1000 hl,  107
+Europe,Greece,Wine,Imports,2011,1000 hl,  203
+Europe,Greece,Wine,Imports,2012,1000 hl,  174
+Europe,Greece,Wine,Imports,2013,1000 hl,  179
+Europe,Greece,Wine,Imports,2014,1000 hl,  149
+Europe,Greece,Wine,Imports,2015,1000 hl,  125
+Europe,Greece,Wine,Imports,2016,1000 hl,  165
+Europe,Greece,Wine,Imports,2017,1000 hl,  122
+Europe,Greece,Wine,Imports,2018,1000 hl,  116
+Europe,Greece,Wine,Imports,2019,1000 hl,  231
+Europe,Greece,Wine,Imports,2020,1000 hl,  113
+Europe,Greece,Wine,Imports,2021,1000 hl,  173
+Europe,Greece,Wine,Imports,2022,1000 hl,  162
+Europe,Greece,Wine,Imports,2023,1000 hl,  173
+America,Greenland,Wine,Imports,2009,1000 hl,  9
+America,Greenland,Wine,Imports,2010,1000 hl,  8
+America,Greenland,Wine,Imports,2011,1000 hl,  8
+America,Greenland,Wine,Imports,2012,1000 hl,  8
+America,Greenland,Wine,Imports,2013,1000 hl,  11
+America,Greenland,Wine,Imports,2014,1000 hl,  7
+America,Greenland,Wine,Imports,2015,1000 hl,  6
+America,Greenland,Wine,Imports,2016,1000 hl,  6
+America,Greenland,Wine,Imports,2017,1000 hl,  6
+America,Greenland,Wine,Imports,2018,1000 hl,  5
+America,Greenland,Wine,Imports,2019,1000 hl,  6
+America,Greenland,Wine,Imports,2020,1000 hl,  6
+America,Greenland,Wine,Imports,2021,1000 hl,  6
+America,Greenland,Wine,Imports,2022,1000 hl,  14
+America,Greenland,Wine,Imports,2023,1000 hl,  5
+America,Grenada,Wine,Imports,2009,1000 hl,  34
+America,Grenada,Wine,Imports,2010,1000 hl,  34
+America,Grenada,Wine,Imports,2011,1000 hl,  33
+America,Grenada,Wine,Imports,2012,1000 hl,  37
+America,Grenada,Wine,Imports,2013,1000 hl,  29
+America,Grenada,Wine,Imports,2014,1000 hl,  46
+America,Grenada,Wine,Imports,2015,1000 hl,  45
+America,Grenada,Wine,Imports,2016,1000 hl,  48
+America,Grenada,Wine,Imports,2017,1000 hl,  53
+America,Grenada,Wine,Imports,2018,1000 hl,  65
+America,Grenada,Wine,Imports,2019,1000 hl,  63
+America,Grenada,Wine,Imports,2020,1000 hl,  55
+America,Grenada,Wine,Imports,2021,1000 hl,  80
+America,Grenada,Wine,Imports,2022,1000 hl,  94
+America,Grenada,Wine,Imports,2023,1000 hl,  87
+America,Guadeloupe,Wine,Imports,2009,1000 hl,0
+America,Guadeloupe,Wine,Imports,2010,1000 hl,0
+America,Guadeloupe,Wine,Imports,2011,1000 hl,0
+America,Guadeloupe,Wine,Imports,2012,1000 hl,0
+America,Guadeloupe,Wine,Imports,2013,1000 hl,0
+America,Guadeloupe,Wine,Imports,2014,1000 hl,0
+America,Guadeloupe,Wine,Imports,2015,1000 hl,0
+America,Guadeloupe,Wine,Imports,2016,1000 hl,0
+America,Guadeloupe,Wine,Imports,2017,1000 hl,0
+America,Guadeloupe,Wine,Imports,2018,1000 hl,0
+America,Guadeloupe,Wine,Imports,2019,1000 hl,0
+America,Guadeloupe,Wine,Imports,2020,1000 hl,0
+America,Guadeloupe,Wine,Imports,2021,1000 hl,0
+America,Guadeloupe,Wine,Imports,2022,1000 hl,0
+Oceania,Guam,Wine,Imports,2009,1000 hl,0
+Oceania,Guam,Wine,Imports,2010,1000 hl,0
+Oceania,Guam,Wine,Imports,2011,1000 hl,0
+Oceania,Guam,Wine,Imports,2012,1000 hl,0
+Oceania,Guam,Wine,Imports,2013,1000 hl,0
+Oceania,Guam,Wine,Imports,2014,1000 hl,  2
+Oceania,Guam,Wine,Imports,2015,1000 hl,  2
+Oceania,Guam,Wine,Imports,2016,1000 hl,  1
+Oceania,Guam,Wine,Imports,2017,1000 hl,0
+Oceania,Guam,Wine,Imports,2018,1000 hl,0
+Oceania,Guam,Wine,Imports,2019,1000 hl,0
+Oceania,Guam,Wine,Imports,2020,1000 hl,0
+Oceania,Guam,Wine,Imports,2021,1000 hl,0
+Oceania,Guam,Wine,Imports,2022,1000 hl,0
+Africa,Guinea,Wine,Imports,2009,1000 hl,  1
+Africa,Guinea,Wine,Imports,2010,1000 hl,  14
+Africa,Guinea,Wine,Imports,2011,1000 hl,  9
+Africa,Guinea,Wine,Imports,2012,1000 hl,  6
+Africa,Guinea,Wine,Imports,2013,1000 hl,  7
+Africa,Guinea,Wine,Imports,2014,1000 hl,  6
+Africa,Guinea,Wine,Imports,2015,1000 hl,  5
+Africa,Guinea,Wine,Imports,2016,1000 hl,  5
+Africa,Guinea,Wine,Imports,2017,1000 hl,  7
+Africa,Guinea,Wine,Imports,2018,1000 hl,  6
+Africa,Guinea,Wine,Imports,2019,1000 hl,  9
+Africa,Guinea,Wine,Imports,2020,1000 hl,  29
+Africa,Guinea,Wine,Imports,2021,1000 hl,  38
+Africa,Guinea,Wine,Imports,2022,1000 hl,  30
+Africa,Guinea,Wine,Imports,2023,1000 hl,  30
+Africa,Guinea-Bissau,Wine,Imports,2009,1000 hl,  41
+Africa,Guinea-Bissau,Wine,Imports,2010,1000 hl,  53
+Africa,Guinea-Bissau,Wine,Imports,2011,1000 hl,  71
+Africa,Guinea-Bissau,Wine,Imports,2012,1000 hl,  70
+Africa,Guinea-Bissau,Wine,Imports,2013,1000 hl,  65
+Africa,Guinea-Bissau,Wine,Imports,2014,1000 hl,  76
+Africa,Guinea-Bissau,Wine,Imports,2015,1000 hl,  80
+Africa,Guinea-Bissau,Wine,Imports,2016,1000 hl,  92
+Africa,Guinea-Bissau,Wine,Imports,2017,1000 hl,  110
+Africa,Guinea-Bissau,Wine,Imports,2018,1000 hl,  93
+Africa,Guinea-Bissau,Wine,Imports,2019,1000 hl,  100
+Africa,Guinea-Bissau,Wine,Imports,2020,1000 hl,  90
+Africa,Guinea-Bissau,Wine,Imports,2021,1000 hl,  114
+Africa,Guinea-Bissau,Wine,Imports,2022,1000 hl,  114
+Africa,Guinea-Bissau,Wine,Imports,2023,1000 hl,  114
+America,Guyana,Wine,Imports,2009,1000 hl,  1
+America,Guyana,Wine,Imports,2010,1000 hl,  1
+America,Guyana,Wine,Imports,2011,1000 hl,  2
+America,Guyana,Wine,Imports,2012,1000 hl,  1
+America,Guyana,Wine,Imports,2013,1000 hl,  1
+America,Guyana,Wine,Imports,2014,1000 hl,  1
+America,Guyana,Wine,Imports,2015,1000 hl,  1
+America,Guyana,Wine,Imports,2016,1000 hl,  2
+America,Guyana,Wine,Imports,2017,1000 hl,  2
+America,Guyana,Wine,Imports,2018,1000 hl,  2
+America,Guyana,Wine,Imports,2019,1000 hl,  3
+America,Guyana,Wine,Imports,2020,1000 hl,  2
+America,Guyana,Wine,Imports,2021,1000 hl,  3
+America,Guyana,Wine,Imports,2022,1000 hl,  4
+America,Haiti,Wine,Imports,2009,1000 hl,  7
+America,Haiti,Wine,Imports,2010,1000 hl,  7
+America,Haiti,Wine,Imports,2011,1000 hl,  8
+America,Haiti,Wine,Imports,2012,1000 hl,  9
+America,Haiti,Wine,Imports,2013,1000 hl,  69
+America,Haiti,Wine,Imports,2014,1000 hl,  12
+America,Haiti,Wine,Imports,2015,1000 hl,  8
+America,Haiti,Wine,Imports,2016,1000 hl,  15
+America,Haiti,Wine,Imports,2017,1000 hl,  18
+America,Haiti,Wine,Imports,2018,1000 hl,  18
+America,Haiti,Wine,Imports,2019,1000 hl,  18
+America,Haiti,Wine,Imports,2020,1000 hl,  18
+America,Haiti,Wine,Imports,2021,1000 hl,  18
+America,Haiti,Wine,Imports,2022,1000 hl,  18
+America,Haiti,Wine,Imports,2023,1000 hl,  18
+America,Honduras,Wine,Imports,2009,1000 hl,  16
+America,Honduras,Wine,Imports,2010,1000 hl,  11
+America,Honduras,Wine,Imports,2011,1000 hl,  11
+America,Honduras,Wine,Imports,2012,1000 hl,  22
+America,Honduras,Wine,Imports,2013,1000 hl,  10
+America,Honduras,Wine,Imports,2014,1000 hl,  17
+America,Honduras,Wine,Imports,2015,1000 hl,  20
+America,Honduras,Wine,Imports,2016,1000 hl,  19
+America,Honduras,Wine,Imports,2017,1000 hl,  20
+America,Honduras,Wine,Imports,2018,1000 hl,  23
+America,Honduras,Wine,Imports,2019,1000 hl,  22
+America,Honduras,Wine,Imports,2020,1000 hl,  18
+America,Honduras,Wine,Imports,2021,1000 hl,  29
+America,Honduras,Wine,Imports,2022,1000 hl,  29
+America,Honduras,Wine,Imports,2023,1000 hl,  29
+Europe,Hungary,Wine,Imports,2009,1000 hl,  134
+Europe,Hungary,Wine,Imports,2010,1000 hl,  181
+Europe,Hungary,Wine,Imports,2011,1000 hl,  537
+Europe,Hungary,Wine,Imports,2012,1000 hl,  408
+Europe,Hungary,Wine,Imports,2013,1000 hl,  433
+Europe,Hungary,Wine,Imports,2014,1000 hl,  372
+Europe,Hungary,Wine,Imports,2015,1000 hl,  262
+Europe,Hungary,Wine,Imports,2016,1000 hl,  207
+Europe,Hungary,Wine,Imports,2017,1000 hl,  195
+Europe,Hungary,Wine,Imports,2018,1000 hl,  72
+Europe,Hungary,Wine,Imports,2019,1000 hl,  108
+Europe,Hungary,Wine,Imports,2020,1000 hl,  77
+Europe,Hungary,Wine,Imports,2021,1000 hl,  92
+Europe,Hungary,Wine,Imports,2022,1000 hl,  86
+Europe,Hungary,Wine,Imports,2023,1000 hl,  76
+Europe,Iceland,Wine,Imports,2009,1000 hl,  57
+Europe,Iceland,Wine,Imports,2010,1000 hl,  38
+Europe,Iceland,Wine,Imports,2011,1000 hl,  40
+Europe,Iceland,Wine,Imports,2012,1000 hl,  40
+Europe,Iceland,Wine,Imports,2013,1000 hl,  40
+Europe,Iceland,Wine,Imports,2014,1000 hl,  41
+Europe,Iceland,Wine,Imports,2015,1000 hl,  44
+Europe,Iceland,Wine,Imports,2016,1000 hl,  44
+Europe,Iceland,Wine,Imports,2017,1000 hl,  45
+Europe,Iceland,Wine,Imports,2018,1000 hl,  46
+Europe,Iceland,Wine,Imports,2019,1000 hl,  47
+Europe,Iceland,Wine,Imports,2020,1000 hl,  54
+Europe,Iceland,Wine,Imports,2021,1000 hl,  57
+Europe,Iceland,Wine,Imports,2022,1000 hl,  56
+Europe,Iceland,Wine,Imports,2023,1000 hl,  55
+Asia,India,Wine,Imports,2009,1000 hl,  19
+Asia,India,Wine,Imports,2010,1000 hl,  20
+Asia,India,Wine,Imports,2011,1000 hl,  44
+Asia,India,Wine,Imports,2012,1000 hl,  42
+Asia,India,Wine,Imports,2013,1000 hl,  39
+Asia,India,Wine,Imports,2014,1000 hl,  33
+Asia,India,Wine,Imports,2015,1000 hl,  39
+Asia,India,Wine,Imports,2016,1000 hl,  41
+Asia,India,Wine,Imports,2017,1000 hl,  45
+Asia,India,Wine,Imports,2018,1000 hl,  52
+Asia,India,Wine,Imports,2019,1000 hl,  42
+Asia,India,Wine,Imports,2020,1000 hl,  30
+Asia,India,Wine,Imports,2021,1000 hl,  56
+Asia,India,Wine,Imports,2022,1000 hl,  78
+Asia,India,Wine,Imports,2023,1000 hl,  78
+Asia,Indonesia,Wine,Imports,2009,1000 hl,0
+Asia,Indonesia,Wine,Imports,2010,1000 hl,  6
+Asia,Indonesia,Wine,Imports,2011,1000 hl,  3
+Asia,Indonesia,Wine,Imports,2012,1000 hl,0
+Asia,Indonesia,Wine,Imports,2013,1000 hl,  4
+Asia,Indonesia,Wine,Imports,2014,1000 hl,  2
+Asia,Indonesia,Wine,Imports,2015,1000 hl,  1
+Asia,Indonesia,Wine,Imports,2016,1000 hl,  20
+Asia,Indonesia,Wine,Imports,2017,1000 hl,  40
+Asia,Indonesia,Wine,Imports,2018,1000 hl,  60
+Asia,Indonesia,Wine,Imports,2019,1000 hl,  40
+Asia,Indonesia,Wine,Imports,2020,1000 hl,  11
+Asia,Indonesia,Wine,Imports,2021,1000 hl,  25
+Asia,Indonesia,Wine,Imports,2022,1000 hl,  38
+Asia,Indonesia,Wine,Imports,2023,1000 hl,  53
+Asia,Iran,Wine,Imports,2009,1000 hl,0
+Asia,Iran,Wine,Imports,2010,1000 hl,0
+Asia,Iran,Wine,Imports,2011,1000 hl,0
+Asia,Iran,Wine,Imports,2012,1000 hl,0
+Asia,Iran,Wine,Imports,2013,1000 hl,0
+Asia,Iran,Wine,Imports,2014,1000 hl,0
+Asia,Iran,Wine,Imports,2015,1000 hl,0
+Asia,Iran,Wine,Imports,2016,1000 hl,0
+Asia,Iran,Wine,Imports,2017,1000 hl,0
+Asia,Iran,Wine,Imports,2018,1000 hl,0
+Asia,Iran,Wine,Imports,2019,1000 hl,0
+Asia,Iran,Wine,Imports,2020,1000 hl,0
+Asia,Iran,Wine,Imports,2021,1000 hl,0
+Asia,Iran,Wine,Imports,2022,1000 hl,0
+Asia,Iraq,Wine,Imports,2009,1000 hl,  2
+Asia,Iraq,Wine,Imports,2010,1000 hl,  4
+Asia,Iraq,Wine,Imports,2011,1000 hl,  6
+Asia,Iraq,Wine,Imports,2012,1000 hl,  6
+Asia,Iraq,Wine,Imports,2013,1000 hl,  5
+Asia,Iraq,Wine,Imports,2014,1000 hl,  3
+Asia,Iraq,Wine,Imports,2015,1000 hl,  8
+Asia,Iraq,Wine,Imports,2016,1000 hl,  8
+Asia,Iraq,Wine,Imports,2017,1000 hl,  7
+Asia,Iraq,Wine,Imports,2018,1000 hl,  5
+Asia,Iraq,Wine,Imports,2019,1000 hl,  7
+Asia,Iraq,Wine,Imports,2020,1000 hl,  5
+Asia,Iraq,Wine,Imports,2021,1000 hl,  6
+Asia,Iraq,Wine,Imports,2022,1000 hl,  6
+Asia,Iraq,Wine,Imports,2023,1000 hl,  6
+Europe,Ireland,Wine,Imports,2009,1000 hl,  617
+Europe,Ireland,Wine,Imports,2010,1000 hl,  711
+Europe,Ireland,Wine,Imports,2011,1000 hl,  712
+Europe,Ireland,Wine,Imports,2012,1000 hl,  774
+Europe,Ireland,Wine,Imports,2013,1000 hl,  771
+Europe,Ireland,Wine,Imports,2014,1000 hl,  734
+Europe,Ireland,Wine,Imports,2015,1000 hl,  767
+Europe,Ireland,Wine,Imports,2016,1000 hl,  848
+Europe,Ireland,Wine,Imports,2017,1000 hl,  835
+Europe,Ireland,Wine,Imports,2018,1000 hl,  782
+Europe,Ireland,Wine,Imports,2019,1000 hl,  853
+Europe,Ireland,Wine,Imports,2020,1000 hl, 1 111
+Europe,Ireland,Wine,Imports,2021,1000 hl,  786
+Europe,Ireland,Wine,Imports,2022,1000 hl,  804
+Europe,Ireland,Wine,Imports,2023,1000 hl,  893
+Asia,Israel,Wine,Imports,2009,1000 hl,  49
+Asia,Israel,Wine,Imports,2010,1000 hl,  56
+Asia,Israel,Wine,Imports,2011,1000 hl,  67
+Asia,Israel,Wine,Imports,2012,1000 hl,  63
+Asia,Israel,Wine,Imports,2013,1000 hl,  58
+Asia,Israel,Wine,Imports,2014,1000 hl,  59
+Asia,Israel,Wine,Imports,2015,1000 hl,  63
+Asia,Israel,Wine,Imports,2016,1000 hl,  69
+Asia,Israel,Wine,Imports,2017,1000 hl,  75
+Asia,Israel,Wine,Imports,2018,1000 hl,  93
+Asia,Israel,Wine,Imports,2019,1000 hl,  93
+Asia,Israel,Wine,Imports,2020,1000 hl,  100
+Asia,Israel,Wine,Imports,2021,1000 hl,  100
+Asia,Israel,Wine,Imports,2022,1000 hl,  100
+Asia,Israel,Wine,Imports,2023,1000 hl,  100
+Europe,Italy,Wine,Imports,2009,1000 hl, 1 461
+Europe,Italy,Wine,Imports,2010,1000 hl, 1 668
+Europe,Italy,Wine,Imports,2011,1000 hl, 2 477
+Europe,Italy,Wine,Imports,2012,1000 hl, 2 756
+Europe,Italy,Wine,Imports,2013,1000 hl, 2 692
+Europe,Italy,Wine,Imports,2014,1000 hl, 2 753
+Europe,Italy,Wine,Imports,2015,1000 hl, 2 854
+Europe,Italy,Wine,Imports,2016,1000 hl, 1 706
+Europe,Italy,Wine,Imports,2017,1000 hl, 2 076
+Europe,Italy,Wine,Imports,2018,1000 hl, 1 895
+Europe,Italy,Wine,Imports,2019,1000 hl, 1 552
+Europe,Italy,Wine,Imports,2020,1000 hl, 1 634
+Europe,Italy,Wine,Imports,2021,1000 hl, 3 108
+Europe,Italy,Wine,Imports,2022,1000 hl, 2 012
+Europe,Italy,Wine,Imports,2023,1000 hl, 1 771
+America,Jamaica,Wine,Imports,2009,1000 hl,  30
+America,Jamaica,Wine,Imports,2010,1000 hl,  28
+America,Jamaica,Wine,Imports,2011,1000 hl,  24
+America,Jamaica,Wine,Imports,2012,1000 hl,  26
+America,Jamaica,Wine,Imports,2013,1000 hl,  32
+America,Jamaica,Wine,Imports,2014,1000 hl,  33
+America,Jamaica,Wine,Imports,2015,1000 hl,  33
+America,Jamaica,Wine,Imports,2016,1000 hl,  58
+America,Jamaica,Wine,Imports,2017,1000 hl,  71
+America,Jamaica,Wine,Imports,2018,1000 hl,  33
+America,Jamaica,Wine,Imports,2019,1000 hl,  34
+America,Jamaica,Wine,Imports,2020,1000 hl,  17
+America,Jamaica,Wine,Imports,2021,1000 hl,  31
+America,Jamaica,Wine,Imports,2022,1000 hl,  79
+Asia,Japan,Wine,Imports,2009,1000 hl, 1 807
+Asia,Japan,Wine,Imports,2010,1000 hl, 1 939
+Asia,Japan,Wine,Imports,2011,1000 hl, 2 083
+Asia,Japan,Wine,Imports,2012,1000 hl, 2 571
+Asia,Japan,Wine,Imports,2013,1000 hl, 2 632
+Asia,Japan,Wine,Imports,2014,1000 hl, 2 704
+Asia,Japan,Wine,Imports,2015,1000 hl, 2 801
+Asia,Japan,Wine,Imports,2016,1000 hl, 2 686
+Asia,Japan,Wine,Imports,2017,1000 hl, 2 775
+Asia,Japan,Wine,Imports,2018,1000 hl, 2 621
+Asia,Japan,Wine,Imports,2019,1000 hl, 2 810
+Asia,Japan,Wine,Imports,2020,1000 hl, 2 562
+Asia,Japan,Wine,Imports,2021,1000 hl, 2 438
+Asia,Japan,Wine,Imports,2022,1000 hl, 2 655
+Asia,Japan,Wine,Imports,2023,1000 hl, 2 323
+Asia,Jordan,Wine,Imports,2009,1000 hl,  2
+Asia,Jordan,Wine,Imports,2010,1000 hl,  2
+Asia,Jordan,Wine,Imports,2011,1000 hl,  2
+Asia,Jordan,Wine,Imports,2012,1000 hl,  2
+Asia,Jordan,Wine,Imports,2013,1000 hl,  2
+Asia,Jordan,Wine,Imports,2014,1000 hl,  3
+Asia,Jordan,Wine,Imports,2015,1000 hl,  3
+Asia,Jordan,Wine,Imports,2016,1000 hl,  4
+Asia,Jordan,Wine,Imports,2017,1000 hl,  3
+Asia,Jordan,Wine,Imports,2018,1000 hl,  3
+Asia,Jordan,Wine,Imports,2019,1000 hl,  3
+Asia,Jordan,Wine,Imports,2020,1000 hl,  3
+Asia,Jordan,Wine,Imports,2021,1000 hl,  4
+Asia,Jordan,Wine,Imports,2022,1000 hl,  6
+Asia,Kazakhstan,Wine,Imports,2009,1000 hl,  87
+Asia,Kazakhstan,Wine,Imports,2010,1000 hl,  98
+Asia,Kazakhstan,Wine,Imports,2011,1000 hl,  112
+Asia,Kazakhstan,Wine,Imports,2012,1000 hl,  141
+Asia,Kazakhstan,Wine,Imports,2013,1000 hl,  130
+Asia,Kazakhstan,Wine,Imports,2014,1000 hl,  147
+Asia,Kazakhstan,Wine,Imports,2015,1000 hl,  115
+Asia,Kazakhstan,Wine,Imports,2016,1000 hl,  93
+Asia,Kazakhstan,Wine,Imports,2017,1000 hl,  113
+Asia,Kazakhstan,Wine,Imports,2018,1000 hl,  116
+Asia,Kazakhstan,Wine,Imports,2019,1000 hl,  100
+Asia,Kazakhstan,Wine,Imports,2020,1000 hl,  109
+Asia,Kazakhstan,Wine,Imports,2021,1000 hl,  122
+Asia,Kazakhstan,Wine,Imports,2022,1000 hl,  119
+Asia,Kazakhstan,Wine,Imports,2023,1000 hl,  139
+Africa,Kenya,Wine,Imports,2009,1000 hl,  39
+Africa,Kenya,Wine,Imports,2010,1000 hl,  55
+Africa,Kenya,Wine,Imports,2011,1000 hl,  63
+Africa,Kenya,Wine,Imports,2012,1000 hl,  71
+Africa,Kenya,Wine,Imports,2013,1000 hl,  72
+Africa,Kenya,Wine,Imports,2014,1000 hl,  73
+Africa,Kenya,Wine,Imports,2015,1000 hl,  67
+Africa,Kenya,Wine,Imports,2016,1000 hl,  71
+Africa,Kenya,Wine,Imports,2017,1000 hl,  66
+Africa,Kenya,Wine,Imports,2018,1000 hl,  92
+Africa,Kenya,Wine,Imports,2019,1000 hl,  81
+Africa,Kenya,Wine,Imports,2020,1000 hl,  73
+Africa,Kenya,Wine,Imports,2021,1000 hl,  83
+Africa,Kenya,Wine,Imports,2022,1000 hl,  90
+Africa,Kenya,Wine,Imports,2023,1000 hl,  96
+Oceania,Kiribati,Wine,Imports,2009,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2010,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2011,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2012,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2013,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2014,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2015,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2016,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2017,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2018,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2019,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2020,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2021,1000 hl,0
+Oceania,Kiribati,Wine,Imports,2022,1000 hl,0
+Asia,Korea (the Republic of),Wine,Imports,2009,1000 hl,  230
+Asia,Korea (the Republic of),Wine,Imports,2010,1000 hl,  246
+Asia,Korea (the Republic of),Wine,Imports,2011,1000 hl,  260
+Asia,Korea (the Republic of),Wine,Imports,2012,1000 hl,  292
+Asia,Korea (the Republic of),Wine,Imports,2013,1000 hl,  327
+Asia,Korea (the Republic of),Wine,Imports,2014,1000 hl,  330
+Asia,Korea (the Republic of),Wine,Imports,2015,1000 hl,  436
+Asia,Korea (the Republic of),Wine,Imports,2016,1000 hl,  378
+Asia,Korea (the Republic of),Wine,Imports,2017,1000 hl,  365
+Asia,Korea (the Republic of),Wine,Imports,2018,1000 hl,  406
+Asia,Korea (the Republic of),Wine,Imports,2019,1000 hl,  441
+Asia,Korea (the Republic of),Wine,Imports,2020,1000 hl,  545
+Asia,Korea (the Republic of),Wine,Imports,2021,1000 hl,  769
+Asia,Korea (the Republic of),Wine,Imports,2022,1000 hl,  714
+Asia,Korea (the Republic of),Wine,Imports,2023,1000 hl,  565
+Asia,Kyrgyzstan,Wine,Imports,2009,1000 hl,  11
+Asia,Kyrgyzstan,Wine,Imports,2010,1000 hl,  10
+Asia,Kyrgyzstan,Wine,Imports,2011,1000 hl,  11
+Asia,Kyrgyzstan,Wine,Imports,2012,1000 hl,  17
+Asia,Kyrgyzstan,Wine,Imports,2013,1000 hl,  15
+Asia,Kyrgyzstan,Wine,Imports,2014,1000 hl,  9
+Asia,Kyrgyzstan,Wine,Imports,2015,1000 hl,  12
+Asia,Kyrgyzstan,Wine,Imports,2016,1000 hl,  14
+Asia,Kyrgyzstan,Wine,Imports,2017,1000 hl,  12
+Asia,Kyrgyzstan,Wine,Imports,2018,1000 hl,  12
+Asia,Kyrgyzstan,Wine,Imports,2019,1000 hl,  9
+Asia,Kyrgyzstan,Wine,Imports,2020,1000 hl,  9
+Asia,Kyrgyzstan,Wine,Imports,2021,1000 hl,  12
+Asia,Kyrgyzstan,Wine,Imports,2022,1000 hl,  11
+Asia,Lao People's Democratic Republic,Wine,Imports,2009,1000 hl,  12
+Asia,Lao People's Democratic Republic,Wine,Imports,2010,1000 hl,  12
+Asia,Lao People's Democratic Republic,Wine,Imports,2011,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Imports,2012,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Imports,2013,1000 hl,  22
+Asia,Lao People's Democratic Republic,Wine,Imports,2014,1000 hl,  26
+Asia,Lao People's Democratic Republic,Wine,Imports,2015,1000 hl,  26
+Asia,Lao People's Democratic Republic,Wine,Imports,2016,1000 hl,  30
+Asia,Lao People's Democratic Republic,Wine,Imports,2017,1000 hl,  12
+Asia,Lao People's Democratic Republic,Wine,Imports,2018,1000 hl,  10
+Asia,Lao People's Democratic Republic,Wine,Imports,2019,1000 hl,  16
+Asia,Lao People's Democratic Republic,Wine,Imports,2020,1000 hl,  8
+Asia,Lao People's Democratic Republic,Wine,Imports,2021,1000 hl,  8
+Asia,Lao People's Democratic Republic,Wine,Imports,2022,1000 hl,  13
+Europe,Latvia,Wine,Imports,2009,1000 hl,  191
+Europe,Latvia,Wine,Imports,2010,1000 hl,  387
+Europe,Latvia,Wine,Imports,2011,1000 hl,  377
+Europe,Latvia,Wine,Imports,2012,1000 hl,  431
+Europe,Latvia,Wine,Imports,2013,1000 hl,  482
+Europe,Latvia,Wine,Imports,2014,1000 hl,  637
+Europe,Latvia,Wine,Imports,2015,1000 hl,  528
+Europe,Latvia,Wine,Imports,2016,1000 hl,  608
+Europe,Latvia,Wine,Imports,2017,1000 hl,  795
+Europe,Latvia,Wine,Imports,2018,1000 hl,  752
+Europe,Latvia,Wine,Imports,2019,1000 hl,  954
+Europe,Latvia,Wine,Imports,2020,1000 hl, 1 053
+Europe,Latvia,Wine,Imports,2021,1000 hl, 1 116
+Europe,Latvia,Wine,Imports,2022,1000 hl, 1 305
+Europe,Latvia,Wine,Imports,2023,1000 hl, 1 126
+Asia,Lebanon,Wine,Imports,2009,1000 hl,  10
+Asia,Lebanon,Wine,Imports,2010,1000 hl,  11
+Asia,Lebanon,Wine,Imports,2011,1000 hl,  11
+Asia,Lebanon,Wine,Imports,2012,1000 hl,  12
+Asia,Lebanon,Wine,Imports,2013,1000 hl,  11
+Asia,Lebanon,Wine,Imports,2014,1000 hl,  11
+Asia,Lebanon,Wine,Imports,2015,1000 hl,  14
+Asia,Lebanon,Wine,Imports,2016,1000 hl,  13
+Asia,Lebanon,Wine,Imports,2017,1000 hl,  13
+Asia,Lebanon,Wine,Imports,2018,1000 hl,  13
+Asia,Lebanon,Wine,Imports,2019,1000 hl,  13
+Asia,Lebanon,Wine,Imports,2020,1000 hl,  5
+Asia,Lebanon,Wine,Imports,2021,1000 hl,  7
+Asia,Lebanon,Wine,Imports,2022,1000 hl,  5
+Africa,Lesotho,Wine,Imports,2009,1000 hl,  1
+Africa,Lesotho,Wine,Imports,2010,1000 hl,  1
+Africa,Lesotho,Wine,Imports,2011,1000 hl,  1
+Africa,Lesotho,Wine,Imports,2012,1000 hl,  1
+Africa,Lesotho,Wine,Imports,2013,1000 hl,  9
+Africa,Lesotho,Wine,Imports,2014,1000 hl,  14
+Africa,Lesotho,Wine,Imports,2015,1000 hl,  9
+Africa,Lesotho,Wine,Imports,2016,1000 hl,  13
+Africa,Lesotho,Wine,Imports,2017,1000 hl,  18
+Africa,Lesotho,Wine,Imports,2018,1000 hl,  5
+Africa,Lesotho,Wine,Imports,2019,1000 hl,  15
+Africa,Lesotho,Wine,Imports,2020,1000 hl,  15
+Africa,Lesotho,Wine,Imports,2021,1000 hl,  21
+Africa,Lesotho,Wine,Imports,2022,1000 hl,  27
+Africa,Liberia,Wine,Imports,2009,1000 hl,  1
+Africa,Liberia,Wine,Imports,2010,1000 hl,  2
+Africa,Liberia,Wine,Imports,2011,1000 hl,  2
+Africa,Liberia,Wine,Imports,2012,1000 hl,  1
+Africa,Liberia,Wine,Imports,2013,1000 hl,  3
+Africa,Liberia,Wine,Imports,2014,1000 hl,  4
+Africa,Liberia,Wine,Imports,2015,1000 hl,  5
+Africa,Liberia,Wine,Imports,2016,1000 hl,  5
+Africa,Liberia,Wine,Imports,2017,1000 hl,  15
+Africa,Liberia,Wine,Imports,2018,1000 hl,  11
+Africa,Liberia,Wine,Imports,2019,1000 hl,  8
+Africa,Liberia,Wine,Imports,2020,1000 hl,  9
+Africa,Liberia,Wine,Imports,2021,1000 hl,  10
+Africa,Liberia,Wine,Imports,2022,1000 hl,  8
+Africa,Libya,Wine,Imports,2009,1000 hl,0
+Africa,Libya,Wine,Imports,2010,1000 hl,0
+Africa,Libya,Wine,Imports,2011,1000 hl,0
+Africa,Libya,Wine,Imports,2012,1000 hl,0
+Africa,Libya,Wine,Imports,2013,1000 hl,0
+Africa,Libya,Wine,Imports,2014,1000 hl,0
+Africa,Libya,Wine,Imports,2015,1000 hl,  1
+Africa,Libya,Wine,Imports,2016,1000 hl,0
+Africa,Libya,Wine,Imports,2017,1000 hl,0
+Africa,Libya,Wine,Imports,2018,1000 hl,0
+Africa,Libya,Wine,Imports,2019,1000 hl,  1
+Africa,Libya,Wine,Imports,2020,1000 hl,  1
+Africa,Libya,Wine,Imports,2021,1000 hl,0
+Africa,Libya,Wine,Imports,2022,1000 hl,0
+Europe,Lithuania,Wine,Imports,2009,1000 hl,  450
+Europe,Lithuania,Wine,Imports,2010,1000 hl,  685
+Europe,Lithuania,Wine,Imports,2011,1000 hl,  856
+Europe,Lithuania,Wine,Imports,2012,1000 hl,  971
+Europe,Lithuania,Wine,Imports,2013,1000 hl, 1 117
+Europe,Lithuania,Wine,Imports,2014,1000 hl, 1 131
+Europe,Lithuania,Wine,Imports,2015,1000 hl,  857
+Europe,Lithuania,Wine,Imports,2016,1000 hl,  858
+Europe,Lithuania,Wine,Imports,2017,1000 hl,  978
+Europe,Lithuania,Wine,Imports,2018,1000 hl,  909
+Europe,Lithuania,Wine,Imports,2019,1000 hl,  914
+Europe,Lithuania,Wine,Imports,2020,1000 hl,  943
+Europe,Lithuania,Wine,Imports,2021,1000 hl,  978
+Europe,Lithuania,Wine,Imports,2022,1000 hl,  991
+Europe,Lithuania,Wine,Imports,2023,1000 hl,  997
+Europe,Luxemburg,Wine,Imports,2009,1000 hl,  229
+Europe,Luxemburg,Wine,Imports,2010,1000 hl,  219
+Europe,Luxemburg,Wine,Imports,2011,1000 hl,  211
+Europe,Luxemburg,Wine,Imports,2012,1000 hl,  219
+Europe,Luxemburg,Wine,Imports,2013,1000 hl,  221
+Europe,Luxemburg,Wine,Imports,2014,1000 hl,  224
+Europe,Luxemburg,Wine,Imports,2015,1000 hl,  223
+Europe,Luxemburg,Wine,Imports,2016,1000 hl,  218
+Europe,Luxemburg,Wine,Imports,2017,1000 hl,  227
+Europe,Luxemburg,Wine,Imports,2018,1000 hl,  232
+Europe,Luxemburg,Wine,Imports,2019,1000 hl,  231
+Europe,Luxemburg,Wine,Imports,2020,1000 hl,  227
+Europe,Luxemburg,Wine,Imports,2021,1000 hl,  241
+Europe,Luxemburg,Wine,Imports,2022,1000 hl,  227
+Europe,Luxemburg,Wine,Imports,2023,1000 hl,  229
+Africa,Madagascar,Wine,Imports,2009,1000 hl,  6
+Africa,Madagascar,Wine,Imports,2010,1000 hl,  8
+Africa,Madagascar,Wine,Imports,2011,1000 hl,  14
+Africa,Madagascar,Wine,Imports,2012,1000 hl,  14
+Africa,Madagascar,Wine,Imports,2013,1000 hl,  8
+Africa,Madagascar,Wine,Imports,2014,1000 hl,  10
+Africa,Madagascar,Wine,Imports,2015,1000 hl,  8
+Africa,Madagascar,Wine,Imports,2016,1000 hl,0
+Africa,Madagascar,Wine,Imports,2017,1000 hl,  10
+Africa,Madagascar,Wine,Imports,2018,1000 hl,  12
+Africa,Madagascar,Wine,Imports,2019,1000 hl,  11
+Africa,Madagascar,Wine,Imports,2020,1000 hl,  6
+Africa,Madagascar,Wine,Imports,2021,1000 hl,  5
+Africa,Madagascar,Wine,Imports,2022,1000 hl,  10
+Africa,Malawi,Wine,Imports,2009,1000 hl,  4
+Africa,Malawi,Wine,Imports,2010,1000 hl,  3
+Africa,Malawi,Wine,Imports,2011,1000 hl,  2
+Africa,Malawi,Wine,Imports,2012,1000 hl,  4
+Africa,Malawi,Wine,Imports,2013,1000 hl,  2
+Africa,Malawi,Wine,Imports,2014,1000 hl,  2
+Africa,Malawi,Wine,Imports,2015,1000 hl,  2
+Africa,Malawi,Wine,Imports,2016,1000 hl,  1
+Africa,Malawi,Wine,Imports,2017,1000 hl,  2
+Africa,Malawi,Wine,Imports,2018,1000 hl,  2
+Africa,Malawi,Wine,Imports,2019,1000 hl,  2
+Africa,Malawi,Wine,Imports,2020,1000 hl,  2
+Africa,Malawi,Wine,Imports,2021,1000 hl,  2
+Africa,Malawi,Wine,Imports,2022,1000 hl,  1
+Asia,Malaysia,Wine,Imports,2009,1000 hl,  172
+Asia,Malaysia,Wine,Imports,2010,1000 hl,  85
+Asia,Malaysia,Wine,Imports,2011,1000 hl,  60
+Asia,Malaysia,Wine,Imports,2012,1000 hl,  57
+Asia,Malaysia,Wine,Imports,2013,1000 hl,  62
+Asia,Malaysia,Wine,Imports,2014,1000 hl,  83
+Asia,Malaysia,Wine,Imports,2015,1000 hl,  104
+Asia,Malaysia,Wine,Imports,2016,1000 hl,  121
+Asia,Malaysia,Wine,Imports,2017,1000 hl,  130
+Asia,Malaysia,Wine,Imports,2018,1000 hl,  98
+Asia,Malaysia,Wine,Imports,2019,1000 hl,  92
+Asia,Malaysia,Wine,Imports,2020,1000 hl,  70
+Asia,Malaysia,Wine,Imports,2021,1000 hl,  181
+Asia,Malaysia,Wine,Imports,2022,1000 hl,  303
+Asia,Malaysia,Wine,Imports,2023,1000 hl,  303
+Asia,Maldives,Wine,Imports,2009,1000 hl,  11
+Asia,Maldives,Wine,Imports,2010,1000 hl,  12
+Asia,Maldives,Wine,Imports,2011,1000 hl,  15
+Asia,Maldives,Wine,Imports,2012,1000 hl,  12
+Asia,Maldives,Wine,Imports,2013,1000 hl,  14
+Asia,Maldives,Wine,Imports,2014,1000 hl,  13
+Asia,Maldives,Wine,Imports,2015,1000 hl,  14
+Asia,Maldives,Wine,Imports,2016,1000 hl,  15
+Asia,Maldives,Wine,Imports,2017,1000 hl,  16
+Asia,Maldives,Wine,Imports,2018,1000 hl,  21
+Asia,Maldives,Wine,Imports,2019,1000 hl,  22
+Asia,Maldives,Wine,Imports,2020,1000 hl,  42
+Asia,Maldives,Wine,Imports,2021,1000 hl,  23
+Asia,Maldives,Wine,Imports,2022,1000 hl,  27
+Africa,Mali,Wine,Imports,2009,1000 hl,  3
+Africa,Mali,Wine,Imports,2010,1000 hl,  6
+Africa,Mali,Wine,Imports,2011,1000 hl,  6
+Africa,Mali,Wine,Imports,2012,1000 hl,  3
+Africa,Mali,Wine,Imports,2013,1000 hl,  4
+Africa,Mali,Wine,Imports,2014,1000 hl,  4
+Africa,Mali,Wine,Imports,2015,1000 hl,  8
+Africa,Mali,Wine,Imports,2016,1000 hl,  3
+Africa,Mali,Wine,Imports,2017,1000 hl,  5
+Africa,Mali,Wine,Imports,2018,1000 hl,  4
+Africa,Mali,Wine,Imports,2019,1000 hl,  10
+Africa,Mali,Wine,Imports,2020,1000 hl,  38
+Africa,Mali,Wine,Imports,2021,1000 hl,  24
+Africa,Mali,Wine,Imports,2022,1000 hl,  14
+Europe,Malta,Wine,Imports,2009,1000 hl,  46
+Europe,Malta,Wine,Imports,2010,1000 hl,  48
+Europe,Malta,Wine,Imports,2011,1000 hl,  57
+Europe,Malta,Wine,Imports,2012,1000 hl,  51
+Europe,Malta,Wine,Imports,2013,1000 hl,  48
+Europe,Malta,Wine,Imports,2014,1000 hl,  50
+Europe,Malta,Wine,Imports,2015,1000 hl,  59
+Europe,Malta,Wine,Imports,2016,1000 hl,  66
+Europe,Malta,Wine,Imports,2017,1000 hl,  80
+Europe,Malta,Wine,Imports,2018,1000 hl,  58
+Europe,Malta,Wine,Imports,2019,1000 hl,  93
+Europe,Malta,Wine,Imports,2020,1000 hl,  5
+Europe,Malta,Wine,Imports,2021,1000 hl,  95
+Europe,Malta,Wine,Imports,2022,1000 hl,  91
+Europe,Malta,Wine,Imports,2023,1000 hl,  94
+America,Martinique,Wine,Imports,2009,1000 hl,0
+America,Martinique,Wine,Imports,2010,1000 hl,0
+America,Martinique,Wine,Imports,2011,1000 hl,0
+America,Martinique,Wine,Imports,2012,1000 hl,0
+America,Martinique,Wine,Imports,2013,1000 hl,0
+America,Martinique,Wine,Imports,2014,1000 hl,0
+America,Martinique,Wine,Imports,2015,1000 hl,0
+America,Martinique,Wine,Imports,2016,1000 hl,0
+America,Martinique,Wine,Imports,2017,1000 hl,0
+America,Martinique,Wine,Imports,2018,1000 hl,0
+America,Martinique,Wine,Imports,2019,1000 hl,0
+America,Martinique,Wine,Imports,2020,1000 hl,0
+America,Martinique,Wine,Imports,2021,1000 hl,0
+America,Martinique,Wine,Imports,2022,1000 hl,0
+Africa,Mauritania,Wine,Imports,2009,1000 hl,0
+Africa,Mauritania,Wine,Imports,2010,1000 hl,0
+Africa,Mauritania,Wine,Imports,2011,1000 hl,0
+Africa,Mauritania,Wine,Imports,2012,1000 hl,  1
+Africa,Mauritania,Wine,Imports,2013,1000 hl,0
+Africa,Mauritania,Wine,Imports,2014,1000 hl,0
+Africa,Mauritania,Wine,Imports,2015,1000 hl,0
+Africa,Mauritania,Wine,Imports,2016,1000 hl,0
+Africa,Mauritania,Wine,Imports,2017,1000 hl,  1
+Africa,Mauritania,Wine,Imports,2018,1000 hl,  1
+Africa,Mauritania,Wine,Imports,2019,1000 hl,0
+Africa,Mauritania,Wine,Imports,2020,1000 hl,0
+Africa,Mauritania,Wine,Imports,2021,1000 hl,0
+Africa,Mauritania,Wine,Imports,2022,1000 hl,0
+Africa,Mauritius,Wine,Imports,2009,1000 hl,  16
+Africa,Mauritius,Wine,Imports,2010,1000 hl,  20
+Africa,Mauritius,Wine,Imports,2011,1000 hl,  20
+Africa,Mauritius,Wine,Imports,2012,1000 hl,  18
+Africa,Mauritius,Wine,Imports,2013,1000 hl,  20
+Africa,Mauritius,Wine,Imports,2014,1000 hl,  20
+Africa,Mauritius,Wine,Imports,2015,1000 hl,  23
+Africa,Mauritius,Wine,Imports,2016,1000 hl,  25
+Africa,Mauritius,Wine,Imports,2017,1000 hl,  22
+Africa,Mauritius,Wine,Imports,2018,1000 hl,  25
+Africa,Mauritius,Wine,Imports,2019,1000 hl,  20
+Africa,Mauritius,Wine,Imports,2020,1000 hl,  13
+Africa,Mauritius,Wine,Imports,2021,1000 hl,  12
+Africa,Mauritius,Wine,Imports,2022,1000 hl,  39
+Africa,Mauritius,Wine,Imports,2023,1000 hl,  39
+America,Mexico,Wine,Imports,2009,1000 hl,  386
+America,Mexico,Wine,Imports,2010,1000 hl,  440
+America,Mexico,Wine,Imports,2011,1000 hl,  454
+America,Mexico,Wine,Imports,2012,1000 hl,  440
+America,Mexico,Wine,Imports,2013,1000 hl,  537
+America,Mexico,Wine,Imports,2014,1000 hl,  543
+America,Mexico,Wine,Imports,2015,1000 hl,  599
+America,Mexico,Wine,Imports,2016,1000 hl,  681
+America,Mexico,Wine,Imports,2017,1000 hl,  719
+America,Mexico,Wine,Imports,2018,1000 hl,  797
+America,Mexico,Wine,Imports,2019,1000 hl,  596
+America,Mexico,Wine,Imports,2020,1000 hl,  498
+America,Mexico,Wine,Imports,2021,1000 hl,  657
+America,Mexico,Wine,Imports,2022,1000 hl,  872
+America,Mexico,Wine,Imports,2023,1000 hl,  886
+Oceania,Micronesia,Wine,Imports,2009,1000 hl,0
+Oceania,Micronesia,Wine,Imports,2010,1000 hl,0
+Oceania,Micronesia,Wine,Imports,2011,1000 hl,0
+Oceania,Micronesia,Wine,Imports,2012,1000 hl,0
+Oceania,Micronesia,Wine,Imports,2013,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2014,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2015,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2016,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2017,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2018,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2019,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2020,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2021,1000 hl,  1
+Oceania,Micronesia,Wine,Imports,2022,1000 hl,  1
+Europe,Moldova,Wine,Imports,2009,1000 hl,  5
+Europe,Moldova,Wine,Imports,2010,1000 hl,  43
+Europe,Moldova,Wine,Imports,2011,1000 hl,  27
+Europe,Moldova,Wine,Imports,2012,1000 hl,  4
+Europe,Moldova,Wine,Imports,2013,1000 hl,  6
+Europe,Moldova,Wine,Imports,2014,1000 hl,  4
+Europe,Moldova,Wine,Imports,2015,1000 hl,  10
+Europe,Moldova,Wine,Imports,2016,1000 hl,  11
+Europe,Moldova,Wine,Imports,2017,1000 hl,  7
+Europe,Moldova,Wine,Imports,2018,1000 hl,  3
+Europe,Moldova,Wine,Imports,2019,1000 hl,  2
+Europe,Moldova,Wine,Imports,2020,1000 hl,  2
+Europe,Moldova,Wine,Imports,2021,1000 hl,  6
+Europe,Moldova,Wine,Imports,2022,1000 hl,  35
+Europe,Moldova,Wine,Imports,2023,1000 hl,  38
+Asia,Mongolia,Wine,Imports,2009,1000 hl,  11
+Asia,Mongolia,Wine,Imports,2010,1000 hl,  17
+Asia,Mongolia,Wine,Imports,2011,1000 hl,  23
+Asia,Mongolia,Wine,Imports,2012,1000 hl,  23
+Asia,Mongolia,Wine,Imports,2013,1000 hl,  16
+Asia,Mongolia,Wine,Imports,2014,1000 hl,  16
+Asia,Mongolia,Wine,Imports,2015,1000 hl,  24
+Asia,Mongolia,Wine,Imports,2016,1000 hl,  21
+Asia,Mongolia,Wine,Imports,2017,1000 hl,  30
+Asia,Mongolia,Wine,Imports,2018,1000 hl,  34
+Asia,Mongolia,Wine,Imports,2019,1000 hl,  29
+Asia,Mongolia,Wine,Imports,2020,1000 hl,  25
+Asia,Mongolia,Wine,Imports,2021,1000 hl,  58
+Asia,Mongolia,Wine,Imports,2022,1000 hl,  64
+Europe,Montenegro,Wine,Imports,2009,1000 hl,  8
+Europe,Montenegro,Wine,Imports,2010,1000 hl,  9
+Europe,Montenegro,Wine,Imports,2011,1000 hl,  20
+Europe,Montenegro,Wine,Imports,2012,1000 hl,  23
+Europe,Montenegro,Wine,Imports,2013,1000 hl,  23
+Europe,Montenegro,Wine,Imports,2014,1000 hl,  22
+Europe,Montenegro,Wine,Imports,2015,1000 hl,  25
+Europe,Montenegro,Wine,Imports,2016,1000 hl,  23
+Europe,Montenegro,Wine,Imports,2017,1000 hl,  31
+Europe,Montenegro,Wine,Imports,2018,1000 hl,  29
+Europe,Montenegro,Wine,Imports,2019,1000 hl,  28
+Europe,Montenegro,Wine,Imports,2020,1000 hl,  23
+Europe,Montenegro,Wine,Imports,2021,1000 hl,  30
+Europe,Montenegro,Wine,Imports,2022,1000 hl,  39
+America,Montserrat,Wine,Imports,2009,1000 hl,0
+America,Montserrat,Wine,Imports,2010,1000 hl,0
+America,Montserrat,Wine,Imports,2011,1000 hl,0
+America,Montserrat,Wine,Imports,2012,1000 hl,0
+America,Montserrat,Wine,Imports,2013,1000 hl,0
+America,Montserrat,Wine,Imports,2014,1000 hl,0
+America,Montserrat,Wine,Imports,2015,1000 hl,0
+America,Montserrat,Wine,Imports,2016,1000 hl,0
+America,Montserrat,Wine,Imports,2017,1000 hl,0
+America,Montserrat,Wine,Imports,2018,1000 hl,0
+America,Montserrat,Wine,Imports,2019,1000 hl,0
+America,Montserrat,Wine,Imports,2020,1000 hl,0
+America,Montserrat,Wine,Imports,2021,1000 hl,0
+America,Montserrat,Wine,Imports,2022,1000 hl,0
+America,Montserrat,Wine,Imports,2023,1000 hl,0
+Africa,Morocco,Wine,Imports,2009,1000 hl,  136
+Africa,Morocco,Wine,Imports,2010,1000 hl,  79
+Africa,Morocco,Wine,Imports,2011,1000 hl,  87
+Africa,Morocco,Wine,Imports,2012,1000 hl,  88
+Africa,Morocco,Wine,Imports,2013,1000 hl,  112
+Africa,Morocco,Wine,Imports,2014,1000 hl,  25
+Africa,Morocco,Wine,Imports,2015,1000 hl,  14
+Africa,Morocco,Wine,Imports,2016,1000 hl,  19
+Africa,Morocco,Wine,Imports,2017,1000 hl,  52
+Africa,Morocco,Wine,Imports,2018,1000 hl,  177
+Africa,Morocco,Wine,Imports,2019,1000 hl,  186
+Africa,Morocco,Wine,Imports,2020,1000 hl,  208
+Africa,Morocco,Wine,Imports,2021,1000 hl,  158
+Africa,Morocco,Wine,Imports,2022,1000 hl,  224
+Africa,Morocco,Wine,Imports,2023,1000 hl,  224
+Africa,Mozambique,Wine,Imports,2009,1000 hl,  87
+Africa,Mozambique,Wine,Imports,2010,1000 hl,  99
+Africa,Mozambique,Wine,Imports,2011,1000 hl,  111
+Africa,Mozambique,Wine,Imports,2012,1000 hl,  55
+Africa,Mozambique,Wine,Imports,2013,1000 hl,  98
+Africa,Mozambique,Wine,Imports,2014,1000 hl,  151
+Africa,Mozambique,Wine,Imports,2015,1000 hl,  139
+Africa,Mozambique,Wine,Imports,2016,1000 hl,  71
+Africa,Mozambique,Wine,Imports,2017,1000 hl,  65
+Africa,Mozambique,Wine,Imports,2018,1000 hl,  52
+Africa,Mozambique,Wine,Imports,2019,1000 hl,  38
+Africa,Mozambique,Wine,Imports,2020,1000 hl,  51
+Africa,Mozambique,Wine,Imports,2021,1000 hl,  66
+Africa,Mozambique,Wine,Imports,2022,1000 hl,  47
+Africa,Mozambique,Wine,Imports,2023,1000 hl,  47
+Asia,Myanmar,Wine,Imports,2009,1000 hl,  20
+Asia,Myanmar,Wine,Imports,2010,1000 hl,  16
+Asia,Myanmar,Wine,Imports,2011,1000 hl,  26
+Asia,Myanmar,Wine,Imports,2012,1000 hl,  32
+Asia,Myanmar,Wine,Imports,2013,1000 hl,  39
+Asia,Myanmar,Wine,Imports,2014,1000 hl,  1
+Asia,Myanmar,Wine,Imports,2015,1000 hl,  3
+Asia,Myanmar,Wine,Imports,2016,1000 hl,  7
+Asia,Myanmar,Wine,Imports,2017,1000 hl,  8
+Asia,Myanmar,Wine,Imports,2018,1000 hl,  26
+Asia,Myanmar,Wine,Imports,2019,1000 hl,  20
+Asia,Myanmar,Wine,Imports,2020,1000 hl,  38
+Asia,Myanmar,Wine,Imports,2021,1000 hl,  35
+Asia,Myanmar,Wine,Imports,2022,1000 hl,  29
+Africa,Namibia,Wine,Imports,2009,1000 hl,  88
+Africa,Namibia,Wine,Imports,2010,1000 hl,  70
+Africa,Namibia,Wine,Imports,2011,1000 hl,  63
+Africa,Namibia,Wine,Imports,2012,1000 hl,  278
+Africa,Namibia,Wine,Imports,2013,1000 hl,  420
+Africa,Namibia,Wine,Imports,2014,1000 hl,  596
+Africa,Namibia,Wine,Imports,2015,1000 hl,  588
+Africa,Namibia,Wine,Imports,2016,1000 hl,  416
+Africa,Namibia,Wine,Imports,2017,1000 hl,  421
+Africa,Namibia,Wine,Imports,2018,1000 hl,  382
+Africa,Namibia,Wine,Imports,2019,1000 hl,  387
+Africa,Namibia,Wine,Imports,2020,1000 hl,  243
+Africa,Namibia,Wine,Imports,2021,1000 hl,  784
+Africa,Namibia,Wine,Imports,2022,1000 hl,  225
+Africa,Namibia,Wine,Imports,2023,1000 hl,  225
+Oceania,Nauru,Wine,Imports,2009,1000 hl,0
+Oceania,Nauru,Wine,Imports,2010,1000 hl,0
+Oceania,Nauru,Wine,Imports,2011,1000 hl,0
+Oceania,Nauru,Wine,Imports,2012,1000 hl,0
+Oceania,Nauru,Wine,Imports,2013,1000 hl,0
+Oceania,Nauru,Wine,Imports,2014,1000 hl,0
+Oceania,Nauru,Wine,Imports,2015,1000 hl,0
+Oceania,Nauru,Wine,Imports,2016,1000 hl,0
+Oceania,Nauru,Wine,Imports,2017,1000 hl,0
+Oceania,Nauru,Wine,Imports,2018,1000 hl,0
+Oceania,Nauru,Wine,Imports,2019,1000 hl,0
+Oceania,Nauru,Wine,Imports,2020,1000 hl,0
+Oceania,Nauru,Wine,Imports,2021,1000 hl,0
+Oceania,Nauru,Wine,Imports,2022,1000 hl,0
+Asia,Nepal,Wine,Imports,2009,1000 hl,  6
+Asia,Nepal,Wine,Imports,2010,1000 hl,  6
+Asia,Nepal,Wine,Imports,2011,1000 hl,  8
+Asia,Nepal,Wine,Imports,2012,1000 hl,  8
+Asia,Nepal,Wine,Imports,2013,1000 hl,  8
+Asia,Nepal,Wine,Imports,2014,1000 hl,  8
+Asia,Nepal,Wine,Imports,2015,1000 hl,  7
+Asia,Nepal,Wine,Imports,2016,1000 hl,  8
+Asia,Nepal,Wine,Imports,2017,1000 hl,  7
+Asia,Nepal,Wine,Imports,2018,1000 hl,  9
+Asia,Nepal,Wine,Imports,2019,1000 hl,  8
+Asia,Nepal,Wine,Imports,2020,1000 hl,  3
+Asia,Nepal,Wine,Imports,2021,1000 hl,  7
+Asia,Nepal,Wine,Imports,2022,1000 hl,  5
+Europe,Netherlands,Wine,Imports,2009,1000 hl, 3 669
+Europe,Netherlands,Wine,Imports,2010,1000 hl, 3 692
+Europe,Netherlands,Wine,Imports,2011,1000 hl, 3 321
+Europe,Netherlands,Wine,Imports,2012,1000 hl, 3 559
+Europe,Netherlands,Wine,Imports,2013,1000 hl, 3 669
+Europe,Netherlands,Wine,Imports,2014,1000 hl, 3 799
+Europe,Netherlands,Wine,Imports,2015,1000 hl, 3 838
+Europe,Netherlands,Wine,Imports,2016,1000 hl, 4 478
+Europe,Netherlands,Wine,Imports,2017,1000 hl, 4 444
+Europe,Netherlands,Wine,Imports,2018,1000 hl, 4 225
+Europe,Netherlands,Wine,Imports,2019,1000 hl, 4 232
+Europe,Netherlands,Wine,Imports,2020,1000 hl, 4 694
+Europe,Netherlands,Wine,Imports,2021,1000 hl, 4 910
+Europe,Netherlands,Wine,Imports,2022,1000 hl, 4 500
+Europe,Netherlands,Wine,Imports,2023,1000 hl, 4 413
+America,Netherlands Antilles,Wine,Imports,2009,1000 hl,  30
+America,Netherlands Antilles,Wine,Imports,2010,1000 hl,  32
+America,Netherlands Antilles,Wine,Imports,2011,1000 hl,  32
+America,Netherlands Antilles,Wine,Imports,2012,1000 hl,  33
+America,Netherlands Antilles,Wine,Imports,2013,1000 hl,  33
+America,Netherlands Antilles,Wine,Imports,2014,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2015,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2016,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2017,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2018,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2019,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2020,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2021,1000 hl,0
+America,Netherlands Antilles,Wine,Imports,2022,1000 hl,0
+Oceania,New Caledonia,Wine,Imports,2009,1000 hl,  61
+Oceania,New Caledonia,Wine,Imports,2010,1000 hl,  68
+Oceania,New Caledonia,Wine,Imports,2011,1000 hl,  68
+Oceania,New Caledonia,Wine,Imports,2012,1000 hl,  68
+Oceania,New Caledonia,Wine,Imports,2013,1000 hl,  68
+Oceania,New Caledonia,Wine,Imports,2014,1000 hl,  73
+Oceania,New Caledonia,Wine,Imports,2015,1000 hl,  82
+Oceania,New Caledonia,Wine,Imports,2016,1000 hl,  55
+Oceania,New Caledonia,Wine,Imports,2017,1000 hl,  57
+Oceania,New Caledonia,Wine,Imports,2018,1000 hl,  42
+Oceania,New Caledonia,Wine,Imports,2019,1000 hl,  44
+Oceania,New Caledonia,Wine,Imports,2020,1000 hl,  45
+Oceania,New Caledonia,Wine,Imports,2021,1000 hl,  34
+Oceania,New Caledonia,Wine,Imports,2022,1000 hl,  31
+Oceania,New Zealand,Wine,Imports,2009,1000 hl,  315
+Oceania,New Zealand,Wine,Imports,2010,1000 hl,  327
+Oceania,New Zealand,Wine,Imports,2011,1000 hl,  277
+Oceania,New Zealand,Wine,Imports,2012,1000 hl,  342
+Oceania,New Zealand,Wine,Imports,2013,1000 hl,  409
+Oceania,New Zealand,Wine,Imports,2014,1000 hl,  407
+Oceania,New Zealand,Wine,Imports,2015,1000 hl,  345
+Oceania,New Zealand,Wine,Imports,2016,1000 hl,  372
+Oceania,New Zealand,Wine,Imports,2017,1000 hl,  399
+Oceania,New Zealand,Wine,Imports,2018,1000 hl,  409
+Oceania,New Zealand,Wine,Imports,2019,1000 hl,  425
+Oceania,New Zealand,Wine,Imports,2020,1000 hl,  416
+Oceania,New Zealand,Wine,Imports,2021,1000 hl,  410
+Oceania,New Zealand,Wine,Imports,2022,1000 hl,  472
+Oceania,New Zealand,Wine,Imports,2023,1000 hl,  432
+America,Nicaragua,Wine,Imports,2009,1000 hl,  8
+America,Nicaragua,Wine,Imports,2010,1000 hl,  9
+America,Nicaragua,Wine,Imports,2011,1000 hl,  9
+America,Nicaragua,Wine,Imports,2012,1000 hl,  12
+America,Nicaragua,Wine,Imports,2013,1000 hl,  11
+America,Nicaragua,Wine,Imports,2014,1000 hl,  12
+America,Nicaragua,Wine,Imports,2015,1000 hl,  14
+America,Nicaragua,Wine,Imports,2016,1000 hl,  15
+America,Nicaragua,Wine,Imports,2017,1000 hl,  10
+America,Nicaragua,Wine,Imports,2018,1000 hl,  12
+America,Nicaragua,Wine,Imports,2019,1000 hl,  11
+America,Nicaragua,Wine,Imports,2020,1000 hl,  13
+America,Nicaragua,Wine,Imports,2021,1000 hl,  14
+America,Nicaragua,Wine,Imports,2022,1000 hl,  11
+Africa,Niger,Wine,Imports,2009,1000 hl,  6
+Africa,Niger,Wine,Imports,2010,1000 hl,  8
+Africa,Niger,Wine,Imports,2011,1000 hl,  9
+Africa,Niger,Wine,Imports,2012,1000 hl,  9
+Africa,Niger,Wine,Imports,2013,1000 hl,  8
+Africa,Niger,Wine,Imports,2014,1000 hl,  6
+Africa,Niger,Wine,Imports,2015,1000 hl,  5
+Africa,Niger,Wine,Imports,2016,1000 hl,  10
+Africa,Niger,Wine,Imports,2017,1000 hl,  7
+Africa,Niger,Wine,Imports,2018,1000 hl,  4
+Africa,Niger,Wine,Imports,2019,1000 hl,  8
+Africa,Niger,Wine,Imports,2020,1000 hl,  8
+Africa,Niger,Wine,Imports,2021,1000 hl,  6
+Africa,Niger,Wine,Imports,2022,1000 hl,  6
+Africa,Niger,Wine,Imports,2023,1000 hl,  6
+Africa,Nigeria,Wine,Imports,2009,1000 hl,  130
+Africa,Nigeria,Wine,Imports,2010,1000 hl,  213
+Africa,Nigeria,Wine,Imports,2011,1000 hl,  275
+Africa,Nigeria,Wine,Imports,2012,1000 hl,  346
+Africa,Nigeria,Wine,Imports,2013,1000 hl,  371
+Africa,Nigeria,Wine,Imports,2014,1000 hl,  382
+Africa,Nigeria,Wine,Imports,2015,1000 hl,  295
+Africa,Nigeria,Wine,Imports,2016,1000 hl,  171
+Africa,Nigeria,Wine,Imports,2017,1000 hl,  213
+Africa,Nigeria,Wine,Imports,2018,1000 hl,  248
+Africa,Nigeria,Wine,Imports,2019,1000 hl,  282
+Africa,Nigeria,Wine,Imports,2020,1000 hl,  223
+Africa,Nigeria,Wine,Imports,2021,1000 hl,  342
+Africa,Nigeria,Wine,Imports,2022,1000 hl,  279
+Africa,Nigeria,Wine,Imports,2023,1000 hl,  279
+Oceania,Niue,Wine,Imports,2009,1000 hl,0
+Oceania,Niue,Wine,Imports,2010,1000 hl,0
+Oceania,Niue,Wine,Imports,2011,1000 hl,0
+Oceania,Niue,Wine,Imports,2012,1000 hl,0
+Oceania,Niue,Wine,Imports,2013,1000 hl,0
+Oceania,Niue,Wine,Imports,2014,1000 hl,0
+Oceania,Niue,Wine,Imports,2015,1000 hl,0
+Oceania,Niue,Wine,Imports,2016,1000 hl,0
+Oceania,Niue,Wine,Imports,2017,1000 hl,0
+Oceania,Niue,Wine,Imports,2018,1000 hl,0
+Oceania,Niue,Wine,Imports,2019,1000 hl,0
+Oceania,Niue,Wine,Imports,2020,1000 hl,0
+Oceania,Niue,Wine,Imports,2021,1000 hl,0
+Oceania,Niue,Wine,Imports,2022,1000 hl,0
+Oceania,Norfolk Island,Wine,Imports,2009,1000 hl,0
+Oceania,Norfolk Island,Wine,Imports,2010,1000 hl,0
+Oceania,Norfolk Island,Wine,Imports,2011,1000 hl,0
+Oceania,Norfolk Island,Wine,Imports,2012,1000 hl,0
+Oceania,Norfolk Island,Wine,Imports,2013,1000 hl,0
+Oceania,Norfolk Island,Wine,Imports,2014,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2015,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2016,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2017,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2018,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2019,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2020,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2021,1000 hl,  1
+Oceania,Norfolk Island,Wine,Imports,2022,1000 hl,  1
+Europe,Norway,Wine,Imports,2009,1000 hl,  761
+Europe,Norway,Wine,Imports,2010,1000 hl,  773
+Europe,Norway,Wine,Imports,2011,1000 hl,  798
+Europe,Norway,Wine,Imports,2012,1000 hl,  828
+Europe,Norway,Wine,Imports,2013,1000 hl,  817
+Europe,Norway,Wine,Imports,2014,1000 hl,  855
+Europe,Norway,Wine,Imports,2015,1000 hl,  841
+Europe,Norway,Wine,Imports,2016,1000 hl,  871
+Europe,Norway,Wine,Imports,2017,1000 hl,  844
+Europe,Norway,Wine,Imports,2018,1000 hl,  862
+Europe,Norway,Wine,Imports,2019,1000 hl,  867
+Europe,Norway,Wine,Imports,2020,1000 hl, 1 111
+Europe,Norway,Wine,Imports,2021,1000 hl, 1 091
+Europe,Norway,Wine,Imports,2022,1000 hl,  935
+Europe,Norway,Wine,Imports,2023,1000 hl,  916
+Asia,Oman,Wine,Imports,2009,1000 hl,  2
+Asia,Oman,Wine,Imports,2010,1000 hl,  4
+Asia,Oman,Wine,Imports,2011,1000 hl,  4
+Asia,Oman,Wine,Imports,2012,1000 hl,  4
+Asia,Oman,Wine,Imports,2013,1000 hl,  10
+Asia,Oman,Wine,Imports,2014,1000 hl,  11
+Asia,Oman,Wine,Imports,2015,1000 hl,  7
+Asia,Oman,Wine,Imports,2016,1000 hl,  3
+Asia,Oman,Wine,Imports,2017,1000 hl,  7
+Asia,Oman,Wine,Imports,2018,1000 hl,  13
+Asia,Oman,Wine,Imports,2019,1000 hl,  12
+Asia,Oman,Wine,Imports,2020,1000 hl,  11
+Asia,Oman,Wine,Imports,2021,1000 hl,  11
+Asia,Oman,Wine,Imports,2022,1000 hl,  11
+Asia,Pakistan,Wine,Imports,2009,1000 hl,  1
+Asia,Pakistan,Wine,Imports,2010,1000 hl,  1
+Asia,Pakistan,Wine,Imports,2011,1000 hl,  1
+Asia,Pakistan,Wine,Imports,2012,1000 hl,  1
+Asia,Pakistan,Wine,Imports,2013,1000 hl,0
+Asia,Pakistan,Wine,Imports,2014,1000 hl,0
+Asia,Pakistan,Wine,Imports,2015,1000 hl,0
+Asia,Pakistan,Wine,Imports,2016,1000 hl,0
+Asia,Pakistan,Wine,Imports,2017,1000 hl,0
+Asia,Pakistan,Wine,Imports,2018,1000 hl,0
+Asia,Pakistan,Wine,Imports,2019,1000 hl,0
+Asia,Pakistan,Wine,Imports,2020,1000 hl,0
+Asia,Pakistan,Wine,Imports,2021,1000 hl,0
+Asia,Pakistan,Wine,Imports,2022,1000 hl,  1
+Asia,Pakistan,Wine,Imports,2023,1000 hl,0
+America,Panama,Wine,Imports,2009,1000 hl,  34
+America,Panama,Wine,Imports,2010,1000 hl,  34
+America,Panama,Wine,Imports,2011,1000 hl,  38
+America,Panama,Wine,Imports,2012,1000 hl,  43
+America,Panama,Wine,Imports,2013,1000 hl,  42
+America,Panama,Wine,Imports,2014,1000 hl,  44
+America,Panama,Wine,Imports,2015,1000 hl,  49
+America,Panama,Wine,Imports,2016,1000 hl,  40
+America,Panama,Wine,Imports,2017,1000 hl,  50
+America,Panama,Wine,Imports,2018,1000 hl,  60
+America,Panama,Wine,Imports,2019,1000 hl,  50
+America,Panama,Wine,Imports,2020,1000 hl,  43
+America,Panama,Wine,Imports,2021,1000 hl,  49
+America,Panama,Wine,Imports,2022,1000 hl,  58
+America,Panama,Wine,Imports,2023,1000 hl,  58
+Oceania,Papua New Guinea,Wine,Imports,2009,1000 hl,  5
+Oceania,Papua New Guinea,Wine,Imports,2010,1000 hl,  4
+Oceania,Papua New Guinea,Wine,Imports,2011,1000 hl,  5
+Oceania,Papua New Guinea,Wine,Imports,2012,1000 hl,  9
+Oceania,Papua New Guinea,Wine,Imports,2013,1000 hl,  5
+Oceania,Papua New Guinea,Wine,Imports,2014,1000 hl,  10
+Oceania,Papua New Guinea,Wine,Imports,2015,1000 hl,  37
+Oceania,Papua New Guinea,Wine,Imports,2016,1000 hl,  23
+Oceania,Papua New Guinea,Wine,Imports,2017,1000 hl,  20
+Oceania,Papua New Guinea,Wine,Imports,2018,1000 hl,  33
+Oceania,Papua New Guinea,Wine,Imports,2019,1000 hl,  27
+Oceania,Papua New Guinea,Wine,Imports,2020,1000 hl,  19
+Oceania,Papua New Guinea,Wine,Imports,2021,1000 hl,  25
+Oceania,Papua New Guinea,Wine,Imports,2022,1000 hl,  34
+America,Paraguay,Wine,Imports,2009,1000 hl,  402
+America,Paraguay,Wine,Imports,2010,1000 hl,  363
+America,Paraguay,Wine,Imports,2011,1000 hl,  295
+America,Paraguay,Wine,Imports,2012,1000 hl,  256
+America,Paraguay,Wine,Imports,2013,1000 hl,  186
+America,Paraguay,Wine,Imports,2014,1000 hl,  143
+America,Paraguay,Wine,Imports,2015,1000 hl,  147
+America,Paraguay,Wine,Imports,2016,1000 hl,  230
+America,Paraguay,Wine,Imports,2017,1000 hl,  230
+America,Paraguay,Wine,Imports,2018,1000 hl,  230
+America,Paraguay,Wine,Imports,2019,1000 hl,  230
+America,Paraguay,Wine,Imports,2020,1000 hl,  234
+America,Paraguay,Wine,Imports,2021,1000 hl,  260
+America,Paraguay,Wine,Imports,2022,1000 hl,  200
+America,Paraguay,Wine,Imports,2023,1000 hl,  121
+Asia,People's Republic of China,Wine,Imports,2009,1000 hl, 1 729
+Asia,People's Republic of China,Wine,Imports,2010,1000 hl, 2 861
+Asia,People's Republic of China,Wine,Imports,2011,1000 hl, 3 655
+Asia,People's Republic of China,Wine,Imports,2012,1000 hl, 3 943
+Asia,People's Republic of China,Wine,Imports,2013,1000 hl, 3 766
+Asia,People's Republic of China,Wine,Imports,2014,1000 hl, 3 838
+Asia,People's Republic of China,Wine,Imports,2015,1000 hl, 5 555
+Asia,People's Republic of China,Wine,Imports,2016,1000 hl, 6 389
+Asia,People's Republic of China,Wine,Imports,2017,1000 hl, 7 511
+Asia,People's Republic of China,Wine,Imports,2018,1000 hl, 6 876
+Asia,People's Republic of China,Wine,Imports,2019,1000 hl, 6 128
+Asia,People's Republic of China,Wine,Imports,2020,1000 hl, 4 305
+Asia,People's Republic of China,Wine,Imports,2021,1000 hl, 4 243
+Asia,People's Republic of China,Wine,Imports,2022,1000 hl, 3 368
+Asia,People's Republic of China,Wine,Imports,2023,1000 hl, 2 490
+America,Peru,Wine,Imports,2009,1000 hl,  73
+America,Peru,Wine,Imports,2010,1000 hl,  90
+America,Peru,Wine,Imports,2011,1000 hl,  84
+America,Peru,Wine,Imports,2012,1000 hl,  100
+America,Peru,Wine,Imports,2013,1000 hl,  87
+America,Peru,Wine,Imports,2014,1000 hl,  90
+America,Peru,Wine,Imports,2015,1000 hl,  95
+America,Peru,Wine,Imports,2016,1000 hl,  85
+America,Peru,Wine,Imports,2017,1000 hl,  96
+America,Peru,Wine,Imports,2018,1000 hl,  106
+America,Peru,Wine,Imports,2019,1000 hl,  97
+America,Peru,Wine,Imports,2020,1000 hl,  86
+America,Peru,Wine,Imports,2021,1000 hl,  131
+America,Peru,Wine,Imports,2022,1000 hl,  133
+America,Peru,Wine,Imports,2023,1000 hl,  106
+Asia,Philippines,Wine,Imports,2009,1000 hl,  97
+Asia,Philippines,Wine,Imports,2010,1000 hl,  166
+Asia,Philippines,Wine,Imports,2011,1000 hl,  115
+Asia,Philippines,Wine,Imports,2012,1000 hl,  108
+Asia,Philippines,Wine,Imports,2013,1000 hl,  106
+Asia,Philippines,Wine,Imports,2014,1000 hl,  146
+Asia,Philippines,Wine,Imports,2015,1000 hl,  172
+Asia,Philippines,Wine,Imports,2016,1000 hl,  204
+Asia,Philippines,Wine,Imports,2017,1000 hl,  220
+Asia,Philippines,Wine,Imports,2018,1000 hl,  200
+Asia,Philippines,Wine,Imports,2019,1000 hl,  230
+Asia,Philippines,Wine,Imports,2020,1000 hl,  122
+Asia,Philippines,Wine,Imports,2021,1000 hl,  150
+Asia,Philippines,Wine,Imports,2022,1000 hl,  272
+Asia,Philippines,Wine,Imports,2023,1000 hl,  272
+Europe,Poland,Wine,Imports,2009,1000 hl,  833
+Europe,Poland,Wine,Imports,2010,1000 hl,  902
+Europe,Poland,Wine,Imports,2011,1000 hl,  969
+Europe,Poland,Wine,Imports,2012,1000 hl,  960
+Europe,Poland,Wine,Imports,2013,1000 hl, 1 023
+Europe,Poland,Wine,Imports,2014,1000 hl, 1 067
+Europe,Poland,Wine,Imports,2015,1000 hl, 1 092
+Europe,Poland,Wine,Imports,2016,1000 hl, 1 188
+Europe,Poland,Wine,Imports,2017,1000 hl, 1 293
+Europe,Poland,Wine,Imports,2018,1000 hl, 1 321
+Europe,Poland,Wine,Imports,2019,1000 hl, 1 389
+Europe,Poland,Wine,Imports,2020,1000 hl, 1 417
+Europe,Poland,Wine,Imports,2021,1000 hl, 1 571
+Europe,Poland,Wine,Imports,2022,1000 hl, 1 539
+Europe,Poland,Wine,Imports,2023,1000 hl, 1 501
+Europe,Portugal,Wine,Imports,2009,1000 hl, 1 606
+Europe,Portugal,Wine,Imports,2010,1000 hl, 1 816
+Europe,Portugal,Wine,Imports,2011,1000 hl, 1 636
+Europe,Portugal,Wine,Imports,2012,1000 hl, 1 296
+Europe,Portugal,Wine,Imports,2013,1000 hl, 1 600
+Europe,Portugal,Wine,Imports,2014,1000 hl, 2 330
+Europe,Portugal,Wine,Imports,2015,1000 hl, 2 161
+Europe,Portugal,Wine,Imports,2016,1000 hl, 1 804
+Europe,Portugal,Wine,Imports,2017,1000 hl, 2 156
+Europe,Portugal,Wine,Imports,2018,1000 hl, 1 977
+Europe,Portugal,Wine,Imports,2019,1000 hl, 2 877
+Europe,Portugal,Wine,Imports,2020,1000 hl, 2 745
+Europe,Portugal,Wine,Imports,2021,1000 hl, 2 971
+Europe,Portugal,Wine,Imports,2022,1000 hl, 2 971
+Europe,Portugal,Wine,Imports,2023,1000 hl, 2 893
+Asia,Qatar,Wine,Imports,2009,1000 hl,  133
+Asia,Qatar,Wine,Imports,2010,1000 hl,  153
+Asia,Qatar,Wine,Imports,2011,1000 hl,  154
+Asia,Qatar,Wine,Imports,2012,1000 hl,  156
+Asia,Qatar,Wine,Imports,2013,1000 hl,  157
+Asia,Qatar,Wine,Imports,2014,1000 hl,  128
+Asia,Qatar,Wine,Imports,2015,1000 hl,  98
+Asia,Qatar,Wine,Imports,2016,1000 hl,  112
+Asia,Qatar,Wine,Imports,2017,1000 hl,  64
+Asia,Qatar,Wine,Imports,2018,1000 hl,  20
+Asia,Qatar,Wine,Imports,2019,1000 hl,  18
+Asia,Qatar,Wine,Imports,2020,1000 hl,  22
+Asia,Qatar,Wine,Imports,2021,1000 hl,  18
+Asia,Qatar,Wine,Imports,2022,1000 hl,  28
+Asia,Qatar,Wine,Imports,2023,1000 hl,  28
+Europe,Republic of North Macedonia,Wine,Imports,2009,1000 hl,  11
+Europe,Republic of North Macedonia,Wine,Imports,2010,1000 hl,  2
+Europe,Republic of North Macedonia,Wine,Imports,2011,1000 hl,  1
+Europe,Republic of North Macedonia,Wine,Imports,2012,1000 hl,  3
+Europe,Republic of North Macedonia,Wine,Imports,2013,1000 hl,  4
+Europe,Republic of North Macedonia,Wine,Imports,2014,1000 hl,  1
+Europe,Republic of North Macedonia,Wine,Imports,2015,1000 hl,  2
+Europe,Republic of North Macedonia,Wine,Imports,2016,1000 hl,  2
+Europe,Republic of North Macedonia,Wine,Imports,2017,1000 hl,  3
+Europe,Republic of North Macedonia,Wine,Imports,2018,1000 hl,  3
+Europe,Republic of North Macedonia,Wine,Imports,2019,1000 hl,  2
+Europe,Republic of North Macedonia,Wine,Imports,2020,1000 hl,  1
+Europe,Republic of North Macedonia,Wine,Imports,2021,1000 hl,  2
+Europe,Republic of North Macedonia,Wine,Imports,2022,1000 hl,  2
+Asia,Republic of Türkiye,Wine,Imports,2009,1000 hl,  11
+Asia,Republic of Türkiye,Wine,Imports,2010,1000 hl,  17
+Asia,Republic of Türkiye,Wine,Imports,2011,1000 hl,  18
+Asia,Republic of Türkiye,Wine,Imports,2012,1000 hl,  22
+Asia,Republic of Türkiye,Wine,Imports,2013,1000 hl,  19
+Asia,Republic of Türkiye,Wine,Imports,2014,1000 hl,  27
+Asia,Republic of Türkiye,Wine,Imports,2015,1000 hl,  22
+Asia,Republic of Türkiye,Wine,Imports,2016,1000 hl,  20
+Asia,Republic of Türkiye,Wine,Imports,2017,1000 hl,  34
+Asia,Republic of Türkiye,Wine,Imports,2018,1000 hl,  42
+Asia,Republic of Türkiye,Wine,Imports,2019,1000 hl,  41
+Asia,Republic of Türkiye,Wine,Imports,2020,1000 hl,  33
+Asia,Republic of Türkiye,Wine,Imports,2021,1000 hl,  54
+Asia,Republic of Türkiye,Wine,Imports,2022,1000 hl,  79
+Asia,Republic of Türkiye,Wine,Imports,2023,1000 hl,  145
+Africa,Reunion island,Wine,Imports,2009,1000 hl,0
+Africa,Reunion island,Wine,Imports,2010,1000 hl,0
+Africa,Reunion island,Wine,Imports,2011,1000 hl,0
+Africa,Reunion island,Wine,Imports,2012,1000 hl,0
+Africa,Reunion island,Wine,Imports,2013,1000 hl,0
+Africa,Reunion island,Wine,Imports,2014,1000 hl,0
+Africa,Reunion island,Wine,Imports,2015,1000 hl,0
+Africa,Reunion island,Wine,Imports,2016,1000 hl,0
+Africa,Reunion island,Wine,Imports,2017,1000 hl,0
+Africa,Reunion island,Wine,Imports,2018,1000 hl,0
+Africa,Reunion island,Wine,Imports,2019,1000 hl,0
+Africa,Reunion island,Wine,Imports,2020,1000 hl,0
+Africa,Reunion island,Wine,Imports,2021,1000 hl,0
+Africa,Reunion island,Wine,Imports,2022,1000 hl,0
+Europe,Romania,Wine,Imports,2009,1000 hl,  130
+Europe,Romania,Wine,Imports,2010,1000 hl,  224
+Europe,Romania,Wine,Imports,2011,1000 hl,  908
+Europe,Romania,Wine,Imports,2012,1000 hl,  545
+Europe,Romania,Wine,Imports,2013,1000 hl,  367
+Europe,Romania,Wine,Imports,2014,1000 hl,  342
+Europe,Romania,Wine,Imports,2015,1000 hl,  507
+Europe,Romania,Wine,Imports,2016,1000 hl,  502
+Europe,Romania,Wine,Imports,2017,1000 hl,  484
+Europe,Romania,Wine,Imports,2018,1000 hl,  395
+Europe,Romania,Wine,Imports,2019,1000 hl,  366
+Europe,Romania,Wine,Imports,2020,1000 hl,  451
+Europe,Romania,Wine,Imports,2021,1000 hl,  597
+Europe,Romania,Wine,Imports,2022,1000 hl,  555
+Europe,Romania,Wine,Imports,2023,1000 hl,  600
+Europe,Russia,Wine,Imports,2009,1000 hl, 4 520
+Europe,Russia,Wine,Imports,2010,1000 hl, 5 466
+Europe,Russia,Wine,Imports,2011,1000 hl, 5 112
+Europe,Russia,Wine,Imports,2012,1000 hl, 4 899
+Europe,Russia,Wine,Imports,2013,1000 hl, 4 922
+Europe,Russia,Wine,Imports,2014,1000 hl, 4 676
+Europe,Russia,Wine,Imports,2015,1000 hl, 3 999
+Europe,Russia,Wine,Imports,2016,1000 hl, 4 040
+Europe,Russia,Wine,Imports,2017,1000 hl, 4 470
+Europe,Russia,Wine,Imports,2018,1000 hl, 4 054
+Europe,Russia,Wine,Imports,2019,1000 hl, 3 309
+Europe,Russia,Wine,Imports,2020,1000 hl, 3 287
+Europe,Russia,Wine,Imports,2021,1000 hl, 3 699
+Europe,Russia,Wine,Imports,2022,1000 hl, 3 873
+Europe,Russia,Wine,Imports,2023,1000 hl, 3 951
+Africa,Rwanda,Wine,Imports,2009,1000 hl,  3
+Africa,Rwanda,Wine,Imports,2010,1000 hl,  3
+Africa,Rwanda,Wine,Imports,2011,1000 hl,  5
+Africa,Rwanda,Wine,Imports,2012,1000 hl,  6
+Africa,Rwanda,Wine,Imports,2013,1000 hl,  7
+Africa,Rwanda,Wine,Imports,2014,1000 hl,  9
+Africa,Rwanda,Wine,Imports,2015,1000 hl,  10
+Africa,Rwanda,Wine,Imports,2016,1000 hl,  14
+Africa,Rwanda,Wine,Imports,2017,1000 hl,  21
+Africa,Rwanda,Wine,Imports,2018,1000 hl,  17
+Africa,Rwanda,Wine,Imports,2019,1000 hl,  20
+Africa,Rwanda,Wine,Imports,2020,1000 hl,  22
+Africa,Rwanda,Wine,Imports,2021,1000 hl,  19
+Africa,Rwanda,Wine,Imports,2022,1000 hl,  49
+Africa,Saint Helena,Wine,Imports,2009,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2010,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2011,1000 hl,  2
+Africa,Saint Helena,Wine,Imports,2012,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2013,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2014,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2015,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2016,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2017,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2018,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2019,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2020,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2021,1000 hl,0
+Africa,Saint Helena,Wine,Imports,2022,1000 hl,  1
+America,Saint Kitts and Nevis,Wine,Imports,2009,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Imports,2010,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Imports,2011,1000 hl,  1
+America,Saint Kitts and Nevis,Wine,Imports,2012,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Imports,2013,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Imports,2014,1000 hl,  1
+America,Saint Kitts and Nevis,Wine,Imports,2015,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Imports,2016,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Imports,2017,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Imports,2018,1000 hl,  2
+America,Saint Kitts and Nevis,Wine,Imports,2019,1000 hl,  3
+America,Saint Kitts and Nevis,Wine,Imports,2020,1000 hl,  1
+America,Saint Kitts and Nevis,Wine,Imports,2021,1000 hl,  1
+America,Saint Kitts and Nevis,Wine,Imports,2022,1000 hl,  3
+America,Saint Lucia,Wine,Imports,2009,1000 hl,  12
+America,Saint Lucia,Wine,Imports,2010,1000 hl,  11
+America,Saint Lucia,Wine,Imports,2011,1000 hl,  10
+America,Saint Lucia,Wine,Imports,2012,1000 hl,  11
+America,Saint Lucia,Wine,Imports,2013,1000 hl,  12
+America,Saint Lucia,Wine,Imports,2014,1000 hl,  22
+America,Saint Lucia,Wine,Imports,2015,1000 hl,  10
+America,Saint Lucia,Wine,Imports,2016,1000 hl,  21
+America,Saint Lucia,Wine,Imports,2017,1000 hl,  11
+America,Saint Lucia,Wine,Imports,2018,1000 hl,  22
+America,Saint Lucia,Wine,Imports,2019,1000 hl,  22
+America,Saint Lucia,Wine,Imports,2020,1000 hl,  14
+America,Saint Lucia,Wine,Imports,2021,1000 hl,  6
+America,Saint Lucia,Wine,Imports,2022,1000 hl,  12
+America,Saint Pierre And Miquelon,Wine,Imports,2009,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2010,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2011,1000 hl,  3
+America,Saint Pierre And Miquelon,Wine,Imports,2012,1000 hl,  3
+America,Saint Pierre And Miquelon,Wine,Imports,2013,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2014,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2015,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2016,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2017,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2018,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2019,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2020,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2021,1000 hl,  2
+America,Saint Pierre And Miquelon,Wine,Imports,2022,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Imports,2009,1000 hl,  4
+America,Saint Vincent and the Grenadines,Wine,Imports,2010,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Imports,2011,1000 hl,  1
+America,Saint Vincent and the Grenadines,Wine,Imports,2012,1000 hl,  1
+America,Saint Vincent and the Grenadines,Wine,Imports,2013,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Imports,2014,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Imports,2015,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Imports,2016,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Imports,2017,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Imports,2018,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Imports,2019,1000 hl,  3
+America,Saint Vincent and the Grenadines,Wine,Imports,2020,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Imports,2021,1000 hl,  2
+America,Saint Vincent and the Grenadines,Wine,Imports,2022,1000 hl,  1
+Oceania,Samoa,Wine,Imports,2009,1000 hl,0
+Oceania,Samoa,Wine,Imports,2010,1000 hl,  1
+Oceania,Samoa,Wine,Imports,2011,1000 hl,0
+Oceania,Samoa,Wine,Imports,2012,1000 hl,0
+Oceania,Samoa,Wine,Imports,2013,1000 hl,0
+Oceania,Samoa,Wine,Imports,2014,1000 hl,0
+Oceania,Samoa,Wine,Imports,2015,1000 hl,0
+Oceania,Samoa,Wine,Imports,2016,1000 hl,0
+Oceania,Samoa,Wine,Imports,2017,1000 hl,0
+Oceania,Samoa,Wine,Imports,2018,1000 hl,0
+Oceania,Samoa,Wine,Imports,2019,1000 hl,0
+Oceania,Samoa,Wine,Imports,2020,1000 hl,0
+Oceania,Samoa,Wine,Imports,2021,1000 hl,0
+Oceania,Samoa,Wine,Imports,2022,1000 hl,  1
+Africa,Sao Tome and Principe,Wine,Imports,2009,1000 hl,  23
+Africa,Sao Tome and Principe,Wine,Imports,2010,1000 hl,  38
+Africa,Sao Tome and Principe,Wine,Imports,2011,1000 hl,  47
+Africa,Sao Tome and Principe,Wine,Imports,2012,1000 hl,  39
+Africa,Sao Tome and Principe,Wine,Imports,2013,1000 hl,  43
+Africa,Sao Tome and Principe,Wine,Imports,2014,1000 hl,  39
+Africa,Sao Tome and Principe,Wine,Imports,2015,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Imports,2016,1000 hl,  37
+Africa,Sao Tome and Principe,Wine,Imports,2017,1000 hl,  28
+Africa,Sao Tome and Principe,Wine,Imports,2018,1000 hl,  36
+Africa,Sao Tome and Principe,Wine,Imports,2019,1000 hl,  32
+Africa,Sao Tome and Principe,Wine,Imports,2020,1000 hl,  33
+Africa,Sao Tome and Principe,Wine,Imports,2021,1000 hl,  37
+Africa,Sao Tome and Principe,Wine,Imports,2022,1000 hl,  34
+Asia,Saudi Arabia,Wine,Imports,2009,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2010,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2011,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2012,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2013,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2014,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2015,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2016,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2017,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2018,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2019,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2020,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2021,1000 hl,0
+Asia,Saudi Arabia,Wine,Imports,2022,1000 hl,  3
+Africa,Senegal,Wine,Imports,2009,1000 hl,  78
+Africa,Senegal,Wine,Imports,2010,1000 hl,  76
+Africa,Senegal,Wine,Imports,2011,1000 hl,  76
+Africa,Senegal,Wine,Imports,2012,1000 hl,  75
+Africa,Senegal,Wine,Imports,2013,1000 hl,  54
+Africa,Senegal,Wine,Imports,2014,1000 hl,  80
+Africa,Senegal,Wine,Imports,2015,1000 hl,  59
+Africa,Senegal,Wine,Imports,2016,1000 hl,  63
+Africa,Senegal,Wine,Imports,2017,1000 hl,  70
+Africa,Senegal,Wine,Imports,2018,1000 hl,  50
+Africa,Senegal,Wine,Imports,2019,1000 hl,  60
+Africa,Senegal,Wine,Imports,2020,1000 hl,  50
+Africa,Senegal,Wine,Imports,2021,1000 hl,  62
+Africa,Senegal,Wine,Imports,2022,1000 hl,  59
+Africa,Senegal,Wine,Imports,2023,1000 hl,  55
+Europe,Serbia,Wine,Imports,2009,1000 hl,  215
+Europe,Serbia,Wine,Imports,2010,1000 hl,  205
+Europe,Serbia,Wine,Imports,2011,1000 hl,  298
+Europe,Serbia,Wine,Imports,2012,1000 hl,  305
+Europe,Serbia,Wine,Imports,2013,1000 hl,  239
+Europe,Serbia,Wine,Imports,2014,1000 hl,  251
+Europe,Serbia,Wine,Imports,2015,1000 hl,  187
+Europe,Serbia,Wine,Imports,2016,1000 hl,  208
+Europe,Serbia,Wine,Imports,2017,1000 hl,  244
+Europe,Serbia,Wine,Imports,2018,1000 hl,  212
+Europe,Serbia,Wine,Imports,2019,1000 hl,  209
+Europe,Serbia,Wine,Imports,2020,1000 hl,  224
+Europe,Serbia,Wine,Imports,2021,1000 hl,  232
+Europe,Serbia,Wine,Imports,2022,1000 hl,  222
+Europe,Serbia,Wine,Imports,2023,1000 hl,  222
+Europe,Serbia And Montenegro,Wine,Imports,2009,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2010,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2011,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2012,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2013,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2014,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2015,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2016,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2017,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2018,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2019,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2020,1000 hl,0
+Europe,Serbia And Montenegro,Wine,Imports,2021,1000 hl,0
+Africa,Seychelles,Wine,Imports,2009,1000 hl,  9
+Africa,Seychelles,Wine,Imports,2010,1000 hl,  13
+Africa,Seychelles,Wine,Imports,2011,1000 hl,  16
+Africa,Seychelles,Wine,Imports,2012,1000 hl,  10
+Africa,Seychelles,Wine,Imports,2013,1000 hl,  11
+Africa,Seychelles,Wine,Imports,2014,1000 hl,  27
+Africa,Seychelles,Wine,Imports,2015,1000 hl,  18
+Africa,Seychelles,Wine,Imports,2016,1000 hl,  40
+Africa,Seychelles,Wine,Imports,2017,1000 hl,  18
+Africa,Seychelles,Wine,Imports,2018,1000 hl,  3
+Africa,Seychelles,Wine,Imports,2019,1000 hl,  21
+Africa,Seychelles,Wine,Imports,2020,1000 hl,  17
+Africa,Seychelles,Wine,Imports,2021,1000 hl,  2
+Africa,Seychelles,Wine,Imports,2022,1000 hl,  17
+Africa,Sierra Leone,Wine,Imports,2009,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2010,1000 hl,  1
+Africa,Sierra Leone,Wine,Imports,2011,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2012,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2013,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2014,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2015,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2016,1000 hl,  2
+Africa,Sierra Leone,Wine,Imports,2017,1000 hl,  5
+Africa,Sierra Leone,Wine,Imports,2018,1000 hl,  3
+Africa,Sierra Leone,Wine,Imports,2019,1000 hl,  3
+Africa,Sierra Leone,Wine,Imports,2020,1000 hl,  1
+Africa,Sierra Leone,Wine,Imports,2021,1000 hl,  4
+Africa,Sierra Leone,Wine,Imports,2022,1000 hl,  7
+Asia,Singapore,Wine,Imports,2009,1000 hl,  205
+Asia,Singapore,Wine,Imports,2010,1000 hl,  235
+Asia,Singapore,Wine,Imports,2011,1000 hl,  268
+Asia,Singapore,Wine,Imports,2012,1000 hl,  279
+Asia,Singapore,Wine,Imports,2013,1000 hl,  285
+Asia,Singapore,Wine,Imports,2014,1000 hl,  329
+Asia,Singapore,Wine,Imports,2015,1000 hl,  308
+Asia,Singapore,Wine,Imports,2016,1000 hl,  300
+Asia,Singapore,Wine,Imports,2017,1000 hl,  321
+Asia,Singapore,Wine,Imports,2018,1000 hl,  350
+Asia,Singapore,Wine,Imports,2019,1000 hl,  312
+Asia,Singapore,Wine,Imports,2020,1000 hl,  261
+Asia,Singapore,Wine,Imports,2021,1000 hl,  323
+Asia,Singapore,Wine,Imports,2022,1000 hl,  340
+Asia,Singapore,Wine,Imports,2023,1000 hl,  320
+Europe,Slovakia,Wine,Imports,2009,1000 hl,  450
+Europe,Slovakia,Wine,Imports,2010,1000 hl,  546
+Europe,Slovakia,Wine,Imports,2011,1000 hl,  663
+Europe,Slovakia,Wine,Imports,2012,1000 hl,  644
+Europe,Slovakia,Wine,Imports,2013,1000 hl,  508
+Europe,Slovakia,Wine,Imports,2014,1000 hl,  726
+Europe,Slovakia,Wine,Imports,2015,1000 hl,  750
+Europe,Slovakia,Wine,Imports,2016,1000 hl,  975
+Europe,Slovakia,Wine,Imports,2017,1000 hl,  723
+Europe,Slovakia,Wine,Imports,2018,1000 hl,  796
+Europe,Slovakia,Wine,Imports,2019,1000 hl,  614
+Europe,Slovakia,Wine,Imports,2020,1000 hl,  720
+Europe,Slovakia,Wine,Imports,2021,1000 hl,  754
+Europe,Slovakia,Wine,Imports,2022,1000 hl,  574
+Europe,Slovakia,Wine,Imports,2023,1000 hl,  305
+Europe,Slovenia,Wine,Imports,2009,1000 hl,  63
+Europe,Slovenia,Wine,Imports,2010,1000 hl,  72
+Europe,Slovenia,Wine,Imports,2011,1000 hl,  96
+Europe,Slovenia,Wine,Imports,2012,1000 hl,  84
+Europe,Slovenia,Wine,Imports,2013,1000 hl,  90
+Europe,Slovenia,Wine,Imports,2014,1000 hl,  122
+Europe,Slovenia,Wine,Imports,2015,1000 hl,  133
+Europe,Slovenia,Wine,Imports,2016,1000 hl,  134
+Europe,Slovenia,Wine,Imports,2017,1000 hl,  120
+Europe,Slovenia,Wine,Imports,2018,1000 hl,  102
+Europe,Slovenia,Wine,Imports,2019,1000 hl,  92
+Europe,Slovenia,Wine,Imports,2020,1000 hl,  83
+Europe,Slovenia,Wine,Imports,2021,1000 hl,  82
+Europe,Slovenia,Wine,Imports,2022,1000 hl,  81
+Europe,Slovenia,Wine,Imports,2023,1000 hl,  85
+Oceania,Solomon Islands,Wine,Imports,2009,1000 hl,  1
+Oceania,Solomon Islands,Wine,Imports,2010,1000 hl,  1
+Oceania,Solomon Islands,Wine,Imports,2011,1000 hl,0
+Oceania,Solomon Islands,Wine,Imports,2012,1000 hl,  1
+Oceania,Solomon Islands,Wine,Imports,2013,1000 hl,0
+Oceania,Solomon Islands,Wine,Imports,2014,1000 hl,  1
+Oceania,Solomon Islands,Wine,Imports,2015,1000 hl,  2
+Oceania,Solomon Islands,Wine,Imports,2016,1000 hl,  2
+Oceania,Solomon Islands,Wine,Imports,2017,1000 hl,  2
+Oceania,Solomon Islands,Wine,Imports,2018,1000 hl,  2
+Oceania,Solomon Islands,Wine,Imports,2019,1000 hl,  1
+Oceania,Solomon Islands,Wine,Imports,2020,1000 hl,  2
+Oceania,Solomon Islands,Wine,Imports,2021,1000 hl,  1
+Oceania,Solomon Islands,Wine,Imports,2022,1000 hl,  1
+Africa,Somalia,Wine,Imports,2009,1000 hl,0
+Africa,Somalia,Wine,Imports,2010,1000 hl,0
+Africa,Somalia,Wine,Imports,2011,1000 hl,0
+Africa,Somalia,Wine,Imports,2012,1000 hl,0
+Africa,Somalia,Wine,Imports,2013,1000 hl,0
+Africa,Somalia,Wine,Imports,2014,1000 hl,0
+Africa,Somalia,Wine,Imports,2015,1000 hl,0
+Africa,Somalia,Wine,Imports,2016,1000 hl,0
+Africa,Somalia,Wine,Imports,2017,1000 hl,0
+Africa,Somalia,Wine,Imports,2018,1000 hl,0
+Africa,Somalia,Wine,Imports,2019,1000 hl,0
+Africa,Somalia,Wine,Imports,2020,1000 hl,0
+Africa,Somalia,Wine,Imports,2021,1000 hl,0
+Africa,Somalia,Wine,Imports,2022,1000 hl,0
+Africa,South Africa,Wine,Imports,2009,1000 hl,  202
+Africa,South Africa,Wine,Imports,2010,1000 hl,  178
+Africa,South Africa,Wine,Imports,2011,1000 hl,  106
+Africa,South Africa,Wine,Imports,2012,1000 hl,  170
+Africa,South Africa,Wine,Imports,2013,1000 hl,  181
+Africa,South Africa,Wine,Imports,2014,1000 hl,  111
+Africa,South Africa,Wine,Imports,2015,1000 hl,  158
+Africa,South Africa,Wine,Imports,2016,1000 hl,  169
+Africa,South Africa,Wine,Imports,2017,1000 hl,  237
+Africa,South Africa,Wine,Imports,2018,1000 hl,  175
+Africa,South Africa,Wine,Imports,2019,1000 hl,  354
+Africa,South Africa,Wine,Imports,2020,1000 hl,  44
+Africa,South Africa,Wine,Imports,2021,1000 hl,  24
+Africa,South Africa,Wine,Imports,2022,1000 hl,  30
+Africa,South Africa,Wine,Imports,2023,1000 hl,  32
+Europe,Spain,Wine,Imports,2009,1000 hl,  350
+Europe,Spain,Wine,Imports,2010,1000 hl,  405
+Europe,Spain,Wine,Imports,2011,1000 hl,  422
+Europe,Spain,Wine,Imports,2012,1000 hl, 1 236
+Europe,Spain,Wine,Imports,2013,1000 hl, 1 603
+Europe,Spain,Wine,Imports,2014,1000 hl,  485
+Europe,Spain,Wine,Imports,2015,1000 hl,  461
+Europe,Spain,Wine,Imports,2016,1000 hl,  614
+Europe,Spain,Wine,Imports,2017,1000 hl,  561
+Europe,Spain,Wine,Imports,2018,1000 hl,  941
+Europe,Spain,Wine,Imports,2019,1000 hl,  584
+Europe,Spain,Wine,Imports,2020,1000 hl,  982
+Europe,Spain,Wine,Imports,2021,1000 hl,  679
+Europe,Spain,Wine,Imports,2022,1000 hl,  581
+Europe,Spain,Wine,Imports,2023,1000 hl,  542
+Asia,Sri Lanka,Wine,Imports,2009,1000 hl,  2
+Asia,Sri Lanka,Wine,Imports,2010,1000 hl,  2
+Asia,Sri Lanka,Wine,Imports,2011,1000 hl,  8
+Asia,Sri Lanka,Wine,Imports,2012,1000 hl,  8
+Asia,Sri Lanka,Wine,Imports,2013,1000 hl,  13
+Asia,Sri Lanka,Wine,Imports,2014,1000 hl,  11
+Asia,Sri Lanka,Wine,Imports,2015,1000 hl,  12
+Asia,Sri Lanka,Wine,Imports,2016,1000 hl,  13
+Asia,Sri Lanka,Wine,Imports,2017,1000 hl,  13
+Asia,Sri Lanka,Wine,Imports,2018,1000 hl,  18
+Asia,Sri Lanka,Wine,Imports,2019,1000 hl,  14
+Asia,Sri Lanka,Wine,Imports,2020,1000 hl,  12
+Asia,Sri Lanka,Wine,Imports,2021,1000 hl,  9
+Asia,Sri Lanka,Wine,Imports,2022,1000 hl,  14
+Asia,Sri Lanka,Wine,Imports,2023,1000 hl,  22
+Asia,State of Palestine,Wine,Imports,2009,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2010,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2011,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2012,1000 hl,  1
+Asia,State of Palestine,Wine,Imports,2013,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2014,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2015,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2016,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2017,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2018,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2019,1000 hl,0
+Asia,State of Palestine,Wine,Imports,2020,1000 hl,  1
+Asia,State of Palestine,Wine,Imports,2021,1000 hl,  1
+Asia,State of Palestine,Wine,Imports,2022,1000 hl,  1
+Africa,Sudan,Wine,Imports,2009,1000 hl,  1
+Africa,Sudan,Wine,Imports,2010,1000 hl,  2
+Africa,Sudan,Wine,Imports,2011,1000 hl,  1
+Africa,Sudan,Wine,Imports,2012,1000 hl,0
+Africa,Sudan,Wine,Imports,2013,1000 hl,  1
+Africa,Sudan,Wine,Imports,2014,1000 hl,  3
+Africa,Sudan,Wine,Imports,2015,1000 hl,  1
+Africa,Sudan,Wine,Imports,2016,1000 hl,  1
+Africa,Sudan,Wine,Imports,2017,1000 hl,  1
+Africa,Sudan,Wine,Imports,2018,1000 hl,  3
+Africa,Sudan,Wine,Imports,2019,1000 hl,  3
+Africa,Sudan,Wine,Imports,2020,1000 hl,  4
+Africa,Sudan,Wine,Imports,2021,1000 hl,  2
+Africa,Sudan,Wine,Imports,2022,1000 hl,  3
+America,Suriname,Wine,Imports,2009,1000 hl,  4
+America,Suriname,Wine,Imports,2010,1000 hl,  4
+America,Suriname,Wine,Imports,2011,1000 hl,  10
+America,Suriname,Wine,Imports,2012,1000 hl,  3
+America,Suriname,Wine,Imports,2013,1000 hl,  5
+America,Suriname,Wine,Imports,2014,1000 hl,  8
+America,Suriname,Wine,Imports,2015,1000 hl,  4
+America,Suriname,Wine,Imports,2016,1000 hl,  5
+America,Suriname,Wine,Imports,2017,1000 hl,  5
+America,Suriname,Wine,Imports,2018,1000 hl,  6
+America,Suriname,Wine,Imports,2019,1000 hl,  9
+America,Suriname,Wine,Imports,2020,1000 hl,  6
+America,Suriname,Wine,Imports,2021,1000 hl,  8
+America,Suriname,Wine,Imports,2022,1000 hl,  6
+Europe,Sweden,Wine,Imports,2009,1000 hl, 1 952
+Europe,Sweden,Wine,Imports,2010,1000 hl, 1 885
+Europe,Sweden,Wine,Imports,2011,1000 hl, 1 926
+Europe,Sweden,Wine,Imports,2012,1000 hl, 2 037
+Europe,Sweden,Wine,Imports,2013,1000 hl, 2 076
+Europe,Sweden,Wine,Imports,2014,1000 hl, 2 326
+Europe,Sweden,Wine,Imports,2015,1000 hl, 2 173
+Europe,Sweden,Wine,Imports,2016,1000 hl, 2 184
+Europe,Sweden,Wine,Imports,2017,1000 hl, 2 165
+Europe,Sweden,Wine,Imports,2018,1000 hl, 2 123
+Europe,Sweden,Wine,Imports,2019,1000 hl, 2 089
+Europe,Sweden,Wine,Imports,2020,1000 hl, 2 323
+Europe,Sweden,Wine,Imports,2021,1000 hl, 2 069
+Europe,Sweden,Wine,Imports,2022,1000 hl, 2 130
+Europe,Sweden,Wine,Imports,2023,1000 hl, 1 980
+Europe,Switzerland,Wine,Imports,2009,1000 hl, 1 908
+Europe,Switzerland,Wine,Imports,2010,1000 hl, 1 940
+Europe,Switzerland,Wine,Imports,2011,1000 hl, 1 896
+Europe,Switzerland,Wine,Imports,2012,1000 hl, 1 900
+Europe,Switzerland,Wine,Imports,2013,1000 hl, 1 843
+Europe,Switzerland,Wine,Imports,2014,1000 hl, 1 881
+Europe,Switzerland,Wine,Imports,2015,1000 hl, 1 876
+Europe,Switzerland,Wine,Imports,2016,1000 hl, 1 850
+Europe,Switzerland,Wine,Imports,2017,1000 hl, 1 863
+Europe,Switzerland,Wine,Imports,2018,1000 hl, 1 776
+Europe,Switzerland,Wine,Imports,2019,1000 hl, 1 784
+Europe,Switzerland,Wine,Imports,2020,1000 hl, 1 829
+Europe,Switzerland,Wine,Imports,2021,1000 hl, 1 900
+Europe,Switzerland,Wine,Imports,2022,1000 hl, 1 783
+Europe,Switzerland,Wine,Imports,2023,1000 hl, 1 685
+Asia,Syrian Arab Republic,Wine,Imports,2009,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Imports,2010,1000 hl,  2
+Asia,Syrian Arab Republic,Wine,Imports,2011,1000 hl,  5
+Asia,Syrian Arab Republic,Wine,Imports,2012,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2013,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2014,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2015,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Imports,2016,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2017,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2018,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2019,1000 hl,  1
+Asia,Syrian Arab Republic,Wine,Imports,2020,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Imports,2021,1000 hl,0
+Asia,Syrian Arab Republic,Wine,Imports,2022,1000 hl,0
+Asia,Tajikistan,Wine,Imports,2009,1000 hl,  1
+Asia,Tajikistan,Wine,Imports,2010,1000 hl,  3
+Asia,Tajikistan,Wine,Imports,2011,1000 hl,  1
+Asia,Tajikistan,Wine,Imports,2012,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2013,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2014,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2015,1000 hl,  5
+Asia,Tajikistan,Wine,Imports,2016,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2017,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2018,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2019,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2020,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2021,1000 hl,  2
+Asia,Tajikistan,Wine,Imports,2022,1000 hl,  2
+Africa,"Tanzania, the United Republic of",Wine,Imports,2009,1000 hl,  36
+Africa,"Tanzania, the United Republic of",Wine,Imports,2010,1000 hl,  39
+Africa,"Tanzania, the United Republic of",Wine,Imports,2011,1000 hl,  43
+Africa,"Tanzania, the United Republic of",Wine,Imports,2012,1000 hl,  56
+Africa,"Tanzania, the United Republic of",Wine,Imports,2013,1000 hl,  61
+Africa,"Tanzania, the United Republic of",Wine,Imports,2014,1000 hl,  54
+Africa,"Tanzania, the United Republic of",Wine,Imports,2015,1000 hl,  43
+Africa,"Tanzania, the United Republic of",Wine,Imports,2016,1000 hl,  47
+Africa,"Tanzania, the United Republic of",Wine,Imports,2017,1000 hl,  40
+Africa,"Tanzania, the United Republic of",Wine,Imports,2018,1000 hl,  29
+Africa,"Tanzania, the United Republic of",Wine,Imports,2019,1000 hl,  28
+Africa,"Tanzania, the United Republic of",Wine,Imports,2020,1000 hl,  36
+Africa,"Tanzania, the United Republic of",Wine,Imports,2021,1000 hl,  45
+Africa,"Tanzania, the United Republic of",Wine,Imports,2022,1000 hl,  76
+Africa,"Tanzania, the United Republic of",Wine,Imports,2023,1000 hl,  34
+Asia,Thailand,Wine,Imports,2009,1000 hl,  78
+Asia,Thailand,Wine,Imports,2010,1000 hl,  98
+Asia,Thailand,Wine,Imports,2011,1000 hl,  120
+Asia,Thailand,Wine,Imports,2012,1000 hl,  149
+Asia,Thailand,Wine,Imports,2013,1000 hl,  155
+Asia,Thailand,Wine,Imports,2014,1000 hl,  142
+Asia,Thailand,Wine,Imports,2015,1000 hl,  133
+Asia,Thailand,Wine,Imports,2016,1000 hl,  126
+Asia,Thailand,Wine,Imports,2017,1000 hl,  116
+Asia,Thailand,Wine,Imports,2018,1000 hl,  136
+Asia,Thailand,Wine,Imports,2019,1000 hl,  125
+Asia,Thailand,Wine,Imports,2020,1000 hl,  101
+Asia,Thailand,Wine,Imports,2021,1000 hl,  84
+Asia,Thailand,Wine,Imports,2022,1000 hl,  185
+Asia,Thailand,Wine,Imports,2023,1000 hl,  176
+Asia,Timor-Leste,Wine,Imports,2009,1000 hl,  3
+Asia,Timor-Leste,Wine,Imports,2010,1000 hl,  3
+Asia,Timor-Leste,Wine,Imports,2011,1000 hl,  4
+Asia,Timor-Leste,Wine,Imports,2012,1000 hl,  7
+Asia,Timor-Leste,Wine,Imports,2013,1000 hl,  5
+Asia,Timor-Leste,Wine,Imports,2014,1000 hl,  1
+Asia,Timor-Leste,Wine,Imports,2015,1000 hl,  1
+Asia,Timor-Leste,Wine,Imports,2016,1000 hl,  1
+Asia,Timor-Leste,Wine,Imports,2017,1000 hl,  6
+Asia,Timor-Leste,Wine,Imports,2018,1000 hl,  1
+Asia,Timor-Leste,Wine,Imports,2019,1000 hl,  1
+Asia,Timor-Leste,Wine,Imports,2020,1000 hl,  2
+Asia,Timor-Leste,Wine,Imports,2021,1000 hl,  1
+Asia,Timor-Leste,Wine,Imports,2022,1000 hl,  4
+Africa,Togo,Wine,Imports,2009,1000 hl,  54
+Africa,Togo,Wine,Imports,2010,1000 hl,  50
+Africa,Togo,Wine,Imports,2011,1000 hl,  76
+Africa,Togo,Wine,Imports,2012,1000 hl,  75
+Africa,Togo,Wine,Imports,2013,1000 hl,  63
+Africa,Togo,Wine,Imports,2014,1000 hl,  54
+Africa,Togo,Wine,Imports,2015,1000 hl,  61
+Africa,Togo,Wine,Imports,2016,1000 hl,  50
+Africa,Togo,Wine,Imports,2017,1000 hl,  130
+Africa,Togo,Wine,Imports,2018,1000 hl,  123
+Africa,Togo,Wine,Imports,2019,1000 hl,  137
+Africa,Togo,Wine,Imports,2020,1000 hl,  123
+Africa,Togo,Wine,Imports,2021,1000 hl,  187
+Africa,Togo,Wine,Imports,2022,1000 hl,  189
+Africa,Togo,Wine,Imports,2023,1000 hl,  151
+Oceania,Tonga,Wine,Imports,2009,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2010,1000 hl,0
+Oceania,Tonga,Wine,Imports,2011,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2012,1000 hl,0
+Oceania,Tonga,Wine,Imports,2013,1000 hl,0
+Oceania,Tonga,Wine,Imports,2014,1000 hl,0
+Oceania,Tonga,Wine,Imports,2015,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2016,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2017,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2018,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2019,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2020,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2021,1000 hl,  1
+Oceania,Tonga,Wine,Imports,2022,1000 hl,  1
+America,Trinidad and Tobago,Wine,Imports,2009,1000 hl,  10
+America,Trinidad and Tobago,Wine,Imports,2010,1000 hl,  9
+America,Trinidad and Tobago,Wine,Imports,2011,1000 hl,  10
+America,Trinidad and Tobago,Wine,Imports,2012,1000 hl,  13
+America,Trinidad and Tobago,Wine,Imports,2013,1000 hl,  17
+America,Trinidad and Tobago,Wine,Imports,2014,1000 hl,  26
+America,Trinidad and Tobago,Wine,Imports,2015,1000 hl,  30
+America,Trinidad and Tobago,Wine,Imports,2016,1000 hl,  23
+America,Trinidad and Tobago,Wine,Imports,2017,1000 hl,  16
+America,Trinidad and Tobago,Wine,Imports,2018,1000 hl,  16
+America,Trinidad and Tobago,Wine,Imports,2019,1000 hl,  16
+America,Trinidad and Tobago,Wine,Imports,2020,1000 hl,  13
+America,Trinidad and Tobago,Wine,Imports,2021,1000 hl,  14
+America,Trinidad and Tobago,Wine,Imports,2022,1000 hl,  16
+Africa,Tunisia,Wine,Imports,2009,1000 hl,0
+Africa,Tunisia,Wine,Imports,2010,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2011,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2012,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2013,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2014,1000 hl,  2
+Africa,Tunisia,Wine,Imports,2015,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2016,1000 hl,  2
+Africa,Tunisia,Wine,Imports,2017,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2018,1000 hl,  2
+Africa,Tunisia,Wine,Imports,2019,1000 hl,  2
+Africa,Tunisia,Wine,Imports,2020,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2021,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2022,1000 hl,  1
+Africa,Tunisia,Wine,Imports,2023,1000 hl,  1
+Asia,Turkmenistan,Wine,Imports,2009,1000 hl,  1
+Asia,Turkmenistan,Wine,Imports,2010,1000 hl,  1
+Asia,Turkmenistan,Wine,Imports,2011,1000 hl,  1
+Asia,Turkmenistan,Wine,Imports,2012,1000 hl,  1
+Asia,Turkmenistan,Wine,Imports,2013,1000 hl,  1
+Asia,Turkmenistan,Wine,Imports,2014,1000 hl,  3
+Asia,Turkmenistan,Wine,Imports,2015,1000 hl,  2
+Asia,Turkmenistan,Wine,Imports,2016,1000 hl,  2
+Asia,Turkmenistan,Wine,Imports,2017,1000 hl,  2
+Asia,Turkmenistan,Wine,Imports,2018,1000 hl,  4
+Asia,Turkmenistan,Wine,Imports,2019,1000 hl,  3
+Asia,Turkmenistan,Wine,Imports,2020,1000 hl,  3
+Asia,Turkmenistan,Wine,Imports,2021,1000 hl,  6
+Asia,Turkmenistan,Wine,Imports,2022,1000 hl,  5
+Oceania,Tuvalu,Wine,Imports,2009,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2010,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2011,1000 hl,  1
+Oceania,Tuvalu,Wine,Imports,2012,1000 hl,  1
+Oceania,Tuvalu,Wine,Imports,2013,1000 hl,  1
+Oceania,Tuvalu,Wine,Imports,2014,1000 hl,  1
+Oceania,Tuvalu,Wine,Imports,2015,1000 hl,  1
+Oceania,Tuvalu,Wine,Imports,2016,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2017,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2018,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2019,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2020,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2021,1000 hl,0
+Oceania,Tuvalu,Wine,Imports,2022,1000 hl,  1
+Africa,Uganda,Wine,Imports,2009,1000 hl,  7
+Africa,Uganda,Wine,Imports,2010,1000 hl,  18
+Africa,Uganda,Wine,Imports,2011,1000 hl,  11
+Africa,Uganda,Wine,Imports,2012,1000 hl,  25
+Africa,Uganda,Wine,Imports,2013,1000 hl,  25
+Africa,Uganda,Wine,Imports,2014,1000 hl,  25
+Africa,Uganda,Wine,Imports,2015,1000 hl,  25
+Africa,Uganda,Wine,Imports,2016,1000 hl,  26
+Africa,Uganda,Wine,Imports,2017,1000 hl,  25
+Africa,Uganda,Wine,Imports,2018,1000 hl,  35
+Africa,Uganda,Wine,Imports,2019,1000 hl,  27
+Africa,Uganda,Wine,Imports,2020,1000 hl,  30
+Africa,Uganda,Wine,Imports,2021,1000 hl,  46
+Africa,Uganda,Wine,Imports,2022,1000 hl,  19
+Europe,Ukraine,Wine,Imports,2009,1000 hl,  167
+Europe,Ukraine,Wine,Imports,2010,1000 hl,  327
+Europe,Ukraine,Wine,Imports,2011,1000 hl,  500
+Europe,Ukraine,Wine,Imports,2012,1000 hl,  333
+Europe,Ukraine,Wine,Imports,2013,1000 hl,  346
+Europe,Ukraine,Wine,Imports,2014,1000 hl,  307
+Europe,Ukraine,Wine,Imports,2015,1000 hl,  233
+Europe,Ukraine,Wine,Imports,2016,1000 hl,  431
+Europe,Ukraine,Wine,Imports,2017,1000 hl,  416
+Europe,Ukraine,Wine,Imports,2018,1000 hl,  379
+Europe,Ukraine,Wine,Imports,2019,1000 hl,  450
+Europe,Ukraine,Wine,Imports,2020,1000 hl,  532
+Europe,Ukraine,Wine,Imports,2021,1000 hl,  639
+Europe,Ukraine,Wine,Imports,2022,1000 hl,  369
+Europe,Ukraine,Wine,Imports,2023,1000 hl,  369
+Asia,United Arab Emirates,Wine,Imports,2009,1000 hl,  100
+Asia,United Arab Emirates,Wine,Imports,2010,1000 hl,  154
+Asia,United Arab Emirates,Wine,Imports,2011,1000 hl,  155
+Asia,United Arab Emirates,Wine,Imports,2012,1000 hl,  294
+Asia,United Arab Emirates,Wine,Imports,2013,1000 hl,  358
+Asia,United Arab Emirates,Wine,Imports,2014,1000 hl,  541
+Asia,United Arab Emirates,Wine,Imports,2015,1000 hl,  248
+Asia,United Arab Emirates,Wine,Imports,2016,1000 hl,  225
+Asia,United Arab Emirates,Wine,Imports,2017,1000 hl,  513
+Asia,United Arab Emirates,Wine,Imports,2018,1000 hl,  441
+Asia,United Arab Emirates,Wine,Imports,2019,1000 hl,  490
+Asia,United Arab Emirates,Wine,Imports,2020,1000 hl,  303
+Asia,United Arab Emirates,Wine,Imports,2021,1000 hl,  389
+Asia,United Arab Emirates,Wine,Imports,2022,1000 hl,  389
+Asia,United Arab Emirates,Wine,Imports,2023,1000 hl,  389
+Europe,United Kingdom,Wine,Imports,2009,1000 hl, 11 859
+Europe,United Kingdom,Wine,Imports,2010,1000 hl, 12 861
+Europe,United Kingdom,Wine,Imports,2011,1000 hl, 13 299
+Europe,United Kingdom,Wine,Imports,2012,1000 hl, 13 118
+Europe,United Kingdom,Wine,Imports,2013,1000 hl, 13 040
+Europe,United Kingdom,Wine,Imports,2014,1000 hl, 14 024
+Europe,United Kingdom,Wine,Imports,2015,1000 hl, 14 098
+Europe,United Kingdom,Wine,Imports,2016,1000 hl, 13 613
+Europe,United Kingdom,Wine,Imports,2017,1000 hl, 13 282
+Europe,United Kingdom,Wine,Imports,2018,1000 hl, 13 203
+Europe,United Kingdom,Wine,Imports,2019,1000 hl, 13 468
+Europe,United Kingdom,Wine,Imports,2020,1000 hl, 14 154
+Europe,United Kingdom,Wine,Imports,2021,1000 hl, 13 203
+Europe,United Kingdom,Wine,Imports,2022,1000 hl, 12 992
+Europe,United Kingdom,Wine,Imports,2023,1000 hl, 12 328
+America,United States of America,Wine,Imports,2009,1000 hl, 9 219
+America,United States of America,Wine,Imports,2010,1000 hl, 9 320
+America,United States of America,Wine,Imports,2011,1000 hl, 10 155
+America,United States of America,Wine,Imports,2012,1000 hl, 11 675
+America,United States of America,Wine,Imports,2013,1000 hl, 10 966
+America,United States of America,Wine,Imports,2014,1000 hl, 10 766
+America,United States of America,Wine,Imports,2015,1000 hl, 11 036
+America,United States of America,Wine,Imports,2016,1000 hl, 11 142
+America,United States of America,Wine,Imports,2017,1000 hl, 12 086
+America,United States of America,Wine,Imports,2018,1000 hl, 11 711
+America,United States of America,Wine,Imports,2019,1000 hl, 12 278
+America,United States of America,Wine,Imports,2020,1000 hl, 12 295
+America,United States of America,Wine,Imports,2021,1000 hl, 13 913
+America,United States of America,Wine,Imports,2022,1000 hl, 14 348
+America,United States of America,Wine,Imports,2023,1000 hl, 12 255
+America,Uruguay,Wine,Imports,2009,1000 hl,  30
+America,Uruguay,Wine,Imports,2010,1000 hl,  34
+America,Uruguay,Wine,Imports,2011,1000 hl,  32
+America,Uruguay,Wine,Imports,2012,1000 hl,  32
+America,Uruguay,Wine,Imports,2013,1000 hl,  29
+America,Uruguay,Wine,Imports,2014,1000 hl,  29
+America,Uruguay,Wine,Imports,2015,1000 hl,  30
+America,Uruguay,Wine,Imports,2016,1000 hl,  33
+America,Uruguay,Wine,Imports,2017,1000 hl,  35
+America,Uruguay,Wine,Imports,2018,1000 hl,  35
+America,Uruguay,Wine,Imports,2019,1000 hl,  32
+America,Uruguay,Wine,Imports,2020,1000 hl,  35
+America,Uruguay,Wine,Imports,2021,1000 hl,  55
+America,Uruguay,Wine,Imports,2022,1000 hl,  43
+America,Uruguay,Wine,Imports,2023,1000 hl,  32
+Asia,Uzbekistan,Wine,Imports,2009,1000 hl,0
+Asia,Uzbekistan,Wine,Imports,2010,1000 hl,0
+Asia,Uzbekistan,Wine,Imports,2011,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2012,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2013,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2014,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2015,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2016,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2017,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2018,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2019,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2020,1000 hl,  1
+Asia,Uzbekistan,Wine,Imports,2021,1000 hl,  2
+Asia,Uzbekistan,Wine,Imports,2022,1000 hl,  2
+Oceania,Vanuatu,Wine,Imports,2009,1000 hl,  5
+Oceania,Vanuatu,Wine,Imports,2010,1000 hl,  4
+Oceania,Vanuatu,Wine,Imports,2011,1000 hl,  4
+Oceania,Vanuatu,Wine,Imports,2012,1000 hl,  3
+Oceania,Vanuatu,Wine,Imports,2013,1000 hl,  3
+Oceania,Vanuatu,Wine,Imports,2014,1000 hl,  4
+Oceania,Vanuatu,Wine,Imports,2015,1000 hl,  4
+Oceania,Vanuatu,Wine,Imports,2016,1000 hl,  6
+Oceania,Vanuatu,Wine,Imports,2017,1000 hl,  4
+Oceania,Vanuatu,Wine,Imports,2018,1000 hl,  5
+Oceania,Vanuatu,Wine,Imports,2019,1000 hl,  6
+Oceania,Vanuatu,Wine,Imports,2020,1000 hl,  6
+Oceania,Vanuatu,Wine,Imports,2021,1000 hl,  6
+Oceania,Vanuatu,Wine,Imports,2022,1000 hl,  7
+America,Venezuela,Wine,Imports,2009,1000 hl,  198
+America,Venezuela,Wine,Imports,2010,1000 hl,  159
+America,Venezuela,Wine,Imports,2011,1000 hl,  187
+America,Venezuela,Wine,Imports,2012,1000 hl,  223
+America,Venezuela,Wine,Imports,2013,1000 hl,  104
+America,Venezuela,Wine,Imports,2014,1000 hl,  126
+America,Venezuela,Wine,Imports,2015,1000 hl,  51
+America,Venezuela,Wine,Imports,2016,1000 hl,  10
+America,Venezuela,Wine,Imports,2017,1000 hl,  20
+America,Venezuela,Wine,Imports,2018,1000 hl,  15
+America,Venezuela,Wine,Imports,2019,1000 hl,  63
+America,Venezuela,Wine,Imports,2020,1000 hl,  70
+America,Venezuela,Wine,Imports,2021,1000 hl,  57
+America,Venezuela,Wine,Imports,2022,1000 hl,  76
+America,Venezuela,Wine,Imports,2023,1000 hl,  69
+Asia,Vietnam,Wine,Imports,2009,1000 hl,  81
+Asia,Vietnam,Wine,Imports,2010,1000 hl,  95
+Asia,Vietnam,Wine,Imports,2011,1000 hl,  113
+Asia,Vietnam,Wine,Imports,2012,1000 hl,  119
+Asia,Vietnam,Wine,Imports,2013,1000 hl,  84
+Asia,Vietnam,Wine,Imports,2014,1000 hl,  58
+Asia,Vietnam,Wine,Imports,2015,1000 hl,  69
+Asia,Vietnam,Wine,Imports,2016,1000 hl,  77
+Asia,Vietnam,Wine,Imports,2017,1000 hl,  82
+Asia,Vietnam,Wine,Imports,2018,1000 hl,  89
+Asia,Vietnam,Wine,Imports,2019,1000 hl,  94
+Asia,Vietnam,Wine,Imports,2020,1000 hl,  58
+Asia,Vietnam,Wine,Imports,2021,1000 hl,  75
+Asia,Vietnam,Wine,Imports,2022,1000 hl,  75
+America,Virgin Islands,Wine,Imports,2009,1000 hl,0
+America,Virgin Islands,Wine,Imports,2010,1000 hl,0
+America,Virgin Islands,Wine,Imports,2011,1000 hl,0
+America,Virgin Islands,Wine,Imports,2012,1000 hl,0
+America,Virgin Islands,Wine,Imports,2013,1000 hl,0
+America,Virgin Islands,Wine,Imports,2014,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2015,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2016,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2017,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2018,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2019,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2020,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2021,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2022,1000 hl,  4
+America,Virgin Islands,Wine,Imports,2023,1000 hl,  4
+Asia,Yemen,Wine,Imports,2009,1000 hl,0
+Asia,Yemen,Wine,Imports,2010,1000 hl,0
+Asia,Yemen,Wine,Imports,2011,1000 hl,0
+Asia,Yemen,Wine,Imports,2012,1000 hl,0
+Asia,Yemen,Wine,Imports,2013,1000 hl,0
+Asia,Yemen,Wine,Imports,2014,1000 hl,0
+Asia,Yemen,Wine,Imports,2015,1000 hl,0
+Asia,Yemen,Wine,Imports,2016,1000 hl,0
+Asia,Yemen,Wine,Imports,2017,1000 hl,0
+Asia,Yemen,Wine,Imports,2018,1000 hl,0
+Asia,Yemen,Wine,Imports,2019,1000 hl,0
+Asia,Yemen,Wine,Imports,2020,1000 hl,0
+Asia,Yemen,Wine,Imports,2021,1000 hl,0
+Asia,Yemen,Wine,Imports,2022,1000 hl,0
+Africa,Zambia,Wine,Imports,2009,1000 hl,  7
+Africa,Zambia,Wine,Imports,2010,1000 hl,  6
+Africa,Zambia,Wine,Imports,2011,1000 hl,  6
+Africa,Zambia,Wine,Imports,2012,1000 hl,  13
+Africa,Zambia,Wine,Imports,2013,1000 hl,  14
+Africa,Zambia,Wine,Imports,2014,1000 hl,  47
+Africa,Zambia,Wine,Imports,2015,1000 hl,  26
+Africa,Zambia,Wine,Imports,2016,1000 hl,  47
+Africa,Zambia,Wine,Imports,2017,1000 hl,  37
+Africa,Zambia,Wine,Imports,2018,1000 hl,  33
+Africa,Zambia,Wine,Imports,2019,1000 hl,  27
+Africa,Zambia,Wine,Imports,2020,1000 hl,  27
+Africa,Zambia,Wine,Imports,2021,1000 hl,  21
+Africa,Zambia,Wine,Imports,2022,1000 hl,  21
+Africa,Zimbabwe,Wine,Imports,2009,1000 hl,  14
+Africa,Zimbabwe,Wine,Imports,2010,1000 hl,  21
+Africa,Zimbabwe,Wine,Imports,2011,1000 hl,  18
+Africa,Zimbabwe,Wine,Imports,2012,1000 hl,  18
+Africa,Zimbabwe,Wine,Imports,2013,1000 hl,  21
+Africa,Zimbabwe,Wine,Imports,2014,1000 hl,  20
+Africa,Zimbabwe,Wine,Imports,2015,1000 hl,  20
+Africa,Zimbabwe,Wine,Imports,2016,1000 hl,  17
+Africa,Zimbabwe,Wine,Imports,2017,1000 hl,  9
+Africa,Zimbabwe,Wine,Imports,2018,1000 hl,  25
+Africa,Zimbabwe,Wine,Imports,2019,1000 hl,  3
+Africa,Zimbabwe,Wine,Imports,2020,1000 hl,  10
+Africa,Zimbabwe,Wine,Imports,2021,1000 hl,  26
+Africa,Zimbabwe,Wine,Imports,2022,1000 hl,  48
